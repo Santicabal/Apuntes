@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T22:20:34.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="JbxcK8dMTavCp-WkJ5my" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-21T22:25:46.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="L56TIFodEJFUSMoKfS_v" version="21.0.8" type="github">
   <diagram name="Page-1" id="TK9b2JRhqo4q-LGQ7nch">
     <mxGraphModel dx="1163" dy="4450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1543,7 +1543,7 @@
           <mxGeometry x="964.38" y="2559" width="294" height="209.19" as="geometry" />
         </mxCell>
         <mxCell id="pgvCJ2Ge6R4gC3MaRLHE-305" value="Coronaria Izq se ven 2 arterias" style="text;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;verticalAlign=middle;align=left;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="2510" width="393.62" height="40" as="geometry" />
+          <mxGeometry x="954" y="2505" width="393.62" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pgvCJ2Ge6R4gC3MaRLHE-306" value="Si no ves que este cortada al 100%. Ej: la imagen.&lt;br&gt;NO es STEMI porque algo de sangre pasa&lt;br&gt;&lt;br&gt;Aun asi pones STENT porque ya estas en hemodinamia" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;arcSize=6;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="802.38" y="2559" width="152.62" height="136" as="geometry" />
