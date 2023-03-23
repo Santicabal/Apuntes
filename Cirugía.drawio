@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T21:21:45.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="x1CLt_P3Pgr7rfyeWi1E" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T21:26:05.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Wg3C2UHUkQ5ANMYjBT82" version="21.0.10" type="github">
   <diagram name="Página-1" id="Fpuk0NBMm80s_NnI098_">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="boihqAiDFXftGaCO_2Xg-49" value="&lt;b&gt;Radiogrfía&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;glass=1;fontColor=#ffffff;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="221" y="113" width="340" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Arpv6Pk21w3APJ-SWSOh-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="boihqAiDFXftGaCO_2Xg-1" target="Arpv6Pk21w3APJ-SWSOh-12">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="boihqAiDFXftGaCO_2Xg-1" value="&lt;div&gt;Obstruccion Intestinal&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#990000;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="40" width="310" height="40" as="geometry" />
@@ -153,6 +150,34 @@
         </mxCell>
         <mxCell id="Arpv6Pk21w3APJ-SWSOh-22" value="Neoadyuvante + Cx radical + Adyuvante" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="510" y="966.5" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Arpv6Pk21w3APJ-SWSOh-24" target="Arpv6Pk21w3APJ-SWSOh-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-29" value="Desde ano hasta 6cm" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Arpv6Pk21w3APJ-SWSOh-26">
+          <mxGeometry x="0.1429" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Arpv6Pk21w3APJ-SWSOh-24" target="Arpv6Pk21w3APJ-SWSOh-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-30" value="Encima de 6cm" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Arpv6Pk21w3APJ-SWSOh-28">
+          <mxGeometry x="-0.287" y="-1" relative="1" as="geometry">
+            <mxPoint x="8" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-24" value="Cx" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="474" y="1120" width="41" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-25" value="Cx perianal con reseccion ano" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1110.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-27" value="Cx mesorectal conservando ano" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1110.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-31" value="Tumor en recto" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="189" y="1060" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
