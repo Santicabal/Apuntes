@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T21:45:20.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="k6xLBJehD1OX4ma3ImPg" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T21:47:03.263Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="tmmJaDq7fUN-eJC3Vq8U" version="21.0.10" type="github">
   <diagram name="Página-1" id="Fpuk0NBMm80s_NnI098_">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -104,7 +104,9 @@
           <mxGeometry x="170" y="280" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Arpv6Pk21w3APJ-SWSOh-54" value="Si fracasa" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Arpv6Pk21w3APJ-SWSOh-1" target="Arpv6Pk21w3APJ-SWSOh-53">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.0083" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Arpv6Pk21w3APJ-SWSOh-1" value="Ayuno, &#xa;Sonda Rectal,&#xa; Neostigmina" style="rounded=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="361" width="80" height="59" as="geometry" />
@@ -119,7 +121,7 @@
           <mxGeometry x="410" y="363" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Arpv6Pk21w3APJ-SWSOh-7" value="Cx" style="rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="420" width="80" height="30" as="geometry" />
+          <mxGeometry x="410" y="453" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Arpv6Pk21w3APJ-SWSOh-9" value="Si esta lado izquierdo se puede poner protesis por colonoscopia y operar despues para que no sea de urgencia pero siempre se operan" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="260" y="400" width="140" height="100" as="geometry" />
