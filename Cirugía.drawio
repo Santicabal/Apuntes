@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T21:43:36.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="uNv9h_FgUECkUily8WJS" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T21:45:20.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="k6xLBJehD1OX4ma3ImPg" version="21.0.10" type="github">
   <diagram name="Página-1" id="Fpuk0NBMm80s_NnI098_">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="boihqAiDFXftGaCO_2Xg-39" value="Dinánima" style="rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="210" width="80" height="30" as="geometry" />
+          <mxGeometry x="610.12" y="219" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="boihqAiDFXftGaCO_2Xg-40" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="boihqAiDFXftGaCO_2Xg-31" target="boihqAiDFXftGaCO_2Xg-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -77,25 +77,25 @@
           <mxGeometry x="410" y="280" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="boihqAiDFXftGaCO_2Xg-47" value="Ileo Paralitico" style="rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="280" width="80" height="30" as="geometry" />
+          <mxGeometry x="610.12" y="289" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="boihqAiDFXftGaCO_2Xg-60" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;elbow=vertical;" parent="1" source="boihqAiDFXftGaCO_2Xg-56" target="boihqAiDFXftGaCO_2Xg-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="boihqAiDFXftGaCO_2Xg-56" value="Infeccion" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="338" width="95" height="25" as="geometry" />
+          <mxGeometry x="520.12" y="347" width="95" height="25" as="geometry" />
         </mxCell>
         <mxCell id="boihqAiDFXftGaCO_2Xg-59" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;elbow=vertical;" parent="1" source="boihqAiDFXftGaCO_2Xg-57" target="boihqAiDFXftGaCO_2Xg-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="boihqAiDFXftGaCO_2Xg-57" value="Farmaco" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="592.5" y="366" width="95" height="25" as="geometry" />
+          <mxGeometry x="602.62" y="375" width="95" height="25" as="geometry" />
         </mxCell>
         <mxCell id="boihqAiDFXftGaCO_2Xg-61" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;elbow=vertical;" parent="1" source="boihqAiDFXftGaCO_2Xg-58" target="boihqAiDFXftGaCO_2Xg-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="boihqAiDFXftGaCO_2Xg-58" value="Trastorno hidroelectrolitco" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="338" width="95" height="25" as="geometry" />
+          <mxGeometry x="680.12" y="347" width="95" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Arpv6Pk21w3APJ-SWSOh-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="boihqAiDFXftGaCO_2Xg-63" target="Arpv6Pk21w3APJ-SWSOh-1">
           <mxGeometry relative="1" as="geometry" />
