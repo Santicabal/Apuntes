@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T21:26:05.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Wg3C2UHUkQ5ANMYjBT82" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T21:32:42.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="FlW71y5Frs-FtITo6I_L" version="21.0.10" type="github">
   <diagram name="Página-1" id="Fpuk0NBMm80s_NnI098_">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -178,6 +178,54 @@
         </mxCell>
         <mxCell id="Arpv6Pk21w3APJ-SWSOh-31" value="Tumor en recto" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="189" y="1060" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-32" value="&lt;div&gt;Diverticulos&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#990000;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1230" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-34" value="Diverticulitis" style="ellipse" vertex="1" parent="1">
+          <mxGeometry x="180.11" y="1362.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-35" value="No complicada" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="310.11" y="1310" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-36" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" source="Arpv6Pk21w3APJ-SWSOh-34" target="Arpv6Pk21w3APJ-SWSOh-35" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-37" value="Complicada" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="310.11" y="1415" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-38" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" source="Arpv6Pk21w3APJ-SWSOh-34" target="Arpv6Pk21w3APJ-SWSOh-37" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-39" value="ABx&#xa;Dieta liquida" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="440.119765625" y="1310" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-40" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" source="Arpv6Pk21w3APJ-SWSOh-35" target="Arpv6Pk21w3APJ-SWSOh-39" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-41" value="Hinchey II" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="440.11" y="1380" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-42" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" source="Arpv6Pk21w3APJ-SWSOh-37" target="Arpv6Pk21w3APJ-SWSOh-41" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-43" value="ABx +Drenaje percutaneo" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1380" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-44" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" source="Arpv6Pk21w3APJ-SWSOh-41" target="Arpv6Pk21w3APJ-SWSOh-43" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-45" value="Hinchey III-IV" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="440.11" y="1450" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-46" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" source="Arpv6Pk21w3APJ-SWSOh-37" target="Arpv6Pk21w3APJ-SWSOh-45" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-47" value="Cx Urgente" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="570.11" y="1450" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-48" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" source="Arpv6Pk21w3APJ-SWSOh-45" target="Arpv6Pk21w3APJ-SWSOh-47" parent="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
