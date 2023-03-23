@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T21:38:39.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="4TJQCCGBQeXU6pgi_Njo" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T21:43:36.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="uNv9h_FgUECkUily8WJS" version="21.0.10" type="github">
   <diagram name="Página-1" id="Fpuk0NBMm80s_NnI098_">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -103,8 +103,11 @@
         <mxCell id="boihqAiDFXftGaCO_2Xg-63" value="Ogilvie" style="rounded=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="280" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Arpv6Pk21w3APJ-SWSOh-1" value="Ayuno" style="rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="361" width="80" height="30" as="geometry" />
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-54" value="Si fracasa" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Arpv6Pk21w3APJ-SWSOh-1" target="Arpv6Pk21w3APJ-SWSOh-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-1" value="Ayuno, &#xa;Sonda Rectal,&#xa; Neostigmina" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="361" width="80" height="59" as="geometry" />
         </mxCell>
         <mxCell id="Arpv6Pk21w3APJ-SWSOh-3" value="Cx" style="rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="361" width="80" height="30" as="geometry" />
@@ -238,6 +241,9 @@
         </mxCell>
         <mxCell id="Arpv6Pk21w3APJ-SWSOh-51" value="Cx de Hartman" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="687.5" y="1433" width="70.11" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-53" value="Colectomia" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="480.5" width="80" height="19.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
