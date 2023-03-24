@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T12:27:14.112Z" agent="5.0 (Macintosh)" etag="9YUBD2hzf_6XtTijW_qg" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T13:36:45.875Z" agent="5.0 (Macintosh)" etag="71EDInmk5HdlRVjorq2g" version="21.0.10" type="github">
   <diagram name="Página-1" id="Fpuk0NBMm80s_NnI098_">
     <mxGraphModel dx="1158" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,8 +49,11 @@
         <mxCell id="boihqAiDFXftGaCO_2Xg-36" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="boihqAiDFXftGaCO_2Xg-29" target="boihqAiDFXftGaCO_2Xg-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="boihqAiDFXftGaCO_2Xg-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="boihqAiDFXftGaCO_2Xg-37" target="boihqAiDFXftGaCO_2Xg-45" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="boihqAiDFXftGaCO_2Xg-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="boihqAiDFXftGaCO_2Xg-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="462" y="250" as="sourcePoint" />
+            <mxPoint x="460.47058823529414" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Arpv6Pk21w3APJ-SWSOh-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="boihqAiDFXftGaCO_2Xg-37" target="Arpv6Pk21w3APJ-SWSOh-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -76,11 +79,11 @@
         <mxCell id="boihqAiDFXftGaCO_2Xg-43" value="Cancer" style="rounded=1;" parent="1" vertex="1">
           <mxGeometry x="205.5" y="300" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Arpv6Pk21w3APJ-SWSOh-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="boihqAiDFXftGaCO_2Xg-45" target="Arpv6Pk21w3APJ-SWSOh-5" edge="1">
+        <mxCell id="Arpv6Pk21w3APJ-SWSOh-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="boihqAiDFXftGaCO_2Xg-45" target="Arpv6Pk21w3APJ-SWSOh-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="boihqAiDFXftGaCO_2Xg-45" value="Adherencias" style="rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="420.5" y="300" width="80" height="30" as="geometry" />
+          <mxGeometry x="422.12" y="300" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="boihqAiDFXftGaCO_2Xg-47" value="Ileo Paralitico" style="rounded=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="300" width="80" height="30" as="geometry" />
@@ -124,10 +127,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Arpv6Pk21w3APJ-SWSOh-5" value="Sonda NG" style="rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="421" y="363" width="80" height="30" as="geometry" />
+          <mxGeometry x="422" y="363" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Arpv6Pk21w3APJ-SWSOh-7" value="Cx" style="rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="421" y="460" width="80" height="30" as="geometry" />
+          <mxGeometry x="422" y="460" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Arpv6Pk21w3APJ-SWSOh-9" value="Si esta lado izquierdo se puede poner protesis por colonoscopia y operar despues para que no sea de urgencia pero siempre se operan" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="175.5" y="409" width="140" height="100" as="geometry" />
@@ -251,7 +254,7 @@
           <mxGeometry x="687.5" y="1433" width="70.11" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Arpv6Pk21w3APJ-SWSOh-53" value="Colectomia" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="500.5" width="80" height="19.5" as="geometry" />
+          <mxGeometry x="70" y="490" width="80" height="29.5" as="geometry" />
         </mxCell>
         <mxCell id="Arpv6Pk21w3APJ-SWSOh-58" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Arpv6Pk21w3APJ-SWSOh-56" target="Arpv6Pk21w3APJ-SWSOh-7" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -446,6 +449,12 @@
         </mxCell>
         <mxCell id="TCppEJzyRIyJ-tcxqBQN-63" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" source="TCppEJzyRIyJ-tcxqBQN-56" target="TCppEJzyRIyJ-tcxqBQN-62" parent="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TCppEJzyRIyJ-tcxqBQN-65" value="Si fracasa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="459.9999999999998" y="420.00411764705876" as="geometry" />
+        </mxCell>
+        <mxCell id="TCppEJzyRIyJ-tcxqBQN-66" value="Cx de Hartamn es la reseccion de sigma" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="850" y="100" width="160" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
