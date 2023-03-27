@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T16:18:02.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ZiwvVk6mZXW0fubEFwsP" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T16:26:29.471Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="gu5wneIIqRIOJshEKKfS" version="21.1.1" type="github">
   <diagram name="Página-1" id="Fpuk0NBMm80s_NnI098_">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -560,7 +560,7 @@
         <mxCell id="wdCUUAiNDeLoP6ggp7rh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wdCUUAiNDeLoP6ggp7rh-3" target="wdCUUAiNDeLoP6ggp7rh-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wdCUUAiNDeLoP6ggp7rh-3" value="Tumor" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="wdCUUAiNDeLoP6ggp7rh-3" value="Tumor" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;strokeWidth=2;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="341" y="3180" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wdCUUAiNDeLoP6ggp7rh-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wdCUUAiNDeLoP6ggp7rh-4" target="wdCUUAiNDeLoP6ggp7rh-20">
@@ -575,7 +575,7 @@
         <mxCell id="wdCUUAiNDeLoP6ggp7rh-6" value="Resecable" style="whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="211.67" y="3205" width="71" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wdCUUAiNDeLoP6ggp7rh-8" value="Cx Whipple" style="rhombus;whiteSpace=wrap;html=1;fillColor=#66CC00;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="wdCUUAiNDeLoP6ggp7rh-8" value="Cx Whipple" style="rhombus;whiteSpace=wrap;html=1;fillColor=#66CC00;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="56.16999999999999" y="3180" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wdCUUAiNDeLoP6ggp7rh-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wdCUUAiNDeLoP6ggp7rh-10" target="wdCUUAiNDeLoP6ggp7rh-4">
@@ -605,7 +605,7 @@
         <mxCell id="wdCUUAiNDeLoP6ggp7rh-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wdCUUAiNDeLoP6ggp7rh-20" target="wdCUUAiNDeLoP6ggp7rh-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wdCUUAiNDeLoP6ggp7rh-20" value="Quimio paltiativa" style="rhombus;whiteSpace=wrap;html=1;fillColor=#66CC00;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="wdCUUAiNDeLoP6ggp7rh-20" value="Quimio paltiativa" style="rhombus;whiteSpace=wrap;html=1;fillColor=#66CC00;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="633.1700000000001" y="3180" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wdCUUAiNDeLoP6ggp7rh-22" value="Protesis Biliar" style="rhombus;whiteSpace=wrap;html=1;fillColor=#66CC00;strokeWidth=2;" vertex="1" parent="1">
@@ -625,6 +625,9 @@
         </mxCell>
         <mxCell id="wdCUUAiNDeLoP6ggp7rh-29" value="Radioterapia" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#66CC00;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="207" y="3285" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wdCUUAiNDeLoP6ggp7rh-33" value="Colelitiasis" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#990000;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="45" y="3490" width="310" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
