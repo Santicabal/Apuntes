@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T16:34:47.098Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0dvWq4ES8AzgQsaImm_0" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T16:51:14.442Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="eizRogMZhbY_X9jyrlj7" version="21.1.1" type="github">
   <diagram name="Página-1" id="Fpuk0NBMm80s_NnI098_">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -602,8 +602,18 @@
         <mxCell id="wdCUUAiNDeLoP6ggp7rh-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wdCUUAiNDeLoP6ggp7rh-20" target="wdCUUAiNDeLoP6ggp7rh-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wdCUUAiNDeLoP6ggp7rh-54" value="Obstruccion" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wdCUUAiNDeLoP6ggp7rh-23">
+          <mxGeometry x="0.4008" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wdCUUAiNDeLoP6ggp7rh-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wdCUUAiNDeLoP6ggp7rh-20" target="wdCUUAiNDeLoP6ggp7rh-24">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wdCUUAiNDeLoP6ggp7rh-55" value="Compromiso plexos nerviosos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];resizeWidth=0;resizeHeight=0;" vertex="1" connectable="0" parent="wdCUUAiNDeLoP6ggp7rh-25">
+          <mxGeometry x="0.3483" relative="1" as="geometry">
+            <mxPoint x="5" y="2" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wdCUUAiNDeLoP6ggp7rh-20" value="Quimio paltiativa" style="rhombus;whiteSpace=wrap;html=1;fillColor=#66CC00;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="633.1700000000001" y="3180" width="80" height="80" as="geometry" />
@@ -623,7 +633,7 @@
         <mxCell id="wdCUUAiNDeLoP6ggp7rh-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wdCUUAiNDeLoP6ggp7rh-29" target="wdCUUAiNDeLoP6ggp7rh-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wdCUUAiNDeLoP6ggp7rh-29" value="Radioterapia" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#66CC00;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="wdCUUAiNDeLoP6ggp7rh-29" value="Radioterapia" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#66CC00;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="207" y="3285" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wdCUUAiNDeLoP6ggp7rh-33" value="Colelitiasis" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#990000;fontFamily=Verdana;" vertex="1" parent="1">
@@ -631,6 +641,9 @@
         </mxCell>
         <mxCell id="wdCUUAiNDeLoP6ggp7rh-35" value="Cuando operar" style="ellipse" vertex="1" parent="1">
           <mxGeometry x="170" y="3611" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wdCUUAiNDeLoP6ggp7rh-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wdCUUAiNDeLoP6ggp7rh-36" target="wdCUUAiNDeLoP6ggp7rh-56">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wdCUUAiNDeLoP6ggp7rh-36" value="Sintomatica" style="rounded=1;" vertex="1" parent="1">
           <mxGeometry x="301.029296875" y="3520" width="80" height="30" as="geometry" />
@@ -679,6 +692,40 @@
         </mxCell>
         <mxCell id="wdCUUAiNDeLoP6ggp7rh-53" value="Riesgo de Cancer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="622" y="3755" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wdCUUAiNDeLoP6ggp7rh-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wdCUUAiNDeLoP6ggp7rh-56" target="wdCUUAiNDeLoP6ggp7rh-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wdCUUAiNDeLoP6ggp7rh-56" value="Px Fragil o &#xa;&gt; 3 dias evolucion" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="412.5" y="3520" width="105.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wdCUUAiNDeLoP6ggp7rh-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wdCUUAiNDeLoP6ggp7rh-58" target="wdCUUAiNDeLoP6ggp7rh-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wdCUUAiNDeLoP6ggp7rh-66" value="Mala &lt;br&gt;respuesta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wdCUUAiNDeLoP6ggp7rh-61">
+          <mxGeometry x="-0.2398" relative="1" as="geometry">
+            <mxPoint x="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wdCUUAiNDeLoP6ggp7rh-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="wdCUUAiNDeLoP6ggp7rh-58" target="wdCUUAiNDeLoP6ggp7rh-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="3590" />
+              <mxPoint x="921" y="3590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wdCUUAiNDeLoP6ggp7rh-58" value="ABx" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="537.16" y="3520" width="105.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wdCUUAiNDeLoP6ggp7rh-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wdCUUAiNDeLoP6ggp7rh-60" target="wdCUUAiNDeLoP6ggp7rh-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wdCUUAiNDeLoP6ggp7rh-60" value="Drenaje Percutaneo" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="724.5" y="3520" width="117.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wdCUUAiNDeLoP6ggp7rh-62" value="Cx 2-3 meses" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="862.5" y="3520" width="117.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
