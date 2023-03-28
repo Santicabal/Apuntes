@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T17:10:58.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="G01TriGt6r765qUD7zCw" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T17:24:50.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="5kVeKE6xZ2bqMXH6bXW1" version="21.1.1" type="github">
   <diagram name="Página-1" id="Fpuk0NBMm80s_NnI098_">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -834,7 +834,7 @@
         <mxCell id="0OfuHIraQtQlJ4qXhL0--35" value="Estable" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="785" y="4280" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="0OfuHIraQtQlJ4qXhL0--37" value="Penetrante (causa hernia)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--37" value="Penetrante (causa hernia)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="680" y="4400" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="0OfuHIraQtQlJ4qXhL0--42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OfuHIraQtQlJ4qXhL0--39" target="0OfuHIraQtQlJ4qXhL0--41">
@@ -854,6 +854,36 @@
         </mxCell>
         <mxCell id="0OfuHIraQtQlJ4qXhL0--46" value="En caso de traumatismo hepático o esplénico, sin hemorragia activa y&lt;br&gt;con paciente hemodinámicamente estable, se debe hacer tratamiento&lt;br&gt;conservador no operatorio" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="40" y="4560" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--47" value="Trauma Toracico" style="text;strokeColor=none;fillColor=none;html=1;fontSize=22;fontStyle=1;verticalAlign=middle;align=left;fontColor=#3333FF;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="361.66999999999996" y="4760" width="239.89" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--49" value="Neumotorax Abierto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="4840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OfuHIraQtQlJ4qXhL0--50" target="0OfuHIraQtQlJ4qXhL0--58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--50" value="Neumotorax a Tension" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="241.67000000000002" y="4840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--52" value="Hemotorax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="398" y="4840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--54" value="Tamponade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="552.67" y="4840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--56" value="Torax inestable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="4840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OfuHIraQtQlJ4qXhL0--58" target="0OfuHIraQtQlJ4qXhL0--60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--58" value="Dx es Clinico, no necesitas Rx:&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Injurgitacion&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;traquea desvia lado sano &lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Timpanismo&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Sin ruidos ventilatorios&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="241.67" y="4980" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--60" value="Tx:&lt;br&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Punsion 5to espacio axilar medio&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Punsion 2do espacio medio clavicular&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="201.67" y="5270" width="198.33" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
