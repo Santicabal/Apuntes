@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T19:56:21.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="IIrA_xWbk-arqvRhxhvk" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T19:57:40.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="OfdV2xV1exeA2BQFaAQf" version="21.1.1" type="github">
   <diagram name="Página-1" id="Fpuk0NBMm80s_NnI098_">
     <mxGraphModel dx="1687" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1023,7 +1023,7 @@
         <mxCell id="0OfuHIraQtQlJ4qXhL0--103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OfuHIraQtQlJ4qXhL0--100" target="0OfuHIraQtQlJ4qXhL0--102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0OfuHIraQtQlJ4qXhL0--100" value="Quitar obstrucciones&lt;br&gt;Canula de guedel&lt;br&gt;Intubar" style="whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--100" value="&lt;ul&gt;&lt;li&gt;Quitar obstrucciones&lt;/li&gt;&lt;li&gt;Canula de guedel&lt;/li&gt;&lt;li&gt;Intubar&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=3;align=left;spacingLeft=-22;" vertex="1" parent="1">
           <mxGeometry x="39.5" y="4270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0OfuHIraQtQlJ4qXhL0--102" value="&lt;ul&gt;&lt;li&gt;Apnea. FR &amp;gt; 35 0 &amp;lt; 10&lt;/li&gt;&lt;li&gt;Glasgow &amp;lt; 8&lt;/li&gt;&lt;li&gt;Heridas en cuello o cara amenazantes&lt;/li&gt;&lt;li&gt;Lesiones múltiples y graves.&lt;/li&gt;&lt;li&gt;Sospecha de quemadura inhalatoria&lt;/li&gt;&lt;li&gt;Shock grave&lt;/li&gt;&lt;li&gt;Pacientes agitados&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=-22;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;strokeWidth=3;" vertex="1" parent="1">
