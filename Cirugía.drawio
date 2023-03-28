@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T19:28:46.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="5xmp1XbX0HYO4FncApzA" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T19:34:43.937Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="dJztuzd7FzvC5vc39xQI" version="21.1.1" type="github">
   <diagram name="Página-1" id="Fpuk0NBMm80s_NnI098_">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -978,10 +978,13 @@
         <mxCell id="0OfuHIraQtQlJ4qXhL0--94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OfuHIraQtQlJ4qXhL0--91" target="0OfuHIraQtQlJ4qXhL0--93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0OfuHIraQtQlJ4qXhL0--91" value="Fase 1&lt;br&gt;A B C D E" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OfuHIraQtQlJ4qXhL0--91" target="0OfuHIraQtQlJ4qXhL0--116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--91" value="Fase 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1114.11" y="4145" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0OfuHIraQtQlJ4qXhL0--93" value="Fase 1&lt;br&gt;A B C D E" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--93" value="Fase 4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1314.11" y="4145" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0OfuHIraQtQlJ4qXhL0--101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OfuHIraQtQlJ4qXhL0--95" target="0OfuHIraQtQlJ4qXhL0--100">
@@ -1043,6 +1046,21 @@
         </mxCell>
         <mxCell id="0OfuHIraQtQlJ4qXhL0--114" value="&lt;ul&gt;&lt;li&gt;Analítica completa,&amp;nbsp;&lt;/li&gt;&lt;li&gt;Tóxicos / embarazo,&lt;/li&gt;&lt;li&gt;Pruebas cruzadas,&amp;nbsp; &amp;nbsp;&lt;/li&gt;&lt;li&gt;ECG,&amp;nbsp;&lt;/li&gt;&lt;li&gt;Monitorización&lt;/li&gt;&lt;li&gt;Sondas NG y Foley&lt;/li&gt;&lt;li&gt;Rx cervical, tórax y pelvis&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="886.16" y="4290" width="175.89" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OfuHIraQtQlJ4qXhL0--116" target="0OfuHIraQtQlJ4qXhL0--118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--116" value="Solo con paciente estable" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1114.11" y="4285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OfuHIraQtQlJ4qXhL0--118" target="0OfuHIraQtQlJ4qXhL0--120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--118" value="A: Alergias&lt;br&gt;M: Medicamentos&lt;br&gt;P: Patologia previa&lt;br&gt;L: Last meal&lt;br&gt;I: Libaciones (alcohol)&lt;br&gt;A: Antecedentes" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1114.11" y="4380" width="120" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--120" value="Dar ABx, analgesicos, vacuna tetanos, etc..." style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1114.11" y="4520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
