@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T19:41:17.274Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="akI4ZZIaqnNAA7fv0A2k" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T19:55:09.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="FbFKMiSwN5kMKUoiPhfo" version="21.1.1" type="github">
   <diagram name="Página-1" id="Fpuk0NBMm80s_NnI098_">
     <mxGraphModel dx="1687" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -958,7 +958,7 @@
           <mxGeometry x="557.67" y="5820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0OfuHIraQtQlJ4qXhL0--84" value="Fases de atension" style="text;strokeColor=none;fillColor=none;html=1;fontSize=22;fontStyle=1;verticalAlign=middle;align=left;fontColor=#3333FF;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="311.73" y="3960" width="239.89" height="40" as="geometry" />
+          <mxGeometry x="300.06" y="4030" width="239.89" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0OfuHIraQtQlJ4qXhL0--90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OfuHIraQtQlJ4qXhL0--86" target="0OfuHIraQtQlJ4qXhL0--89">
           <mxGeometry relative="1" as="geometry" />
@@ -969,7 +969,7 @@
         <mxCell id="0OfuHIraQtQlJ4qXhL0--92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OfuHIraQtQlJ4qXhL0--89" target="0OfuHIraQtQlJ4qXhL0--91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0OfuHIraQtQlJ4qXhL0--115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OfuHIraQtQlJ4qXhL0--89" target="0OfuHIraQtQlJ4qXhL0--114">
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OfuHIraQtQlJ4qXhL0--127" target="0OfuHIraQtQlJ4qXhL0--114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0OfuHIraQtQlJ4qXhL0--89" value="FASE 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=3;fontStyle=1;fontSize=14;" vertex="1" parent="1">
@@ -1026,8 +1026,8 @@
         <mxCell id="0OfuHIraQtQlJ4qXhL0--100" value="Quitar obstrucciones&lt;br&gt;Canula de guedel&lt;br&gt;Intubar" style="whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="39.5" y="4270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0OfuHIraQtQlJ4qXhL0--102" value="&lt;ul&gt;&lt;li&gt;Apnea. FR &amp;gt; 35 0 &amp;lt; 10&lt;/li&gt;&lt;li&gt;Glasgow &amp;lt; 8&lt;/li&gt;&lt;li&gt;Heridas en cuello o cara que amenacen permeabilidad de vía aérea&lt;/li&gt;&lt;li&gt;Lesiones múltiples y graves. sospecha de quemadura inhalatoria&lt;/li&gt;&lt;li&gt;Shock grave&lt;/li&gt;&lt;li&gt;Pacientes agitados&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=-22;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="40" y="4410" width="120" height="260" as="geometry" />
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--102" value="&lt;ul&gt;&lt;li&gt;Apnea. FR &amp;gt; 35 0 &amp;lt; 10&lt;/li&gt;&lt;li&gt;Glasgow &amp;lt; 8&lt;/li&gt;&lt;li&gt;Heridas en cuello o cara amenazantes&lt;/li&gt;&lt;li&gt;Lesiones múltiples y graves.&lt;/li&gt;&lt;li&gt;Sospecha de quemadura inhalatoria&lt;/li&gt;&lt;li&gt;Shock grave&lt;/li&gt;&lt;li&gt;Pacientes agitados&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=-22;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="40" y="4410" width="120" height="220" as="geometry" />
         </mxCell>
         <mxCell id="0OfuHIraQtQlJ4qXhL0--107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OfuHIraQtQlJ4qXhL0--104" target="0OfuHIraQtQlJ4qXhL0--106">
           <mxGeometry relative="1" as="geometry" />
@@ -1047,26 +1047,44 @@
         <mxCell id="0OfuHIraQtQlJ4qXhL0--112" value="Prevenir hiportermia" style="whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="680.11" y="4270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0OfuHIraQtQlJ4qXhL0--114" value="&lt;ul&gt;&lt;li&gt;Analítica completa,&amp;nbsp;&lt;/li&gt;&lt;li&gt;Tóxicos / embarazo,&lt;/li&gt;&lt;li&gt;Pruebas cruzadas,&amp;nbsp; &amp;nbsp;&lt;/li&gt;&lt;li&gt;ECG,&amp;nbsp;&lt;/li&gt;&lt;li&gt;Monitorización&lt;/li&gt;&lt;li&gt;Sondas NG y Foley&lt;/li&gt;&lt;li&gt;Rx cervical, tórax y pelvis&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;verticalAlign=top;spacingLeft=-15;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="886.16" y="4290" width="175.89" height="150" as="geometry" />
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--114" value="&lt;ul&gt;&lt;li&gt;Analítica completa,&amp;nbsp;&lt;/li&gt;&lt;li&gt;Tóxicos / embarazo,&lt;/li&gt;&lt;li&gt;Pruebas cruzadas,&amp;nbsp; &amp;nbsp;&lt;/li&gt;&lt;li&gt;ECG,&amp;nbsp;&lt;/li&gt;&lt;li&gt;Monitorización&lt;/li&gt;&lt;li&gt;Sondas NG y Foley&lt;/li&gt;&lt;li&gt;Rx cervical, tórax y pelvis (Mientras no retrasen ABC)&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;verticalAlign=top;spacingLeft=-15;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="886.1700000000001" y="4365" width="175.89" height="150" as="geometry" />
         </mxCell>
         <mxCell id="0OfuHIraQtQlJ4qXhL0--119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OfuHIraQtQlJ4qXhL0--116" target="0OfuHIraQtQlJ4qXhL0--118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0OfuHIraQtQlJ4qXhL0--116" value="Solo con paciente estable" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1114.11" y="4285" width="120" height="60" as="geometry" />
+          <mxGeometry x="1114.11" y="4250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0OfuHIraQtQlJ4qXhL0--121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OfuHIraQtQlJ4qXhL0--118" target="0OfuHIraQtQlJ4qXhL0--120">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0OfuHIraQtQlJ4qXhL0--118" value="A: Alergias&lt;br&gt;M: Medicamentos&lt;br&gt;P: Patologia previa&lt;br&gt;L: Last meal&lt;br&gt;I: Libaciones (alcohol)&lt;br&gt;A: Antecedentes" style="whiteSpace=wrap;html=1;rounded=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1114.11" y="4380" width="120" height="115" as="geometry" />
+          <mxGeometry x="1114.11" y="4365" width="120" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OfuHIraQtQlJ4qXhL0--120" target="0OfuHIraQtQlJ4qXhL0--125">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0OfuHIraQtQlJ4qXhL0--120" value="Dar ABx, analgesicos, vacuna tetanos, etc..." style="whiteSpace=wrap;html=1;align=left;rounded=1;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1114.11" y="4520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0OfuHIraQtQlJ4qXhL0--122" value="Tratamientos definitivos y evaluaciones multidisciplinarias" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1314.11" y="4285" width="120" height="60" as="geometry" />
+          <mxGeometry x="1314.11" y="4250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--124" value="Las fracturas con lesión vascular, abiertas, las vertebrales con lesión neurológica incompleta progresiva, los síndromes compartimentales y las luxaciones, requieren tratamiento urgente" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="520" y="4410" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--125" value="&lt;b&gt;Estudios de imagen:&lt;br&gt;&lt;/b&gt;Craneo → &lt;b&gt;TAC&lt;/b&gt;&lt;br&gt;Torax, cuello, pelvis y extremidades → &lt;b&gt;Rx&lt;/b&gt;&lt;br&gt;Abdomen → &lt;b&gt;Eco &lt;/b&gt;/ Lavado peritoneal" style="whiteSpace=wrap;html=1;align=left;rounded=1;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=3;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1114.11" y="4610" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OfuHIraQtQlJ4qXhL0--89" target="0OfuHIraQtQlJ4qXhL0--127">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="974" y="4205" as="sourcePoint" />
+            <mxPoint x="973" y="4330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--127" value="Hacer al mismo tiempo que fase 1 pero sin retrasarla" style="whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;spacingLeft=0;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="914.115" y="4250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
