@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T19:57:40.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="OfdV2xV1exeA2BQFaAQf" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T20:07:36.098Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="5RagWp0LnaAyd-XLTSW3" version="21.1.1" type="github">
   <diagram name="Página-1" id="Fpuk0NBMm80s_NnI098_">
     <mxGraphModel dx="1687" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1047,7 +1047,7 @@
         <mxCell id="0OfuHIraQtQlJ4qXhL0--112" value="Prevenir hiportermia" style="whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="680.11" y="4270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0OfuHIraQtQlJ4qXhL0--114" value="&lt;ul&gt;&lt;li&gt;Analítica completa,&amp;nbsp;&lt;/li&gt;&lt;li&gt;Tóxicos / embarazo,&lt;/li&gt;&lt;li&gt;Pruebas cruzadas,&amp;nbsp; &amp;nbsp;&lt;/li&gt;&lt;li&gt;ECG,&amp;nbsp;&lt;/li&gt;&lt;li&gt;Monitorización&lt;/li&gt;&lt;li&gt;Sondas NG y Foley&lt;/li&gt;&lt;li&gt;Rx cervical, tórax y pelvis (Mientras no retrasen ABC)&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;verticalAlign=top;spacingLeft=-15;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--114" value="&lt;ul&gt;&lt;li&gt;Analítica completa,&amp;nbsp;&lt;/li&gt;&lt;li&gt;Tóxicos / embarazo,&lt;/li&gt;&lt;li&gt;Pruebas cruzadas,&amp;nbsp; &amp;nbsp;&lt;/li&gt;&lt;li&gt;ECG&lt;/li&gt;&lt;li&gt;Monitorización&lt;/li&gt;&lt;li&gt;Sondas NG y Foley&lt;/li&gt;&lt;li&gt;Rx cervical, tórax y pelvis (Mientras no retrasen ABC)&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;verticalAlign=top;spacingLeft=-15;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="886.1700000000001" y="4365" width="175.89" height="150" as="geometry" />
         </mxCell>
         <mxCell id="0OfuHIraQtQlJ4qXhL0--119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OfuHIraQtQlJ4qXhL0--116" target="0OfuHIraQtQlJ4qXhL0--118">
@@ -1071,7 +1071,7 @@
         <mxCell id="0OfuHIraQtQlJ4qXhL0--122" value="Tratamientos definitivos y evaluaciones multidisciplinarias" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1314.11" y="4250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0OfuHIraQtQlJ4qXhL0--124" value="Las fracturas con lesión vascular, abiertas, las vertebrales con lesión neurológica incompleta progresiva, los síndromes compartimentales y las luxaciones, requieren tratamiento urgente" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--124" value="Las fracturas con lesión vascular, las abiertas, las vertebrales con lesión neurológica incompleta progresiva, los síndromes compartimentales y las luxaciones, requieren tratamiento urgente" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="200" y="4490" width="140" height="160" as="geometry" />
         </mxCell>
         <mxCell id="0OfuHIraQtQlJ4qXhL0--125" value="&lt;b&gt;Estudios de imagen:&lt;br&gt;&lt;/b&gt;Craneo → &lt;b&gt;TAC&lt;/b&gt;&lt;br&gt;Torax, cuello, pelvis y extremidades → &lt;b&gt;Rx&lt;/b&gt;&lt;br&gt;Abdomen → &lt;b&gt;Eco &lt;/b&gt;/ Lavado peritoneal" style="whiteSpace=wrap;html=1;align=left;rounded=1;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=3;verticalAlign=top;" vertex="1" parent="1">
