@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T17:44:35.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="macCmk6oAklFK21GFrNW" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T17:51:45.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="7Hy-e0ewE8fEm8hQ8ddP" version="21.1.1" type="github">
   <diagram name="Página-1" id="Fpuk0NBMm80s_NnI098_">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -876,6 +876,9 @@
         <mxCell id="0OfuHIraQtQlJ4qXhL0--52" value="Hemotorax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="398" y="4840" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OfuHIraQtQlJ4qXhL0--54" target="0OfuHIraQtQlJ4qXhL0--77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0OfuHIraQtQlJ4qXhL0--54" value="Tamponade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="552.67" y="4840" width="120" height="60" as="geometry" />
         </mxCell>
@@ -888,7 +891,7 @@
         <mxCell id="0OfuHIraQtQlJ4qXhL0--61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OfuHIraQtQlJ4qXhL0--58" target="0OfuHIraQtQlJ4qXhL0--60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0OfuHIraQtQlJ4qXhL0--58" value="Dx es Clinico, no necesitas Rx:&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Injurgitacion&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;traquea desvia lado sano &lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Timpanismo&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Sin ruidos ventilatorios&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--58" value="Dx es Clinico, no necesitas Rx:&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Ingurgitacion&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;traquea desvia lado sano &lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Timpanismo&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Sin ruidos ventilatorios&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="241.67" y="4980" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="0OfuHIraQtQlJ4qXhL0--60" value="Tx:&lt;br&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Punsion 5to espacio axilar medio&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Punsion 2do espacio medio clavicular&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;" vertex="1" parent="1">
@@ -929,6 +932,21 @@
         </mxCell>
         <mxCell id="0OfuHIraQtQlJ4qXhL0--75" value="&lt;br&gt;Toracotomia&lt;br&gt;Si sangra &amp;gt;1.5L o 200ml/h x 3 hr" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="398" y="5160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OfuHIraQtQlJ4qXhL0--77" target="0OfuHIraQtQlJ4qXhL0--79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--77" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Triada de Beck:&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;Hipotensión,&lt;/li&gt;&lt;li&gt;Ingurgitación yugular&amp;nbsp;&lt;/li&gt;&lt;li&gt;Tonos apagados cardíacos&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="552.67" y="4980" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OfuHIraQtQlJ4qXhL0--79" target="0OfuHIraQtQlJ4qXhL0--81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--79" value="Dx se confirma por eco" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="552.67" y="5120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--81" value="Tx con pericardiocentesis luego a Cx" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="552.67" y="5260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
