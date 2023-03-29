@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T20:08:34.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="4hLUSsNls7pN6SIz0sq5" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T20:57:56.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="i21lIW-bIGYzz-MFvvPS" version="21.1.2" type="github">
   <diagram name="Página-1" id="Fpuk0NBMm80s_NnI098_">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1038,7 +1038,7 @@
         <mxCell id="0OfuHIraQtQlJ4qXhL0--106" value="Descartar o tratar neumotorax y volet costal" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="201" y="4410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0OfuHIraQtQlJ4qXhL0--108" value="&lt;ul&gt;&lt;li&gt;RCP,&amp;nbsp;&lt;/li&gt;&lt;li&gt;Controlar hemorragia&lt;/li&gt;&lt;li&gt;Liquidos I.V&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;spacingLeft=-22;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--108" value="&lt;ul&gt;&lt;li&gt;RCP&lt;/li&gt;&lt;li&gt;Controlar hemorragia&lt;/li&gt;&lt;li&gt;Liquidos I.V&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;spacingLeft=-22;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="360" y="4270" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0OfuHIraQtQlJ4qXhL0--110" value="Glasgow" style="whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=3;" parent="1" vertex="1">
@@ -1059,8 +1059,8 @@
         <mxCell id="0OfuHIraQtQlJ4qXhL0--121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0OfuHIraQtQlJ4qXhL0--118" target="0OfuHIraQtQlJ4qXhL0--120" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0OfuHIraQtQlJ4qXhL0--118" value="A: Alergias&lt;br&gt;M: Medicamentos&lt;br&gt;P: Patologia previa&lt;br&gt;L: Last meal&lt;br&gt;I: Libaciones (alcohol)&lt;br&gt;A: Antecedentes" style="whiteSpace=wrap;html=1;rounded=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="1114.11" y="4365" width="120" height="115" as="geometry" />
+        <mxCell id="0OfuHIraQtQlJ4qXhL0--118" value="A: Alergias&lt;br&gt;M: Medicamentos&lt;br&gt;P: Patologia previa&lt;br&gt;L: Last meal&lt;br&gt;I: Libaciones (alcohol)&lt;br&gt;A: Antecedentes" style="whiteSpace=wrap;html=1;rounded=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=3;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1114.11" y="4365" width="120" height="105" as="geometry" />
         </mxCell>
         <mxCell id="0OfuHIraQtQlJ4qXhL0--126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0OfuHIraQtQlJ4qXhL0--120" target="0OfuHIraQtQlJ4qXhL0--125" edge="1">
           <mxGeometry relative="1" as="geometry" />
