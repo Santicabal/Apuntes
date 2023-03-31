@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T19:33:12.988Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="PD4Luys35GK7cFAS4v8e" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T20:28:51.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="utM2EYWQE5xW_yCNrWIv" version="21.1.2" type="github">
   <diagram name="Page-1" id="o6SSl2_z5C2vus49G62G">
     <mxGraphModel dx="1687" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-69" value="Miosis" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=16;fontStyle=1;fillColor=#81AAFC;strokeColor=#6c8ebf;gradientColor=#3462E0;fontColor=#FFFFFF;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-69" value="Miosis" style="rounded=1;whiteSpace=wrap;html=1;align=right;fontSize=16;fontStyle=1;fillColor=#81AAFC;strokeColor=#6c8ebf;gradientColor=#3462E0;fontColor=#FFFFFF;verticalAlign=top;spacingLeft=0;spacingRight=15;" vertex="1" parent="1">
           <mxGeometry x="101" y="278" width="180" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-68" value="Midriasis" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingRight=0;spacingLeft=140;fontSize=16;fontStyle=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;verticalAlign=top;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-68" value="Midriasis" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingRight=0;spacingLeft=140;fontSize=16;fontStyle=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;verticalAlign=top;fontColor=#000000;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="278" width="541" height="75" as="geometry" />
         </mxCell>
         <mxCell id="3uG8G9ZaTZoT1gMZAGrr-1" value="Intoxicaciones" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#CC6600;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-2" value="Estupor" style="ellipse;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-2" value="Estupor" style="ellipse;fillColor=#cce5ff;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="236.10000000000002" y="180" width="104" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" source="3uG8G9ZaTZoT1gMZAGrr-2" target="3uG8G9ZaTZoT1gMZAGrr-71" parent="1">
+        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="3uG8G9ZaTZoT1gMZAGrr-2" target="3uG8G9ZaTZoT1gMZAGrr-71" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="182.0023437499999" y="308" as="targetPoint" />
           </mxGeometry>
@@ -104,7 +104,7 @@
         <mxCell id="3uG8G9ZaTZoT1gMZAGrr-34" value="Flumacenilo esta contraindicado en cocaina y triciclicos" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="101.00000000000003" y="765" width="140.96" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-37" value="Agitacion" style="ellipse;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-37" value="Agitacion" style="ellipse;fillColor=#ffff88;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="636.0999999999999" y="180" width="104" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3uG8G9ZaTZoT1gMZAGrr-38" value="Humedo" style="rounded=1;fillColor=#CFEFFF;strokeColor=none;strokeWidth=1;gradientColor=#57ADD9;" vertex="1" parent="1">
