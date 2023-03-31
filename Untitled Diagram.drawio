@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T17:17:08.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="L4NidCZcB3JpSKsUaHIu" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T17:23:52.911Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Yzsq38reOXGMZy4LeSS4" version="21.1.2" type="github">
   <diagram name="Page-1" id="o6SSl2_z5C2vus49G62G">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,31 +46,31 @@
         <mxCell id="3uG8G9ZaTZoT1gMZAGrr-14" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="3uG8G9ZaTZoT1gMZAGrr-7" target="3uG8G9ZaTZoT1gMZAGrr-13" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-15" value="Entry" style="rounded=1;" vertex="1" parent="1">
+        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-15" value="Heroina&#xa;morfina, etc" style="rounded=1;" vertex="1" parent="1">
           <mxGeometry x="381.00234375" y="410" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3uG8G9ZaTZoT1gMZAGrr-16" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="3uG8G9ZaTZoT1gMZAGrr-9" target="3uG8G9ZaTZoT1gMZAGrr-15" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-17" value="Entry" style="rounded=1;" vertex="1" parent="1">
+        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-17" value="Diarrea, &#xa;olor a gasolina" style="rounded=1;" vertex="1" parent="1">
           <mxGeometry x="261.00234375" y="490" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3uG8G9ZaTZoT1gMZAGrr-18" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="3uG8G9ZaTZoT1gMZAGrr-13" target="3uG8G9ZaTZoT1gMZAGrr-17" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-19" value="Entry" style="rounded=1;" vertex="1" parent="1">
+        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-19" value="Estreñimiento" style="rounded=1;" vertex="1" parent="1">
           <mxGeometry x="381.00234375" y="490" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3uG8G9ZaTZoT1gMZAGrr-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="3uG8G9ZaTZoT1gMZAGrr-15" target="3uG8G9ZaTZoT1gMZAGrr-19" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-21" value="Entry" style="rounded=1;" vertex="1" parent="1">
+        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-21" value="Benzo, alcohol&#xa;Barbituricos" style="rounded=1;" vertex="1" parent="1">
           <mxGeometry x="509.19765625" y="410" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3uG8G9ZaTZoT1gMZAGrr-22" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="3uG8G9ZaTZoT1gMZAGrr-11" target="3uG8G9ZaTZoT1gMZAGrr-21" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-23" value="Entry" style="rounded=1;" vertex="1" parent="1">
+        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-23" value="Estreñimiento" style="rounded=1;" vertex="1" parent="1">
           <mxGeometry x="509.19765625" y="490" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3uG8G9ZaTZoT1gMZAGrr-24" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="3uG8G9ZaTZoT1gMZAGrr-21" target="3uG8G9ZaTZoT1gMZAGrr-23" parent="1">
@@ -82,20 +82,23 @@
         <mxCell id="3uG8G9ZaTZoT1gMZAGrr-26" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="3uG8G9ZaTZoT1gMZAGrr-17" target="3uG8G9ZaTZoT1gMZAGrr-25" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-27" value="Entry" style="rounded=1;" vertex="1" parent="1">
+        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-27" value="Naloxona" style="rounded=1;" vertex="1" parent="1">
           <mxGeometry x="381.00234375" y="570" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3uG8G9ZaTZoT1gMZAGrr-28" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="3uG8G9ZaTZoT1gMZAGrr-19" target="3uG8G9ZaTZoT1gMZAGrr-27" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-29" value="Entry" style="rounded=1;" vertex="1" parent="1">
+        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-29" value="Flumacenil" style="rounded=1;" vertex="1" parent="1">
           <mxGeometry x="509.19765625" y="570" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3uG8G9ZaTZoT1gMZAGrr-30" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="3uG8G9ZaTZoT1gMZAGrr-23" target="3uG8G9ZaTZoT1gMZAGrr-29" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-34" value="Diarrea&lt;br&gt;Miosis&lt;br&gt;Sudoracion&lt;br&gt;babeando&lt;br&gt;Olor gasolina" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="101" y="190" width="160" height="120" as="geometry" />
+        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-34" value="Miosis&lt;br&gt;Sudoracion&lt;br&gt;babeando" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="210" width="111" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-35" value="Midriatico" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="210" width="111" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
