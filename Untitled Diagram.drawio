@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T17:23:52.911Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Yzsq38reOXGMZy4LeSS4" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T17:24:35.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="L23phg5e4SFOA2Os_Alb" version="21.1.2" type="github">
   <diagram name="Page-1" id="o6SSl2_z5C2vus49G62G">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3uG8G9ZaTZoT1gMZAGrr-13" value="Rivastigmina &#xa;Organofosforados" style="rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="261.00234375" y="410" width="80" height="30" as="geometry" />
+          <mxGeometry x="250" y="410" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3uG8G9ZaTZoT1gMZAGrr-14" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="3uG8G9ZaTZoT1gMZAGrr-7" target="3uG8G9ZaTZoT1gMZAGrr-13" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -76,8 +76,8 @@
         <mxCell id="3uG8G9ZaTZoT1gMZAGrr-24" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="3uG8G9ZaTZoT1gMZAGrr-21" target="3uG8G9ZaTZoT1gMZAGrr-23" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-25" value="1. atropina&#xa;2. Pralidoxima para &#xa;Sintomas musculares" style="rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="261.00234375" y="570" width="80" height="30" as="geometry" />
+        <mxCell id="3uG8G9ZaTZoT1gMZAGrr-25" value="1. Atropina&#xa;2. Pralidoxima para &#xa;Sintomas musculares" style="rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="560" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3uG8G9ZaTZoT1gMZAGrr-26" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="3uG8G9ZaTZoT1gMZAGrr-17" target="3uG8G9ZaTZoT1gMZAGrr-25" parent="1">
           <mxGeometry relative="1" as="geometry" />
