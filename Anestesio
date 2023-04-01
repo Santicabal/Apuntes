@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-01T21:15:00.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="BeNEzpbf9ekdz7r_Ikcf" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-01T21:17:45.740Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="u8jgOfPFt2LGdlnnqprh" version="21.1.2" type="github">
   <diagram name="Page-1" id="KAf4Tb8X2MGEsGSPcbgk">
     <mxGraphModel dx="1195" dy="1737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -346,8 +346,8 @@
             <mxPoint x="442" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_IEsyLllF6bQ16IBDzyu-146" value="INR &amp;lt;2" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="392" y="770" width="100" height="40" as="geometry" />
+        <mxCell id="_IEsyLllF6bQ16IBDzyu-146" value="INR &amp;lt;2&lt;br&gt;Anti Xa" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="392" y="775" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_IEsyLllF6bQ16IBDzyu-147" value="Cuando suspender?" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;fontColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="361" y="570" width="100" height="40" as="geometry" />
