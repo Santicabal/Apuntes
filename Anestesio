@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-02T17:00:39.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Bb95gPpsmcMFlnB2xlIF" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-02T18:31:55.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="wX9qi5dY9u4VZjh3LSKv" version="21.1.2" type="github">
   <diagram name="Page-1" id="KAf4Tb8X2MGEsGSPcbgk">
     <mxGraphModel dx="674" dy="2177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -521,6 +521,80 @@
         </mxCell>
         <mxCell id="2_KNjM_-cPoY51FaUn8c-66" value="Tx: Sintomatico, corticoides, cafeina&lt;br&gt;Sello hematico (Si muy sintomatico &amp;gt;48h)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="665.5" y="2960" width="134.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_KNjM_-cPoY51FaUn8c-68" value="Anestesia General" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="36" y="3320" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_KNjM_-cPoY51FaUn8c-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2_KNjM_-cPoY51FaUn8c-70" target="2_KNjM_-cPoY51FaUn8c-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="3560" />
+              <mxPoint x="260" y="3420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2_KNjM_-cPoY51FaUn8c-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2_KNjM_-cPoY51FaUn8c-70" target="2_KNjM_-cPoY51FaUn8c-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="3560" />
+              <mxPoint x="260" y="3510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2_KNjM_-cPoY51FaUn8c-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2_KNjM_-cPoY51FaUn8c-70" target="2_KNjM_-cPoY51FaUn8c-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="3560" />
+              <mxPoint x="260" y="3610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2_KNjM_-cPoY51FaUn8c-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2_KNjM_-cPoY51FaUn8c-70" target="2_KNjM_-cPoY51FaUn8c-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="3560" />
+              <mxPoint x="260" y="3710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2_KNjM_-cPoY51FaUn8c-70" value="Premedicacion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="78" y="3530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_KNjM_-cPoY51FaUn8c-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="2_KNjM_-cPoY51FaUn8c-71" target="2_KNjM_-cPoY51FaUn8c-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_KNjM_-cPoY51FaUn8c-71" value="Asma / EPOC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="3390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_KNjM_-cPoY51FaUn8c-73" value="Broncodilatadores + Esteroides" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="512.5" y="3390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_KNjM_-cPoY51FaUn8c-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="2_KNjM_-cPoY51FaUn8c-75" target="2_KNjM_-cPoY51FaUn8c-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_KNjM_-cPoY51FaUn8c-75" value="Retraso de vac. gastrico&lt;br&gt;ERGE, DM, IRC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="312" y="3480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_KNjM_-cPoY51FaUn8c-77" value="Metoclopramida + Ranitidina" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="512" y="3480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_KNjM_-cPoY51FaUn8c-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="2_KNjM_-cPoY51FaUn8c-79" target="2_KNjM_-cPoY51FaUn8c-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_KNjM_-cPoY51FaUn8c-79" value="DM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="316" y="3580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_KNjM_-cPoY51FaUn8c-81" value="Suero glucosado + Insulina" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="516" y="3580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_KNjM_-cPoY51FaUn8c-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="1" source="2_KNjM_-cPoY51FaUn8c-83" target="2_KNjM_-cPoY51FaUn8c-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_KNjM_-cPoY51FaUn8c-83" value="Uso cronico de esteroides" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="316" y="3680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_KNjM_-cPoY51FaUn8c-85" value="Dosis extra de su Tx" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="516" y="3680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
