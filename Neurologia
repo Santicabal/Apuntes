@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T17:03:25.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="4xWUyKkAbooB2cnXGXHL" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T17:03:55.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="miRz6cKO14AOxd_2lveM" version="21.1.4" type="github">
   <diagram name="Page-1" id="4IiRwzPh59do_wdbu1tM">
     <mxGraphModel dx="674" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -54,8 +54,8 @@
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-18" value="Sustancia Gris Cortical" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="186" y="224" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8Ie-pww70Jd0b9cdVyLR-19" value="Si la enfermedad No afecta sustancia gris NUNCA afecta estos 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="376" y="585" width="370" height="30" as="geometry" />
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-19" value="Si la enfermedad No afecta sustancia gris &lt;br&gt;NUNCA afecta estos 3" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="77" y="425" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-20" value="Efermedades que si las afectan:&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Demensias&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;EVC&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Algo que lesione una zona (Tumor, absceso, TCE)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="37" y="332.5" width="330" height="100" as="geometry" />
