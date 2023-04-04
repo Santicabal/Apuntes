@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T16:48:12.837Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="1A-tABkcjSw199obUVQK" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T17:00:54.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="cbo4L1h7s8F1LPWCp8RA" version="21.1.4" type="github">
   <diagram name="Page-1" id="4IiRwzPh59do_wdbu1tM">
     <mxGraphModel dx="555" dy="1987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -71,8 +71,14 @@
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-21" value="Sensitiva Wernicke" style="rounded=1;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="20" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Ie-pww70Jd0b9cdVyLR-25" target="8Ie-pww70Jd0b9cdVyLR-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-25" value="Habla bien pero cosas &lt;br&gt;incongruentes con lo que &lt;br&gt;se pregunta o usa palabras &lt;br&gt;que no existen" style="rounded=1;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;horizontal=1;html=1;imageAspect=1;autosize=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="666" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Ie-pww70Jd0b9cdVyLR-28" target="8Ie-pww70Jd0b9cdVyLR-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-28" value="No puede enocntrar las palabras, habla con pocas palabras&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="666" y="80" width="150" height="48" as="geometry" />
@@ -91,7 +97,7 @@
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-32" value="Afecta la zona alrededor de calquiera de las dos. Pueden repetir las palabras que se les piden" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="666" y="150" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Ie-pww70Jd0b9cdVyLR-38" value="No pueden decir el nombre de un objeto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-38" value="No pueden decir el nombre de un objeto" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="425" y="-40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Ie-pww70Jd0b9cdVyLR-39" target="8Ie-pww70Jd0b9cdVyLR-41">
@@ -108,6 +114,12 @@
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-43" value="A diferencia de broca donde se frutra por no responder bien auqnue si comprenda, aqui como no entiende no le importa&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="850" y="202.5" width="134" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-45" value="Localizacion. Pars triangular" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="880" y="89" width="154" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-47" value="Localizacion gyrus supramarginal" style="rounded=1;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;horizontal=1;html=1;imageAspect=1;autosize=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="880" y="20" width="184" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
