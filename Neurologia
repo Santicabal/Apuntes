@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T17:55:29.857Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="5bbGlNJBX3sCVZyxYD5i" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T17:58:56.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="R9Wa05kTW65Ir6osWGQC" version="21.1.4" type="github">
   <diagram name="Page-1" id="4IiRwzPh59do_wdbu1tM">
     <mxGraphModel dx="674" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -138,8 +138,38 @@
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-53" value="Puede ser cualquier sentido" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="716" y="488" width="114" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Ie-pww70Jd0b9cdVyLR-55" target="8Ie-pww70Jd0b9cdVyLR-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="603" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-61" value="Sencillos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8Ie-pww70Jd0b9cdVyLR-58">
+          <mxGeometry x="-0.2197" y="5" relative="1" as="geometry">
+            <mxPoint x="14" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Ie-pww70Jd0b9cdVyLR-55" target="8Ie-pww70Jd0b9cdVyLR-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="603" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-62" value="Complejos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8Ie-pww70Jd0b9cdVyLR-60">
+          <mxGeometry x="-0.2571" y="1" relative="1" as="geometry">
+            <mxPoint x="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-55" value="Incapacidad para hacer actos motores" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="546" y="607" width="114" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-57" value="Ideomotora" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="700" y="570" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-59" value="Ideatoria" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="700" y="645" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
