@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T17:00:54.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="cbo4L1h7s8F1LPWCp8RA" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T17:03:25.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="4xWUyKkAbooB2cnXGXHL" version="21.1.4" type="github">
   <diagram name="Page-1" id="4IiRwzPh59do_wdbu1tM">
-    <mxGraphModel dx="555" dy="1987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="674" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-1" value="Semiologia" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#CC6600;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-90" width="100" height="40" as="geometry" />
+          <mxGeometry x="37" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Ie-pww70Jd0b9cdVyLR-4" target="8Ie-pww70Jd0b9cdVyLR-28">
           <mxGeometry relative="1" as="geometry" />
@@ -16,10 +16,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-4" value="Motora Broca" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="89" width="90" height="30" as="geometry" />
+          <mxGeometry x="536" y="224" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-5" value="Coordinacion y marcha" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="540" width="90" height="30" as="geometry" />
+          <mxGeometry x="117" y="675" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-7" value="Coordinacion y marcha" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="610" width="90" height="30" as="geometry" />
@@ -28,37 +28,37 @@
           <mxGeometry x="30" y="670" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-11" value="Funciones Superiores" style="ellipse" vertex="1" parent="1">
-          <mxGeometry x="90" y="135" width="140" height="30" as="geometry" />
+          <mxGeometry x="196" y="270" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-22" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Ie-pww70Jd0b9cdVyLR-12" target="8Ie-pww70Jd0b9cdVyLR-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-12" value="Afasias" style="rounded=1;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="65" width="80" height="30" as="geometry" />
+          <mxGeometry x="386" y="200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" source="8Ie-pww70Jd0b9cdVyLR-11" target="8Ie-pww70Jd0b9cdVyLR-12" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-14" value="Agnosias" style="rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="135" width="80" height="30" as="geometry" />
+          <mxGeometry x="386" y="425" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-15" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" source="8Ie-pww70Jd0b9cdVyLR-11" target="8Ie-pww70Jd0b9cdVyLR-14" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-16" value="Apraxias" style="rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="205" width="80" height="30" as="geometry" />
+          <mxGeometry x="386" y="495" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" source="8Ie-pww70Jd0b9cdVyLR-11" target="8Ie-pww70Jd0b9cdVyLR-16" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-18" value="Sustancia Gris Cortical" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="89" width="150" height="30" as="geometry" />
+          <mxGeometry x="186" y="224" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-19" value="Si la enfermedad No afecta sustancia gris NUNCA afecta estos 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="450" width="370" height="30" as="geometry" />
+          <mxGeometry x="376" y="585" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-20" value="Efermedades que si las afectan:&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Demensias&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;EVC&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Algo que lesione una zona (Tumor, absceso, TCE)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="470" width="330" height="100" as="geometry" />
+          <mxGeometry x="37" y="332.5" width="330" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Ie-pww70Jd0b9cdVyLR-21" target="8Ie-pww70Jd0b9cdVyLR-25">
           <mxGeometry relative="1" as="geometry" />
@@ -69,19 +69,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-21" value="Sensitiva Wernicke" style="rounded=1;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="20" width="110" height="30" as="geometry" />
+          <mxGeometry x="536" y="155" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Ie-pww70Jd0b9cdVyLR-25" target="8Ie-pww70Jd0b9cdVyLR-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-25" value="Habla bien pero cosas &lt;br&gt;incongruentes con lo que &lt;br&gt;se pregunta o usa palabras &lt;br&gt;que no existen" style="rounded=1;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;horizontal=1;html=1;imageAspect=1;autosize=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="666" width="170" height="70" as="geometry" />
+          <mxGeometry x="772" y="135" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Ie-pww70Jd0b9cdVyLR-28" target="8Ie-pww70Jd0b9cdVyLR-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-28" value="No puede enocntrar las palabras, habla con pocas palabras&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="666" y="80" width="150" height="48" as="geometry" />
+          <mxGeometry x="772" y="215" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Ie-pww70Jd0b9cdVyLR-30" target="8Ie-pww70Jd0b9cdVyLR-32">
           <mxGeometry relative="1" as="geometry" />
@@ -92,34 +92,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-30" value="Transcortical" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="165" width="90" height="30" as="geometry" />
+          <mxGeometry x="536" y="300" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-32" value="Afecta la zona alrededor de calquiera de las dos. Pueden repetir las palabras que se les piden" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="666" y="150" width="150" height="60" as="geometry" />
+          <mxGeometry x="772" y="285" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-38" value="No pueden decir el nombre de un objeto" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="425" y="-40" width="120" height="40" as="geometry" />
+          <mxGeometry x="531" y="95" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Ie-pww70Jd0b9cdVyLR-39" target="8Ie-pww70Jd0b9cdVyLR-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-39" value="Global" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="235" width="90" height="30" as="geometry" />
+          <mxGeometry x="536" y="370" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Ie-pww70Jd0b9cdVyLR-41" target="8Ie-pww70Jd0b9cdVyLR-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-41" value="No entiende y no puede hablar" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="666" y="235" width="90" height="30" as="geometry" />
+          <mxGeometry x="772" y="370" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-43" value="A diferencia de broca donde se frutra por no responder bien auqnue si comprenda, aqui como no entiende no le importa&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="850" y="202.5" width="134" height="95" as="geometry" />
+          <mxGeometry x="956" y="337.5" width="134" height="95" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-45" value="Localizacion. Pars triangular" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="880" y="89" width="154" height="28" as="geometry" />
+          <mxGeometry x="986" y="224" width="154" height="28" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-47" value="Localizacion gyrus supramarginal" style="rounded=1;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;horizontal=1;html=1;imageAspect=1;autosize=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="880" y="20" width="184" height="30" as="geometry" />
+          <mxGeometry x="986" y="155" width="184" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
