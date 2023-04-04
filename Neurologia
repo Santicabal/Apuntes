@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T15:01:10.906Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.1.4" etag="HQdA9WdB_spX_Uc4TdaY" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T15:46:04.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="hXlynfgVNAaifNiNbta8" version="21.1.4" type="github">
   <diagram name="Page-1" id="4IiRwzPh59do_wdbu1tM">
-    <mxGraphModel>
+    <mxGraphModel dx="472" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-1" value="Semiologia" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-4" value="Coordinacion y marcha" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="410" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-5" value="Coordinacion y marcha" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="540" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-7" value="Coordinacion y marcha" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="610" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-9" value="Coordinacion y marcha" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="670" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-11" value="Funciones Superiores" style="ellipse" vertex="1" parent="1">
+          <mxGeometry x="90" y="135" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-12" value="Afasias" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="65" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" source="8Ie-pww70Jd0b9cdVyLR-11" target="8Ie-pww70Jd0b9cdVyLR-12" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-14" value="Agnosias" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="135" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-15" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" source="8Ie-pww70Jd0b9cdVyLR-11" target="8Ie-pww70Jd0b9cdVyLR-14" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-16" value="Apraxias" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="205" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" source="8Ie-pww70Jd0b9cdVyLR-11" target="8Ie-pww70Jd0b9cdVyLR-16" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-18" value="Sustancia Gris Cortical" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="20" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-19" value="Si la enfermedad No afecta sustancia gris NUNCA afecta estos 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-20" value="Efermedades que si las afectan:&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Demensias&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;EVC&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Algo que lesione una zona (Tumor, absceso, TCE)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="330" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
