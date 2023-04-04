@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T17:58:56.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="R9Wa05kTW65Ir6osWGQC" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T18:05:16.531Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="K1VyjgnTVQ-PdfZwEsDL" version="21.1.4" type="github">
   <diagram name="Page-1" id="4IiRwzPh59do_wdbu1tM">
     <mxGraphModel dx="674" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -162,6 +162,9 @@
             <mxPoint x="19" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Ie-pww70Jd0b9cdVyLR-55" target="8Ie-pww70Jd0b9cdVyLR-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-55" value="Incapacidad para hacer actos motores" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="546" y="607" width="114" height="30" as="geometry" />
         </mxCell>
@@ -170,6 +173,9 @@
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-59" value="Ideatoria" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="700" y="645" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-63" value="Apraxia de marcha se asocia a Hidrocefalia normotensa cuando hay Incontinencia + demencia" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="830" y="590.5" width="151" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
