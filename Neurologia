@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T16:27:51.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="-ENAWPu9P61_PRmFuY1f" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T16:48:12.837Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="1A-tABkcjSw199obUVQK" version="21.1.4" type="github">
   <diagram name="Page-1" id="4IiRwzPh59do_wdbu1tM">
-    <mxGraphModel dx="472" dy="1854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="555" dy="1987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,10 +55,10 @@
           <mxGeometry x="80" y="89" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-19" value="Si la enfermedad No afecta sustancia gris NUNCA afecta estos 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="260" width="370" height="30" as="geometry" />
+          <mxGeometry x="270" y="450" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-20" value="Efermedades que si las afectan:&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Demensias&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;EVC&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Algo que lesione una zona (Tumor, absceso, TCE)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="280" width="330" height="100" as="geometry" />
+          <mxGeometry x="250" y="470" width="330" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Ie-pww70Jd0b9cdVyLR-21" target="8Ie-pww70Jd0b9cdVyLR-25">
           <mxGeometry relative="1" as="geometry" />
@@ -92,7 +92,22 @@
           <mxGeometry x="666" y="150" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-38" value="No pueden decir el nombre de un objeto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="-40" width="120" height="40" as="geometry" />
+          <mxGeometry x="425" y="-40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Ie-pww70Jd0b9cdVyLR-39" target="8Ie-pww70Jd0b9cdVyLR-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-39" value="Global" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="235" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Ie-pww70Jd0b9cdVyLR-41" target="8Ie-pww70Jd0b9cdVyLR-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-41" value="No entiende y no puede hablar" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="666" y="235" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-43" value="A diferencia de broca donde se frutra por no responder bien auqnue si comprenda, aqui como no entiende no le importa&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="850" y="202.5" width="134" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
