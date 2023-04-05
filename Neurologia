@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T18:52:35.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="CL9EfCSAvaQp9P_3vhJL" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-05T21:26:43.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="eEKaoAgmK12R9-yirkhZ" version="21.1.4" type="github">
   <diagram name="Page-1" id="4IiRwzPh59do_wdbu1tM">
     <mxGraphModel dx="789" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -522,6 +522,66 @@
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-97" value="Cisura Calcarina" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="845" y="3535" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-98" value="Sindromes Troncoencefalicos" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="37" y="3950" width="353" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rA1thf9TvMnqcJnJsLCu-102" target="rA1thf9TvMnqcJnJsLCu-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-102" value="Son los unicos que causan sindromes cruzados" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;fontColor=#000000;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="106" y="4085" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rA1thf9TvMnqcJnJsLCu-103" target="rA1thf9TvMnqcJnJsLCu-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-103" value="Quiere decir que la cara de un lado y el cuerpo el contralateral" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;fontColor=#000000;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="106" y="4225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-108" value="" style="edgeStyle=entityRelationEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rA1thf9TvMnqcJnJsLCu-105" target="rA1thf9TvMnqcJnJsLCu-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-110" value="" style="edgeStyle=entityRelationEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rA1thf9TvMnqcJnJsLCu-105" target="rA1thf9TvMnqcJnJsLCu-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-112" value="" style="edgeStyle=entityRelationEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rA1thf9TvMnqcJnJsLCu-105" target="rA1thf9TvMnqcJnJsLCu-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-105" value="El par craneal afectado me dice el lado ipsilateral y la altura" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;fontColor=#000000;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="106" y="4370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rA1thf9TvMnqcJnJsLCu-107" target="rA1thf9TvMnqcJnJsLCu-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-107" value="Mesencefalo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="4317" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rA1thf9TvMnqcJnJsLCu-109" target="rA1thf9TvMnqcJnJsLCu-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-109" value="Protuberancia" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="4385" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rA1thf9TvMnqcJnJsLCu-111" target="rA1thf9TvMnqcJnJsLCu-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-111" value="Bulbo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="4457" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-113" value="3-4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="451" y="4317" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-115" value="5-8" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="451" y="4385" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-117" value="9-12" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="451" y="4457" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-119" value="No es muy importante conocer los nombres y los sintomas de todos solo del Wallemberg" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="4020" width="140" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-120" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Sindrome bulbar lateral de Wallemberg&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Es un sindrome causado por un infarto de la PICA o vertebral&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Sindrome Cruzado&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Hipoestesia de cara ipsilateral&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Hipoestesia cuerpo contralateral&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Disfagia y disartria (Afecta el 10)&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Depende la extension del infarto si se extiende para arriba y/o abajo puede llegar a afectar:&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Afecta 8 par (Sx vestibular)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Afecta 6 par (Diplopia)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Afecta ganglio simpatico cervical (Sx horner)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Afecta cerebelo (Ataxia cerebelosa)&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=15;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="497" y="3980" width="394" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
