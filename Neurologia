@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T18:24:43.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="u7FYkF5oNl91KFxU_L-L" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-05T18:39:18.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="6ITJIYAEY4U7QlXoiwCK" version="21.1.4" type="github">
   <diagram name="Page-1" id="4IiRwzPh59do_wdbu1tM">
     <mxGraphModel dx="789" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -434,19 +434,19 @@
           <mxGeometry x="142" y="3320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-63" value="Area de Broca" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="142" y="3180" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="3210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-65" value="Area motora donde origina via piramidal" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="342" y="3180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rA1thf9TvMnqcJnJsLCu-67" value="Sensibilidad (Contralateral)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#FF9933;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-67" value="Sensibilidad y propiocepcion (Contralateral)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#FF9933;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="652" y="3180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-68" value="Radiaciones opticas superiores (Causa cuadrantanopsia INFERI|OR contralateral)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#FF9933;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="802" y="3230" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-70" value="Corteza visual&lt;br&gt;(Hemianopsia homonima contralateral respeta macula)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="866" y="3400" width="120" height="60" as="geometry" />
+          <mxGeometry x="866" y="3400" width="144" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-72" value="Radiaciones opticas Inferiores(Causa cuadrantanopsia |SUPERIOR&amp;nbsp; contralateral)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="546" y="3640" width="145" height="60" as="geometry" />
@@ -456,6 +456,33 @@
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-76" value="Corteza auditiva (Causa Alucinaciones auditivas)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="403.86" y="3590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-78" value="no" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="3420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-79" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.24835928551487035;endAngle=0.9984085036175459;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="552" y="3721" width="60" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-80" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.24835928551487035;endAngle=0.9984085036175459;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="626" y="3720" width="60" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-81" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.24835928551487035;endAngle=0.9984085036175459;fillColor=#cce5ff;strokeColor=#36393d;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="829" y="3149" width="62" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-82" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.24835928551487035;endAngle=0.9984085036175459;fillColor=#cce5ff;strokeColor=#36393d;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="903" y="3148" width="62" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-83" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.4952267833287348;endAngle=0.9984085036175459;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="3401" width="60" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-84" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.5;endAngle=0.9984085036175459;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1094" y="3400" width="60" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-85" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="3425" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-86" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1114" y="3424" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
