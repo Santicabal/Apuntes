@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T17:47:56.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="9UwRl6hFIGm1jfuf3f-Z" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-05T18:24:43.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="u7FYkF5oNl91KFxU_L-L" version="21.1.4" type="github">
   <diagram name="Page-1" id="4IiRwzPh59do_wdbu1tM">
     <mxGraphModel dx="789" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -441,6 +441,21 @@
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-67" value="Sensibilidad (Contralateral)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#FF9933;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="652" y="3180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-68" value="Radiaciones opticas superiores (Causa cuadrantanopsia INFERI|OR contralateral)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#FF9933;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="802" y="3230" width="138" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-70" value="Corteza visual&lt;br&gt;(Hemianopsia homonima contralateral respeta macula)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="866" y="3400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-72" value="Radiaciones opticas Inferiores(Causa cuadrantanopsia |SUPERIOR&amp;nbsp; contralateral)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="546" y="3640" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-74" value="Area Wernicke" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="716" y="3590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-76" value="Corteza auditiva (Causa Alucinaciones auditivas)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="403.86" y="3590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
