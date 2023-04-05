@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T16:57:10.247Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="lfGMkYfK7Fcl0l-LpK6g" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-05T17:03:37.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="2qSgavp1RKRo7UrNaFvZ" version="21.1.4" type="github">
   <diagram name="Page-1" id="4IiRwzPh59do_wdbu1tM">
     <mxGraphModel dx="789" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-50" value="Romberg Positivo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="575" y="2358.5" width="285" height="73" as="geometry" />
+        </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-49" value="Test Romberg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="130" y="2627" width="320" height="73" as="geometry" />
         </mxCell>
@@ -278,8 +281,8 @@
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8Ie-pww70Jd0b9cdVyLR-108" target="8Ie-pww70Jd0b9cdVyLR-117" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8Ie-pww70Jd0b9cdVyLR-108" value="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;La piramidal no pasa por talamo (Movimiento)&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;La epicritica si (Tacto)&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;La portopatica se cruza inmediatamente en la medula y ahi se queda, luego pasa al talamo&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;Como se cruza cualquier cosa que inflame lo de en medio de la medula afecta SOLO a esa (Temperatura y dolor)&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=3;fontSize=14;spacingTop=-12;spacingBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="660" y="1210" width="280" height="180" as="geometry" />
+        <mxCell id="8Ie-pww70Jd0b9cdVyLR-108" value="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;La piramidal no pasa por talamo (Movimiento)&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;La epicritica si (Tacto y Propiocepcion)&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;La portopatica se cruza inmediatamente en la medula y ahi se queda, luego pasa al talamo&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;Como se cruza cualquier cosa que inflame lo de en medio de la medula afecta SOLO a esa (Temperatura y dolor)&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=3;fontSize=14;spacingTop=-12;spacingBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="655" y="1210" width="290" height="180" as="geometry" />
         </mxCell>
         <mxCell id="8Ie-pww70Jd0b9cdVyLR-111" value="Piramidal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;strokeWidth=3;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="590" y="1109" width="90" height="31" as="geometry" />
@@ -339,43 +342,45 @@
           <mxGeometry x="596" y="2300" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-28" value="Propiocepcion" style="rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="392" y="2380" width="80" height="30" as="geometry" />
+          <mxGeometry x="595" y="2380" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="rA1thf9TvMnqcJnJsLCu-27" target="rA1thf9TvMnqcJnJsLCu-28" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-30" value="Cerebelo" style="rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="2380" width="80" height="30" as="geometry" />
+          <mxGeometry x="433" y="2380" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="rA1thf9TvMnqcJnJsLCu-27" target="rA1thf9TvMnqcJnJsLCu-30" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-32" value="Vestibulo" style="rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="2380" width="80" height="30" as="geometry" />
+          <mxGeometry x="765" y="2380" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-33" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="rA1thf9TvMnqcJnJsLCu-27" target="rA1thf9TvMnqcJnJsLCu-32" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-34" value="Entry" style="rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="2460" width="80" height="30" as="geometry" />
+          <mxGeometry x="374" y="2460" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rA1thf9TvMnqcJnJsLCu-35" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="rA1thf9TvMnqcJnJsLCu-30" target="rA1thf9TvMnqcJnJsLCu-34" parent="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-35" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="rA1thf9TvMnqcJnJsLCu-30" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413" y="2459.9999999999995" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-36" value="Entry" style="rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="2460" width="80" height="30" as="geometry" />
+          <mxGeometry x="493" y="2460" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-37" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="rA1thf9TvMnqcJnJsLCu-30" target="rA1thf9TvMnqcJnJsLCu-36" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-38" value="Entry" style="rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="2460" width="80" height="30" as="geometry" />
+          <mxGeometry x="705" y="2460" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-39" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="rA1thf9TvMnqcJnJsLCu-32" target="rA1thf9TvMnqcJnJsLCu-38" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-40" value="Entry" style="rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="2460" width="80" height="30" as="geometry" />
+          <mxGeometry x="825" y="2460" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-41" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="rA1thf9TvMnqcJnJsLCu-32" target="rA1thf9TvMnqcJnJsLCu-40" parent="1">
           <mxGeometry relative="1" as="geometry" />
