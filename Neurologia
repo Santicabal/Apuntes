@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T18:44:36.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0iOw6vb4NEotWFaTIeiJ" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-05T18:52:35.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="CL9EfCSAvaQp9P_3vhJL" version="21.1.4" type="github">
   <diagram name="Page-1" id="4IiRwzPh59do_wdbu1tM">
     <mxGraphModel dx="789" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -495,6 +495,33 @@
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-89" value="Hemorragia o epilepsia miran lado opuesto" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="60" y="3360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-92" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="636" y="3319" as="sourcePoint" />
+            <mxPoint x="570" y="3160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-93" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="541" y="3469.5" as="sourcePoint" />
+            <mxPoint x="295" y="3600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-94" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="742" y="3420.5" as="sourcePoint" />
+            <mxPoint x="906" y="3536" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-95" value="Cisura de Rolando" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="471" y="3135" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-96" value="Cisura de Silvio" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="170" y="3605" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-97" value="Cisura Calcarina" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="845" y="3535" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
