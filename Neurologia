@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T18:39:18.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="6ITJIYAEY4U7QlXoiwCK" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-05T18:44:36.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0iOw6vb4NEotWFaTIeiJ" version="21.1.4" type="github">
   <diagram name="Page-1" id="4IiRwzPh59do_wdbu1tM">
     <mxGraphModel dx="789" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -428,16 +428,22 @@
           <mxGeometry x="421" y="3290" width="396" height="282.86" as="geometry" />
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-60" value="Corteza Prefrontal&lt;br&gt;Reflejos prension, succion, Moria (Humor inapropiado) deshinibicion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="137" y="3420" width="130" height="90" as="geometry" />
+          <mxGeometry x="230.53" y="3425" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="rA1thf9TvMnqcJnJsLCu-61" value="Mirada conjugada (Lesiones miran la lesion)" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="142" y="3320" width="120" height="60" as="geometry" />
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-90" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rA1thf9TvMnqcJnJsLCu-61" target="rA1thf9TvMnqcJnJsLCu-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-91" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rA1thf9TvMnqcJnJsLCu-61" target="rA1thf9TvMnqcJnJsLCu-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-61" value="Mirada conjugada&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="230.53" y="3325" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-63" value="Area de Broca" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="180" y="3210" width="120" height="60" as="geometry" />
+          <mxGeometry x="247" y="3230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-65" value="Area motora donde origina via piramidal" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="342" y="3180" width="120" height="60" as="geometry" />
+          <mxGeometry x="396.25" y="3200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-67" value="Sensibilidad y propiocepcion (Contralateral)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#FF9933;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="652" y="3180" width="120" height="60" as="geometry" />
@@ -461,10 +467,10 @@
           <mxGeometry x="640" y="3420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-79" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.24835928551487035;endAngle=0.9984085036175459;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="552" y="3721" width="60" height="62" as="geometry" />
+          <mxGeometry x="552" y="3721" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-80" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.24835928551487035;endAngle=0.9984085036175459;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="626" y="3720" width="60" height="62" as="geometry" />
+          <mxGeometry x="626" y="3720" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-81" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.24835928551487035;endAngle=0.9984085036175459;fillColor=#cce5ff;strokeColor=#36393d;direction=south;" vertex="1" parent="1">
           <mxGeometry x="829" y="3149" width="62" height="60" as="geometry" />
@@ -483,6 +489,12 @@
         </mxCell>
         <mxCell id="rA1thf9TvMnqcJnJsLCu-86" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1114" y="3424" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-87" value="Isquemia ojos miran la lesion" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="60" y="3260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rA1thf9TvMnqcJnJsLCu-89" value="Hemorragia o epilepsia miran lado opuesto" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="60" y="3360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
