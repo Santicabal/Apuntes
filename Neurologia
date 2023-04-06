@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T14:37:39.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ICOuMAMZEDk0XE6jH799" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-06T14:52:10.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ryV5IEHPIXVddxUT15Nx" version="21.1.4" type="github">
   <diagram name="Page-1" id="4IiRwzPh59do_wdbu1tM">
     <mxGraphModel dx="469" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -770,6 +770,12 @@
         </mxCell>
         <mxCell id="ZFQyc-STLGfD6d7j7gjz-70" value="Bueno" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="272.82" y="5077" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFQyc-STLGfD6d7j7gjz-73" value="&lt;ul&gt;&lt;li&gt;El nervio bueno manda la senal de la luz y ambos se contraen&lt;/li&gt;&lt;li&gt;Se pierde el relfejo directo del malo y por eso no produce un&amp;nbsp;&lt;br&gt;consensual en el bueno&lt;/li&gt;&lt;li&gt;Se conserva el consensual en el malo&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="146" y="4876" width="390" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFQyc-STLGfD6d7j7gjz-74" value="&lt;ul&gt;&lt;li&gt;Se conserva la senal de ida pero de regreso no&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Al iluminar el ojo malo no hay directo (al malo) y si consensual&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Al iluminar el ojo bueno hay directo (al ojo bueno) y no &lt;br&gt;consensual (al malo)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Parece ojo falso&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="132.5" y="5137" width="390" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
