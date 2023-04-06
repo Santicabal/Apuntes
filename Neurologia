@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T15:28:15.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="kKc605iOo_NiKDMsY2gM" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-06T15:41:35.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Hqe7mJ2oMFuBNtm6kSAo" version="21.1.4" type="github">
   <diagram name="Page-1" id="4IiRwzPh59do_wdbu1tM">
     <mxGraphModel dx="469" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -882,8 +882,35 @@
         <mxCell id="ZFQyc-STLGfD6d7j7gjz-116" value="Compresion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="466.25" y="5394.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZFQyc-STLGfD6d7j7gjz-117" value="&lt;ul&gt;&lt;li&gt;Las arterias que irrigan la porcion de las pupilas estan mas &lt;br&gt;superficiales que las de los musculos&lt;/li&gt;&lt;li&gt;Cuando hay isquemia sufren los musculos primero y las pupilas despus&lt;/li&gt;&lt;li&gt;Cuando hay una compresion por aneurisma o tumor sufren las pupilas&lt;br&gt;primero los musculos mas tarde&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="132.5" y="5412.5" width="440" height="110" as="geometry" />
+        <mxCell id="ZFQyc-STLGfD6d7j7gjz-117" value="&lt;ul&gt;&lt;li&gt;Las arterias que irrigan la porcion de las pupilas estan mas &lt;br&gt;superficiales que las de los musculos&lt;/li&gt;&lt;li&gt;Cuando hay isquemia sufren los musculos (Ptosis diplopia) y las pupilas no&lt;/li&gt;&lt;li&gt;Cuando hay una compresion por aneurisma o tumor sufren las pupilas&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="132.5" y="5417.5" width="460" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFQyc-STLGfD6d7j7gjz-118" value="III Par afectado" style="ellipse;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="707" y="5369" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFQyc-STLGfD6d7j7gjz-119" value="Pupilas &#xa;normales" style="rounded=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="843.0372009277344" y="5340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFQyc-STLGfD6d7j7gjz-120" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fillColor=#6d8764;strokeColor=#3A5431;strokeWidth=2;" edge="1" source="ZFQyc-STLGfD6d7j7gjz-118" target="ZFQyc-STLGfD6d7j7gjz-119" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFQyc-STLGfD6d7j7gjz-121" value="Anisocoria" style="rounded=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="837.01171875" y="5410" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFQyc-STLGfD6d7j7gjz-122" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fillColor=#6d8764;strokeColor=#3A5431;strokeWidth=2;" edge="1" source="ZFQyc-STLGfD6d7j7gjz-118" target="ZFQyc-STLGfD6d7j7gjz-121" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFQyc-STLGfD6d7j7gjz-123" value="Isqeumia&#xa;Diabetes" style="rounded=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="979.05859375" y="5340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFQyc-STLGfD6d7j7gjz-124" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fillColor=#6d8764;strokeColor=#3A5431;strokeWidth=2;" edge="1" source="ZFQyc-STLGfD6d7j7gjz-119" target="ZFQyc-STLGfD6d7j7gjz-123" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFQyc-STLGfD6d7j7gjz-125" value="Aneurisma " style="rounded=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="967.01171875" y="5410" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFQyc-STLGfD6d7j7gjz-126" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fillColor=#6d8764;strokeColor=#3A5431;strokeWidth=2;" edge="1" source="ZFQyc-STLGfD6d7j7gjz-121" target="ZFQyc-STLGfD6d7j7gjz-125" parent="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
