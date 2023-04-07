@@ -1,9 +1,177 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T17:46:46.056Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.1.5" etag="cmdqGaMgXRZbE4UxcUv3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T20:39:19.449Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="a2ACM1hvOvN44hyY7SC4" version="21.1.5" type="github">
   <diagram name="Page-1" id="qVUyVKSY0AozgfE-DCCR">
-    <mxGraphModel>
+    <mxGraphModel dx="674" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-1" value="Sindormes Ictus" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=18;fillColor=#9999FF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="75" y="270" width="675" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-1">
+          <mxGeometry y="30" width="675" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-3" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-2">
+          <mxGeometry width="121" height="66" as="geometry">
+            <mxRectangle width="121" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-4" value="Motor" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-2">
+          <mxGeometry x="121" width="104" height="66" as="geometry">
+            <mxRectangle width="104" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-17" value="Sens" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-2">
+          <mxGeometry x="225" width="113" height="66" as="geometry">
+            <mxRectangle width="113" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-20" value="Visual" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-2">
+          <mxGeometry x="338" width="112" height="66" as="geometry">
+            <mxRectangle width="112" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-23" value="Leng" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-2">
+          <mxGeometry x="450" width="113" height="66" as="geometry">
+            <mxRectangle width="113" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-26" value="Otros" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-2">
+          <mxGeometry x="563" width="112" height="66" as="geometry">
+            <mxRectangle width="112" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-1">
+          <mxGeometry y="96" width="675" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-7" value="Cerebral Media" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-6">
+          <mxGeometry width="121" height="99" as="geometry">
+            <mxRectangle width="121" height="99" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-8" value="Hemiparesia Contra" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-6">
+          <mxGeometry x="121" width="104" height="99" as="geometry">
+            <mxRectangle width="104" height="99" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-18" value="Hipoestesia Contra" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-6">
+          <mxGeometry x="225" width="113" height="99" as="geometry">
+            <mxRectangle width="113" height="99" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-21" value="Hemianopsia Homonima Contra&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-6">
+          <mxGeometry x="338" width="112" height="99" as="geometry">
+            <mxRectangle width="112" height="99" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-24" value="Afasia si afecta hemisferio dominante" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-6">
+          <mxGeometry x="450" width="113" height="99" as="geometry">
+            <mxRectangle width="113" height="99" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-27" value="Ojos ven la lesion&lt;br&gt;Paralsis facial&lt;br&gt;Babinski contra" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-6">
+          <mxGeometry x="563" width="112" height="99" as="geometry">
+            <mxRectangle width="112" height="99" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-14" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-1">
+          <mxGeometry y="195" width="675" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-15" value="Cerebral anterior" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-14">
+          <mxGeometry width="121" height="98" as="geometry">
+            <mxRectangle width="121" height="98" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-16" value="Hemiparesia Contra. crural" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-14">
+          <mxGeometry x="121" width="104" height="98" as="geometry">
+            <mxRectangle width="104" height="98" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-19" value="Hipoestesia Contra. crural" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-14">
+          <mxGeometry x="225" width="113" height="98" as="geometry">
+            <mxRectangle width="113" height="98" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-22" value="-" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-14">
+          <mxGeometry x="338" width="112" height="98" as="geometry">
+            <mxRectangle width="112" height="98" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-25" value="-" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-14">
+          <mxGeometry x="450" width="113" height="98" as="geometry">
+            <mxRectangle width="113" height="98" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-28" value="Apatia" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-14">
+          <mxGeometry x="563" width="112" height="98" as="geometry">
+            <mxRectangle width="112" height="98" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-29" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-1">
+          <mxGeometry y="293" width="675" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-30" value="Cerebral Posterior" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-29">
+          <mxGeometry width="121" height="99" as="geometry">
+            <mxRectangle width="121" height="99" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-31" value="-" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-29">
+          <mxGeometry x="121" width="104" height="99" as="geometry">
+            <mxRectangle width="104" height="99" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-32" value="Hipoestesia Contra (Si es que afecta talamo)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-29">
+          <mxGeometry x="225" width="113" height="99" as="geometry">
+            <mxRectangle width="113" height="99" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-33" value="Hemianopsia Homonima Contra" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-29">
+          <mxGeometry x="338" width="112" height="99" as="geometry">
+            <mxRectangle width="112" height="99" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-34" value="-" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-29">
+          <mxGeometry x="450" width="113" height="99" as="geometry">
+            <mxRectangle width="113" height="99" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-35" value="Dejerine Roussy" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-29">
+          <mxGeometry x="563" width="112" height="99" as="geometry">
+            <mxRectangle width="112" height="99" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-36" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-1">
+          <mxGeometry y="392" width="675" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-37" value="Amaurosis Fugax" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-36">
+          <mxGeometry width="121" height="98" as="geometry">
+            <mxRectangle width="121" height="98" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-38" value="-" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-36">
+          <mxGeometry x="121" width="104" height="98" as="geometry">
+            <mxRectangle width="104" height="98" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-39" value="-" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-36">
+          <mxGeometry x="225" width="113" height="98" as="geometry">
+            <mxRectangle width="113" height="98" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-40" value="Ceguera total no dolorosa transitoria" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-36">
+          <mxGeometry x="338" width="112" height="98" as="geometry">
+            <mxRectangle width="112" height="98" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-41" value="-" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-36">
+          <mxGeometry x="450" width="113" height="98" as="geometry">
+            <mxRectangle width="113" height="98" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-42" value="-" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="eD5Zwg-v8Sb8pHwtQRbN-36">
+          <mxGeometry x="563" width="112" height="98" as="geometry">
+            <mxRectangle width="112" height="98" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
