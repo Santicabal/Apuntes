@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T19:48:30.529Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="DcI6Hr82V4ZDMV95Vpoq" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T19:58:50.964Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="UocLT7ZPESNh4_AkAWQ0" version="21.1.5" type="github">
   <diagram name="Page-1" id="qVUyVKSY0AozgfE-DCCR">
     <mxGraphModel dx="2049" dy="-9" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -322,31 +322,55 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S_gSeu0W2c0hHZ5xzkCy-50" value="Diseccion carotidea" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#CC6600;" vertex="1" parent="1">
-          <mxGeometry x="50" y="3610" width="230" height="40" as="geometry" />
+          <mxGeometry x="30" y="2750" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S_gSeu0W2c0hHZ5xzkCy-52" value="Aunque el nombre aparente un corte total de la arteria en realidad es un corte por adentro que hace que se forme un coagulo" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="80" y="3710" width="210" height="70" as="geometry" />
+          <mxGeometry x="60" y="2850" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S_gSeu0W2c0hHZ5xzkCy-53" target="S_gSeu0W2c0hHZ5xzkCy-54">
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1" source="S_gSeu0W2c0hHZ5xzkCy-53" target="S_gSeu0W2c0hHZ5xzkCy-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-53" value="Secundario a un traumatismo cervical" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="354" y="3670" width="120" height="60" as="geometry" />
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-53" value="Secundario a un traumatismo cervical" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="334" y="2810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S_gSeu0W2c0hHZ5xzkCy-54" target="S_gSeu0W2c0hHZ5xzkCy-56">
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1" source="S_gSeu0W2c0hHZ5xzkCy-54" target="S_gSeu0W2c0hHZ5xzkCy-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-54" value="&lt;ul&gt;&lt;li&gt;Amaurosis Fugax&lt;/li&gt;&lt;li&gt;Sx Horner&lt;/li&gt;&lt;li&gt;Dolor Cervical&lt;/li&gt;&lt;li&gt;Focalidad Neuronal&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="339" y="3772" width="150" height="105" as="geometry" />
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-54" value="&lt;ul&gt;&lt;li&gt;Amaurosis Fugax&lt;/li&gt;&lt;li&gt;Sx Horner&lt;/li&gt;&lt;li&gt;Dolor Cervical&lt;/li&gt;&lt;li&gt;Focalidad Neuronal&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="319" y="2912" width="150" height="105" as="geometry" />
         </mxCell>
         <mxCell id="S_gSeu0W2c0hHZ5xzkCy-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S_gSeu0W2c0hHZ5xzkCy-56" target="S_gSeu0W2c0hHZ5xzkCy-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-56" value="Dx Arteriografia:&lt;br&gt;Imagen en punta de lanza" style="whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="3923.5" width="120" height="60" as="geometry" />
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-56" value="Dx Arteriografia:&lt;br&gt;Imagen en punta de lanza" style="whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="3063.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S_gSeu0W2c0hHZ5xzkCy-58" value="Tx Anticoagulante: Heparina I.V" style="whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="4037.5" width="120" height="42.5" as="geometry" />
+          <mxGeometry x="334" y="3177.5" width="120" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-60" value="Trombosis Venosa" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="55" y="3340" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S_gSeu0W2c0hHZ5xzkCy-71" target="S_gSeu0W2c0hHZ5xzkCy-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-71" value="En situaciones de ↑ coagulabilidad como mujeres y anticonceptivos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="349" y="3420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S_gSeu0W2c0hHZ5xzkCy-73" target="S_gSeu0W2c0hHZ5xzkCy-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-73" value="&lt;ul&gt;&lt;li&gt;Evolucion lenta&lt;/li&gt;&lt;li&gt;Llegan a consulta dias despues&lt;/li&gt;&lt;li&gt;cefalea&lt;/li&gt;&lt;li&gt;Convulsiones&lt;/li&gt;&lt;li&gt;Focalidad neurologica&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;verticalAlign=top;align=left;spacingLeft=-15;" vertex="1" parent="1">
+          <mxGeometry x="334" y="3522" width="150" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S_gSeu0W2c0hHZ5xzkCy-75" target="S_gSeu0W2c0hHZ5xzkCy-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-75" value="Dx RM:&lt;br&gt;↑PIC&lt;br&gt;TAC: Signo delta vacio" style="whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="3673.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-76" value="Tx Anticoagulante cronico probableente ya que tienen condiciones de base" style="whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="3787.5" width="120" height="72.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
