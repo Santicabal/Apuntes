@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T17:22:08.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="SA9_01HVE-QNkpPC7gzC" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T19:34:36.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qa6tx_DNzGPQdJyEJSwa" version="21.1.5" type="github">
   <diagram name="Page-1" id="qVUyVKSY0AozgfE-DCCR">
-    <mxGraphModel dx="1434" dy="-336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="-9" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -237,11 +237,11 @@
         <mxCell id="S_gSeu0W2c0hHZ5xzkCy-1" value="Infarto Lacunar" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="425" y="2760" width="202.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-2" value="No Hay signos corticales (Afasia, agnosia, apraxis)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-2" value="No Hay signos corticales (Afasia, agnosia, apraxis)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="460" y="2830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S_gSeu0W2c0hHZ5xzkCy-3" value="Lacunares" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=18;fillColor=#9999FF;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="200" y="2960" width="296" height="588" as="geometry" />
+          <mxGeometry x="380" y="2930" width="296" height="588" as="geometry" />
         </mxCell>
         <mxCell id="S_gSeu0W2c0hHZ5xzkCy-4" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="S_gSeu0W2c0hHZ5xzkCy-3">
           <mxGeometry y="30" width="296" height="66" as="geometry" />
@@ -264,7 +264,7 @@
             <mxRectangle width="140" height="99" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-14" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Brazo Posterior de capsula interna&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Base de Protuberancia&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;spacingLeft=-22;" vertex="1" parent="S_gSeu0W2c0hHZ5xzkCy-11">
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-14" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Brazo &lt;b&gt;Posterior &lt;/b&gt;de capsula interna&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Base de Protuberancia&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;spacingLeft=-22;" vertex="1" parent="S_gSeu0W2c0hHZ5xzkCy-11">
           <mxGeometry x="140" width="156" height="99" as="geometry">
             <mxRectangle width="156" height="99" as="alternateBounds" />
           </mxGeometry>
@@ -290,7 +290,7 @@
             <mxRectangle width="140" height="99" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-28" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="S_gSeu0W2c0hHZ5xzkCy-25">
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-28" value="Talamo + Motor puro" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;" vertex="1" parent="S_gSeu0W2c0hHZ5xzkCy-25">
           <mxGeometry x="140" width="156" height="99" as="geometry">
             <mxRectangle width="156" height="99" as="alternateBounds" />
           </mxGeometry>
@@ -303,7 +303,7 @@
             <mxRectangle width="140" height="98" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-35" value="&lt;ul style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Brazo Posterior de capsula interna&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;Base de Protuberancia&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;spacingLeft=-22;" vertex="1" parent="S_gSeu0W2c0hHZ5xzkCy-32">
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-35" value="&lt;ul style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Brazo &lt;b&gt;Anterior &lt;/b&gt;de capsula interna&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;Base de Protuberancia&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;spacingLeft=-22;" vertex="1" parent="S_gSeu0W2c0hHZ5xzkCy-32">
           <mxGeometry x="140" width="156" height="98" as="geometry">
             <mxRectangle width="156" height="98" as="alternateBounds" />
           </mxGeometry>
@@ -316,10 +316,37 @@
             <mxRectangle width="140" height="98" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-42" value="&lt;ul style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Brazo Posterior de capsula interna&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;Base de Protuberancia&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;spacingLeft=-22;" vertex="1" parent="S_gSeu0W2c0hHZ5xzkCy-39">
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-42" value="&lt;ul style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Brazo &lt;b&gt;Anterior &lt;/b&gt;de capsula interna&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;Base de Protuberancia&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;spacingLeft=-22;" vertex="1" parent="S_gSeu0W2c0hHZ5xzkCy-39">
           <mxGeometry x="140" width="156" height="98" as="geometry">
             <mxRectangle width="156" height="98" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-50" value="Diseccion carotidea" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="50" y="3610" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-52" value="Aunque el nombre aparente un corte total de la arteria en realidad es un corte por adentro que hace que se forme un coagulo" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3710" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S_gSeu0W2c0hHZ5xzkCy-53" target="S_gSeu0W2c0hHZ5xzkCy-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-53" value="Secundario a un traumatismo cervical" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="354" y="3670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S_gSeu0W2c0hHZ5xzkCy-54" target="S_gSeu0W2c0hHZ5xzkCy-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-54" value="&lt;ul&gt;&lt;li&gt;Amaurosis Fugax&lt;/li&gt;&lt;li&gt;Sx Horner&lt;/li&gt;&lt;li&gt;Dolor Cervical&lt;/li&gt;&lt;li&gt;Focalidad Neuronal&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="339" y="3772" width="150" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S_gSeu0W2c0hHZ5xzkCy-56" target="S_gSeu0W2c0hHZ5xzkCy-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-56" value="Dx Arteriografia:&lt;br&gt;Imagen en punta de lanza" style="whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="3923.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S_gSeu0W2c0hHZ5xzkCy-58" value="Tx Anticoagulante: Heparina I.V" style="whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="4037.5" width="120" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
