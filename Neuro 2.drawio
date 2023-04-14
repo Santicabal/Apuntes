@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T19:37:06.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="G1d_ijbpslRJCYZJIbM2" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-14T19:44:53.147Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="eMlFgi8muXHNOC4sDtoo" version="21.1.8" type="github">
   <diagram name="Page-1" id="qVUyVKSY0AozgfE-DCCR">
     <mxGraphModel dx="1247" dy="-436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -688,8 +688,14 @@
         <mxCell id="nbtCct6Wzi0QikQGqJ3z-315" value="Sintomas dependen del lobulo del foco&lt;br&gt;&lt;br&gt;Frontal: Motoras, marcha jacksoniana&lt;br&gt;Occipital: Halucinanciones visuales&lt;br&gt;Temporal: Dejavu Dejapaste" style="whiteSpace=wrap;html=1;rounded=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="335.75" y="5535" width="143.5" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="nbtCct6Wzi0QikQGqJ3z-317" value="Aura&lt;br&gt;Automatismos motores&lt;br&gt;Desconeccion del medio&lt;br&gt;Confusion Poscritica&lt;br&gt;Amnesia de episodio&lt;br&gt;Lobulo Temporal es mas comun" style="whiteSpace=wrap;html=1;rounded=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="nbtCct6Wzi0QikQGqJ3z-317" value="Aura epigastrica&lt;br&gt;Automatismos motores&lt;br&gt;Desconeccion del medio&lt;br&gt;Confusion Poscritica&lt;br&gt;Amnesia de episodio&lt;br&gt;Lobulo Temporal es mas comun" style="whiteSpace=wrap;html=1;rounded=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="497" y="5535" width="120" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="nbtCct6Wzi0QikQGqJ3z-319" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Ausencia&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;br&gt;Sin aura&lt;br&gt;&amp;lt;14 años&lt;br&gt;Segundos&lt;br&gt;No poscritico&lt;br&gt;Tx: Ac. Valproico" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="920" y="5440" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="nbtCct6Wzi0QikQGqJ3z-320" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Focal Compleja&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;br&gt;Puede tener aura&lt;br&gt;Adultos&lt;br&gt;Minutos&lt;br&gt;Periodo poscritico&lt;br&gt;Tx: Carbamazepina" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="5440" width="120" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
