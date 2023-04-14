@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T18:07:17.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="b5sBZUOpSHcJEVmYIUfp" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-14T18:09:52.461Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="OoLvTp5lk0YRf5H8Bv8O" version="21.1.8" type="github">
   <diagram name="Page-1" id="qVUyVKSY0AozgfE-DCCR">
     <mxGraphModel dx="1793" dy="-145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -594,10 +594,10 @@
         <mxCell id="nbtCct6Wzi0QikQGqJ3z-65" value="Otras Demencias" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="111" y="4620" width="204.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nbtCct6Wzi0QikQGqJ3z-289" value="Multi-Infarto&lt;br style=&quot;font-size: 16px;&quot;&gt;Binswanger" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;strokeWidth=3;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="nbtCct6Wzi0QikQGqJ3z-289" value="Multi-Infarto y&lt;br style=&quot;font-size: 16px;&quot;&gt;Binswanger" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;strokeWidth=3;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="190" y="4710" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nbtCct6Wzi0QikQGqJ3z-290" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;glass=0;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;strokeWidth=3;align=left;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="nbtCct6Wzi0QikQGqJ3z-290" value="Son subcorticales&lt;br&gt;Tienen factores de reisgo CV&lt;br&gt;Multiinfarto s posterior a muchos EVCs&lt;br&gt;Binswanger hay &lt;b&gt;Leucoaraiosis &lt;/b&gt;(Desmielinizacion de sustancia balnca alrededor de ventriculos)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;glass=0;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;strokeWidth=3;align=left;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="190" y="4770" width="210" height="210" as="geometry" />
         </mxCell>
         <mxCell id="nbtCct6Wzi0QikQGqJ3z-291" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;strokeWidth=3;fontSize=16;fontStyle=1" vertex="1" parent="1">
