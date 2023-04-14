@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T16:03:13.570Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="N4H0cp3O4vQaceLWRMe7" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-14T16:24:04.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="kbhzV5vPKt14yHb6ZmvI" version="21.1.8" type="github">
   <diagram name="Page-1" id="qVUyVKSY0AozgfE-DCCR">
     <mxGraphModel dx="1247" dy="-436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -549,8 +549,20 @@
         <mxCell id="nbtCct6Wzi0QikQGqJ3z-38" value="Deterioro &lt;b style=&quot;font-size: 13px;&quot;&gt;Cronico adquirido&amp;nbsp;&amp;nbsp;&lt;/b&gt;de &lt;b style=&quot;font-size: 13px;&quot;&gt;muchas &lt;/b&gt;funciones superiores con nivel de &lt;b style=&quot;font-size: 13px;&quot;&gt;consciencia normal&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=3;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="100" y="4040" width="169" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="nbtCct6Wzi0QikQGqJ3z-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nbtCct6Wzi0QikQGqJ3z-39" target="nbtCct6Wzi0QikQGqJ3z-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nbtCct6Wzi0QikQGqJ3z-39" value="Si fuera...&lt;br&gt;Agudo → Delirium / EVC&lt;br&gt;Congenito → Retraso mental&lt;br&gt;Alt de consciencia → Delirium&lt;br&gt;Una Funcion→ Tumor" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="335.5" y="4041.5" width="165.5" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nbtCct6Wzi0QikQGqJ3z-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nbtCct6Wzi0QikQGqJ3z-41" target="nbtCct6Wzi0QikQGqJ3z-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nbtCct6Wzi0QikQGqJ3z-41" value="Causas&lt;br&gt;Alzheimer (50-90%)&lt;br&gt;Vascular post infarto (5-10%)&lt;br&gt;Alcohol (5-10%)&lt;br&gt;Hipotiroidimo, ↓B12&lt;br&gt;Cancer&lt;br&gt;VIH, Sifilis&lt;br&gt;PICK , Parkisnon" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="564.5" y="4021" width="165.5" height="128.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nbtCct6Wzi0QikQGqJ3z-43" value="Dx Etiologico&lt;br&gt;TAC, Perfil tiroideo, B12, pruebas VIH y sifilis" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="575.87" y="4200" width="142.75" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
