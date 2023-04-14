@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T16:57:59.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="gon3PBclGWFZLMyEdVHo" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-14T16:59:17.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="KK2cDNwy3FGfSoIti4l2" version="21.1.8" type="github">
   <diagram name="Page-1" id="qVUyVKSY0AozgfE-DCCR">
     <mxGraphModel dx="1247" dy="-436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -574,7 +574,7 @@
           <mxGeometry x="353.12" y="4200" width="142.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nbtCct6Wzi0QikQGqJ3z-47" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Clasificacion&lt;/span&gt;&lt;/div&gt;&lt;b&gt;Corticales&lt;/b&gt;: Que empiezan en la corteza y luego avanzan a tener extrapiramidalismo&lt;br&gt;&lt;b&gt;Subcortical&lt;/b&gt;: Parkinson/ Huntington que avanza a demencia" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="100" y="4200" width="170" height="110" as="geometry" />
+          <mxGeometry x="99" y="4175" width="170" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
