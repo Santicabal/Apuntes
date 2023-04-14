@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T15:39:33.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="sjb6ySDgpTCb4O8cAj7Y" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-14T15:42:00.618Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="F4rRzJmTwHwXQeAyTOZs" version="21.1.8" type="github">
   <diagram name="Page-1" id="qVUyVKSY0AozgfE-DCCR">
     <mxGraphModel dx="1247" dy="-436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -439,7 +439,7 @@
           <mxGeometry x="31" y="2920" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nbtCct6Wzi0QikQGqJ3z-4" value="Cerebral Profunda" style="rounded=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="211" y="2860" width="110" height="40" as="geometry" />
+          <mxGeometry x="211" y="2856" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nbtCct6Wzi0QikQGqJ3z-5" value="" style="curved=1;noEdgeStyle=1;orthogonal=1;" edge="1" source="nbtCct6Wzi0QikQGqJ3z-3" target="nbtCct6Wzi0QikQGqJ3z-4" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -487,7 +487,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nbtCct6Wzi0QikQGqJ3z-14" value="Edad y Angiopatia &#xa;amiloide" style="rounded=1;fontStyle=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="391" y="2920" width="110" height="30" as="geometry" />
+          <mxGeometry x="391" y="2924" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nbtCct6Wzi0QikQGqJ3z-15" value="" style="orthogonal=1;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" source="nbtCct6Wzi0QikQGqJ3z-6" target="nbtCct6Wzi0QikQGqJ3z-14" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -502,7 +502,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nbtCct6Wzi0QikQGqJ3z-18" value="Clinica depende del lobulo&#xa;Frontal → Contralateral motor, mirada desviada&#xa;Parietal → Sensitivo&#xa;Temporal → Afasia&#xa;Occipital → Hemianopsias" style="rounded=1;align=left;verticalAlign=top;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="571" y="2921" width="259" height="89" as="geometry" />
+          <mxGeometry x="571" y="2926" width="259" height="89" as="geometry" />
         </mxCell>
         <mxCell id="nbtCct6Wzi0QikQGqJ3z-19" value="" style="orthogonal=1;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" source="nbtCct6Wzi0QikQGqJ3z-14" target="nbtCct6Wzi0QikQGqJ3z-18" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -517,7 +517,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nbtCct6Wzi0QikQGqJ3z-22" value="TAC&#xa;Si sospechas malformacion&#xa;arteriovenosa (Por que es joven)&#xa;RM y/o Arteriografia " style="rounded=1;align=left;verticalAlign=top;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="880" y="2851" width="191" height="70" as="geometry" />
+          <mxGeometry x="880" y="2855" width="191" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nbtCct6Wzi0QikQGqJ3z-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nbtCct6Wzi0QikQGqJ3z-26" target="nbtCct6Wzi0QikQGqJ3z-32">
           <mxGeometry relative="1" as="geometry" />
@@ -529,7 +529,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nbtCct6Wzi0QikQGqJ3z-30" value="Tx&#xa;Medico a todos, mantener PA,&#xa;Qx a cerebelo &gt;3cm y todas &#xa;lobares + ↓ consciencia &lt;75 años" style="rounded=1;align=left;verticalAlign=top;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="1151" y="2851" width="191" height="70" as="geometry" />
+          <mxGeometry x="1151" y="2854" width="191" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nbtCct6Wzi0QikQGqJ3z-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nbtCct6Wzi0QikQGqJ3z-32" target="nbtCct6Wzi0QikQGqJ3z-34">
           <mxGeometry relative="1" as="geometry" />
