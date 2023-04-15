@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T19:51:08.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="S6b67WtQz_LxUHrwKMUc" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-15T20:00:53.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="MI_UZxq3D_YCrVbtx3o6" version="21.1.8" type="github">
   <diagram name="Page-1" id="qVUyVKSY0AozgfE-DCCR">
-    <mxGraphModel dx="497" dy="-306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="726" dy="60" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -760,7 +760,7 @@
           <mxGeometry x="70" y="6030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-27" value="Cefaleas" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="281" y="6031" width="609" height="479" as="geometry" />
+          <mxGeometry x="281" y="6031" width="609" height="679" as="geometry" />
         </mxCell>
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-28" value="Migrañas" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="930" y="6020" width="200" height="410" as="geometry" />
@@ -804,17 +804,26 @@
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-40" target="LfI4Fn4bWg_Ra6UCECk9-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-40" target="LfI4Fn4bWg_Ra6UCECk9-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-40" value="SUNCT" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="505.5" y="6304.5" width="103" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-42" target="LfI4Fn4bWg_Ra6UCECk9-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-42" target="LfI4Fn4bWg_Ra6UCECk9-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-42" value="Hemicranea Paroxistica" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="505.5" y="6369" width="103" height="30" as="geometry" />
+          <mxGeometry x="505.5" y="6518" width="103" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-44" target="LfI4Fn4bWg_Ra6UCECk9-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-44" value="Hemicranea Continua" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="505.5" y="6439" width="103" height="30" as="geometry" />
+          <mxGeometry x="505.5" y="6588" width="103" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-46" value="Hiperemica ocular, lagrimeo, rinorrea, edema palpebral, ptosis, miosis" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="497" y="6160" width="120" height="60" as="geometry" />
@@ -823,10 +832,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-47" value="Se acumulan episodios y luego ceden y vuelven a ocurrir" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="647" y="6239" width="103" height="30" as="geometry" />
+          <mxGeometry x="647" y="6224" width="103" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-49" target="LfI4Fn4bWg_Ra6UCECk9-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-49" value="Mas en hombres&lt;br&gt;Hay Sx Horner" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="785.88" y="6238" width="103" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-51" value="&lt;br&gt;Triptanos /&lt;br&gt;O&lt;sup&gt;2&lt;/sup&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="797.38" y="6323" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-53" target="LfI4Fn4bWg_Ra6UCECk9-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-53" value="Dura muy breve y muchos al dia" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="647" y="6304.5" width="103" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-55" value="Lamotrigina" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="658.5" y="6389.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-60" target="LfI4Fn4bWg_Ra6UCECk9-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-60" value="Indometacina" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="661.25" y="6530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-63" value="Su buena respuesta funciona como Dx" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shape=label;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="779" y="6530" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
