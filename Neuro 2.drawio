@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T16:43:10.441Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="uwKYKjls2s9xElbw4VmD" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-15T16:44:31.777Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="SlDmQO3lDOD7ez58Uh80" version="21.1.8" type="github">
   <diagram name="Page-1" id="qVUyVKSY0AozgfE-DCCR">
     <mxGraphModel dx="1509" dy="-296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -748,10 +748,10 @@
           <mxGeometry x="226" y="5436" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-21" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;West&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;br&gt;Debutan &amp;lt;1 año&lt;br&gt;Triada:&lt;br&gt;Retraso + Espasmo + hisparritmias&lt;br&gt;Tx ACTH" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;gradientColor=#ea6b66;" vertex="1" parent="1">
-          <mxGeometry x="922" y="5570" width="120" height="130" as="geometry" />
+          <mxGeometry x="922" y="5572" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-22" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;&lt;b&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Lennox Gastaut&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;&lt;br&gt;Infancia con triada: Retraso+EEG alterado+ crisis tonicas o asuencia&lt;br&gt;Tx Ac Valproico (Mala respuesta)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#ffcd28;strokeColor=#d79b00;strokeWidth=2;gradientColor=#ffa500;" vertex="1" parent="1">
-          <mxGeometry x="800" y="5570" width="120" height="130" as="geometry" />
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-22" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;&lt;b&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Lennox Gastaut&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;&lt;br&gt;1-7 años con triada: Retraso+EEG alterado+ crisis tonicas o asuencia&lt;br&gt;Tx Ac Valproico (Mala respuesta)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#ffcd28;strokeColor=#d79b00;strokeWidth=2;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="800" y="5572" width="120" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
