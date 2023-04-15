@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T21:03:40.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="zusFAo9IFo3B_Hp71p0W" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-15T21:17:40.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="rmb1giImcJGVNBKo-9sa" version="21.1.8" type="github">
   <diagram name="Page-1" id="qVUyVKSY0AozgfE-DCCR">
     <mxGraphModel dx="1062" dy="-534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -825,7 +825,7 @@
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-44" value="Hemicranea Continua" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="505.5" y="6588" width="103" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-46" value="Hiperemica ocular, lagrimeo, rinorrea, edema palpebral, ptosis, miosis" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-46" value="Hiperemia ocular, lagrimeo, rinorrea, edema palpebral, ptosis, miosis" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="497" y="6160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-47" target="LfI4Fn4bWg_Ra6UCECk9-49">
