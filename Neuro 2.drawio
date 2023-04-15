@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T16:44:31.777Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="SlDmQO3lDOD7ez58Uh80" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-15T19:26:06.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="9-eDCYJ4keXQBObKxzJO" version="21.1.8" type="github">
   <diagram name="Page-1" id="qVUyVKSY0AozgfE-DCCR">
     <mxGraphModel dx="1509" dy="-296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -615,7 +615,7 @@
         <mxCell id="nbtCct6Wzi0QikQGqJ3z-294" value="Cortical&quot;&lt;br&gt;Afecta Frontotemporal (Comportamiento inadecuado, reflejos arcaicos, etc) y habla&lt;br&gt;&lt;br&gt;&lt;b&gt;PrefrontalSPEAK&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;strokeWidth=3;align=left;verticalAlign=top;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="610" y="4770" width="210" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="nbtCct6Wzi0QikQGqJ3z-295" value="Difernciales de Demencias (Que no lo son)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;strokeWidth=3;fontSize=16;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="nbtCct6Wzi0QikQGqJ3z-295" value="Diferencial de Demencias (Que no lo son)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;strokeWidth=3;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="820" y="4710" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nbtCct6Wzi0QikQGqJ3z-296" value="&lt;b&gt;Creutzfeldt Jakob&lt;/b&gt;: Prionica&lt;br&gt;Demencia Super rapida + mioclonias + ataxia&amp;nbsp;&lt;br&gt;Asociada Proteina 14-3-3&lt;br&gt;EEG parece ECG regular&lt;br&gt;&lt;br&gt;&lt;b&gt;Hidrocefalia Normotensa&lt;/b&gt;: Reversible&lt;br&gt;Demencia + incontinencia + Apraxia de marcha" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;strokeWidth=3;align=left;verticalAlign=top;fontSize=16;" parent="1" vertex="1">
@@ -750,7 +750,7 @@
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-21" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;West&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;br&gt;Debutan &amp;lt;1 año&lt;br&gt;Triada:&lt;br&gt;Retraso + Espasmo + hisparritmias&lt;br&gt;Tx ACTH" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;gradientColor=#ea6b66;" vertex="1" parent="1">
           <mxGeometry x="922" y="5572" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-22" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;&lt;b&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Lennox Gastaut&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;&lt;br&gt;1-7 años con triada: Retraso+EEG alterado+ crisis tonicas o asuencia&lt;br&gt;Tx Ac Valproico (Mala respuesta)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#ffcd28;strokeColor=#d79b00;strokeWidth=2;gradientColor=#ffa500;" vertex="1" parent="1">
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-22" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;&lt;b&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Lennox Gastaut&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;&lt;br&gt;1-7 años con triada: Retraso+EEG punta onda 3hz + crisis tonicas o asuencia&lt;br&gt;Tx Ac Valproico (Mala respuesta)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#ffcd28;strokeColor=#d79b00;strokeWidth=2;gradientColor=#ffa500;" vertex="1" parent="1">
           <mxGeometry x="800" y="5572" width="120" height="130" as="geometry" />
         </mxCell>
       </root>
