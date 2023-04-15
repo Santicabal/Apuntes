@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T20:09:00.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="GrerJeDd7arWk0_BZFhL" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-15T20:39:39.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="aMbYl_L4VhjBpgHqnGZD" version="21.1.8" type="github">
   <diagram name="Page-1" id="qVUyVKSY0AozgfE-DCCR">
     <mxGraphModel dx="497" dy="-306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -760,21 +760,21 @@
           <mxGeometry x="70" y="6030" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-27" value="Cefaleas" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;arcSize=10;fontSize=20;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="281" y="6031" width="609" height="679" as="geometry" />
+          <mxGeometry x="281" y="6031" width="619" height="679" as="geometry" />
         </mxCell>
-        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-28" value="Migrañas" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="930" y="6020" width="200" height="410" as="geometry" />
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-28" value="Migrañas" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="909.5" y="6030" width="270.5" height="689" as="geometry" />
         </mxCell>
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-29" target="LfI4Fn4bWg_Ra6UCECk9-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-29" value="Cefalea&lt;br&gt;Tensional" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-29" value="Cefalea&lt;br style=&quot;font-size: 14px;&quot;&gt;Tensional" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;strokeWidth=3;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="304" y="6080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-30" target="LfI4Fn4bWg_Ra6UCECk9-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-30" value="Cefalea Trigemino Autonomicas" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-30" value="Cefalea Trigemino Autonomicas" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;strokeWidth=3;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="497" y="6080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-32" target="LfI4Fn4bWg_Ra6UCECk9-34">
@@ -789,7 +789,7 @@
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-34" value="AINEs" style="rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;rounded=1;fillColor=#CCCC00;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="324" y="6285" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-36" value="Prev. Propanolol / Triciclicos" style="rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;rounded=1;shape=rhombus;perimeter=rhombusPerimeter;arcSize=16;fillColor=#CCCC00;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-36" value="Prev. Triciclicos" style="rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;rounded=1;shape=rhombus;perimeter=rhombusPerimeter;arcSize=16;fillColor=#CCCC00;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="324" y="6390" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-38" target="LfI4Fn4bWg_Ra6UCECk9-40">
@@ -865,10 +865,28 @@
           <mxGeometry x="779" y="6530" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-65" value="Prev Verapamilo" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#CCCC00;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="797" y="6394.5" width="80" height="80" as="geometry" />
+          <mxGeometry x="797" y="6393.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-67" value="SUNCT:&amp;nbsp;Short-lasting, Unilateral, Neuralgiform headache attacks with Conjunctival injection and Tearing" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="70" y="6180" width="150" height="90" as="geometry" />
+          <mxGeometry x="70" y="6274.5" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-69" target="LfI4Fn4bWg_Ra6UCECk9-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-69" value="Comienza a los 10-30 años, 70% mujeres" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="6100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-70" value="La mas frecuente tensional luego migraña" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="70" y="6180" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-72" target="LfI4Fn4bWg_Ra6UCECk9-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-72" value="Criterios Diagnosticos&lt;br&gt;&lt;br&gt;5 episodios con algun punto:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Dura 4-72h sin Tx&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Que sea unilateral / pulsatil / interfiere con la vida o agrava con movimientos&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Con nauseas / vomitos / foto o sonofobia&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="6207" width="140" height="213" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-74" value="Puede ser con (20%) o sin aura" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="6453" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
