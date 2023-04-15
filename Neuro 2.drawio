@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T19:26:06.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="9-eDCYJ4keXQBObKxzJO" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-15T19:51:08.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="S6b67WtQz_LxUHrwKMUc" version="21.1.8" type="github">
   <diagram name="Page-1" id="qVUyVKSY0AozgfE-DCCR">
-    <mxGraphModel dx="1509" dy="-296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="497" dy="-306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -752,6 +752,81 @@
         </mxCell>
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-22" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;/div&gt;&lt;b&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Lennox Gastaut&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;&lt;br&gt;1-7 años con triada: Retraso+EEG punta onda 3hz + crisis tonicas o asuencia&lt;br&gt;Tx Ac Valproico (Mala respuesta)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#ffcd28;strokeColor=#d79b00;strokeWidth=2;gradientColor=#ffa500;" vertex="1" parent="1">
           <mxGeometry x="800" y="5572" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-23" value="Cefaleas" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="64" y="5967.5" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-25" value="Importante recordar que cefalea y migraña no es lo mismo" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="70" y="6030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-27" value="Cefaleas" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="281" y="6031" width="609" height="479" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-28" value="Migrañas" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="930" y="6020" width="200" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-29" target="LfI4Fn4bWg_Ra6UCECk9-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-29" value="Cefalea&lt;br&gt;Tensional" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="6080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-30" target="LfI4Fn4bWg_Ra6UCECk9-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-30" value="Cefalea Trigemino Autonomicas" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="497" y="6080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-32" target="LfI4Fn4bWg_Ra6UCECk9-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-32" value="Mas en mujeres&lt;br&gt;Opresiva bilateral&lt;br&gt;No agrava con esfuerzo&lt;br&gt;Sin nausea" style="whiteSpace=wrap;html=1;rounded=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="297" y="6170" width="133" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-34" target="LfI4Fn4bWg_Ra6UCECk9-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-34" value="AINEs" style="rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="6285" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-36" value="Prevencion con Propanolol / Triciclicos" style="rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;rounded=1;shape=label;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="324" y="6390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-38" target="LfI4Fn4bWg_Ra6UCECk9-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-38" target="LfI4Fn4bWg_Ra6UCECk9-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-38" value="En Racimos / Hitaminica" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="505.5" y="6239" width="103" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-40" target="LfI4Fn4bWg_Ra6UCECk9-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-40" value="SUNCT" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="505.5" y="6304.5" width="103" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-42" target="LfI4Fn4bWg_Ra6UCECk9-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-42" value="Hemicranea Paroxistica" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="505.5" y="6369" width="103" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-44" value="Hemicranea Continua" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="505.5" y="6439" width="103" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-46" value="Hiperemica ocular, lagrimeo, rinorrea, edema palpebral, ptosis, miosis" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="497" y="6160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-47" target="LfI4Fn4bWg_Ra6UCECk9-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-47" value="Se acumulan episodios y luego ceden y vuelven a ocurrir" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="647" y="6239" width="103" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-49" value="Mas en hombres&lt;br&gt;Hay Sx Horner" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="785.88" y="6238" width="103" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
