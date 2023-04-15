@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T14:42:05.175Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="02oQxXB7PuOLyaVA2U2w" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-15T15:07:39.006Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ZR5_wh4VGilrhAgLNCZg" version="21.1.8" type="github">
   <diagram name="Page-1" id="qVUyVKSY0AozgfE-DCCR">
     <mxGraphModel dx="1509" dy="-296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-2" value="Perdida consciencia" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="486" y="5399" width="270" height="310" as="geometry" />
+        </mxCell>
         <mxCell id="eD5Zwg-v8Sb8pHwtQRbN-1" value="Sindromes Ictus" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=18;fillColor=#9999FF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1012" y="1360" width="675" height="490" as="geometry" />
         </mxCell>
@@ -676,14 +679,14 @@
         <mxCell id="nbtCct6Wzi0QikQGqJ3z-307" value="Simple" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="371" y="5440" width="73" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nbtCct6Wzi0QikQGqJ3z-318" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" source="nbtCct6Wzi0QikQGqJ3z-309" target="nbtCct6Wzi0QikQGqJ3z-317" edge="1">
+        <mxCell id="nbtCct6Wzi0QikQGqJ3z-318" value="Empiezan focal&lt;br&gt;Y se expanden" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" source="nbtCct6Wzi0QikQGqJ3z-309" target="nbtCct6Wzi0QikQGqJ3z-317" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nbtCct6Wzi0QikQGqJ3z-309" value="Compleja" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="520.5" y="5440" width="73" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nbtCct6Wzi0QikQGqJ3z-313" value="Tonico-Clonica Generalizada&lt;br&gt;&lt;br&gt;Ausencia&lt;br&gt;&lt;br&gt;Mioclonica Juvenil" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="630.37" y="5440" width="110.75" height="100" as="geometry" />
+        <mxCell id="nbtCct6Wzi0QikQGqJ3z-313" value="&lt;b&gt;Tonico-Clonica Generalizada&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;Ausencia&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Mioclonica Juvenil&lt;/b&gt;:&lt;br&gt;Mantienen consciencia tipico despues de desvelarse y alcohol" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="630.37" y="5440" width="119.63" height="160" as="geometry" />
         </mxCell>
         <mxCell id="nbtCct6Wzi0QikQGqJ3z-315" value="Sintomas dependen del lobulo del foco&lt;br&gt;&lt;br&gt;&lt;b&gt;Frontal&lt;/b&gt;: Motoras, marcha jacksoniana&lt;br&gt;&lt;br&gt;&lt;b&gt;Occipital&lt;/b&gt;: Halucinaciones visuales.&lt;br&gt;&lt;br&gt;&lt;b&gt;Temporal&lt;/b&gt;: Dejavu Dejapaste" style="whiteSpace=wrap;html=1;rounded=1;align=left;verticalAlign=top;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="335.75" y="5535" width="143.5" height="175" as="geometry" />
