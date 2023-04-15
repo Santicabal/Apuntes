@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T20:39:39.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="aMbYl_L4VhjBpgHqnGZD" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-15T20:52:54.916Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="VY1MucWxxBU2whF3x9gS" version="21.1.8" type="github">
   <diagram name="Page-1" id="qVUyVKSY0AozgfE-DCCR">
     <mxGraphModel dx="497" dy="-306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -762,7 +762,7 @@
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-27" value="Cefaleas" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;arcSize=10;fontSize=20;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="281" y="6031" width="619" height="679" as="geometry" />
         </mxCell>
-        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-28" value="Migrañas" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-28" value="Migrañas" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="909.5" y="6030" width="270.5" height="689" as="geometry" />
         </mxCell>
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-29" target="LfI4Fn4bWg_Ra6UCECk9-32">
@@ -873,8 +873,8 @@
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-69" target="LfI4Fn4bWg_Ra6UCECk9-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-69" value="Comienza a los 10-30 años, 70% mujeres" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="6100" width="120" height="60" as="geometry" />
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-69" value="Comienza a los 10-30 años, 70% mujeres" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="980" y="6087" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-70" value="La mas frecuente tensional luego migraña" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="70" y="6180" width="150" height="70" as="geometry" />
@@ -882,11 +882,40 @@
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-72" target="LfI4Fn4bWg_Ra6UCECk9-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-72" value="Criterios Diagnosticos&lt;br&gt;&lt;br&gt;5 episodios con algun punto:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Dura 4-72h sin Tx&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Que sea unilateral / pulsatil / interfiere con la vida o agrava con movimientos&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Con nauseas / vomitos / foto o sonofobia&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="6207" width="140" height="213" as="geometry" />
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-72" value="Criterios Diagnosticos&lt;br&gt;&lt;br&gt;5 episodios con algun punto:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Dura 4-72h sin Tx&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Que sea unilateral / pulsatil / interfiere con la vida o agrava con movimientos&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Con nauseas / vomitos / foto o sonofobia&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="930" y="6177" width="220" height="163" as="geometry" />
         </mxCell>
-        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-74" value="Puede ser con (20%) o sin aura" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="6453" width="120" height="60" as="geometry" />
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-74" target="LfI4Fn4bWg_Ra6UCECk9-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-74" value="Puede ser con (20%) o sin aura" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="980" y="6364" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-76" target="LfI4Fn4bWg_Ra6UCECk9-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-86" value="Tx" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LfI4Fn4bWg_Ra6UCECk9-81">
+          <mxGeometry x="0.271" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-83" value="6-12 meses" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-76" target="LfI4Fn4bWg_Ra6UCECk9-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-76" value="Desencadenantes: Vino tinto, estres, clima, menstruacion, sueño, farmacos" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="980" y="6451" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-80" value="AINEs/ Triptanos" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#CCCC00;strokeWidth=3;arcSize=19;" vertex="1" parent="1">
+          <mxGeometry x="923" y="6546" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-82" target="LfI4Fn4bWg_Ra6UCECk9-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-82" value="Prev. Propanolol / Triciclicos" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFF00;fontColor=#000000;strokeColor=#FFB366;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="6545" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-84" value="Botox en &lt;br&gt;nuca" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFF00;fontColor=#000000;strokeColor=#FFB366;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="6640" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
