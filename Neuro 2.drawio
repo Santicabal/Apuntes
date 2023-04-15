@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T20:06:04.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="PkOMoPk6_iLqnO1b9GA5" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-15T20:09:00.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="GrerJeDd7arWk0_BZFhL" version="21.1.8" type="github">
   <diagram name="Page-1" id="qVUyVKSY0AozgfE-DCCR">
-    <mxGraphModel dx="726" dy="60" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="497" dy="-306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -756,8 +756,8 @@
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-23" value="Cefaleas" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#CC6600;" vertex="1" parent="1">
           <mxGeometry x="64" y="5967.5" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-25" value="Importante recordar que cefalea y migraña no es lo mismo" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="70" y="6030" width="120" height="60" as="geometry" />
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-25" value="Importante recordar que cefalea y migraña no es lo mismo" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="70" y="6030" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-27" value="Cefaleas" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;arcSize=10;fontSize=20;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="281" y="6031" width="609" height="679" as="geometry" />
@@ -837,7 +837,7 @@
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-49" target="LfI4Fn4bWg_Ra6UCECk9-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-49" value="Mas en hombres&lt;br&gt;Hay Sx Horner" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-49" value="Mas en hombres&lt;br&gt;Hay &lt;b&gt;Sx Horner&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="785.88" y="6238" width="103" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LfI4Fn4bWg_Ra6UCECk9-51" target="LfI4Fn4bWg_Ra6UCECk9-65">
@@ -866,6 +866,9 @@
         </mxCell>
         <mxCell id="LfI4Fn4bWg_Ra6UCECk9-65" value="Prev Verapamilo" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#CCCC00;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="797" y="6394.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LfI4Fn4bWg_Ra6UCECk9-67" value="SUNCT:&amp;nbsp;Short-lasting, Unilateral, Neuralgiform headache attacks with Conjunctival injection and Tearing" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="70" y="6180" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
