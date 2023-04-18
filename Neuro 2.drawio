@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T20:53:22.862Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="_DcXUCfCsXYnX-FhihH_" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T20:57:57.630Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="92zcW31HMIeh5Apcr_9N" version="21.1.8" type="github">
   <diagram name="Page-1" id="qVUyVKSY0AozgfE-DCCR">
-    <mxGraphModel dx="684" dy="-346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="-23" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -941,26 +941,39 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qxOCoCAQD9DNKMfWF5fX-1" value="Prevencion Secundaria" style="whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;rounded=1;spacingLeft=0;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="qxOCoCAQD9DNKMfWF5fX-1" value="Prevencion Secundaria" style="whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#00093B;fontColor=#ffffff;rounded=1;spacingLeft=0;strokeWidth=3;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="260" y="2604" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxOCoCAQD9DNKMfWF5fX-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qxOCoCAQD9DNKMfWF5fX-4" target="qxOCoCAQD9DNKMfWF5fX-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qxOCoCAQD9DNKMfWF5fX-15" value="&amp;gt;70%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qxOCoCAQD9DNKMfWF5fX-11">
+          <mxGeometry x="0.5309" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qxOCoCAQD9DNKMfWF5fX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qxOCoCAQD9DNKMfWF5fX-4" target="qxOCoCAQD9DNKMfWF5fX-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qxOCoCAQD9DNKMfWF5fX-4" value="Tuvo Ictus por culpa de carotida o basilar" style="whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;rounded=1;spacingLeft=0;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="qxOCoCAQD9DNKMfWF5fX-14" value="&amp;lt;50%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qxOCoCAQD9DNKMfWF5fX-13">
+          <mxGeometry x="0.5582" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qxOCoCAQD9DNKMfWF5fX-4" value="Tuvo Ictus por culpa de carotida o basilar" style="whiteSpace=wrap;html=1;fillColor=#0F87FF;strokeColor=#3700CC;fontColor=#ffffff;rounded=1;spacingLeft=0;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="120" y="2690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxOCoCAQD9DNKMfWF5fX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qxOCoCAQD9DNKMfWF5fX-6" target="qxOCoCAQD9DNKMfWF5fX-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qxOCoCAQD9DNKMfWF5fX-6" value="Secundario a cardioembolismo" style="whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;rounded=1;spacingLeft=0;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="qxOCoCAQD9DNKMfWF5fX-6" value="Secundario a cardioembolismo" style="whiteSpace=wrap;html=1;fillColor=#0F87FF;strokeColor=#3700CC;fontColor=#ffffff;rounded=1;spacingLeft=0;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="404" y="2690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxOCoCAQD9DNKMfWF5fX-8" value="Anti&lt;br&gt;coagulantes" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;rounded=1;spacingLeft=0;strokeWidth=3;fontStyle=1;spacingTop=-7;" vertex="1" parent="1">
           <mxGeometry x="422" y="2840" width="85" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="qxOCoCAQD9DNKMfWF5fX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qxOCoCAQD9DNKMfWF5fX-10" target="qxOCoCAQD9DNKMfWF5fX-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qxOCoCAQD9DNKMfWF5fX-10" value="Endarterectomia&lt;br&gt;(TEA)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;rounded=1;spacingLeft=0;strokeWidth=3;fontStyle=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="241" y="2830" width="85" height="85" as="geometry" />
