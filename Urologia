@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T19:25:47.025Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="XX3VMKRoSmm2idhLWQon" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T19:50:38.216Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Yy7369_62p-mIjOYJU4S" version="21.3.0" type="github">
   <diagram name="Page-1" id="Ps0thIFmfNqswJppemzR">
-    <mxGraphModel dx="537" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="367" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -267,14 +267,44 @@
         <mxCell id="qIoC2KnWEeLaxk4hoa9C-101" value="Paciente estable dar Tx definitivo (Litotripcia, Cx, etc)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="477" y="1929" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qIoC2KnWEeLaxk4hoa9C-103" value="Litos Acidos:&lt;br&gt;Acido Urico&lt;br&gt;Cistina" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-103" value="Litos Acidos:&lt;br&gt;Acido Urico&lt;br&gt;Cistina" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="160" y="2070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qIoC2KnWEeLaxk4hoa9C-104" value="Litos Alcalinos:&lt;br&gt;Fosfatos calcico y amonico (Estruvita)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-104" value="Litos Alcalinos:&lt;br&gt;Fosfatos calcico y amonico (Estruvita)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
           <mxGeometry x="320" y="2070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qIoC2KnWEeLaxk4hoa9C-105" value="Oxalato el pH da igual" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-105" value="Oxalato el pH da igual" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="480" y="2070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-106" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.49999999999999434;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2170" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-107" target="qIoC2KnWEeLaxk4hoa9C-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-107" value="Saber esto ayuda a prevenir ya que acidificas o alcalinisas la orina" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="2210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-108" target="qIoC2KnWEeLaxk4hoa9C-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-108" value="Estruvita → Proteus y coraliforme" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="2350" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-110" target="qIoC2KnWEeLaxk4hoa9C-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-110" value="Cistina → Cistinuria osea jovenes con litos repetidos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="2420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-112" target="qIoC2KnWEeLaxk4hoa9C-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-112" value="P Calcico → ↑Ca tx con tiazidas" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="2530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-114" value="Oxalato Ca → Cuando hay malabsorcion de Ac grasos (Via biliar alterada, EII, reseccion intestinal" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="2630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
