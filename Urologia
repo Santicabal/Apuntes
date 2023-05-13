@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T21:57:47.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="18W6vxjJcug4Gm-TBlkw" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T22:01:26.568Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="wMJXHYydSiqhBgEMYTrE" version="21.3.0" type="github">
   <diagram name="Page-1" id="Ps0thIFmfNqswJppemzR">
     <mxGraphModel dx="625" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -315,8 +315,11 @@
         <mxCell id="qIoC2KnWEeLaxk4hoa9C-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-119" target="qIoC2KnWEeLaxk4hoa9C-120">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-119" target="qIoC2KnWEeLaxk4hoa9C-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qIoC2KnWEeLaxk4hoa9C-119" value="80% a los 80 años&lt;br&gt;Relacionado a Dihidrotestosterona" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="2830" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="2830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qIoC2KnWEeLaxk4hoa9C-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-120" target="qIoC2KnWEeLaxk4hoa9C-122">
           <mxGeometry relative="1" as="geometry" />
@@ -371,6 +374,9 @@
         </mxCell>
         <mxCell id="qIoC2KnWEeLaxk4hoa9C-138" value="HBP" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=26;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="600" y="3470" width="167" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-140" value="Se origina en epitelio glandular y estroma" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
