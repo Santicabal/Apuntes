@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T18:42:23.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="q3Kg2Fr2cq1SZGeVJmFC" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T19:25:47.025Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="XX3VMKRoSmm2idhLWQon" version="21.3.0" type="github">
   <diagram name="Page-1" id="Ps0thIFmfNqswJppemzR">
     <mxGraphModel dx="537" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -240,8 +240,41 @@
         <mxCell id="qIoC2KnWEeLaxk4hoa9C-91" value="Tx del dolor con AINEs, la buscapina se evita por que interfiere en la expulsion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="1780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qIoC2KnWEeLaxk4hoa9C-93" value="Tx medico expulsivo con alfa bloqueantes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-93" target="qIoC2KnWEeLaxk4hoa9C-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-93" value="Tx medico expulsivo con alfa bloqueantes y lito &lt;b&gt;distal &lt;/b&gt;&amp;lt;5mm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-95" target="qIoC2KnWEeLaxk4hoa9C-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-95" value="Lito complicado:&lt;br&gt;&amp;gt;10mm&lt;br&gt;Fiebre elevada&lt;br&gt;Dolor Incontrolable&lt;br&gt;Riñon unico&lt;br&gt;Sepsis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1755" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-97" target="qIoC2KnWEeLaxk4hoa9C-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-97" value="Ecografia para confrimar que haya obstruccion y dilatacion de via urinaria" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1919" width="120" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-102" value="2-3 dias" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-99" target="qIoC2KnWEeLaxk4hoa9C-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-99" value="Derivar orina con Doble J o&amp;nbsp; Nefrostomia" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1929" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-101" value="Paciente estable dar Tx definitivo (Litotripcia, Cx, etc)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="477" y="1929" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-103" value="Litos Acidos:&lt;br&gt;Acido Urico&lt;br&gt;Cistina" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-104" value="Litos Alcalinos:&lt;br&gt;Fosfatos calcico y amonico (Estruvita)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="2070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-105" value="Oxalato el pH da igual" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="2070" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
