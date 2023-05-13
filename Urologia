@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T19:50:38.216Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Yy7369_62p-mIjOYJU4S" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T19:52:50.747Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="UQ4RvrdPlQ8CPBhuAWRP" version="21.3.0" type="github">
   <diagram name="Page-1" id="Ps0thIFmfNqswJppemzR">
-    <mxGraphModel dx="367" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="635" dy="1371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -289,22 +289,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qIoC2KnWEeLaxk4hoa9C-108" value="Estruvita → Proteus y coraliforme" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="2350" width="160" height="40" as="geometry" />
+          <mxGeometry x="335" y="2298" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qIoC2KnWEeLaxk4hoa9C-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-110" target="qIoC2KnWEeLaxk4hoa9C-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qIoC2KnWEeLaxk4hoa9C-110" value="Cistina → Cistinuria osea jovenes con litos repetidos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="2420" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="2388" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qIoC2KnWEeLaxk4hoa9C-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-112" target="qIoC2KnWEeLaxk4hoa9C-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qIoC2KnWEeLaxk4hoa9C-112" value="P Calcico → ↑Ca tx con tiazidas" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="2530" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="2488" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qIoC2KnWEeLaxk4hoa9C-114" value="Oxalato Ca → Cuando hay malabsorcion de Ac grasos (Via biliar alterada, EII, reseccion intestinal" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="2630" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="2598" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
