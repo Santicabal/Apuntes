@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T20:50:16.192Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="iWcqnlAPsXZ9lL1xkOc9" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T21:51:44.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ssJ8OOG49BoS4DlYZkoA" version="21.3.0" type="github">
   <diagram name="Page-1" id="Ps0thIFmfNqswJppemzR">
-    <mxGraphModel dx="738" dy="1371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="353" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -279,32 +279,92 @@
         <mxCell id="qIoC2KnWEeLaxk4hoa9C-106" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.49999999999999434;direction=north;" vertex="1" parent="1">
           <mxGeometry x="180" y="2170" width="420" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qIoC2KnWEeLaxk4hoa9C-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-107" target="qIoC2KnWEeLaxk4hoa9C-108">
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#cce5ff;strokeColor=#36393d;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-107" target="qIoC2KnWEeLaxk4hoa9C-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qIoC2KnWEeLaxk4hoa9C-107" value="Saber esto ayuda a prevenir ya que acidificas o alcalinisas la orina" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-107" value="Saber esto ayuda a prevenir ya que acidificas o alcalinisas la orina" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="330" y="2210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qIoC2KnWEeLaxk4hoa9C-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-108" target="qIoC2KnWEeLaxk4hoa9C-110">
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#cce5ff;strokeColor=#36393d;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-108" target="qIoC2KnWEeLaxk4hoa9C-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qIoC2KnWEeLaxk4hoa9C-108" value="Estruvita → Proteus y coraliforme" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-108" value="Estruvita → Proteus y coraliforme" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="335" y="2298" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qIoC2KnWEeLaxk4hoa9C-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-110" target="qIoC2KnWEeLaxk4hoa9C-112">
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#cce5ff;strokeColor=#36393d;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-110" target="qIoC2KnWEeLaxk4hoa9C-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qIoC2KnWEeLaxk4hoa9C-110" value="Cistina → Cistinuria osea jovenes con litos repetidos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-110" value="Cistina → Cistinuria osea jovenes con litos repetidos" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="330" y="2388" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qIoC2KnWEeLaxk4hoa9C-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-112" target="qIoC2KnWEeLaxk4hoa9C-114">
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#cce5ff;strokeColor=#36393d;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-112" target="qIoC2KnWEeLaxk4hoa9C-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qIoC2KnWEeLaxk4hoa9C-112" value="P Calcico → ↑Ca tx con tiazidas" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-112" value="P Calcico → ↑Ca tx con tiazidas" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="330" y="2488" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qIoC2KnWEeLaxk4hoa9C-114" value="Oxalato Ca → Cuando hay malabsorcion de Ac grasos (Via biliar alterada, EII, reseccion intestinal" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-114" value="Oxalato Ca → Cuando hay malabsorcion de Ac grasos (Via biliar alterada, EII, reseccion intestinal" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="310" y="2598" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-117" value="Hiperplasia Benigna" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="30" y="2740" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-119" target="qIoC2KnWEeLaxk4hoa9C-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-119" value="80% a los 80 años&lt;br&gt;Relacionado a Dihidrotestosterona" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="2830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-120" target="qIoC2KnWEeLaxk4hoa9C-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-120" target="qIoC2KnWEeLaxk4hoa9C-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-120" value="Clinica" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-122" target="qIoC2KnWEeLaxk4hoa9C-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-122" value="Obstructiva" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-124" target="qIoC2KnWEeLaxk4hoa9C-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-124" value="Irritativa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="2970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-126" target="qIoC2KnWEeLaxk4hoa9C-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-126" value="No hay relacion Tamaño / Sintomas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-128" target="qIoC2KnWEeLaxk4hoa9C-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-128" value="Fase Compensacion:&amp;nbsp;&lt;br&gt;&lt;br&gt;Hipertrofia del detrusor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-130" target="qIoC2KnWEeLaxk4hoa9C-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-130" value="Fase Clinica:&amp;nbsp;&lt;br&gt;&lt;br&gt;Sindrome prostatico (Dificultad iniciar miccion, Chorro debil, Miccion entrecortada, goteo. vaciado incompleto)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3390" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-132" value="Fase de Descompensacion:&lt;br&gt;&lt;br&gt;Uropatia obstructiva" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3635" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-134" target="qIoC2KnWEeLaxk4hoa9C-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-134" value="Nicturia, tenesmo, polaquiuria" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="3110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-136" value="Tx: Anticolinergicos o B3 Mimeticos" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="3240" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
