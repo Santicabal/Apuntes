@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T17:42:56.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Y8UuF8teCiFKCsQ1pnrn" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T18:42:23.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="q3Kg2Fr2cq1SZGeVJmFC" version="21.3.0" type="github">
   <diagram name="Page-1" id="Ps0thIFmfNqswJppemzR">
-    <mxGraphModel dx="582" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="537" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,8 +135,8 @@
         <mxCell id="qIoC2KnWEeLaxk4hoa9C-48" value="Tx: Embarazadas, inmunodeprimidos, proteus, previo a Cx urologica" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="863" width="120" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="qIoC2KnWEeLaxk4hoa9C-51" value="Orquiepididimitis" style="ellipse;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1090" width="90.08" height="50" as="geometry" />
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-51" value="Orquiepididimitis" style="ellipse;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="220" y="1060" width="110.08" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qIoC2KnWEeLaxk4hoa9C-52" value="Menor 35" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="167.72844848632812" y="1190" width="80" height="30" as="geometry" />
@@ -185,6 +185,63 @@
         </mxCell>
         <mxCell id="qIoC2KnWEeLaxk4hoa9C-67" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="qIoC2KnWEeLaxk4hoa9C-62" target="qIoC2KnWEeLaxk4hoa9C-66" parent="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-68" value="Prostatitis" style="ellipse;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="587.5699999999999" y="1070" width="110.08" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-69" value="Fiebre, Dolor perineal&#xa;Piuria, Disuria" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="578.4499999999999" y="1200" width="127.7" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-70" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-68" target="qIoC2KnWEeLaxk4hoa9C-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-73" value="Prostata aumentada de &#xa;tamaño y dolorosa&#xa;(No esta contraindicado &#xa;el Tacto)" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="578.68" y="1260" width="127.86" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-74" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-69" target="qIoC2KnWEeLaxk4hoa9C-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-77" value="Si esta contraindicado &#xa;sondaje y masaje &#xa;prostatico" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="577" y="1360" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-78" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-73" target="qIoC2KnWEeLaxk4hoa9C-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-81" value="Tx 4 semanas &#xa;para E.  Coli" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="602.14" y="1440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-82" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-77" target="qIoC2KnWEeLaxk4hoa9C-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-85" value="Litiasis" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1570" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-86" target="qIoC2KnWEeLaxk4hoa9C-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-86" value="80% se ve en Rx abdomen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-87" target="qIoC2KnWEeLaxk4hoa9C-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-87" value="No es el mejor estudio pero si el primero" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-89" target="qIoC2KnWEeLaxk4hoa9C-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-89" value="La mayoria se expulsan solos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-91" target="qIoC2KnWEeLaxk4hoa9C-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-91" value="Tx del dolor con AINEs, la buscapina se evita por que interfiere en la expulsion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-93" value="Tx medico expulsivo con alfa bloqueantes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
