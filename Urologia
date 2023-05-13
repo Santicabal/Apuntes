@@ -1,9 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T15:22:43.471Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.0" etag="chqiSAnp8R0uP5Qo_zFr" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T16:06:34.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="f04PXFAmpnzajtZD0Kku" version="21.3.0" type="github">
   <diagram name="Page-1" id="Ps0thIFmfNqswJppemzR">
-    <mxGraphModel>
+    <mxGraphModel dx="499" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-1" value="ITU" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="20" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-2" target="qIoC2KnWEeLaxk4hoa9C-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-2" value="Clinica + Urocultivo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-3" target="qIoC2KnWEeLaxk4hoa9C-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-3" value="10&lt;sup&gt;5&lt;/sup&gt; UFC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-5" value="Si hay mas 2 especies → Contaminado, repetir muestra" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="80" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-9" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-7" target="qIoC2KnWEeLaxk4hoa9C-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-11" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-7" target="qIoC2KnWEeLaxk4hoa9C-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-7" value="Hematuria" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-8" target="qIoC2KnWEeLaxk4hoa9C-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-8" target="qIoC2KnWEeLaxk4hoa9C-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-8" value="Microscopica" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-13" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="qIoC2KnWEeLaxk4hoa9C-10" target="qIoC2KnWEeLaxk4hoa9C-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500.0000000000002" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-10" value="Macroscopica" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" target="qIoC2KnWEeLaxk4hoa9C-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="410" as="sourcePoint" />
+            <mxPoint x="500" y="460.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-14" value="Causa mas frecuente Cistitis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="344" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-16" value="Monosintomatica, hay que descartar tumor de vejiga" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="441" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-18" value="Causa mas frecuente Litiasis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoC2KnWEeLaxk4hoa9C-20" value="Hombres mayores → Hiperplasia Prostatica" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
