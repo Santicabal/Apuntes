@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T22:04:40.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="nBPMybEhF_svgrGzGdOJ" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-15T22:26:41.698Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="64YTT4vp4xUor1FjtdJu" version="21.3.2" type="github">
   <diagram name="Page-1" id="Ps0thIFmfNqswJppemzR">
-    <mxGraphModel dx="1443" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="593" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -745,10 +745,10 @@
           <mxGeometry x="655" y="7157.5" width="120" height="135" as="geometry" />
         </mxCell>
         <mxCell id="MABKdCTGTQaSGm2qCqye-19" value="&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;font-size: 19px;&quot;&gt;Tumores del Estroma&lt;br style=&quot;&quot;&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;Celulas de Leydig → Pubertad precoz&lt;br style=&quot;font-size: 17px;&quot;&gt;Celulas de Sertoli&lt;br style=&quot;font-size: 17px;&quot;&gt;Estructuras Gonadales Primarias" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;verticalAlign=top;align=left;fontSize=17;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;gradientColor=none;glass=1;" vertex="1" parent="1">
-          <mxGeometry x="-2.430000000000007" y="7195.5" width="420" height="209" as="geometry" />
+          <mxGeometry x="2.569999999999993" y="7195.5" width="420" height="209" as="geometry" />
         </mxCell>
         <mxCell id="MABKdCTGTQaSGm2qCqye-18" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;Tumores Germinales 95%&lt;br style=&quot;&quot;&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;Seminoma&lt;br style=&quot;font-size: 17px;&quot;&gt;Ca Embrionario → Metastasis precoces&lt;br style=&quot;font-size: 17px;&quot;&gt;Saco Vitelino&lt;br style=&quot;font-size: 17px;&quot;&gt;Coriocarcinoma → ↑↑ Metastasis y en suelta de globos&lt;br style=&quot;font-size: 17px;&quot;&gt;Teratoma" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;align=left;fontSize=17;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="-2.430000000000007" y="7077.5" width="420" height="168" as="geometry" />
+          <mxGeometry x="2.569999999999993" y="7077.5" width="420" height="168" as="geometry" />
         </mxCell>
         <mxCell id="MABKdCTGTQaSGm2qCqye-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MABKdCTGTQaSGm2qCqye-20" target="MABKdCTGTQaSGm2qCqye-22">
           <mxGeometry relative="1" as="geometry" />
