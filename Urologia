@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T21:32:47.428Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="wPZdebOTAgNlWbO9xrG7" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-15T21:59:10.128Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="At4q1I3ZP3cpug4cluh-" version="21.3.2" type="github">
   <diagram name="Page-1" id="Ps0thIFmfNqswJppemzR">
-    <mxGraphModel dx="1359" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1443" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -709,22 +709,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MABKdCTGTQaSGm2qCqye-4" value="Aumento de tamaño testicualr" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="106" y="6879" width="120" height="60" as="geometry" />
+          <mxGeometry x="51" y="6879" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MABKdCTGTQaSGm2qCqye-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MABKdCTGTQaSGm2qCqye-5" target="MABKdCTGTQaSGm2qCqye-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MABKdCTGTQaSGm2qCqye-5" value="Doloroso" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="6790" width="120" height="60" as="geometry" />
+          <mxGeometry x="255" y="6790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MABKdCTGTQaSGm2qCqye-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MABKdCTGTQaSGm2qCqye-7" target="MABKdCTGTQaSGm2qCqye-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MABKdCTGTQaSGm2qCqye-7" value="Sin dolor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="6980" width="120" height="60" as="geometry" />
+          <mxGeometry x="255" y="6980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MABKdCTGTQaSGm2qCqye-9" value="Orquiepididimitis&lt;br&gt;Varicocele&lt;br&gt;Quiste de epididimo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="6790" width="120" height="60" as="geometry" />
+          <mxGeometry x="455" y="6790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MABKdCTGTQaSGm2qCqye-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MABKdCTGTQaSGm2qCqye-11" target="MABKdCTGTQaSGm2qCqye-13">
           <mxGeometry relative="1" as="geometry" />
@@ -733,16 +733,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MABKdCTGTQaSGm2qCqye-11" value="Sospecha cancer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="6980" width="120" height="60" as="geometry" />
+          <mxGeometry x="455" y="6980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MABKdCTGTQaSGm2qCqye-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MABKdCTGTQaSGm2qCqye-13" target="MABKdCTGTQaSGm2qCqye-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MABKdCTGTQaSGm2qCqye-13" value="Factores de Riesgo:&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Criptorquidea&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Historia Familiar&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Parotiditis&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Klinefelter&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Estrogenos&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Exposicion al calor&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="710" y="6942.5" width="120" height="135" as="geometry" />
+          <mxGeometry x="655" y="6942.5" width="120" height="135" as="geometry" />
         </mxCell>
         <mxCell id="MABKdCTGTQaSGm2qCqye-15" value="Clinica:&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Masa testicular&amp;nbsp;&lt;br&gt;Metastasis ganglionar&lt;br&gt;Pubertad precoz&lt;br&gt;Ginecomastia&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="710" y="7157.5" width="120" height="135" as="geometry" />
+          <mxGeometry x="655" y="7157.5" width="120" height="135" as="geometry" />
         </mxCell>
         <mxCell id="MABKdCTGTQaSGm2qCqye-19" value="&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;font-size: 19px;&quot;&gt;Tumores del Estroma&lt;br style=&quot;&quot;&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;Celulas de Leydig → Pubertad precoz&lt;br style=&quot;font-size: 17px;&quot;&gt;Celulas de Sertoli&lt;br style=&quot;font-size: 17px;&quot;&gt;Estructuras Gonadales Primarias" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;verticalAlign=top;align=left;fontSize=17;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;gradientColor=none;glass=1;" vertex="1" parent="1">
           <mxGeometry x="-2.430000000000007" y="7195.5" width="420" height="209" as="geometry" />
@@ -750,8 +750,35 @@
         <mxCell id="MABKdCTGTQaSGm2qCqye-18" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;Tumores Germinales 95%&lt;br style=&quot;&quot;&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;Seminoma&lt;br style=&quot;font-size: 17px;&quot;&gt;Ca Embrionario → Metastasis precoces&lt;br style=&quot;font-size: 17px;&quot;&gt;Saco Vitelino&lt;br style=&quot;font-size: 17px;&quot;&gt;Coriocarcinoma → ↑↑ Metastasis y en suelta de globos&lt;br style=&quot;font-size: 17px;&quot;&gt;Teratoma" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;align=left;fontSize=17;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;glass=0;" vertex="1" parent="1">
           <mxGeometry x="-2.430000000000007" y="7077.5" width="420" height="168" as="geometry" />
         </mxCell>
-        <mxCell id="MABKdCTGTQaSGm2qCqye-20" value="Diagnostico&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Alfa feto Proteina y Beta HCG&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(Seminoma NUNCA eleva AFP)&lt;br&gt;&lt;br&gt;2. USG con masa intratesticular hipoecoica (Prueba definitiva)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="501" y="7120" width="140" height="180" as="geometry" />
+        <mxCell id="MABKdCTGTQaSGm2qCqye-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MABKdCTGTQaSGm2qCqye-20" target="MABKdCTGTQaSGm2qCqye-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MABKdCTGTQaSGm2qCqye-20" value="Diagnostico&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Alfa feto Proteina y Beta HCG&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(Seminoma NUNCA eleva AFP)&lt;br&gt;&lt;br&gt;2. USG con masa intratesticular hipoecoica (Prueba definitiva)&lt;br&gt;&lt;br&gt;3. TAC para estadificar&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacingLeft=6;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="446" y="7120" width="140" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="MABKdCTGTQaSGm2qCqye-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MABKdCTGTQaSGm2qCqye-22" target="MABKdCTGTQaSGm2qCqye-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MABKdCTGTQaSGm2qCqye-22" value="Estadios&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;I: Solo Testiculos&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;II: Ganglion retroperitoneales&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;III: Ganglios Supradiafragmaticos&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="455" y="7390" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MABKdCTGTQaSGm2qCqye-27" value="Seminoma" style="orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1" source="MABKdCTGTQaSGm2qCqye-24" target="MABKdCTGTQaSGm2qCqye-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MABKdCTGTQaSGm2qCqye-29" value="Otros" style="orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1" source="MABKdCTGTQaSGm2qCqye-24" target="MABKdCTGTQaSGm2qCqye-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MABKdCTGTQaSGm2qCqye-24" value="Orquiectomia" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;rounded=1;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="675" y="7415" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MABKdCTGTQaSGm2qCqye-26" value="I: nada&lt;br&gt;II: &lt;b&gt;RT&lt;/b&gt;/QT&lt;br&gt;IIC-III: QT" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;rounded=1;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="591" y="7600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MABKdCTGTQaSGm2qCqye-28" value="&lt;br&gt;I: QT o nada&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;gt;I: QT" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;rounded=1;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="758" y="7600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MABKdCTGTQaSGm2qCqye-30" value="QT: Bleomicina + Etoposido + Cisplatino" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="7610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
