@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T16:19:20.118Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="CyBBX2YYLEOb8YC46bXk" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-15T16:30:16.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="k1VjJHA4qqc447kHhUh4" version="21.3.2" type="github">
   <diagram name="Page-1" id="Ps0thIFmfNqswJppemzR">
-    <mxGraphModel dx="472" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="674" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -612,20 +612,36 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tam9JitkxXzFVz5DHSPC-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tam9JitkxXzFVz5DHSPC-4" target="tam9JitkxXzFVz5DHSPC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tam9JitkxXzFVz5DHSPC-4" value="Cistoscopia con toma de biopsia" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="6040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tam9JitkxXzFVz5DHSPC-6" value="RTU" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="520.5" y="6040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tam9JitkxXzFVz5DHSPC-11" value="Carcinoma in situ no se ve pero tiene citologias +" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="127.57" y="6140" width="160" height="100" as="geometry" />
+        <mxCell id="tam9JitkxXzFVz5DHSPC-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tam9JitkxXzFVz5DHSPC-11" target="tam9JitkxXzFVz5DHSPC-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tam9JitkxXzFVz5DHSPC-11" value="Carcinoma in situ no se ve pero tiene citologias +" style="ellipse;shape=label;whiteSpace=wrap;html=1;perimeter=rectanglePerimeter;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="131.21" y="6170" width="137.57" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tam9JitkxXzFVz5DHSPC-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tam9JitkxXzFVz5DHSPC-14" target="tam9JitkxXzFVz5DHSPC-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tam9JitkxXzFVz5DHSPC-23" value="Superficial" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tam9JitkxXzFVz5DHSPC-16">
+          <mxGeometry x="0.7165" y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tam9JitkxXzFVz5DHSPC-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tam9JitkxXzFVz5DHSPC-14" target="tam9JitkxXzFVz5DHSPC-17">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tam9JitkxXzFVz5DHSPC-24" value="Infiltrante" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tam9JitkxXzFVz5DHSPC-18">
+          <mxGeometry x="0.7164" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="tam9JitkxXzFVz5DHSPC-14" value="Estadiaje" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520.5" y="6140" width="120" height="60" as="geometry" />
@@ -642,11 +658,37 @@
         <mxCell id="tam9JitkxXzFVz5DHSPC-17" value="T2: Muscular&lt;br&gt;T3: Tejido perivesical&lt;br&gt;T4: Organos vecinos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="685" y="6270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tam9JitkxXzFVz5DHSPC-32" value="Riesgo medio o bajo" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tam9JitkxXzFVz5DHSPC-19">
+          <mxGeometry x="0.0159" relative="1" as="geometry">
+            <mxPoint x="430" y="6570" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tam9JitkxXzFVz5DHSPC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tam9JitkxXzFVz5DHSPC-19" target="tam9JitkxXzFVz5DHSPC-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tam9JitkxXzFVz5DHSPC-34" value="Alto Riesgo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tam9JitkxXzFVz5DHSPC-33">
+          <mxGeometry x="-0.0663" y="2" relative="1" as="geometry">
+            <mxPoint x="20" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tam9JitkxXzFVz5DHSPC-19" value="RTU" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="6400" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="tam9JitkxXzFVz5DHSPC-26" value="Si puede tolerarlo" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tam9JitkxXzFVz5DHSPC-21" target="tam9JitkxXzFVz5DHSPC-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tam9JitkxXzFVz5DHSPC-21" value="Cistectomia" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="6400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tam9JitkxXzFVz5DHSPC-25" value="Qx Neo&lt;br&gt;adyuvante" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="6564" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tam9JitkxXzFVz5DHSPC-28" value="BCG" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="159.995" y="6315" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tam9JitkxXzFVz5DHSPC-35" value="MMC" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="391" y="6567" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
