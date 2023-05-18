@@ -1,9 +1,141 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T16:39:09.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.2" etag="QUDDfcUTYFnWrzfroRWF" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T20:09:35.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="dq5lzQSGFAPjhCobje4R" version="21.3.2" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
-    <mxGraphModel>
+    <mxGraphModel dx="472" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-1" value="Lesiones Histologicas" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-2" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="180" width="280" height="334" as="geometry" />
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="ms8aTVZbcV0h11WQ2rdN-2">
+          <mxGeometry width="280" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-4" value="Espongiosis" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ms8aTVZbcV0h11WQ2rdN-3">
+          <mxGeometry width="93" height="56" as="geometry">
+            <mxRectangle width="93" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-5" value="Eccema" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ms8aTVZbcV0h11WQ2rdN-3">
+          <mxGeometry x="93" width="94" height="56" as="geometry">
+            <mxRectangle width="94" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-6" value="Es edema extracelular" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ms8aTVZbcV0h11WQ2rdN-3">
+          <mxGeometry x="187" width="93" height="56" as="geometry">
+            <mxRectangle width="93" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-7" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="ms8aTVZbcV0h11WQ2rdN-2">
+          <mxGeometry y="56" width="280" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-8" value="Balonizacion" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ms8aTVZbcV0h11WQ2rdN-7">
+          <mxGeometry width="93" height="55" as="geometry">
+            <mxRectangle width="93" height="55" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-9" value="Herpes" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ms8aTVZbcV0h11WQ2rdN-7">
+          <mxGeometry x="93" width="94" height="55" as="geometry">
+            <mxRectangle width="94" height="55" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-10" value="Edema Intracelular (Tambien hay ampolla)" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ms8aTVZbcV0h11WQ2rdN-7">
+          <mxGeometry x="187" width="93" height="55" as="geometry">
+            <mxRectangle width="93" height="55" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-11" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="ms8aTVZbcV0h11WQ2rdN-2">
+          <mxGeometry y="111" width="280" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-12" value="Acantolisis" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ms8aTVZbcV0h11WQ2rdN-11">
+          <mxGeometry width="93" height="55" as="geometry">
+            <mxRectangle width="93" height="55" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-13" value="Penfigo" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ms8aTVZbcV0h11WQ2rdN-11">
+          <mxGeometry x="93" width="94" height="55" as="geometry">
+            <mxRectangle width="94" height="55" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-14" value="Separacion de desmosomas (celulas sueltas en una ampolla)" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ms8aTVZbcV0h11WQ2rdN-11">
+          <mxGeometry x="187" width="93" height="55" as="geometry">
+            <mxRectangle width="93" height="55" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-18" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="ms8aTVZbcV0h11WQ2rdN-2">
+          <mxGeometry y="166" width="280" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-19" value="Paraqueratosis" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ms8aTVZbcV0h11WQ2rdN-18">
+          <mxGeometry width="93" height="56" as="geometry">
+            <mxRectangle width="93" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-20" value="Psoriasis" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ms8aTVZbcV0h11WQ2rdN-18">
+          <mxGeometry x="93" width="94" height="56" as="geometry">
+            <mxRectangle width="94" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-21" value="Presencia de nucleos en capa cornea" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ms8aTVZbcV0h11WQ2rdN-18">
+          <mxGeometry x="187" width="93" height="56" as="geometry">
+            <mxRectangle width="93" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-22" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="ms8aTVZbcV0h11WQ2rdN-2">
+          <mxGeometry y="222" width="280" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-23" value="Disqueratosis" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ms8aTVZbcV0h11WQ2rdN-22">
+          <mxGeometry width="93" height="56" as="geometry">
+            <mxRectangle width="93" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-24" value="Darier" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ms8aTVZbcV0h11WQ2rdN-22">
+          <mxGeometry x="93" width="94" height="56" as="geometry">
+            <mxRectangle width="94" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-25" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ms8aTVZbcV0h11WQ2rdN-22">
+          <mxGeometry x="187" width="93" height="56" as="geometry">
+            <mxRectangle width="93" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-26" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="ms8aTVZbcV0h11WQ2rdN-2">
+          <mxGeometry y="278" width="280" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-27" value="Microabscesos de Pautrier" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ms8aTVZbcV0h11WQ2rdN-26">
+          <mxGeometry width="93" height="56" as="geometry">
+            <mxRectangle width="93" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-28" value="Micosis fungoide" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ms8aTVZbcV0h11WQ2rdN-26">
+          <mxGeometry x="93" width="94" height="56" as="geometry">
+            <mxRectangle width="94" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-29" value="Abscesos con Linfo T" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ms8aTVZbcV0h11WQ2rdN-26">
+          <mxGeometry x="187" width="93" height="56" as="geometry">
+            <mxRectangle width="93" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="ms8aTVZbcV0h11WQ2rdN-34" target="ms8aTVZbcV0h11WQ2rdN-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-34" value="Lesion desaparece con vitropresion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="400" y="180" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#6a00ff;strokeColor=#3700CC;" edge="1" parent="1" source="ms8aTVZbcV0h11WQ2rdN-35" target="ms8aTVZbcV0h11WQ2rdN-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-35" value="No desaparece" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#990099;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-36" value="Lesion Eritematosa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="558" y="180" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ms8aTVZbcV0h11WQ2rdN-38" value="Lesion purpurica" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#990099;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="558" y="280" width="105" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
