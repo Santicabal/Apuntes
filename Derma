@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T20:35:01.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_GjHr1QE_yPRJovPMIyD" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-22T20:48:02.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="u_r7RqY6TDQ7jg30lzjT" version="21.3.2" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
-    <mxGraphModel dx="858" dy="1371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="590" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -498,6 +498,39 @@
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-172" value="Primecrolimus topico" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="702" y="3370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad7ac;strokeColor=#000000;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-175" target="hpjyC8EZQYGZqKfzJCWW-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-175" value="Dermatitis Atopica" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="82" y="3480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad7ac;strokeColor=#000000;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-177" target="hpjyC8EZQYGZqKfzJCWW-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-177" value="Asociado a rinitis, asma" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="256" y="3480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-178" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-179" target="hpjyC8EZQYGZqKfzJCWW-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-179" value="Piel seca +&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Prurito&amp;nbsp;&lt;/b&gt;(Siempre)&lt;br&gt;El rascado produce liquenificacion" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="436" y="3480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-180" value="Antifungicos + corticoide topico" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="622" y="3470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-181" value="Primecrolimus topico" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="702" y="3470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-184" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-182" target="hpjyC8EZQYGZqKfzJCWW-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-182" value="Liquenificacion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="372" y="360" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-183" value="Engrosamiento de la piel con pliegues mas marcados" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="557" y="360" width="105" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
