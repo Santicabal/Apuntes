@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T16:29:34.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="w0Lz1guD_6bQhUVPhurO" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-22T17:01:40.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="wgSOAbWOdS-ZMA2JDGKv" version="21.3.2" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
     <mxGraphModel dx="1049" dy="1676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -239,10 +239,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-38" value="Comen Queratina por eso afecta solo piel y pelo y nunca mucosas" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="403" y="1380" width="120" height="60" as="geometry" />
+          <mxGeometry x="405" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-40" value="Placa ovalada eritemo descamativa con bordes activos y Luz Wood -&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="581" y="1380" width="120" height="60" as="geometry" />
+          <mxGeometry x="586" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-42" target="hpjyC8EZQYGZqKfzJCWW-48">
           <mxGeometry relative="1" as="geometry" />
@@ -293,28 +293,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-60" value="Eritrasma" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="51" y="1600" width="120" height="60" as="geometry" />
+          <mxGeometry x="51" y="1719" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-64" target="hpjyC8EZQYGZqKfzJCWW-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-64" value="Corynebacterium" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="1600" width="120" height="60" as="geometry" />
+          <mxGeometry x="225" y="1719" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-67" target="hpjyC8EZQYGZqKfzJCWW-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-67" value="Diferencial con candida, placa eritematosa bien delimitada" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="1600" width="120" height="60" as="geometry" />
+          <mxGeometry x="405" y="1719" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-69" target="hpjyC8EZQYGZqKfzJCWW-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-69" value="Luz de Wood&amp;nbsp; se ve rojo" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="587" y="1600" width="120" height="60" as="geometry" />
+          <mxGeometry x="587" y="1719" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-71" value="Eritromicina" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="753" y="1590" width="80" height="80" as="geometry" />
+          <mxGeometry x="753" y="1709" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-73" target="hpjyC8EZQYGZqKfzJCWW-75">
           <mxGeometry relative="1" as="geometry" />
@@ -336,6 +336,87 @@
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-80" value="Atrofia en fondo del pliegue" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="587" y="1493" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-82" target="hpjyC8EZQYGZqKfzJCWW-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-82" value="Erisipela y Celulitis" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="51" y="1859" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-84" target="hpjyC8EZQYGZqKfzJCWW-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-84" value="Pyogenes y aureus" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1859" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-89" target="hpjyC8EZQYGZqKfzJCWW-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-89" value="Erisipela bien definida y superficial.&lt;br&gt;Celulitis mal definida y profunda" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="1859" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-94" target="hpjyC8EZQYGZqKfzJCWW-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-94" value="Fiebre, leucocitosis, etc" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="587" y="1859" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-102" value="Dicloxacilina" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="753" y="1849" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-104" target="hpjyC8EZQYGZqKfzJCWW-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-104" value="Hidradenitis supurativa" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="51" y="1999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-106" target="hpjyC8EZQYGZqKfzJCWW-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-106" value="NO es infecciosa, en inflamatoria Aun asi se sobreinfectan y se dan Abx" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-109" target="hpjyC8EZQYGZqKfzJCWW-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-109" value="Lesiones episodicas recurrentes, asociado a obesidad, mujeres y DM" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="1999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-111" target="hpjyC8EZQYGZqKfzJCWW-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-111" value="Clasificacion:&lt;br&gt;I. No deja cicatriz&lt;br&gt;II. Si deja cicatriz&lt;br&gt;III. Condiciona movilidad articular" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="587" y="1990" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-114" target="hpjyC8EZQYGZqKfzJCWW-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-114" value="Tx por linea" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="753" y="1990" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-117" value="1. Clindamicina / Corticoides&lt;br&gt;&lt;br&gt;2. Adalimumab&lt;br&gt;&lt;br&gt;3. Cx" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shape=ext;perimeter=rectanglePerimeter;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="746" y="2112" width="93" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-119" target="hpjyC8EZQYGZqKfzJCWW-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-119" value="Esporotricosis" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="51" y="1611" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-121" target="hpjyC8EZQYGZqKfzJCWW-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-121" value="Jardineros al picarse con una rosa" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1611" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-123" target="hpjyC8EZQYGZqKfzJCWW-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-123" value="Ulcera en lugar del pinchazo y nodulos cutaneos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="1611" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-125" value="Yoduro potasiico o Itraconazol" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="607" y="1601" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
