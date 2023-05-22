@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T19:55:21.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="pCAo4uF7l17wXYcwEjjk" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-22T19:55:39.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="fiFCjkfhsugLCSwHYnTN" version="21.3.2" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
     <mxGraphModel dx="590" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -433,13 +433,13 @@
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-138" value="&lt;ul style=&quot;font-size: 15px;&quot;&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Relacionado a Hep C&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Papulas Planas &lt;b&gt;Pruriginosas&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;No descamacion&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Zonas de flexion muñecas y tobillos&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;60% afecta mucosas y se consideran preneoplasicas&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Microscopio&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Hiperqueratosis SIN nucleos en cornea&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;↑ Capa granulosa&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;↑ Capa Espinosa&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Papilomatosis en dientes de sierra&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Infiltrado de linfocitos en banda&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=15;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="436" y="2365" width="330" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="hpjyC8EZQYGZqKfzJCWW-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-141" target="hpjyC8EZQYGZqKfzJCWW-142">
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-141" target="hpjyC8EZQYGZqKfzJCWW-142">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-141" value="Corticoides&lt;br&gt;&amp;nbsp;topicos&lt;br&gt;y Analogos &lt;br&gt;de Vit. D" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="230" y="2740" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hpjyC8EZQYGZqKfzJCWW-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-142" target="hpjyC8EZQYGZqKfzJCWW-144">
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-142" target="hpjyC8EZQYGZqKfzJCWW-144">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-142" value="Metotrexato / Ciclosporina / acitretino" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=3;" vertex="1" parent="1">
@@ -448,7 +448,7 @@
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-144" value="Biologicos" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="230" y="3038" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hpjyC8EZQYGZqKfzJCWW-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-147" target="hpjyC8EZQYGZqKfzJCWW-149">
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-147" target="hpjyC8EZQYGZqKfzJCWW-149">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-147" value="Corticoides&lt;br&gt;&amp;nbsp;topicos o sistemicos&lt;br&gt;y Analogos &lt;br&gt;de Vit. D" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=3;" vertex="1" parent="1">
@@ -457,10 +457,10 @@
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-149" value="Metotrexato / Ciclosporina / acitretino" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="546" y="2886" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hpjyC8EZQYGZqKfzJCWW-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-151" target="hpjyC8EZQYGZqKfzJCWW-147">
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-151" target="hpjyC8EZQYGZqKfzJCWW-147">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hpjyC8EZQYGZqKfzJCWW-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-151" target="hpjyC8EZQYGZqKfzJCWW-141">
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-151" target="hpjyC8EZQYGZqKfzJCWW-141">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-151" value="Fototerapia" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=3;" vertex="1" parent="1">
