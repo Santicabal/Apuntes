@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T21:31:23.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="lEYVQU6xzyMa1mQHowyI" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-22T21:37:02.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="P8NdhZ9A3IYwp-juqC4q" version="21.3.2" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
     <mxGraphModel dx="497" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -556,6 +556,9 @@
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-195" target="hpjyC8EZQYGZqKfzJCWW-196">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-202" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-195" target="hpjyC8EZQYGZqKfzJCWW-201">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-195" value="Habones desaparecen en 24h" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="436" y="3750" width="120" height="60" as="geometry" />
         </mxCell>
@@ -567,6 +570,21 @@
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-197" value="Omalizumab (Anti IgE)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="3740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-205" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-199" target="hpjyC8EZQYGZqKfzJCWW-204">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-199" value="Corticoides" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="626" y="3880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-203" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-201" target="hpjyC8EZQYGZqKfzJCWW-199">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-201" value="Angioedema hay que monitorizar O2 y dejar en observacion" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="436" y="3890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-204" value="Plasma fresco congelado" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="746" y="3880" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
