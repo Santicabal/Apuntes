@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T19:57:35.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="WxzSO_ki9VQhdHQ_yOyh" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-22T20:35:01.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_GjHr1QE_yPRJovPMIyD" version="21.3.2" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
-    <mxGraphModel dx="726" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="858" dy="1371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -471,6 +471,33 @@
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-151" value="Fototerapia" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="397" y="2772" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-159" value="Dermatitis" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="33" y="3250" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad7ac;strokeColor=#000000;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-164" target="hpjyC8EZQYGZqKfzJCWW-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-164" value="Dermatitis Seborreica" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="82" y="3380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad7ac;strokeColor=#000000;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-166" target="hpjyC8EZQYGZqKfzJCWW-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-166" value="Malassezia Furfur" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="256" y="3380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-171" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-168" target="hpjyC8EZQYGZqKfzJCWW-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-168" value="Eritema en zonas seborreicas con escamas amarillentas" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="436" y="3380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-170" value="Antifungicos + corticoide topico" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="622" y="3370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-172" value="Primecrolimus topico" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="702" y="3370" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
