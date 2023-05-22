@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T20:56:51.864Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="adRwO32dY65uD5bJJI7q" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-22T21:31:23.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="lEYVQU6xzyMa1mQHowyI" version="21.3.2" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
-    <mxGraphModel dx="590" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="497" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -540,6 +540,33 @@
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-187" value="Dupilumab" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="3576" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-190" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad7ac;strokeColor=#000000;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-191" target="hpjyC8EZQYGZqKfzJCWW-193">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-191" value="Urticaria y angioedema" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="82" y="3750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-192" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad7ac;strokeColor=#000000;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-193" target="hpjyC8EZQYGZqKfzJCWW-195">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-193" value="Edma de dermis, el angioedema un poco mas profuno" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="256" y="3750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-195" target="hpjyC8EZQYGZqKfzJCWW-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-195" value="Habones desaparecen en 24h" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="436" y="3750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-198" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpjyC8EZQYGZqKfzJCWW-196" target="hpjyC8EZQYGZqKfzJCWW-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-196" value="Anti-histaminico+ corticoide&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="622" y="3740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-197" value="Omalizumab (Anti IgE)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="3740" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
