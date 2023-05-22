@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T17:38:45.850Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="wH7MB2RcVOwwUdICpnUy" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-22T17:57:14.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="nmiQbQB4ERihUEa9DYzr" version="21.3.2" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
-    <mxGraphModel dx="410" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="590" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -421,8 +421,8 @@
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-130" value="Psoriasis y Liquen Plano" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="32" y="2240" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hpjyC8EZQYGZqKfzJCWW-132" value="&lt;ul style=&quot;font-size: 15px;&quot;&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;HLA-CW6&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Placas desmativas bien delimitadas&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;En zonas de extension (Rodillas, codos, gluteos)&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Nunca afectan mucosas&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=15;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="106" y="2320" width="224" height="200" as="geometry" />
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-132" value="&lt;ul&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;HLA-CW6&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Placas desmativas bien delimitadas&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;En zonas de extension (Rodillas, codos, gluteos)&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Nunca afectan mucosas&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Microscopio&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Paraqueratosis&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;↓Capa granulosa&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;↑Capa Espinosa&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Papilomatosis&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=15;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="106" y="2320" width="224" height="250" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-135" value="Psoriasis" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="168.5" y="2290" width="100" height="40" as="geometry" />
@@ -430,8 +430,8 @@
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-136" value="Liquen" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="394.5" y="2290" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hpjyC8EZQYGZqKfzJCWW-138" value="&lt;ul style=&quot;font-size: 15px;&quot;&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Relacionado a Hep C&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Papulas Planas Pruriginosas&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;No descamacion&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Zonas de flexion muñecas y tobillos&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;60% afecta mucosas y se consideran preneoplasicas&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=15;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="330" y="2320" width="224" height="200" as="geometry" />
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-138" value="&lt;ul style=&quot;font-size: 15px;&quot;&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Relacionado a Hep C&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Papulas Planas &lt;b&gt;Pruriginosas&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;No descamacion&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Zonas de flexion muñecas y tobillos&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;60% afecta mucosas y se consideran preneoplasicas&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Microscopio&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Hiperqueratosis SIN nucleos en cornea&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;↑ Capa granulosa&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;↑ Capa Espinosa&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Papilomatosis en dientes de sierra&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Infiltrado de linfocitos en banda&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=15;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="330" y="2320" width="224" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
