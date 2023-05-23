@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T18:55:46.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Gx_727PHM9JhWbg21CA9" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T19:14:13.463Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="1Bc3pnMnZN-2xTA9mlYq" version="21.3.3" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
     <mxGraphModel dx="826" dy="1224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NROEVfUP7GZki3izZvUZ-80" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Darier&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Lupus&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Dermatomiositis&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Rosacea&lt;/li&gt;&lt;li&gt;Pelagra&lt;/li&gt;&lt;li&gt;Porfirias&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=-22;spacingTop=0;spacingBottom=0;verticalAlign=bottom;fillColor=#e1d5e7;strokeColor=#9673a6;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="204" y="4018" width="119" height="180" as="geometry" />
+          <mxGeometry x="204" y="3994" width="119" height="180" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-79" value="&lt;ul&gt;&lt;li&gt;Psoriasis y Liquen&lt;/li&gt;&lt;li&gt;Dermatitis Atopica&lt;/li&gt;&lt;li&gt;Acne&lt;/li&gt;&lt;li&gt;Micosis Fungoide&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=-22;spacingTop=24;spacingBottom=-40;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="85" y="4018" width="119" height="180" as="geometry" />
+          <mxGeometry x="85" y="3994" width="119" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ms8aTVZbcV0h11WQ2rdN-1" value="Lesiones Histologicas" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="30" y="11" width="170" height="40" as="geometry" />
@@ -770,22 +770,22 @@
           <mxGeometry x="608" y="2248" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-75" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.sun;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="110" y="4023" width="70" height="70" as="geometry" />
+          <mxGeometry x="110" y="3999" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-76" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.sun;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="231" y="4023" width="70" height="70" as="geometry" />
+          <mxGeometry x="231" y="3999" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-77" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="134" y="4043" width="25" height="30" as="geometry" />
+          <mxGeometry x="134" y="4019" width="25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-78" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="256" y="4048" width="20" height="20" as="geometry" />
+          <mxGeometry x="256" y="4024" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-81" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;arcSize=2;fillColor=none;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="84" y="4017" width="240" height="183" as="geometry" />
+          <mxGeometry x="84" y="3993" width="240" height="183" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-83" value="Reaccion al sol" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#6666FF;" vertex="1" parent="1">
-          <mxGeometry x="70" y="3977" width="186" height="40" as="geometry" />
+          <mxGeometry x="116" y="3953" width="186" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
