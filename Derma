@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T15:26:21.513Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="CuHuNqXHSv33fvLUN9JD" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T16:02:51.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="lrzHPYmv4MaKSRDQiDu1" version="21.3.3" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
-    <mxGraphModel dx="472" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="555" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -571,7 +571,7 @@
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-197" value="Omalizumab (Anti IgE)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;rounded=1;fontColor=#ffffff;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="763" y="3740" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hpjyC8EZQYGZqKfzJCWW-205" value="Cronica" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hpjyC8EZQYGZqKfzJCWW-199" target="hpjyC8EZQYGZqKfzJCWW-204" edge="1">
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-205" value="Hereditario" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hpjyC8EZQYGZqKfzJCWW-199" target="hpjyC8EZQYGZqKfzJCWW-204" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-199" value="Corticoides" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;rounded=1;fontColor=#ffffff;strokeWidth=2;" parent="1" vertex="1">
@@ -585,6 +585,96 @@
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-204" value="Plasma fresco congelado" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;rounded=1;fontColor=#ffffff;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="763" y="3880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-1" value="Toxicodermias" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="33" y="4010" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-3" value="Casi cualquier farmaco produce casi cualquier manifestacion" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="122" y="4080" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-4" target="NROEVfUP7GZki3izZvUZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-4" value="Exantema Morbiliforme" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="52" y="4200" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-5" target="NROEVfUP7GZki3izZvUZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-24" value="Siempre pedir &lt;br&gt;laboratorios para &lt;br&gt;descartar DRESS" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-5" target="NROEVfUP7GZki3izZvUZ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-5" value="El mas comun (90%) parece sarampion osea maculo-papular" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="252" y="4200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-7" target="NROEVfUP7GZki3izZvUZ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-7" value="Es la causa mas comun de exantema en el adulto" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="452" y="4200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-9" value="Aparece 1-2 semanas despues de tomar el farmaco&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="652" y="4200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-12" target="NROEVfUP7GZki3izZvUZ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-12" value="Urticaria" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="48.5" y="4520" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-13" value="Aparece en minutos u horas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="248.5" y="4520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-15" target="NROEVfUP7GZki3izZvUZ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-15" value="Exantema Fijo Medicamentoso" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="48.5" y="4680" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-16" target="NROEVfUP7GZki3izZvUZ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-16" value="Siempre es igual para cada paciente pero diferente de persona a persona" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="248.5" y="4680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-17" value="Cada vez se van sumando mas manifestacines a las ya habituales" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="448.5" y="4680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-20" target="NROEVfUP7GZki3izZvUZ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-20" value="DRESS&amp;nbsp;&lt;br&gt;(Drug Reaction with Eosinophilia and systemic symptoms)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="52" y="4363" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-21" target="NROEVfUP7GZki3izZvUZ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-21" value="Grave. Exantema Mobiliforme + Eosinofilia + ↑ Transaminasas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="252" y="4363" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-22" target="NROEVfUP7GZki3izZvUZ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-22" value="Pueden tener dolor abdominal y fiebre. Suele aparecer 15-45 dias despues" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="452" y="4363" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-25" value="Se debe hospitalizar y dar corticoides I.V" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="652" y="4363" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-28" target="NROEVfUP7GZki3izZvUZ-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-28" value="Reaccion acneiforme" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="48.5" y="4840" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-29" target="NROEVfUP7GZki3izZvUZ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-29" value="Causado por inhibidores de factor de crecimiento epidermico (IEGFR, terminan en TINIB)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="248.5" y="4840" width="141.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-30" value="Papulas en cara sin comedones" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="470" y="4840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
