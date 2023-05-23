@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T22:09:18.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="BtyoVcqtbdyyQFJPEees" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T22:14:47.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="bCb4PcMeUQjtYLL7-lJ3" version="21.3.3" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
     <mxGraphModel dx="578" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -839,22 +839,22 @@
         <mxCell id="NROEVfUP7GZki3izZvUZ-98" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="NROEVfUP7GZki3izZvUZ-85">
           <mxGeometry y="124" width="490" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="NROEVfUP7GZki3izZvUZ-99" value="Biopsia&amp;nbsp;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="NROEVfUP7GZki3izZvUZ-98">
+        <mxCell id="NROEVfUP7GZki3izZvUZ-99" value="Biopsia &lt;br&gt;(Se hace 2 veces y en region perilesional)" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="NROEVfUP7GZki3izZvUZ-98">
           <mxGeometry width="123" height="61" as="geometry">
             <mxRectangle width="123" height="61" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NROEVfUP7GZki3izZvUZ-100" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="NROEVfUP7GZki3izZvUZ-98">
+        <mxCell id="NROEVfUP7GZki3izZvUZ-100" value="Ampolla intraepidermica;&lt;br&gt;IgG entre queratinocitos" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="NROEVfUP7GZki3izZvUZ-98">
           <mxGeometry x="123" width="122" height="61" as="geometry">
             <mxRectangle width="122" height="61" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NROEVfUP7GZki3izZvUZ-101" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="NROEVfUP7GZki3izZvUZ-98">
+        <mxCell id="NROEVfUP7GZki3izZvUZ-101" value="Ampolla&amp;nbsp; subepidermica hay eosinofilos&amp;nbsp;&lt;br&gt;C3 + IgG" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="NROEVfUP7GZki3izZvUZ-98">
           <mxGeometry x="245" width="123" height="61" as="geometry">
             <mxRectangle width="123" height="61" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NROEVfUP7GZki3izZvUZ-116" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="NROEVfUP7GZki3izZvUZ-98">
+        <mxCell id="NROEVfUP7GZki3izZvUZ-116" value="Ampolla&amp;nbsp; subepidermica hay Neutrofilos&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;IgA" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="NROEVfUP7GZki3izZvUZ-98">
           <mxGeometry x="368" width="122" height="61" as="geometry">
             <mxRectangle width="122" height="61" as="alternateBounds" />
           </mxGeometry>
@@ -867,17 +867,17 @@
             <mxRectangle width="123" height="62" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NROEVfUP7GZki3izZvUZ-104" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="NROEVfUP7GZki3izZvUZ-102">
+        <mxCell id="NROEVfUP7GZki3izZvUZ-104" value="Anti Dg-1 y Dg-3" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="NROEVfUP7GZki3izZvUZ-102">
           <mxGeometry x="123" width="122" height="62" as="geometry">
             <mxRectangle width="122" height="62" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NROEVfUP7GZki3izZvUZ-105" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="NROEVfUP7GZki3izZvUZ-102">
+        <mxCell id="NROEVfUP7GZki3izZvUZ-105" value="Anti BP180 y BP230" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="NROEVfUP7GZki3izZvUZ-102">
           <mxGeometry x="245" width="123" height="62" as="geometry">
             <mxRectangle width="123" height="62" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NROEVfUP7GZki3izZvUZ-117" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="NROEVfUP7GZki3izZvUZ-102">
+        <mxCell id="NROEVfUP7GZki3izZvUZ-117" value="Antitransglutaminasa" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="NROEVfUP7GZki3izZvUZ-102">
           <mxGeometry x="368" width="122" height="62" as="geometry">
             <mxRectangle width="122" height="62" as="alternateBounds" />
           </mxGeometry>
