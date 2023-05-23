@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T17:13:07.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Ngcyskre337-8JgC-AyA" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T17:18:50.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="1dKlibbIXn4dk_vQMbSS" version="21.3.3" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
     <mxGraphModel dx="450" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -176,13 +176,13 @@
           <mxGeometry x="41" y="825" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-18" value="Sifilis 2ria" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="201" y="715" width="99" height="25" as="geometry" />
+          <mxGeometry x="201" y="723" width="99" height="25" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-20" value="Kawasaki" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="201" y="925" width="99" height="25" as="geometry" />
+          <mxGeometry x="201" y="922" width="99" height="25" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-21" value="Enf. Mordedura Rata" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="201" y="885" width="99" height="25" as="geometry" />
+          <mxGeometry x="201" y="882" width="99" height="25" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-22" value="Ricketsioss" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="201" y="842.5" width="99" height="25" as="geometry" />
@@ -194,10 +194,10 @@
           <mxGeometry x="201" y="761" width="99" height="25" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-25" value="Farmacos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="201" y="965" width="99" height="25" as="geometry" />
+          <mxGeometry x="201" y="962" width="99" height="25" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-26" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="172" y="713.5" width="20" height="281.5" as="geometry" />
+          <mxGeometry x="172" y="720" width="20" height="270" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-27" value="Silvia, Sara y Carla son Ricas pero&amp;nbsp;&lt;br&gt;Ratas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="344" y="815" width="120" height="60" as="geometry" />
@@ -443,7 +443,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-141" value="Corticoides&lt;br&gt;&amp;nbsp;topicos&lt;br&gt;y Analogos &lt;br&gt;de Vit. D" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="216" y="2758" width="110" height="110" as="geometry" />
+          <mxGeometry x="216" y="2757" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#000000;strokeWidth=1;" parent="1" source="hpjyC8EZQYGZqKfzJCWW-142" target="hpjyC8EZQYGZqKfzJCWW-144" edge="1">
           <mxGeometry relative="1" as="geometry" />
