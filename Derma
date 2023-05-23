@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T16:20:32.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="NVksgj64bdT5W0bNU3XN" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T16:56:24.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="e5oHbDl7dGJbzXMSXLbX" version="21.3.3" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
-    <mxGraphModel dx="787" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="450" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -622,8 +622,11 @@
         <mxCell id="NROEVfUP7GZki3izZvUZ-12" value="NET / Steven Johnson" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="48.5" y="4520" width="125" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NROEVfUP7GZki3izZvUZ-13" value="Aparece en minutos u horas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
-          <mxGeometry x="248.5" y="4520" width="120" height="60" as="geometry" />
+        <mxCell id="NROEVfUP7GZki3izZvUZ-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-13" target="NROEVfUP7GZki3izZvUZ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-13" value="Hay dianas (Halos pigementados con punto en medio) y ampollas N+, hay prodoromo como gripa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;" vertex="1" parent="1">
+          <mxGeometry x="248.5" y="4520" width="151.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-15" target="NROEVfUP7GZki3izZvUZ-16">
           <mxGeometry relative="1" as="geometry" />
@@ -691,8 +694,23 @@
         <mxCell id="NROEVfUP7GZki3izZvUZ-36" value="Nikolsky" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="70" y="610" width="105" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-37" target="NROEVfUP7GZki3izZvUZ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-37" value="Ampolla que se desprende al rasopar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="226" y="610" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-38" value="SSJ, Sx Piel escaldada, Penfigo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="432" y="610" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-40" target="NROEVfUP7GZki3izZvUZ-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-40" value="&amp;lt;10% SSJ&lt;br&gt;10-30% overlap&lt;br&gt;&amp;gt;30% NET" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="448.5" y="4520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-42" value="Antibioticos, Anticonvulsivos, AINEs, Alopurinol" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="648.5" y="4520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
