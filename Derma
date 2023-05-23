@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T22:23:37.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="rNkh1nIXkwYad06w0gMH" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T22:26:22.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="OcpL_k0PsUh8aF4p39nx" version="21.3.3" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
     <mxGraphModel dx="680" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -826,7 +826,7 @@
             <mxRectangle width="122" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NROEVfUP7GZki3izZvUZ-93" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Viejitos&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Ampollas tensas&lt;/li&gt;&lt;li&gt;↑ Prurito&lt;/li&gt;&lt;li&gt;Nikolsky -&lt;/li&gt;&lt;/ul&gt;" style="connectable=0;recursiveResize=0;strokeColor=#b85450;fillColor=#f8cecc;align=left;whiteSpace=wrap;html=1;spacingLeft=-23;" vertex="1" parent="NROEVfUP7GZki3izZvUZ-90">
+        <mxCell id="NROEVfUP7GZki3izZvUZ-93" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Viejitos&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Ampollas &lt;b&gt;tensas&lt;/b&gt;&lt;/li&gt;&lt;li&gt;↑ Prurito&lt;/li&gt;&lt;li&gt;Nikolsky -&lt;/li&gt;&lt;/ul&gt;" style="connectable=0;recursiveResize=0;strokeColor=#b85450;fillColor=#f8cecc;align=left;whiteSpace=wrap;html=1;spacingLeft=-23;" vertex="1" parent="NROEVfUP7GZki3izZvUZ-90">
           <mxGeometry x="245" width="123" height="60" as="geometry">
             <mxRectangle width="123" height="60" as="alternateBounds" />
           </mxGeometry>
@@ -849,7 +849,7 @@
             <mxRectangle width="122" height="61" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NROEVfUP7GZki3izZvUZ-101" value="Ampolla&amp;nbsp; subepidermica hay eosinofilos&amp;nbsp;&lt;br&gt;C3 + IgG" style="connectable=0;recursiveResize=0;strokeColor=#b85450;fillColor=#f8cecc;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="NROEVfUP7GZki3izZvUZ-98">
+        <mxCell id="NROEVfUP7GZki3izZvUZ-101" value="Ampolla&amp;nbsp; subepidermica hay eosinofilos&amp;nbsp;&lt;br&gt;C3 + IgG &lt;b&gt;en linea&lt;/b&gt;" style="connectable=0;recursiveResize=0;strokeColor=#b85450;fillColor=#f8cecc;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="NROEVfUP7GZki3izZvUZ-98">
           <mxGeometry x="245" width="123" height="61" as="geometry">
             <mxRectangle width="123" height="61" as="alternateBounds" />
           </mxGeometry>
