@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T16:56:24.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="e5oHbDl7dGJbzXMSXLbX" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T17:13:07.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Ngcyskre337-8JgC-AyA" version="21.3.3" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
     <mxGraphModel dx="450" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -589,13 +589,13 @@
         <mxCell id="NROEVfUP7GZki3izZvUZ-1" value="Toxicodermias" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="33" y="4010" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NROEVfUP7GZki3izZvUZ-3" value="Casi cualquier farmaco produce casi cualquier manifestacion" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+        <mxCell id="NROEVfUP7GZki3izZvUZ-3" value="Casi cualquier farmaco produce casi cualquier manifestacion" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="122" y="4080" width="128" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-4" target="NROEVfUP7GZki3izZvUZ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NROEVfUP7GZki3izZvUZ-4" value="Exantema Morbiliforme" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="NROEVfUP7GZki3izZvUZ-4" value="Exantema Morbiliforme" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="52" y="4200" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-5" target="NROEVfUP7GZki3izZvUZ-7">
@@ -619,7 +619,7 @@
         <mxCell id="NROEVfUP7GZki3izZvUZ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-12" target="NROEVfUP7GZki3izZvUZ-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NROEVfUP7GZki3izZvUZ-12" value="NET / Steven Johnson" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="NROEVfUP7GZki3izZvUZ-12" value="NET / Steven Johnson" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="48.5" y="4520" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-13" target="NROEVfUP7GZki3izZvUZ-40">
@@ -631,7 +631,7 @@
         <mxCell id="NROEVfUP7GZki3izZvUZ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-15" target="NROEVfUP7GZki3izZvUZ-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NROEVfUP7GZki3izZvUZ-15" value="Exantema Fijo Medicamentoso" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="NROEVfUP7GZki3izZvUZ-15" value="Exantema Fijo Medicamentoso" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="48.5" y="4680" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-16" target="NROEVfUP7GZki3izZvUZ-17">
@@ -646,13 +646,13 @@
         <mxCell id="NROEVfUP7GZki3izZvUZ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-20" target="NROEVfUP7GZki3izZvUZ-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NROEVfUP7GZki3izZvUZ-20" value="DRESS&amp;nbsp;&lt;br&gt;(Drug Reaction with Eosinophilia and systemic symptoms)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="NROEVfUP7GZki3izZvUZ-20" value="DRESS&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(Drug Reaction with Eosinophilia and systemic symptoms)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="52" y="4363" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-21" target="NROEVfUP7GZki3izZvUZ-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NROEVfUP7GZki3izZvUZ-21" value="Grave. Exantema Mobiliforme + Eosinofilia + ↑ Transaminasas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+        <mxCell id="NROEVfUP7GZki3izZvUZ-21" value="Grave. Exantema Morbiliforme + Eosinofilia + ↑ Transaminasas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="252" y="4363" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-22" target="NROEVfUP7GZki3izZvUZ-25">
@@ -667,7 +667,7 @@
         <mxCell id="NROEVfUP7GZki3izZvUZ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-28" target="NROEVfUP7GZki3izZvUZ-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NROEVfUP7GZki3izZvUZ-28" value="Reaccion acneiforme" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="NROEVfUP7GZki3izZvUZ-28" value="Reaccion acneiforme" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="48.5" y="4840" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-29" target="NROEVfUP7GZki3izZvUZ-30">
@@ -677,12 +677,12 @@
           <mxGeometry x="248.5" y="4840" width="141.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-30" value="Papulas en cara sin comedones" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
-          <mxGeometry x="470" y="4840" width="120" height="60" as="geometry" />
+          <mxGeometry x="448.5" y="4840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-33" target="NROEVfUP7GZki3izZvUZ-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NROEVfUP7GZki3izZvUZ-33" value="Urticaria" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="NROEVfUP7GZki3izZvUZ-33" value="Urticaria" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="48.5" y="5000" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-34" value="Aparece en minutos u horas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
