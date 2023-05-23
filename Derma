@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T17:42:03.227Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="HsMMjutD22J3DjD879Sg" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T17:42:14.387Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="2wzNlL-dnib_jjDqN2dp" version="21.3.3" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
     <mxGraphModel dx="525" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -724,9 +724,6 @@
         <mxCell id="NROEVfUP7GZki3izZvUZ-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-51" target="NROEVfUP7GZki3izZvUZ-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NROEVfUP7GZki3izZvUZ-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-51" target="NROEVfUP7GZki3izZvUZ-64">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-51" value="Piel Escaldada" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="51" y="2118" width="120" height="60" as="geometry" />
         </mxCell>
@@ -745,8 +742,14 @@
         <mxCell id="NROEVfUP7GZki3izZvUZ-61" value="Dicloxacilina" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="608" y="2108" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-64" target="NROEVfUP7GZki3izZvUZ-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-64" value="Fascitis Necrotizante" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="51" y="2258" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-66" target="NROEVfUP7GZki3izZvUZ-68">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-66" value="Puede ser por agentes mixtos con anaerobios y/o Pyogenes" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="225" y="2258" width="120" height="60" as="geometry" />
