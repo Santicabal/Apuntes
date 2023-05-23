@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T18:49:20.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="y8oiApchO8wiXmh62MuB" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T18:55:46.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Gx_727PHM9JhWbg21CA9" version="21.3.3" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
     <mxGraphModel dx="826" dy="1224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -785,7 +785,7 @@
           <mxGeometry x="84" y="4017" width="240" height="183" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-83" value="Reaccion al sol" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#6666FF;" vertex="1" parent="1">
-          <mxGeometry x="156" y="3977" width="100" height="40" as="geometry" />
+          <mxGeometry x="70" y="3977" width="186" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
