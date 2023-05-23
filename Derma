@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T17:18:50.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="1dKlibbIXn4dk_vQMbSS" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T17:26:06.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="8YJqjQpfCALrkn_jZUYI" version="21.3.3" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
-    <mxGraphModel dx="450" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="629" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -331,7 +331,7 @@
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad7ac;strokeColor=#000000;" parent="1" source="hpjyC8EZQYGZqKfzJCWW-77" target="hpjyC8EZQYGZqKfzJCWW-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hpjyC8EZQYGZqKfzJCWW-77" value="Placa eritematoosa con lesiones satelite, puede estar donde sea" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-77" value="Placa eritematosa con lesiones satelite, puede estar donde sea" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="405" y="1493" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-80" value="Atrofia en fondo del pliegue" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
@@ -424,7 +424,7 @@
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hpjyC8EZQYGZqKfzJCWW-132" target="hpjyC8EZQYGZqKfzJCWW-141" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hpjyC8EZQYGZqKfzJCWW-132" value="&lt;ul&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;HLA-CW6&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Placas desmativas bien delimitadas&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;En zonas de extension (Rodillas, codos, gluteos)&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Nunca afectan mucosas&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Microscopio&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Paraqueratosis&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;↓Capa granulosa&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;↑Capa Espinosa&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Papilomatosis&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Afectacion de uñas con manchas en aceite y piqueteado. (Se asocia a afectacion de articulaciones)&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=15;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-132" value="&lt;ul&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;HLA-CW6&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Placas desmativas bien delimitadas&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;En zonas de extension (Rodillas, codos, gluteos)&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Nunca afectan mucosas&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Microscopio&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Paraqueratosis&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;↓Capa granulosa&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;↑Capa Espinosa&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Papilomatosis&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Afectacion de uñas con manchas en aceite y piqueteado. (Se asocia a afectacion de articulaciones)&lt;/li&gt;&lt;li&gt;Puede haber Eritrodermia, se considera grave y hay que hospitalizar.&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=15;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="106" y="2365" width="330" height="350" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-135" value="Psoriasis" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
@@ -711,6 +711,15 @@
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-42" value="Antibioticos, Anticonvulsivos, AINEs, Alopurinol" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="648.5" y="4520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-44" target="NROEVfUP7GZki3izZvUZ-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-44" value="Eritrodermia" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="48.5" y="5140" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NROEVfUP7GZki3izZvUZ-48" value="Eritema y descamación que afectan a más del 90% de la piel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="248.5" y="5140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
