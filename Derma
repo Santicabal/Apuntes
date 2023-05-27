@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T19:44:04.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="mnqbt2DRpPBOw831xvdR" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T20:02:15.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="AB4LIjNayy9-KPE-REKh" version="21.3.4" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
     <mxGraphModel dx="450" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -985,7 +985,7 @@
         <mxCell id="lrm6rFnIWekQOEFTsiG4-22" value="Epidermoide" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="545" y="6660" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lrm6rFnIWekQOEFTsiG4-23" value="&lt;ul style=&quot;font-size: 15px;&quot;&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Exposicion al sol tiende mas a este&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Asociado a inmunodepresion y Quimio&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Aparece mas en queratosis actinica&lt;br&gt;Hiperqueratosis ue se ulcera y sangra&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Si afecta mucosa&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Si puede haber metastasis&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=15;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-23" value="&lt;ul style=&quot;font-size: 15px;&quot;&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Exposicion al sol tiende mas a este&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Asociado a inmunodepresion y Quimio&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Aparece mas en queratosis actinica&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Hiperqueratosis que se ulcera y sangra&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Tiene otras presentaciones como el queratoacantoma que parece basocelular pero no brilla y crece rapido&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Si afecta mucosa&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Si puede haber metastasis&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=15;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="438.5" y="6690" width="330" height="350" as="geometry" />
         </mxCell>
       </root>
