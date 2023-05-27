@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T20:02:15.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="AB4LIjNayy9-KPE-REKh" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T21:00:23.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="47QOWqeSI2f8sgDfBqMS" version="21.3.4" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
-    <mxGraphModel dx="450" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="629" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -987,6 +987,72 @@
         </mxCell>
         <mxCell id="lrm6rFnIWekQOEFTsiG4-23" value="&lt;ul style=&quot;font-size: 15px;&quot;&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Exposicion al sol tiende mas a este&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Asociado a inmunodepresion y Quimio&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Aparece mas en queratosis actinica&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Hiperqueratosis que se ulcera y sangra&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Tiene otras presentaciones como el queratoacantoma que parece basocelular pero no brilla y crece rapido&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Si afecta mucosa&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Si puede haber metastasis&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=15;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="438.5" y="6690" width="330" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-24" value="Melanoma" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="44" y="7170" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lrm6rFnIWekQOEFTsiG4-26" target="lrm6rFnIWekQOEFTsiG4-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-26" value="Alrededor de 40 años&lt;br&gt;Incidencia y mortalidad han aumentado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="116" y="7240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lrm6rFnIWekQOEFTsiG4-27" target="lrm6rFnIWekQOEFTsiG4-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-27" value="70% sobre piel sana&lt;br&gt;Hace metastasis linfaticas (Satelitosis) y SNC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="7240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-32" value="" style="orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lrm6rFnIWekQOEFTsiG4-29" target="lrm6rFnIWekQOEFTsiG4-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-36" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lrm6rFnIWekQOEFTsiG4-29" target="lrm6rFnIWekQOEFTsiG4-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-40" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lrm6rFnIWekQOEFTsiG4-29" target="lrm6rFnIWekQOEFTsiG4-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-44" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lrm6rFnIWekQOEFTsiG4-29" target="lrm6rFnIWekQOEFTsiG4-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-29" value="4 Subtipos de melanoma" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="7380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lrm6rFnIWekQOEFTsiG4-31" target="lrm6rFnIWekQOEFTsiG4-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-31" value="Extension Superficial&amp;nbsp;&lt;br&gt;(70%) Pronostico intermedio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="516" y="7238" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-33" value="Mas en mujeres y en piernas, poco en hombres y da en tronco" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="716" y="7238" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lrm6rFnIWekQOEFTsiG4-35" target="lrm6rFnIWekQOEFTsiG4-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-35" value="Lentigo Maligno (10%) Pronostico bueno" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="516" y="7339" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-37" value="En ancianos si es el mas frecuente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="716" y="7339" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lrm6rFnIWekQOEFTsiG4-39" target="lrm6rFnIWekQOEFTsiG4-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-39" value="Nodular (15%) Pronostico muy malo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="516" y="7550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-41" value="Afecta hombres y en esapalda" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="716" y="7550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lrm6rFnIWekQOEFTsiG4-43" target="lrm6rFnIWekQOEFTsiG4-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-43" value="Lentiginoso Acral (5%)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="516" y="7440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-45" value="Afecta manos, pies, lecho ungeal y mucosas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="716" y="7440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
