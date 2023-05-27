@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T21:59:52.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ypwHIHudRwE9nGqLqGVE" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T22:06:00.852Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="iNIfGmDN-nG3NqUApVSe" version="21.3.4" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
     <mxGraphModel dx="629" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1015,6 +1015,9 @@
         <mxCell id="lrm6rFnIWekQOEFTsiG4-44" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lrm6rFnIWekQOEFTsiG4-29" target="lrm6rFnIWekQOEFTsiG4-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lrm6rFnIWekQOEFTsiG4-29" target="lrm6rFnIWekQOEFTsiG4-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lrm6rFnIWekQOEFTsiG4-29" value="4 Subtipos de melanoma" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="316" y="7380" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1053,6 +1056,21 @@
         </mxCell>
         <mxCell id="lrm6rFnIWekQOEFTsiG4-45" value="Afecta manos, pies, lecho ungeal y mucosas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="716" y="7440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-50" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lrm6rFnIWekQOEFTsiG4-47" target="lrm6rFnIWekQOEFTsiG4-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lrm6rFnIWekQOEFTsiG4-47" target="lrm6rFnIWekQOEFTsiG4-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-47" value="Manejo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="7520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-49" value="Breslow &amp;lt;1 → resecar 1cm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="7500" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-51" value="Breslow &amp;gt;2 → resecar 2cm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="7574" width="162" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
