@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T16:24:39.941Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="bROPizB2v_KpeQ4VCF4r" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T19:51:58.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="J170qrkjG8rNnmlxB7MR" version="21.3.5" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
     <mxGraphModel dx="472" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1228,7 +1228,7 @@
         <mxCell id="lrm6rFnIWekQOEFTsiG4-51" value="Breslow &amp;gt;2→ &lt;br&gt;resecar 2cm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="31" y="7834" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VjCbLQ4inOrDKCGsw4m7-1" value="Pembrolizumab / nivolumab" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="VjCbLQ4inOrDKCGsw4m7-1" value="&lt;font color=&quot;#000000&quot;&gt;Pembrolizumab / nivolumab&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="405" y="8054" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VjCbLQ4inOrDKCGsw4m7-3" value="Inhibidores de BRAF y MEK" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
