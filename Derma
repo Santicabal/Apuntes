@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T16:25:43.988Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="PZLuhmT52__cdCzFp71D" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-31T20:35:12.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="OXHU2S1MnDVpIcV3n-Y8" version="21.3.6" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
-    <mxGraphModel dx="787" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="674" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -730,6 +730,9 @@
         <mxCell id="NROEVfUP7GZki3izZvUZ-44" value="Eritrodermia" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="52" y="5173" width="125" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="drPWUqgfLKFDxzE6U62U-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NROEVfUP7GZki3izZvUZ-48" target="drPWUqgfLKFDxzE6U62U-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-48" value="Eritema y descamación que afectan a más del 90% de la piel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="252" y="5173" width="120" height="60" as="geometry" />
         </mxCell>
@@ -979,7 +982,7 @@
         <mxCell id="lrm6rFnIWekQOEFTsiG4-18" value="Tumores Malignos" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="44" y="6590" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lrm6rFnIWekQOEFTsiG4-20" value="&lt;ul&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;El mas frecuente&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Exposicion al sol&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Aparece mas comun en piel sana&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Papula aperlada con o sin telangiectasias y ulcera&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Nunca afecta mucosa&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Muy raro que metastatice&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=15;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-20" value="&lt;ul&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;El mas frecuente&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Exposicion al sol&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Aparece mas comun en piel sana&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Papula aperlada con o sin telangiectasias y ulcera&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Nunca afecta mucosa&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Muy raro que metastatice&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Puede hiperpigmentar y confunde con melanoma&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=15;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="108.5" y="6690" width="330" height="350" as="geometry" />
         </mxCell>
         <mxCell id="lrm6rFnIWekQOEFTsiG4-21" value="Basocelular" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
@@ -1239,6 +1242,9 @@
         </mxCell>
         <mxCell id="drPWUqgfLKFDxzE6U62U-1" value="Antifungico topico" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;rounded=1;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="768.5" y="1260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="drPWUqgfLKFDxzE6U62U-3" value="Tambien se puede presentar en otras enfermedades o idiopatica" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="452" y="5173" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
