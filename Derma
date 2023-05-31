@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T19:51:58.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="J170qrkjG8rNnmlxB7MR" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-31T16:07:04.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="p9J4Qvl0F6VRGA_DK0y5" version="21.3.6" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
-    <mxGraphModel dx="472" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="787" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -937,40 +937,40 @@
         <mxCell id="lrm6rFnIWekQOEFTsiG4-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lrm6rFnIWekQOEFTsiG4-4" target="lrm6rFnIWekQOEFTsiG4-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lrm6rFnIWekQOEFTsiG4-4" value="Queratosis Actinica&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Maculopapula descamativa en el centro&lt;br&gt;Se siente rasposo&lt;br&gt;Puede afectar mucosa y se le llama quilitis actinica&lt;br&gt;Precanceroso→Ca Epidermoide (5%)&lt;br&gt;Causado por sol, casi toda la gente blanca de lugares soleados lo tendra&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-4" value="Queratosis Actinica&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Maculopapula descamativa en el centro&lt;br&gt;Se siente rasposo&lt;br&gt;Puede afectar mucosa y se le llama quilitis actinica&lt;br&gt;Precanceroso→Ca Epidermoide (5%)&lt;br&gt;Causado por sol, casi toda la gente blanca de lugares soleados lo tendra&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="292" y="6200" width="208" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="lrm6rFnIWekQOEFTsiG4-5" value="Tx&lt;br&gt;Crioterapia /&amp;nbsp;&lt;br&gt;Quelitis Laser CO2" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;" parent="1" vertex="1">
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-5" value="Tx&lt;br&gt;Crioterapia /&amp;nbsp;&lt;br&gt;Quelitis Laser CO2" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="356" y="6436" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lrm6rFnIWekQOEFTsiG4-7" value="Queratosis Seborreica&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;Papula hiperqueratosicas marrones (Lunares)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Se siente aterciopelado&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-7" value="Queratosis Seborreica&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;Papula hiperqueratosicas marrones (Lunares)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Se siente aterciopelado&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="48" y="6200" width="208" height="190" as="geometry" />
         </mxCell>
         <mxCell id="lrm6rFnIWekQOEFTsiG4-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lrm6rFnIWekQOEFTsiG4-9" target="lrm6rFnIWekQOEFTsiG4-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lrm6rFnIWekQOEFTsiG4-9" value="Nevo Melanocitico Congenito Gigante,&lt;br&gt;Nevus Displasico" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-9" value="Nevo Melanocitico Congenito Gigante,&lt;br&gt;Nevus Displasico" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="556" y="6200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lrm6rFnIWekQOEFTsiG4-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lrm6rFnIWekQOEFTsiG4-10" target="lrm6rFnIWekQOEFTsiG4-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lrm6rFnIWekQOEFTsiG4-10" value="Nevus Sebaceo, Sd Gorlin" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-10" value="Nevus Sebaceo, Sd Gorlin" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="557" y="6380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lrm6rFnIWekQOEFTsiG4-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lrm6rFnIWekQOEFTsiG4-11" target="lrm6rFnIWekQOEFTsiG4-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lrm6rFnIWekQOEFTsiG4-11" value="Quieratosis actinica, ulceras, leucoplasias, cicatrices" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-11" value="Quieratosis actinica, ulceras, leucoplasias, cicatrices" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="557" y="6290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lrm6rFnIWekQOEFTsiG4-12" value="Melanoma" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-12" value="Melanoma" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="740" y="6190" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lrm6rFnIWekQOEFTsiG4-14" value="Epidermoide" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-14" value="Epidermoide" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="740" y="6280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lrm6rFnIWekQOEFTsiG4-16" value="Basocelular" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="lrm6rFnIWekQOEFTsiG4-16" value="Basocelular" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="740" y="6370" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lrm6rFnIWekQOEFTsiG4-18" value="Tumores Malignos" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF3333;" parent="1" vertex="1">
@@ -1207,10 +1207,10 @@
         <mxCell id="lrm6rFnIWekQOEFTsiG4-101" value="Seguimiento" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="274.5" y="7996" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VjCbLQ4inOrDKCGsw4m7-2" value="BRAF -" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="lrm6rFnIWekQOEFTsiG4-103" target="VjCbLQ4inOrDKCGsw4m7-1">
+        <mxCell id="VjCbLQ4inOrDKCGsw4m7-2" value="BRAF -" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="1" source="lrm6rFnIWekQOEFTsiG4-103" target="VjCbLQ4inOrDKCGsw4m7-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VjCbLQ4inOrDKCGsw4m7-4" value="BRAF +" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="lrm6rFnIWekQOEFTsiG4-103" target="VjCbLQ4inOrDKCGsw4m7-3">
+        <mxCell id="VjCbLQ4inOrDKCGsw4m7-4" value="BRAF +" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="1" source="lrm6rFnIWekQOEFTsiG4-103" target="VjCbLQ4inOrDKCGsw4m7-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lrm6rFnIWekQOEFTsiG4-103" value="Qx adyuvante" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
@@ -1228,10 +1228,10 @@
         <mxCell id="lrm6rFnIWekQOEFTsiG4-51" value="Breslow &amp;gt;2→ &lt;br&gt;resecar 2cm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="31" y="7834" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VjCbLQ4inOrDKCGsw4m7-1" value="&lt;font color=&quot;#000000&quot;&gt;Pembrolizumab / nivolumab&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="VjCbLQ4inOrDKCGsw4m7-1" value="&lt;font color=&quot;#000000&quot;&gt;Pembrolizumab / nivolumab&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="405" y="8054" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VjCbLQ4inOrDKCGsw4m7-3" value="Inhibidores de BRAF y MEK" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="VjCbLQ4inOrDKCGsw4m7-3" value="Inhibidores de BRAF y MEK" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="406" y="8144" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
