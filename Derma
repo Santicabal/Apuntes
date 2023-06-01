@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T16:07:05.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="XLcnVtJucfMxwB81bf5s" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T16:27:51.980Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="XIsS5jJcI_quFvP6usAv" version="21.3.6" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
     <mxGraphModel dx="787" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -601,8 +601,8 @@
         <mxCell id="NROEVfUP7GZki3izZvUZ-1" value="Toxicodermias" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="33" y="4493" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NROEVfUP7GZki3izZvUZ-3" value="Casi cualquier farmaco produce casi cualquier manifestacion" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="122" y="4563" width="128" height="60" as="geometry" />
+        <mxCell id="NROEVfUP7GZki3izZvUZ-3" value="Casi cualquier farmaco produce casi cualquier manifestacion" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=3;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="122" y="4563" width="148" height="87" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NROEVfUP7GZki3izZvUZ-4" target="NROEVfUP7GZki3izZvUZ-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
