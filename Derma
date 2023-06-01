@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T15:55:32.986Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="8bd1ViwfSlauloW6dqEs" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T15:59:44.768Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="HC1_SBHZZJ1V5AY2Z2iR" version="21.3.6" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
-    <mxGraphModel dx="944" dy="1508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="555" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NROEVfUP7GZki3izZvUZ-81" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;arcSize=2;fillColor=#B85450;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="84" y="3993" width="240" height="183" as="geometry" />
+          <mxGeometry x="104" y="3900" width="240" height="183" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-80" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Darier&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Lupus&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Dermatomiositis&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Rosacea&lt;/li&gt;&lt;li&gt;Pelagra&lt;/li&gt;&lt;li&gt;Porfirias&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=-22;spacingTop=0;spacingBottom=0;verticalAlign=bottom;fillColor=#e1d5e7;strokeColor=#9673a6;arcSize=2;" parent="1" vertex="1">
-          <mxGeometry x="204" y="3994" width="119" height="180" as="geometry" />
+          <mxGeometry x="224" y="3901" width="119" height="180" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-79" value="&lt;ul&gt;&lt;li&gt;Psoriasis y Liquen&lt;/li&gt;&lt;li&gt;Dermatitis Atopica&lt;/li&gt;&lt;li&gt;Acne&lt;/li&gt;&lt;li&gt;Micosis Fungoide&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=-22;spacingTop=24;spacingBottom=-40;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=2;" parent="1" vertex="1">
-          <mxGeometry x="85" y="3994" width="119" height="180" as="geometry" />
+          <mxGeometry x="105" y="3901" width="119" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ms8aTVZbcV0h11WQ2rdN-1" value="Lesiones Histologicas" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="30" y="11" width="170" height="40" as="geometry" />
@@ -599,16 +599,16 @@
           <mxGeometry x="763" y="3880" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-1" value="Toxicodermias" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="33" y="4223" width="170" height="40" as="geometry" />
+          <mxGeometry x="33" y="4493" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-3" value="Casi cualquier farmaco produce casi cualquier manifestacion" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="122" y="4293" width="128" height="60" as="geometry" />
+          <mxGeometry x="122" y="4563" width="128" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NROEVfUP7GZki3izZvUZ-4" target="NROEVfUP7GZki3izZvUZ-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-4" value="Exantema Morbiliforme" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="52" y="4413" width="125" height="60" as="geometry" />
+          <mxGeometry x="52" y="4683" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NROEVfUP7GZki3izZvUZ-5" target="NROEVfUP7GZki3izZvUZ-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -617,88 +617,88 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-5" value="El mas comun (90%) parece sarampion osea maculo-papular" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="252" y="4413" width="120" height="60" as="geometry" />
+          <mxGeometry x="252" y="4683" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NROEVfUP7GZki3izZvUZ-7" target="NROEVfUP7GZki3izZvUZ-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-7" value="Es la causa mas comun de exantema en el adulto" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="452" y="4413" width="120" height="60" as="geometry" />
+          <mxGeometry x="452" y="4683" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-9" value="Aparece 1-2 semanas despues de tomar el farmaco&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="652" y="4413" width="120" height="60" as="geometry" />
+          <mxGeometry x="652" y="4683" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NROEVfUP7GZki3izZvUZ-12" target="NROEVfUP7GZki3izZvUZ-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-12" value="NET / Steven Johnson" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="48.5" y="4694" width="125" height="60" as="geometry" />
+          <mxGeometry x="48.5" y="4964" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NROEVfUP7GZki3izZvUZ-13" target="NROEVfUP7GZki3izZvUZ-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-13" value="Hay dianas (Halos pigementados con punto en medio) y ampollas N+, hay prodoromo como gripa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;" parent="1" vertex="1">
-          <mxGeometry x="248.5" y="4694" width="151.5" height="60" as="geometry" />
+          <mxGeometry x="248.5" y="4964" width="151.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NROEVfUP7GZki3izZvUZ-15" target="NROEVfUP7GZki3izZvUZ-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-15" value="Exantema Fijo Medicamentoso" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="51" y="4813" width="125" height="60" as="geometry" />
+          <mxGeometry x="51" y="5083" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NROEVfUP7GZki3izZvUZ-16" target="NROEVfUP7GZki3izZvUZ-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-16" value="Siempre es igual para cada paciente pero diferente de persona a persona" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="251" y="4813" width="120" height="60" as="geometry" />
+          <mxGeometry x="251" y="5083" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-17" value="Cada vez se van sumando mas manifestacines a las ya habituales" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="451" y="4813" width="120" height="60" as="geometry" />
+          <mxGeometry x="451" y="5083" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NROEVfUP7GZki3izZvUZ-20" target="NROEVfUP7GZki3izZvUZ-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-20" value="DRESS&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(Drug Reaction with Eosinophilia and systemic symptoms)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="52" y="4576" width="125" height="60" as="geometry" />
+          <mxGeometry x="52" y="4846" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NROEVfUP7GZki3izZvUZ-21" target="NROEVfUP7GZki3izZvUZ-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-21" value="Grave. Exantema Morbiliforme + Eosinofilia + ↑ Transaminasas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="252" y="4576" width="120" height="60" as="geometry" />
+          <mxGeometry x="252" y="4846" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NROEVfUP7GZki3izZvUZ-22" target="NROEVfUP7GZki3izZvUZ-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-22" value="Pueden tener dolor abdominal y fiebre. Suele aparecer 15-45 dias despues" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="452" y="4576" width="120" height="60" as="geometry" />
+          <mxGeometry x="452" y="4846" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-25" value="Se debe hospitalizar y dar corticoides I.V" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="652" y="4576" width="120" height="60" as="geometry" />
+          <mxGeometry x="652" y="4846" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NROEVfUP7GZki3izZvUZ-28" target="NROEVfUP7GZki3izZvUZ-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-28" value="Reaccion acneiforme" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="51" y="4933" width="125" height="60" as="geometry" />
+          <mxGeometry x="51" y="5203" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NROEVfUP7GZki3izZvUZ-29" target="NROEVfUP7GZki3izZvUZ-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-29" value="Causado por inhibidores de factor de crecimiento epidermico (IEGFR, terminan en TINIB)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="251" y="4933" width="141.5" height="60" as="geometry" />
+          <mxGeometry x="251" y="5203" width="141.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-30" value="Papulas en cara sin comedones" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="451" y="4933" width="120" height="60" as="geometry" />
+          <mxGeometry x="451" y="5203" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NROEVfUP7GZki3izZvUZ-33" target="NROEVfUP7GZki3izZvUZ-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-33" value="Urticaria" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="52" y="5053" width="125" height="60" as="geometry" />
+          <mxGeometry x="52" y="5323" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-34" value="Aparece en minutos u horas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="252" y="5053" width="120" height="60" as="geometry" />
+          <mxGeometry x="252" y="5323" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NROEVfUP7GZki3izZvUZ-36" target="NROEVfUP7GZki3izZvUZ-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -719,22 +719,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-40" value="&amp;lt;10% SSJ&lt;br&gt;10-30% overlap&lt;br&gt;&amp;gt;30% NET" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="448.5" y="4694" width="120" height="60" as="geometry" />
+          <mxGeometry x="448.5" y="4964" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-42" value="Antibioticos, Anticonvulsivos, AINEs, Alopurinol" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="648.5" y="4694" width="120" height="60" as="geometry" />
+          <mxGeometry x="648.5" y="4964" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NROEVfUP7GZki3izZvUZ-44" target="NROEVfUP7GZki3izZvUZ-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-44" value="Eritrodermia" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="52" y="5173" width="125" height="60" as="geometry" />
+          <mxGeometry x="52" y="5443" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="drPWUqgfLKFDxzE6U62U-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NROEVfUP7GZki3izZvUZ-48" target="drPWUqgfLKFDxzE6U62U-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-48" value="Eritema y descamación que afectan a más del 90% de la piel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="252" y="5173" width="120" height="60" as="geometry" />
+          <mxGeometry x="252" y="5443" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NROEVfUP7GZki3izZvUZ-51" target="NROEVfUP7GZki3izZvUZ-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -779,22 +779,22 @@
           <mxGeometry x="608" y="2248" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-75" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.sun;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="110" y="3999" width="70" height="70" as="geometry" />
+          <mxGeometry x="130" y="3906" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-76" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.sun;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="231" y="3999" width="70" height="70" as="geometry" />
+          <mxGeometry x="251" y="3906" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-77" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="134" y="4019" width="25" height="30" as="geometry" />
+          <mxGeometry x="154" y="3926" width="25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-78" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="256" y="4024" width="20" height="20" as="geometry" />
+          <mxGeometry x="276" y="3931" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-83" value="Reaccion al sol" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#6666FF;" parent="1" vertex="1">
-          <mxGeometry x="116" y="3953" width="186" height="40" as="geometry" />
+          <mxGeometry x="136" y="3860" width="186" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-85" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;spacingLeft=-23;" parent="1" vertex="1">
-          <mxGeometry x="110" y="5420" width="490" height="370" as="geometry" />
+          <mxGeometry x="110" y="5690" width="490" height="370" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-86" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="NROEVfUP7GZki3izZvUZ-85" vertex="1">
           <mxGeometry width="490" height="64" as="geometry" />
@@ -935,7 +935,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-120" value="Ampollosas Autoinmunes" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="34" y="5330" width="170" height="40" as="geometry" />
+          <mxGeometry x="34" y="5600" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lrm6rFnIWekQOEFTsiG4-1" value="Tumores Benignos" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="34" y="6131" width="170" height="40" as="geometry" />
@@ -1244,10 +1244,10 @@
           <mxGeometry x="768.5" y="1260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="drPWUqgfLKFDxzE6U62U-3" value="Tambien se puede presentar en otras enfermedades o idiopatica" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="452" y="5173" width="120" height="60" as="geometry" />
+          <mxGeometry x="452" y="5443" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6dNgAjrjlPRhg_Ximcxs-3" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="371" y="4010" width="689" height="370" as="geometry" />
+          <mxGeometry x="44" y="4120" width="689" height="370" as="geometry" />
         </mxCell>
         <mxCell id="6dNgAjrjlPRhg_Ximcxs-4" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="6dNgAjrjlPRhg_Ximcxs-3">
           <mxGeometry width="689" height="45" as="geometry" />
@@ -1311,7 +1311,7 @@
             <mxRectangle width="127" height="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-18" value="Comedones , pápulas, pústulas, nódulos, quistes, Localización: cara, espalda, hombros y región centrotorácica. Acné fu/minans. con clínica sistémica (fiebre, , leucocitosis,↑VSG y artralgias)" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="6dNgAjrjlPRhg_Ximcxs-16">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-18" value="Comedones , pápulas, pústulas, nódulos, quistes en cara, espalda, hombros y pecho&lt;br&gt;Acné fu/minans. con clínica sistémica (fiebre, , leucocitosis,↑VSG y artralgias)" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="6dNgAjrjlPRhg_Ximcxs-16">
           <mxGeometry x="127" width="260" height="90" as="geometry">
             <mxRectangle width="260" height="90" as="alternateBounds" />
           </mxGeometry>
