@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T19:49:41.375Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="kR_hhXmHFwh_0QsZaWs6" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T20:46:29.242Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="gdupLW5B858CJNNDY0f0" version="21.3.6" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
-    <mxGraphModel dx="395" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="672" dy="1508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -167,7 +167,7 @@
           <mxGeometry x="405" y="1049" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-8" value="2. Lindano&lt;br&gt;3. Ivermectina oral" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-          <mxGeometry x="606" y="1049" width="90" height="90" as="geometry" />
+          <mxGeometry x="606" y="1044" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hpjyC8EZQYGZqKfzJCWW-10" target="hpjyC8EZQYGZqKfzJCWW-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -454,25 +454,25 @@
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#000000;strokeWidth=1;" parent="1" source="hpjyC8EZQYGZqKfzJCWW-141" target="hpjyC8EZQYGZqKfzJCWW-142" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hpjyC8EZQYGZqKfzJCWW-141" value="Corticoides&lt;br&gt;&amp;nbsp;topicos&lt;br&gt;y Analogos &lt;br&gt;de Vit. D" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-141" value="Corticoides&lt;br&gt;&amp;nbsp;topicos&lt;br&gt;y Analogos &lt;br&gt;de Vit. D" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=3;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="216" y="2868" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#000000;strokeWidth=1;" parent="1" source="hpjyC8EZQYGZqKfzJCWW-142" target="hpjyC8EZQYGZqKfzJCWW-144" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hpjyC8EZQYGZqKfzJCWW-142" value="Metotrexato / Ciclosporina / acitretino" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-142" value="Metotrexato / Ciclosporina / acitretino" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=3;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="216" y="3015" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hpjyC8EZQYGZqKfzJCWW-144" value="Biologicos" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-144" value="Biologicos" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=3;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="216" y="3167" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#000000;strokeWidth=1;" parent="1" source="hpjyC8EZQYGZqKfzJCWW-147" target="hpjyC8EZQYGZqKfzJCWW-149" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hpjyC8EZQYGZqKfzJCWW-147" value="Corticoides&lt;br&gt;&amp;nbsp;topicos o sistemicos&lt;br&gt;y Analogos &lt;br&gt;de Vit. D" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-147" value="Corticoides&lt;br&gt;&amp;nbsp;topicos o sistemicos&lt;br&gt;y Analogos &lt;br&gt;de Vit. D" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=3;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="546" y="2868" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hpjyC8EZQYGZqKfzJCWW-149" value="Metotrexato / Ciclosporina / acitretino" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-149" value="Metotrexato / Ciclosporina / Acitretino" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=3;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="546" y="3014" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#000000;strokeWidth=1;" parent="1" source="hpjyC8EZQYGZqKfzJCWW-151" target="hpjyC8EZQYGZqKfzJCWW-147" edge="1">
@@ -481,7 +481,7 @@
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#000000;strokeWidth=1;" parent="1" source="hpjyC8EZQYGZqKfzJCWW-151" target="hpjyC8EZQYGZqKfzJCWW-141" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hpjyC8EZQYGZqKfzJCWW-151" value="Fototerapia" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="hpjyC8EZQYGZqKfzJCWW-151" value="Fototerapia" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=3;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="397" y="2883" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hpjyC8EZQYGZqKfzJCWW-159" value="Dermatitis" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF3333;" parent="1" vertex="1">
@@ -794,7 +794,7 @@
           <mxGeometry x="136" y="3860" width="186" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-85" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;spacingLeft=-23;" parent="1" vertex="1">
-          <mxGeometry x="110" y="5690" width="490" height="370" as="geometry" />
+          <mxGeometry x="110" y="5744" width="490" height="370" as="geometry" />
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-86" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="NROEVfUP7GZki3izZvUZ-85" vertex="1">
           <mxGeometry width="490" height="64" as="geometry" />
@@ -935,7 +935,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NROEVfUP7GZki3izZvUZ-120" value="Ampollosas Autoinmunes" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="34" y="5600" width="170" height="40" as="geometry" />
+          <mxGeometry x="34" y="5654" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lrm6rFnIWekQOEFTsiG4-1" value="Tumores Benignos" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="34" y="6131" width="170" height="40" as="geometry" />
@@ -1338,6 +1338,18 @@
           <mxGeometry x="387" width="302" height="90" as="geometry">
             <mxRectangle width="302" height="90" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-37" value="Eritema Multifomre" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=14;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="52" y="5564" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6dNgAjrjlPRhg_Ximcxs-39" target="6dNgAjrjlPRhg_Ximcxs-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-39" value="Posterior a infeccion mayormente herpes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="252" y="5562" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-41" value="EritemaEDEMAtoso SIMETRICO en ambos lados en dorso de manos y pies" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="452" y="5562" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
