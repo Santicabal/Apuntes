@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T22:26:13.580Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="qPcyZ7i-f-mQ1wnj6RMp" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-09T22:32:47.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Luusi9vWWCCwo5Pw2b38" version="21.3.8" type="github">
   <diagram name="Page-1" id="YMc2Lb0-uA0RhdW9XWHS">
     <mxGraphModel dx="1610" dy="1340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -330,7 +330,7 @@
         <mxCell id="B2miu2K40CoL7UvrQEE2-37" value="Hiperpara&lt;br&gt;↓P, ↓Mg&lt;br&gt;Hemocromatosis" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="3490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B2miu2K40CoL7UvrQEE2-40" value="&lt;ul&gt;&lt;li&gt;Mujeres &amp;gt;70&lt;/li&gt;&lt;li&gt;Rodilla o carpo&lt;/li&gt;&lt;li&gt;Birrefringencia debilmente +&lt;br&gt;&lt;/li&gt;&lt;li&gt;Rx con condrocalcinosis&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="B2miu2K40CoL7UvrQEE2-40" value="&lt;ul&gt;&lt;li&gt;Mujeres &amp;gt;70&lt;/li&gt;&lt;li&gt;Rodilla, codo, carpo, tobillo&lt;/li&gt;&lt;li&gt;Birrefringencia debilmente +&lt;br&gt;&lt;/li&gt;&lt;li&gt;Rx con condrocalcinosis&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="535.5" y="3390" width="181.5" height="160" as="geometry" />
         </mxCell>
         <mxCell id="B2miu2K40CoL7UvrQEE2-39" value="&lt;ul&gt;&lt;li&gt;Hombres &amp;gt;50&lt;/li&gt;&lt;li&gt;Miembros inferiores&lt;/li&gt;&lt;li&gt;Birrefringencia fuertemente -&lt;br&gt;&lt;/li&gt;&lt;li&gt;Rx con tofos&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="1">
