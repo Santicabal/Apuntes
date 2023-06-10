@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T20:11:35.102Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="YM1PI0SFpPxWwbQk93Gy" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-10T20:18:29.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ICgB3GeAdleSp2_DmIzT" version="21.3.8" type="github">
   <diagram name="Page-1" id="YMc2Lb0-uA0RhdW9XWHS">
     <mxGraphModel dx="729" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -542,6 +542,23 @@
         </mxCell>
         <mxCell id="4y5AUWpvbyg9ipKsHKwL-72" value="Biologico" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacingTop=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="500.5" y="5340.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-80" target="4y5AUWpvbyg9ipKsHKwL-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="887" />
+              <mxPoint x="280" y="928" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-80" value="Grandes vasos" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="99" y="867.5" width="153" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-81" target="4y5AUWpvbyg9ipKsHKwL-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-81" value="Medianos vasos" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="315" y="908" width="162.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
