@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T18:37:47.145Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="SkXK19X1yourxaP4oLjd" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-10T18:49:36.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0m2Z6dZDrpo4kzAfFTxb" version="21.3.8" type="github">
   <diagram name="Page-1" id="YMc2Lb0-uA0RhdW9XWHS">
-    <mxGraphModel dx="600" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="729" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9BNh7RZpfPYm2C82WYNC-2" value="Tratamiento Cronico FAME" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=#2D7600;fontSize=16;fillColor=#60a917;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="43" y="383" width="240" height="180" as="geometry" />
+          <mxGeometry x="42" y="383" width="240" height="180" as="geometry" />
         </mxCell>
         <mxCell id="9BNh7RZpfPYm2C82WYNC-3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" parent="9BNh7RZpfPYm2C82WYNC-2" vertex="1">
           <mxGeometry y="30" width="240" height="40" as="geometry" />
@@ -54,7 +54,7 @@
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9BNh7RZpfPYm2C82WYNC-8" value="Metrotrexate, Lefunomida" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#cdeb8b;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#36393d;fontSize=16;" parent="9BNh7RZpfPYm2C82WYNC-6" vertex="1">
+        <mxCell id="9BNh7RZpfPYm2C82WYNC-8" value="Metrotrexate, Leflunomida" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#cdeb8b;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#36393d;fontSize=16;" parent="9BNh7RZpfPYm2C82WYNC-6" vertex="1">
           <mxGeometry x="100" width="140" height="40" as="geometry">
             <mxRectangle width="140" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -101,7 +101,7 @@
         <mxCell id="K8N9iO58r2tab0btmSAy-4" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;BIOLOGICOS&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;Actuan mas rapido, la mayoria via paraenteral&lt;br&gt;Los das cuando fallan los FAME o cuando necesitas rapidez" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;startSize=30;fontStyle=0;align=left;rounded=1;verticalAlign=top;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="437" y="403" width="173" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="K8N9iO58r2tab0btmSAy-14" value="Evaluar funcion &lt;br&gt;hepatica, renal y BH" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="K8N9iO58r2tab0btmSAy-27" target="9BNh7RZpfPYm2C82WYNC-2" edge="1">
+        <mxCell id="K8N9iO58r2tab0btmSAy-14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4y5AUWpvbyg9ipKsHKwL-68" target="9BNh7RZpfPYm2C82WYNC-2" edge="1">
           <mxGeometry x="0.1112" relative="1" as="geometry">
             <mxPoint x="163" y="147" as="sourcePoint" />
             <mxPoint x="162" y="334" as="targetPoint" />
@@ -495,7 +495,7 @@
         <mxCell id="4y5AUWpvbyg9ipKsHKwL-46" value="&lt;b&gt;Clinica&amp;nbsp; &lt;/b&gt;puramente, inicio Tx con esto, luego los labs ayudan a pronostico" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="281" y="5193" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-50" value="QS, Factor Reumatoide, anti citrulinados, Rx torax manos y pies" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-50" value="QS, Factor Reumatoide, anti citrulinados, Rx torax, manos y pies" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="281" y="5279" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4y5AUWpvbyg9ipKsHKwL-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-52" target="4y5AUWpvbyg9ipKsHKwL-54">
@@ -506,6 +506,34 @@
         </mxCell>
         <mxCell id="4y5AUWpvbyg9ipKsHKwL-54" value="Influyen ser seropositivo y Tx precoz" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="281" y="5367" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-60" target="4y5AUWpvbyg9ipKsHKwL-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-60" value="Tratamiento" style="whiteSpace=wrap;html=1;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="481" y="4936" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-62" target="4y5AUWpvbyg9ipKsHKwL-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-62" value="El objetivo es quitar la inflamacion en 6 meses (Como sea)" style="whiteSpace=wrap;html=1;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="681" y="4936" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-64" value="Corticoides bajos +/- &lt;br&gt;AINE" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="701" y="5066" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-66" value="MTX" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="702.5" y="5146" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-69" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K8N9iO58r2tab0btmSAy-27" target="4y5AUWpvbyg9ipKsHKwL-68">
+          <mxGeometry x="0.1112" relative="1" as="geometry">
+            <mxPoint x="163" y="273" as="sourcePoint" />
+            <mxPoint x="163" y="383" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-68" value="&lt;b&gt;SIEMPRE&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Evaluar funcion&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;hepatica, renal y BH&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFF00;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="78.37" y="310" width="167.63" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
