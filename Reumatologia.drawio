@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T18:24:04.634Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Z04qNjQPeaUPUkHdlVhV" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-10T18:37:47.145Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="SkXK19X1yourxaP4oLjd" version="21.3.8" type="github">
   <diagram name="Page-1" id="YMc2Lb0-uA0RhdW9XWHS">
-    <mxGraphModel dx="729" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="600" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -482,6 +482,30 @@
         </mxCell>
         <mxCell id="4y5AUWpvbyg9ipKsHKwL-42" value="&lt;ul&gt;&lt;li&gt;Nodulos Subcutaneos&lt;/li&gt;&lt;li&gt;Querato conjuntivitis Seca&lt;/li&gt;&lt;li&gt;Serositis subclinicas&lt;/li&gt;&lt;li&gt;Pulmon con enf. intersticial que afecta bases&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=-24;" vertex="1" parent="1">
           <mxGeometry x="281" y="5017" width="120" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-44" target="4y5AUWpvbyg9ipKsHKwL-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-44" value="Diagnostico" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="81" y="5193" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-46" target="4y5AUWpvbyg9ipKsHKwL-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-46" value="&lt;b&gt;Clinica&amp;nbsp; &lt;/b&gt;puramente, inicio Tx con esto, luego los labs ayudan a pronostico" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="5193" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-50" value="QS, Factor Reumatoide, anti citrulinados, Rx torax manos y pies" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="281" y="5279" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-52" target="4y5AUWpvbyg9ipKsHKwL-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-52" value="Pronostico" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="81" y="5367" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-54" value="Influyen ser seropositivo y Tx precoz" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="5367" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
