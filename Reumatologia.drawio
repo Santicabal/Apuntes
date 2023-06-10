@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T18:53:13.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="pIX1IELPByy9flIzUa7X" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-10T19:06:24.428Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="CotcTqV7iM3H8KsFkdHE" version="21.3.8" type="github">
   <diagram name="Page-1" id="YMc2Lb0-uA0RhdW9XWHS">
     <mxGraphModel dx="729" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9BNh7RZpfPYm2C82WYNC-5" value="Hidroxicloroquina" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#36393d;fontSize=16;" parent="9BNh7RZpfPYm2C82WYNC-3" vertex="1">
+        <mxCell id="9BNh7RZpfPYm2C82WYNC-5" value="Hidroxicloroquina (HCQ)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;strokeColor=#36393d;fontSize=16;" parent="9BNh7RZpfPYm2C82WYNC-3" vertex="1">
           <mxGeometry x="100" width="140" height="40" as="geometry">
             <mxRectangle width="140" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -510,20 +510,25 @@
         <mxCell id="4y5AUWpvbyg9ipKsHKwL-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-60" target="4y5AUWpvbyg9ipKsHKwL-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-60" target="4y5AUWpvbyg9ipKsHKwL-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4y5AUWpvbyg9ipKsHKwL-60" value="Tratamiento" style="whiteSpace=wrap;html=1;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="481" y="4936" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-62" target="4y5AUWpvbyg9ipKsHKwL-64">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4y5AUWpvbyg9ipKsHKwL-62" value="El objetivo es quitar la inflamacion en 6 meses (Como sea)" style="whiteSpace=wrap;html=1;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="681" y="4936" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4y5AUWpvbyg9ipKsHKwL-64" value="Corticoides bajos +/- &lt;br&gt;AINE" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacing=0;" vertex="1" parent="1">
-          <mxGeometry x="696" y="5066" width="90" height="90" as="geometry" />
+          <mxGeometry x="496" y="5053" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-71" value="Si no controlo&lt;br&gt;O&amp;nbsp; si quiero desde inicio" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-64" target="4y5AUWpvbyg9ipKsHKwL-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="584.5" y="5146" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4y5AUWpvbyg9ipKsHKwL-66" value="MTX 10mg/semana" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacingTop=-8;" vertex="1" parent="1">
-          <mxGeometry x="696.5" y="5157" width="90" height="90" as="geometry" />
+          <mxGeometry x="581" y="5053" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4y5AUWpvbyg9ipKsHKwL-69" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K8N9iO58r2tab0btmSAy-27" target="4y5AUWpvbyg9ipKsHKwL-68">
           <mxGeometry x="0.1112" relative="1" as="geometry">
@@ -534,6 +539,15 @@
         </mxCell>
         <mxCell id="4y5AUWpvbyg9ipKsHKwL-68" value="&lt;b&gt;SIEMPRE&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Evaluar funcion&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;hepatica, renal y BH&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFF00;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="78.37" y="310" width="167.63" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-70" target="4y5AUWpvbyg9ipKsHKwL-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-70" value="HCQ / Leflunomida" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="500.5" y="5222.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-72" value="Biologico" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="500.5" y="5340.5" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
