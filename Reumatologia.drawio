@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T20:18:29.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ICgB3GeAdleSp2_DmIzT" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-10T20:30:28.736Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="hNGB3bYCeyloNdWG-49A" version="21.3.8" type="github">
   <diagram name="Page-1" id="YMc2Lb0-uA0RhdW9XWHS">
     <mxGraphModel dx="729" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -557,7 +557,7 @@
         <mxCell id="4y5AUWpvbyg9ipKsHKwL-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-81" target="4y5AUWpvbyg9ipKsHKwL-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-81" value="Medianos vasos" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-81" value="Medianos vasos" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="315" y="908" width="162.5" height="40" as="geometry" />
         </mxCell>
       </root>
