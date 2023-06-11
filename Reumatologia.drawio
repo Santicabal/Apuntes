@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T20:12:06.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="lk68Q6EiSxxlBv6vUzWn" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-11T20:12:31.199Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="lLPmr1uCZWKGJuhIWp6M" version="21.3.8" type="github">
   <diagram name="Page-1" id="YMc2Lb0-uA0RhdW9XWHS">
     <mxGraphModel dx="674" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -698,13 +698,13 @@
           <mxGeometry x="310" y="6350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MCZPyset5YLvcdkSw9tZ-44" value="Todos&amp;nbsp; los Px y todos los lupusse llevan HCQ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="422" y="6370" width="120" height="60" as="geometry" />
+          <mxGeometry x="422" y="6360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MCZPyset5YLvcdkSw9tZ-45" value="+/- AINE, esteroide, FAME" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="310" y="6430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MCZPyset5YLvcdkSw9tZ-47" value="Si es cutaneo los esteroides son topicos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="421" y="6450" width="120" height="60" as="geometry" />
+          <mxGeometry x="421" y="6440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
