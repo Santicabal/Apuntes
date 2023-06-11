@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T20:49:27.754Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="X7UJH-2ObFVRXh88GVMq" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-11T22:11:27.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="4y1zCF07uWqtU2cCP9zC" version="21.3.8" type="github">
   <diagram name="Page-1" id="KeMwxXH3fiTf_zXuYJ6J">
-    <mxGraphModel dx="395" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="472" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1246,119 +1246,122 @@
         <mxCell id="drPWUqgfLKFDxzE6U62U-3" value="Tambien se puede presentar en otras enfermedades o idiopatica" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="452" y="5443" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-3" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-3" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="44" y="4120" width="689" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-4" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="6dNgAjrjlPRhg_Ximcxs-3">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-4" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="6dNgAjrjlPRhg_Ximcxs-3" vertex="1">
           <mxGeometry width="689" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-5" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="6dNgAjrjlPRhg_Ximcxs-4">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-5" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" parent="6dNgAjrjlPRhg_Ximcxs-4" vertex="1">
           <mxGeometry width="127" height="45" as="geometry">
             <mxRectangle width="127" height="45" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-6" value="Acne" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;fontSize=20;" vertex="1" parent="6dNgAjrjlPRhg_Ximcxs-4">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-6" value="Acne" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;fontSize=20;" parent="6dNgAjrjlPRhg_Ximcxs-4" vertex="1">
           <mxGeometry x="127" width="260" height="45" as="geometry">
             <mxRectangle width="260" height="45" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-7" value="Rosacea" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;fontSize=20;" vertex="1" parent="6dNgAjrjlPRhg_Ximcxs-4">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-7" value="Rosacea" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;fontSize=20;" parent="6dNgAjrjlPRhg_Ximcxs-4" vertex="1">
           <mxGeometry x="387" width="302" height="45" as="geometry">
             <mxRectangle width="302" height="45" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="6dNgAjrjlPRhg_Ximcxs-3">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="6dNgAjrjlPRhg_Ximcxs-3" vertex="1">
           <mxGeometry y="45" width="689" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-9" value="Epidoemiologia" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="6dNgAjrjlPRhg_Ximcxs-8">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-9" value="Epidoemiologia" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;fontSize=15;" parent="6dNgAjrjlPRhg_Ximcxs-8" vertex="1">
           <mxGeometry width="127" height="58" as="geometry">
             <mxRectangle width="127" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-10" value="Adolescentes" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=13;" vertex="1" parent="6dNgAjrjlPRhg_Ximcxs-8">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-10" value="Adolescentes" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=13;" parent="6dNgAjrjlPRhg_Ximcxs-8" vertex="1">
           <mxGeometry x="127" width="260" height="58" as="geometry">
             <mxRectangle width="260" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-11" value="Mujeres 30-50 años" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=13;" vertex="1" parent="6dNgAjrjlPRhg_Ximcxs-8">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-11" value="Mujeres 30-50 años" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=13;" parent="6dNgAjrjlPRhg_Ximcxs-8" vertex="1">
           <mxGeometry x="387" width="302" height="58" as="geometry">
             <mxRectangle width="302" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="6dNgAjrjlPRhg_Ximcxs-3">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" parent="6dNgAjrjlPRhg_Ximcxs-3" vertex="1">
           <mxGeometry y="103" width="689" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-13" value="Etiologia" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="6dNgAjrjlPRhg_Ximcxs-12">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-13" value="Etiologia" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=15;" parent="6dNgAjrjlPRhg_Ximcxs-12" vertex="1">
           <mxGeometry width="127" height="64" as="geometry">
             <mxRectangle width="127" height="64" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-14" value="Empeora con estrés, anticonceptivos orales muy androgénicos, limpieza obsesiva de cara y manipulación" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=13;" vertex="1" parent="6dNgAjrjlPRhg_Ximcxs-12">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-14" value="Empeora con estrés, anticonceptivos orales muy androgénicos, limpieza obsesiva de cara y manipulación" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=13;" parent="6dNgAjrjlPRhg_Ximcxs-12" vertex="1">
           <mxGeometry x="127" width="260" height="64" as="geometry">
             <mxRectangle width="260" height="64" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-15" value="Genetica, H. Pylori?" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=13;" vertex="1" parent="6dNgAjrjlPRhg_Ximcxs-12">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-15" value="Genetica, H. Pylori?" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=13;" parent="6dNgAjrjlPRhg_Ximcxs-12" vertex="1">
           <mxGeometry x="387" width="302" height="64" as="geometry">
             <mxRectangle width="302" height="64" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-16" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="6dNgAjrjlPRhg_Ximcxs-3">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-16" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="6dNgAjrjlPRhg_Ximcxs-3" vertex="1">
           <mxGeometry y="167" width="689" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-17" value="Clinica" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="6dNgAjrjlPRhg_Ximcxs-16">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-17" value="Clinica" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;fontSize=15;" parent="6dNgAjrjlPRhg_Ximcxs-16" vertex="1">
           <mxGeometry width="127" height="103" as="geometry">
             <mxRectangle width="127" height="103" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-18" value="Comedones , pápulas, pústulas, nódulos, quistes en cara, espalda, hombros y pecho&lt;br style=&quot;font-size: 13px;&quot;&gt;Acné fu/minans. con clínica sistémica (fiebre, , leucocitosis,↑VSG y artralgias)" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=13;" vertex="1" parent="6dNgAjrjlPRhg_Ximcxs-16">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-18" value="Comedones , pápulas, pústulas, nódulos, quistes en cara, espalda, hombros y pecho&lt;br style=&quot;font-size: 13px;&quot;&gt;Acné fu/minans. con clínica sistémica (fiebre, , leucocitosis,↑VSG y artralgias)" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=13;" parent="6dNgAjrjlPRhg_Ximcxs-16" vertex="1">
           <mxGeometry x="127" width="260" height="103" as="geometry">
             <mxRectangle width="260" height="103" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-19" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Sin comedones&lt;/font&gt;&lt;/b&gt; en zona malar y nasal &lt;br style=&quot;font-size: 13px;&quot;&gt;1. Rosácea eritematotelangiectásica con flushing facial&amp;nbsp;&lt;br style=&quot;font-size: 13px;&quot;&gt;2. Rosácea papulopustulosa &lt;br style=&quot;font-size: 13px;&quot;&gt;3. Rosácea fimatosa: hiperplasia tejidos blandos&lt;br style=&quot;font-size: 13px;&quot;&gt;4. Rosácea ocular: blefaritis, conjuntivitis, iritis" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=13;" vertex="1" parent="6dNgAjrjlPRhg_Ximcxs-16">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-19" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Sin comedones&lt;/font&gt;&lt;/b&gt; en zona malar y nasal &lt;br style=&quot;font-size: 13px;&quot;&gt;1. Rosácea eritematotelangiectásica con flushing facial&amp;nbsp;&lt;br style=&quot;font-size: 13px;&quot;&gt;2. Rosácea papulopustulosa &lt;br style=&quot;font-size: 13px;&quot;&gt;3. Rosácea fimatosa: hiperplasia tejidos blandos&lt;br style=&quot;font-size: 13px;&quot;&gt;4. Rosácea ocular: blefaritis, conjuntivitis, iritis" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=13;" parent="6dNgAjrjlPRhg_Ximcxs-16" vertex="1">
           <mxGeometry x="387" width="302" height="103" as="geometry">
             <mxRectangle width="302" height="103" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="6dNgAjrjlPRhg_Ximcxs-3">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" parent="6dNgAjrjlPRhg_Ximcxs-3" vertex="1">
           <mxGeometry y="270" width="689" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-21" value="Tratamiento" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="6dNgAjrjlPRhg_Ximcxs-20">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-21" value="Tratamiento" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=15;" parent="6dNgAjrjlPRhg_Ximcxs-20" vertex="1">
           <mxGeometry width="127" height="90" as="geometry">
             <mxRectangle width="127" height="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-22" value="Leve: tópicos. Retinoides/peróxido de benzoilo ± antibióticos &lt;br style=&quot;font-size: 13px;&quot;&gt;Moderado: tetraciclinas orales o isotretinoína oral &lt;br style=&quot;font-size: 13px;&quot;&gt;Acné fu/minans: asociar corticoides orales" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontSize=13;" vertex="1" parent="6dNgAjrjlPRhg_Ximcxs-20">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-22" value="Leve: tópicos. Retinoides/peróxido de benzoilo ± antibióticos &lt;br style=&quot;font-size: 13px;&quot;&gt;Moderado: tetraciclinas orales o isotretinoína oral &lt;br style=&quot;font-size: 13px;&quot;&gt;Acné fu/minans: asociar corticoides orales" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontSize=13;" parent="6dNgAjrjlPRhg_Ximcxs-20" vertex="1">
           <mxGeometry x="127" width="260" height="90" as="geometry">
             <mxRectangle width="260" height="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-23" value="Eritematotelangiectasica: B&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;rimonidina &lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;Papulopustulosa leve-moderada: ivermectina, metronidazol o ácido azelaico tópicos &lt;br style=&quot;font-size: 13px;&quot;&gt;Grave: tetraciclinas orales o isotretinoina &lt;br style=&quot;font-size: 13px;&quot;&gt;Fimatosa: cirugía o láser CO2," style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=13;" vertex="1" parent="6dNgAjrjlPRhg_Ximcxs-20">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-23" value="Eritematotelangiectasica: B&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;rimonidina &lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;Papulopustulosa leve-moderada: ivermectina, metronidazol o ácido azelaico tópicos &lt;br style=&quot;font-size: 13px;&quot;&gt;Grave: tetraciclinas orales o isotretinoina &lt;br style=&quot;font-size: 13px;&quot;&gt;Fimatosa: cirugía o láser CO2," style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=13;" parent="6dNgAjrjlPRhg_Ximcxs-20" vertex="1">
           <mxGeometry x="387" width="302" height="90" as="geometry">
             <mxRectangle width="302" height="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6dNgAjrjlPRhg_Ximcxs-37" target="6dNgAjrjlPRhg_Ximcxs-39">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6dNgAjrjlPRhg_Ximcxs-37" target="6dNgAjrjlPRhg_Ximcxs-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-37" value="Eritema Multifomre" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=14;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-37" value="Eritema Multifomre" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="52" y="5564" width="125" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6dNgAjrjlPRhg_Ximcxs-39" target="6dNgAjrjlPRhg_Ximcxs-41">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6dNgAjrjlPRhg_Ximcxs-39" target="6dNgAjrjlPRhg_Ximcxs-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-39" value="Posterior a infeccion mayormente herpes o mycoplasma (Gripa)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-39" value="Posterior a infeccion mayormente herpes o mycoplasma (Gripa)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="252" y="5563" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6dNgAjrjlPRhg_Ximcxs-41" target="6dNgAjrjlPRhg_Ximcxs-44">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6dNgAjrjlPRhg_Ximcxs-41" target="6dNgAjrjlPRhg_Ximcxs-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-41" value="EritemaEDEMAtoso SIMETRICO en ambos lados en dorso de manos y pies" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-41" value="EritemaEDEMAtoso SIMETRICO en ambos lados en dorso de manos y pies" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="452" y="5562" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6dNgAjrjlPRhg_Ximcxs-44" value="Antes lo consideraban parte de SSJ sin mortalidad" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+        <mxCell id="6dNgAjrjlPRhg_Ximcxs-44" value="Antes lo consideraban parte de SSJ sin mortalidad" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="652" y="5562" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dD0hJBxK_WXHK6yXktai-1" value="DARLES una ROSA PElada PORFa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="336" y="4010" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
