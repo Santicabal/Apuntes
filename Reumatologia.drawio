@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T22:32:20.965Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="gS2zRccFuGcC5sz8ds_N" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-11T16:38:36.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="3irIQIiL0KQsR4bSo2m_" version="21.3.8" type="github">
   <diagram name="Page-1" id="YMc2Lb0-uA0RhdW9XWHS">
-    <mxGraphModel dx="357" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="674" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-12" value="Granulomatosas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=7;verticalAlign=top;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="30" y="2401" width="530" height="330" as="geometry" />
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-12" value="Granulomatosas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=7;verticalAlign=top;fontStyle=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="30" y="2400" width="530" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-11" value="Necrosis Fibrinoide" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;arcSize=7;verticalAlign=top;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-11" value="Necrosis Fibrinoide" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;arcSize=7;verticalAlign=top;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="30" y="2069" width="530" height="330" as="geometry" />
         </mxCell>
         <mxCell id="9BNh7RZpfPYm2C82WYNC-1" value="Generalidades" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" parent="1" vertex="1">
@@ -51,7 +51,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K8N9iO58r2tab0btmSAy-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="9BNh7RZpfPYm2C82WYNC-6" vertex="1">
-          <mxGeometry x="240" width="NaN" height="40" as="geometry">
+          <mxGeometry x="240" height="40" as="geometry">
             <mxRectangle width="NaN" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -82,7 +82,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K8N9iO58r2tab0btmSAy-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="9BNh7RZpfPYm2C82WYNC-15" vertex="1">
-          <mxGeometry x="240" width="NaN" height="30" as="geometry">
+          <mxGeometry x="240" height="30" as="geometry">
             <mxRectangle width="NaN" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -166,7 +166,7 @@
         <mxCell id="mQVOSBeh4m7pWJb2d_9q-8" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Celulas Gigantes&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Mujeres grandes&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Afecta la temporal&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Hay amaurosis fugax&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;align=center;arcSize=12;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="370" y="1228" width="240" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-5" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" edge="1" parent="1" source="mQVOSBeh4m7pWJb2d_9q-9" target="4y5AUWpvbyg9ipKsHKwL-4">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-5" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" parent="1" source="mQVOSBeh4m7pWJb2d_9q-9" target="4y5AUWpvbyg9ipKsHKwL-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="243" y="1638" />
@@ -177,7 +177,7 @@
         <mxCell id="mQVOSBeh4m7pWJb2d_9q-9" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Diagnostico&lt;/span&gt;&lt;/div&gt;Clinca + Imagen&lt;br&gt;Se ve pared engrosada" style="whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=top;rounded=1;arcSize=12;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="170" y="1502" width="145" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mQVOSBeh4m7pWJb2d_9q-11" target="4y5AUWpvbyg9ipKsHKwL-2">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mQVOSBeh4m7pWJb2d_9q-11" target="4y5AUWpvbyg9ipKsHKwL-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="494" y="1638" />
@@ -185,7 +185,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-6" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" edge="1" parent="1" source="mQVOSBeh4m7pWJb2d_9q-11" target="4y5AUWpvbyg9ipKsHKwL-4">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-6" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" parent="1" source="mQVOSBeh4m7pWJb2d_9q-11" target="4y5AUWpvbyg9ipKsHKwL-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="494" y="1638" />
@@ -199,7 +199,7 @@
         <mxCell id="mQVOSBeh4m7pWJb2d_9q-13" value="Primero hay que pedir Labs: checar reactantes de fase aguda y anemia" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="170" y="1408" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mQVOSBeh4m7pWJb2d_9q-18" target="mQVOSBeh4m7pWJb2d_9q-22">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mQVOSBeh4m7pWJb2d_9q-18" target="mQVOSBeh4m7pWJb2d_9q-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mQVOSBeh4m7pWJb2d_9q-18" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;PAN (Panarteritis Nodosa)&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Insuf renal sin hematuria&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Artritis&lt;/li&gt;&lt;li&gt;&lt;b&gt;Isquemias &lt;/b&gt;abdominales (Coles, Pancreatitis, apenidictis, diarreas, etc)&lt;/li&gt;&lt;li&gt;&lt;b&gt;NO afecta pulmon&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;align=left;arcSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;spacingTop=-5;" parent="1" vertex="1">
@@ -220,7 +220,7 @@
         <mxCell id="mQVOSBeh4m7pWJb2d_9q-25" value="&lt;div style=&quot;&quot;&gt;&lt;span&gt;↑VSG y prot C Reactiva&lt;br&gt;Anemia&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span&gt;&amp;nbsp;P-ANCA + (50%)&lt;br&gt;Torax con infiltrados algodonosos&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;align=center;arcSize=12;fillColor=#e6d0de;strokeColor=#996185;fontStyle=0;gradientColor=#d5739d;" parent="1" vertex="1">
           <mxGeometry x="42.75" y="2289" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mQVOSBeh4m7pWJb2d_9q-26" target="mQVOSBeh4m7pWJb2d_9q-28">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mQVOSBeh4m7pWJb2d_9q-26" target="mQVOSBeh4m7pWJb2d_9q-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mQVOSBeh4m7pWJb2d_9q-26" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Churg Straus&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Granulomatosis Eosinofilica con Poliangeitis&lt;/li&gt;&lt;li&gt;Antecedentes de alergias&lt;/li&gt;&lt;li&gt;Infiltrados pulmonares migratorios no cavitados&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;align=left;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
@@ -312,7 +312,7 @@
         <mxCell id="B2miu2K40CoL7UvrQEE2-16" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="B2miu2K40CoL7UvrQEE2-13" target="B2miu2K40CoL7UvrQEE2-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B2miu2K40CoL7UvrQEE2-13" target="B2miu2K40CoL7UvrQEE2-15">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="B2miu2K40CoL7UvrQEE2-13" target="B2miu2K40CoL7UvrQEE2-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B2miu2K40CoL7UvrQEE2-13" value="AINE o Esteroide + colchicina" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
@@ -393,157 +393,157 @@
         <mxCell id="B2miu2K40CoL7UvrQEE2-51" value="Monoartritis agudas hay que punzar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="80" y="713" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-2" value="Bifosfonatos" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#2D7600;rounded=1;arcSize=12;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-2" value="Bifosfonatos" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#2D7600;rounded=1;arcSize=12;fontColor=#ffffff;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="570" y="1668" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-4" value="Ca+Vit D" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#2D7600;rounded=1;arcSize=12;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-4" value="Ca+Vit D" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#2D7600;rounded=1;arcSize=12;fontColor=#ffffff;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="330" y="1681" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-7" target="4y5AUWpvbyg9ipKsHKwL-9">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4y5AUWpvbyg9ipKsHKwL-7" target="4y5AUWpvbyg9ipKsHKwL-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-7" value="Corticoides grave" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fillColor=#60a917;strokeColor=#2D7600;rounded=1;arcSize=12;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-7" value="Corticoides grave" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fillColor=#60a917;strokeColor=#2D7600;rounded=1;arcSize=12;fontColor=#ffffff;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="330" y="1761" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-9" value="MTX o Toci" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fillColor=#60a917;strokeColor=#2D7600;rounded=1;arcSize=12;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-9" value="MTX o Toci" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fillColor=#60a917;strokeColor=#2D7600;rounded=1;arcSize=12;fontColor=#ffffff;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="330" y="1880" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;strokeColor=#CC0000;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-15" target="4y5AUWpvbyg9ipKsHKwL-16">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;strokeColor=#CC0000;" parent="1" source="4y5AUWpvbyg9ipKsHKwL-15" target="4y5AUWpvbyg9ipKsHKwL-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-15" value="Takayasu&lt;br style=&quot;font-size: 18px;&quot;&gt;Celulas Gigantes" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;fillColor=#CC0000;strokeColor=#CC0000;strokeWidth=3;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-15" value="Takayasu&lt;br style=&quot;font-size: 18px;&quot;&gt;Celulas Gigantes" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;fillColor=#CC0000;strokeColor=#CC0000;strokeWidth=3;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="84" y="907.5" width="197" height="197" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#3333FF;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-16" target="4y5AUWpvbyg9ipKsHKwL-17">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#3333FF;" parent="1" source="4y5AUWpvbyg9ipKsHKwL-16" target="4y5AUWpvbyg9ipKsHKwL-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-16" value="PAN&lt;br style=&quot;font-size: 14px;&quot;&gt;Kawasaki" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;strokeColor=#FF0000;fontSize=14;strokeWidth=2;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-16" value="PAN&lt;br style=&quot;font-size: 14px;&quot;&gt;Kawasaki" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;strokeColor=#FF0000;fontSize=14;strokeWidth=2;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="333.82" y="940.5" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-17" value="PAM&lt;br&gt;Wegener&lt;br&gt;Churg Straus" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-17" value="PAM&lt;br&gt;Wegener&lt;br&gt;Churg Straus" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="505" y="968.5" width="75" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-18" value="Henoch–Schönlein" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-18" value="Henoch–Schönlein" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="589.5" y="968" width="75" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-22" value="ANCA +/-" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-22" value="ANCA +/-" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="514" y="948" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-24" value="&lt;b&gt;ANCA -&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-24" value="&lt;b&gt;ANCA -&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="600" y="947" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-26" value="Los importante &lt;br&gt;de los ANCA es &lt;br&gt;que Siempre es negativo en Henoch y casi siempre positivo en wegener, lo demas puede ser +/-" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;verticalAlign=top;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-26" value="Los importante &lt;br&gt;de los ANCA es &lt;br&gt;que Siempre es negativo en Henoch y casi siempre positivo en wegener, lo demas puede ser +/-" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;verticalAlign=top;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="522.5" y="1060" width="134.5" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-27" value="Grandes" style="text;strokeColor=none;fillColor=none;html=1;fontSize=23;fontStyle=1;verticalAlign=middle;align=center;fontColor=#3333FF;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-27" value="Grandes" style="text;strokeColor=none;fillColor=none;html=1;fontSize=23;fontStyle=1;verticalAlign=middle;align=center;fontColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry x="60" y="1190" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-28" value="Necrotizantes sistemicas" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#3333FF;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-28" value="Necrotizantes sistemicas" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry x="136" y="1968" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-30" value="Artritis Reumatoide" style="text;strokeColor=none;fillColor=none;html=1;fontSize=22;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="36" y="4680" width="100" height="40" as="geometry" />
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-30" value="Artritis Reumatoide" style="text;strokeColor=none;fillColor=none;html=1;fontSize=22;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="36" y="4680" width="214" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-32" target="4y5AUWpvbyg9ipKsHKwL-33">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4y5AUWpvbyg9ipKsHKwL-32" target="4y5AUWpvbyg9ipKsHKwL-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-32" value="Poliartritis SIMETRICA (la unica)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-32" value="Poliartritis SIMETRICA (la unica)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="281" y="4740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-33" target="4y5AUWpvbyg9ipKsHKwL-36">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4y5AUWpvbyg9ipKsHKwL-33" target="4y5AUWpvbyg9ipKsHKwL-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-33" value="Afecta cualquier articulacion&lt;br&gt;Hay Rigidez matutina" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-33" value="Afecta cualquier articulacion&lt;br&gt;Hay Rigidez matutina" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="281" y="4834" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-35" value="Para el MIR si afecta interfalangicas DISTALES = Artritis psoriasica&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;strokeColor=#B09500;fontColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-35" value="Para el MIR si afecta interfalangicas DISTALES = Artritis psoriasica&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;strokeColor=#B09500;fontColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="433.5" y="4834" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-36" value="Rx Erosiones y osteopenia en banda (alrededor de la articulacion afectada)" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-36" value="Rx Erosiones y osteopenia en banda (alrededor de la articulacion afectada)" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="281" y="4936" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-38" target="4y5AUWpvbyg9ipKsHKwL-32">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4y5AUWpvbyg9ipKsHKwL-38" target="4y5AUWpvbyg9ipKsHKwL-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-38" value="Clinica articular" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-38" value="Clinica articular" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="81" y="4740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-40" target="4y5AUWpvbyg9ipKsHKwL-42">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4y5AUWpvbyg9ipKsHKwL-40" target="4y5AUWpvbyg9ipKsHKwL-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-40" value="Clinica Extraarticular" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-40" value="Clinica Extraarticular" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="81" y="5069" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-42" value="&lt;ul&gt;&lt;li&gt;Nodulos Subcutaneos&lt;/li&gt;&lt;li&gt;Querato conjuntivitis Seca&lt;/li&gt;&lt;li&gt;Serositis subclinicas&lt;/li&gt;&lt;li&gt;Pulmon con enf. intersticial que afecta bases&lt;/li&gt;&lt;li&gt;Amiloidosis renal&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=-24;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-42" value="&lt;ul&gt;&lt;li&gt;Nodulos Subcutaneos&lt;/li&gt;&lt;li&gt;Querato conjuntivitis Seca&lt;/li&gt;&lt;li&gt;Serositis subclinicas&lt;/li&gt;&lt;li&gt;Pulmon con enf. intersticial que afecta bases&lt;/li&gt;&lt;li&gt;Amiloidosis renal&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=-24;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="281" y="5018" width="120" height="161" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-44" target="4y5AUWpvbyg9ipKsHKwL-46">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4y5AUWpvbyg9ipKsHKwL-44" target="4y5AUWpvbyg9ipKsHKwL-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-44" value="Diagnostico" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-44" value="Diagnostico" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="81" y="5209" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-46" target="4y5AUWpvbyg9ipKsHKwL-50">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4y5AUWpvbyg9ipKsHKwL-46" target="4y5AUWpvbyg9ipKsHKwL-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-46" value="&lt;b&gt;Clinica&amp;nbsp; &lt;/b&gt;puramente, inicio Tx con esto, luego los labs ayudan a pronostico" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-46" value="&lt;b&gt;Clinica&amp;nbsp; &lt;/b&gt;puramente, inicio Tx con esto, luego los labs ayudan a pronostico" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="281" y="5209" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-50" value="QS, Factor Reumatoide, anti citrulinados, Rx torax, manos y pies" style="whiteSpace=wrap;html=1;rounded=1;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-50" value="QS, Factor Reumatoide, anti citrulinados, Rx torax, manos y pies" style="whiteSpace=wrap;html=1;rounded=1;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="281" y="5295" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-52" target="4y5AUWpvbyg9ipKsHKwL-54">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4y5AUWpvbyg9ipKsHKwL-52" target="4y5AUWpvbyg9ipKsHKwL-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-52" value="Pronostico" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-52" value="Pronostico" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="81" y="5383" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-54" value="Influyen ser seropositivo y Tx precoz" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-54" value="Influyen ser seropositivo y Tx precoz" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="281" y="5383" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-60" target="4y5AUWpvbyg9ipKsHKwL-62">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4y5AUWpvbyg9ipKsHKwL-60" target="4y5AUWpvbyg9ipKsHKwL-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-60" target="4y5AUWpvbyg9ipKsHKwL-64">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4y5AUWpvbyg9ipKsHKwL-60" target="4y5AUWpvbyg9ipKsHKwL-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-60" value="Tratamiento" style="whiteSpace=wrap;html=1;align=center;rounded=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-60" value="Tratamiento" style="whiteSpace=wrap;html=1;align=center;rounded=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="481" y="4936" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-62" value="El objetivo es quitar la inflamacion en 6 meses (Como sea)" style="whiteSpace=wrap;html=1;align=center;rounded=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-62" value="El objetivo es quitar la inflamacion en 6 meses (Como sea)" style="whiteSpace=wrap;html=1;align=center;rounded=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="681" y="4936" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-64" value="Corticoides bajos +/- &lt;br&gt;AINE" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacing=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-64" value="Corticoides bajos +/- &lt;br&gt;AINE" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacing=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="496" y="5053" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-71" value="Si no controlo&lt;br&gt;O&amp;nbsp; si quiero desde inicio" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-64" target="4y5AUWpvbyg9ipKsHKwL-70">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-71" value="Si no controlo&lt;br&gt;O&amp;nbsp; si quiero desde inicio" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4y5AUWpvbyg9ipKsHKwL-64" target="4y5AUWpvbyg9ipKsHKwL-70" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="584.5" y="5146" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-66" value="MTX 10mg/semana" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacingTop=-8;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-66" value="MTX 10mg/semana" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacingTop=-8;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="581" y="5053" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-69" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K8N9iO58r2tab0btmSAy-27" target="4y5AUWpvbyg9ipKsHKwL-68">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-69" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="K8N9iO58r2tab0btmSAy-27" target="4y5AUWpvbyg9ipKsHKwL-68" edge="1">
           <mxGeometry x="0.1112" relative="1" as="geometry">
             <mxPoint x="163" y="273" as="sourcePoint" />
             <mxPoint x="163" y="383" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-68" value="&lt;b&gt;SIEMPRE&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Evaluar funcion&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;hepatica, renal y BH&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFF00;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-68" value="&lt;b&gt;SIEMPRE&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Evaluar funcion&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;hepatica, renal y BH&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFF00;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="78.37" y="310" width="167.63" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-70" target="4y5AUWpvbyg9ipKsHKwL-72">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4y5AUWpvbyg9ipKsHKwL-70" target="4y5AUWpvbyg9ipKsHKwL-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-70" value="HCQ / Leflunomida" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacingTop=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-70" value="HCQ / Leflunomida" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacingTop=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="500.5" y="5222.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-72" value="Biologico" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacingTop=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-72" value="Biologico" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacingTop=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="500.5" y="5340.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-80" target="4y5AUWpvbyg9ipKsHKwL-81">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4y5AUWpvbyg9ipKsHKwL-80" target="4y5AUWpvbyg9ipKsHKwL-81" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="280" y="887" />
@@ -551,14 +551,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-80" value="Grandes vasos" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-80" value="Grandes vasos" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="99" y="867.5" width="153" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4y5AUWpvbyg9ipKsHKwL-81" target="4y5AUWpvbyg9ipKsHKwL-22">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4y5AUWpvbyg9ipKsHKwL-81" target="4y5AUWpvbyg9ipKsHKwL-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4y5AUWpvbyg9ipKsHKwL-81" value="Medianos vasos" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="4y5AUWpvbyg9ipKsHKwL-81" value="Medianos vasos" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="315" y="908" width="162.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MCZPyset5YLvcdkSw9tZ-1" value="Lupus" style="text;strokeColor=none;fillColor=none;html=1;fontSize=22;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="42.5" y="5570" width="214" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MCZPyset5YLvcdkSw9tZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MCZPyset5YLvcdkSw9tZ-3" target="MCZPyset5YLvcdkSw9tZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MCZPyset5YLvcdkSw9tZ-3" value="Necesitas ANA &amp;gt;1/80 + clinica y el Score &amp;gt;10" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="116" y="5640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MCZPyset5YLvcdkSw9tZ-4" value="ANA:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Antinuclear&lt;/b&gt;: lo tienen todos pero tambien otras enfermedades como Esclerodermia y Sjogren.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Anti Smith:&lt;/b&gt; Solo el 30% pero es super especifico&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Anti ADN ds:&lt;/b&gt; Sube cuando hay mas actividad de enfermedad neuronal y renal&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;spacingLeft=-21;" vertex="1" parent="1">
+          <mxGeometry x="285.5" y="5605" width="284.5" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
