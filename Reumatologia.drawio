@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T21:25:54.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="n6oHWNURvLGIMykuTJpJ" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-11T21:35:36.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="iUNiOB29NZCiN5H5zp5h" version="21.3.8" type="github">
   <diagram name="Page-1" id="YMc2Lb0-uA0RhdW9XWHS">
     <mxGraphModel dx="674" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -656,10 +656,10 @@
         <mxCell id="MCZPyset5YLvcdkSw9tZ-31" value="Nefropatia Lupica" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="66" y="5921" width="178" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MCZPyset5YLvcdkSw9tZ-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1" target="MCZPyset5YLvcdkSw9tZ-14">
+        <mxCell id="MCZPyset5YLvcdkSw9tZ-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="353" y="6200" as="sourcePoint" />
-            <mxPoint x="320" y="6120" as="targetPoint" />
+            <mxPoint x="357" y="6200" as="sourcePoint" />
+            <mxPoint x="356.5454545454545" y="6000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MCZPyset5YLvcdkSw9tZ-33" value="↑ Creatinina" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -692,19 +692,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MCZPyset5YLvcdkSw9tZ-41" value="Tratamiento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290" y="6250" width="120" height="60" as="geometry" />
+          <mxGeometry x="296" y="6250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MCZPyset5YLvcdkSw9tZ-42" value="HCQ" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="310" y="6350" width="80" height="80" as="geometry" />
+          <mxGeometry x="316" y="6350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MCZPyset5YLvcdkSw9tZ-44" value="Todos&amp;nbsp; los Px y todos los lupusse llevan HCQ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="422" y="6360" width="120" height="60" as="geometry" />
+          <mxGeometry x="428" y="6360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MCZPyset5YLvcdkSw9tZ-45" value="+/- AINE, esteroide, FAME" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="310" y="6430" width="80" height="80" as="geometry" />
+          <mxGeometry x="316" y="6430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MCZPyset5YLvcdkSw9tZ-47" value="Si es cutaneo los esteroides son topicos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="421" y="6440" width="120" height="60" as="geometry" />
+          <mxGeometry x="427" y="6440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MCZPyset5YLvcdkSw9tZ-48" value="Sindrome Antifosfolipidos" style="text;strokeColor=none;fillColor=none;html=1;fontSize=22;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="42" y="6570" width="214" height="40" as="geometry" />
