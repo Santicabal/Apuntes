@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T17:53:10.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="W1paQPmRzLwIzXUN_psw" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-11T18:10:46.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="oCUsJSLcYYdI050Hp7qq" version="21.3.8" type="github">
   <diagram name="Page-1" id="YMc2Lb0-uA0RhdW9XWHS">
     <mxGraphModel dx="674" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -594,6 +594,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="MCZPyset5YLvcdkSw9tZ-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MCZPyset5YLvcdkSw9tZ-6" target="MCZPyset5YLvcdkSw9tZ-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="5820" />
+              <mxPoint x="320" y="5820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MCZPyset5YLvcdkSw9tZ-6" value="Afectacion clinica:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Sistemica: 95% (Fiebre, astenia, etc)&lt;br&gt;Musculoesqueletica: 95%&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Hematologica: 85%&lt;br&gt;Cutanea: 50%&lt;br&gt;Cardio y neuro: 60%&lt;br&gt;Renal: 50%&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="341.5" y="5790" width="154" height="130" as="geometry" />
         </mxCell>
@@ -646,7 +654,7 @@
           <mxGeometry x="509" y="6036" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MCZPyset5YLvcdkSw9tZ-31" value="Nefropatia Lupica" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="66" y="5920" width="178" height="40" as="geometry" />
+          <mxGeometry x="66" y="5910" width="178" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MCZPyset5YLvcdkSw9tZ-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1" target="MCZPyset5YLvcdkSw9tZ-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -668,6 +676,17 @@
         </mxCell>
         <mxCell id="MCZPyset5YLvcdkSw9tZ-36" value="Funcion renal&lt;br&gt;Conservada" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="249" y="6140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MCZPyset5YLvcdkSw9tZ-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MCZPyset5YLvcdkSw9tZ-38" target="MCZPyset5YLvcdkSw9tZ-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="209" y="5900" />
+              <mxPoint x="209" y="5900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MCZPyset5YLvcdkSw9tZ-38" value="Marcadores de acrividad:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;↑ VSG, Prot C, Anti ADN. y ↓Complemento. &lt;br&gt;Si se afectan buscar en sedimento urinario&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="136.5" y="5790" width="144.5" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
