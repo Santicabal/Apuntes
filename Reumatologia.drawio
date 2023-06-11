@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T16:38:36.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="3irIQIiL0KQsR4bSo2m_" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-11T16:43:55.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="sMcBOumb05n9_3AWXyHT" version="21.3.8" type="github">
   <diagram name="Page-1" id="YMc2Lb0-uA0RhdW9XWHS">
     <mxGraphModel dx="674" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -566,11 +566,17 @@
         <mxCell id="MCZPyset5YLvcdkSw9tZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MCZPyset5YLvcdkSw9tZ-3" target="MCZPyset5YLvcdkSw9tZ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MCZPyset5YLvcdkSw9tZ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MCZPyset5YLvcdkSw9tZ-3" target="MCZPyset5YLvcdkSw9tZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MCZPyset5YLvcdkSw9tZ-3" value="Necesitas ANA &amp;gt;1/80 + clinica y el Score &amp;gt;10" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="116" y="5640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MCZPyset5YLvcdkSw9tZ-4" value="ANA:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Antinuclear&lt;/b&gt;: lo tienen todos pero tambien otras enfermedades como Esclerodermia y Sjogren.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Anti Smith:&lt;/b&gt; Solo el 30% pero es super especifico&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Anti ADN ds:&lt;/b&gt; Sube cuando hay mas actividad de enfermedad neuronal y renal&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;spacingLeft=-21;" vertex="1" parent="1">
           <mxGeometry x="285.5" y="5605" width="284.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MCZPyset5YLvcdkSw9tZ-6" value="Afectacion clinica:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Sistemica: 95% (Fiebre, astenia, etc)&lt;br&gt;Musculoesqueletica: 95%&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Hematologica: 85%&lt;br&gt;Cutanea: 50%&lt;br&gt;Cardio y neuro: 60%&lt;br&gt;Renal: 50%&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="341.5" y="5790" width="154" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
