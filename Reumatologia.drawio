@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T17:47:06.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="qXLWCkRf0QfathBCbKcn" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-11T17:48:31.427Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="I_TvUv9MpsGv2prK1xqy" version="21.3.8" type="github">
   <diagram name="Page-1" id="YMc2Lb0-uA0RhdW9XWHS">
-    <mxGraphModel dx="555" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="787" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -644,6 +644,9 @@
         </mxCell>
         <mxCell id="MCZPyset5YLvcdkSw9tZ-21" value="Esclerosante" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="509" y="6036" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MCZPyset5YLvcdkSw9tZ-31" value="Nefropatia Lupica" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="66" y="5920" width="178" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
