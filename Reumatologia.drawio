@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T17:48:31.427Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="I_TvUv9MpsGv2prK1xqy" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-11T17:51:51.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="cFWaAGBud7rR9Q5Dk7km" version="21.3.8" type="github">
   <diagram name="Page-1" id="YMc2Lb0-uA0RhdW9XWHS">
-    <mxGraphModel dx="787" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="674" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -624,13 +624,13 @@
         <mxCell id="MCZPyset5YLvcdkSw9tZ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.398;entryY=0.825;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="MCZPyset5YLvcdkSw9tZ-18" target="MCZPyset5YLvcdkSw9tZ-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MCZPyset5YLvcdkSw9tZ-18" value="Difusa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="MCZPyset5YLvcdkSw9tZ-18" value="Focal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="263" y="6030" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MCZPyset5YLvcdkSw9tZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.568;entryY=0.932;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="MCZPyset5YLvcdkSw9tZ-19" target="MCZPyset5YLvcdkSw9tZ-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MCZPyset5YLvcdkSw9tZ-19" value="Focal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="MCZPyset5YLvcdkSw9tZ-19" value="Difusa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="362" y="6030" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MCZPyset5YLvcdkSw9tZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.678;entryY=0.861;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="MCZPyset5YLvcdkSw9tZ-20" target="MCZPyset5YLvcdkSw9tZ-14">
@@ -647,6 +647,24 @@
         </mxCell>
         <mxCell id="MCZPyset5YLvcdkSw9tZ-31" value="Nefropatia Lupica" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="66" y="5920" width="178" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MCZPyset5YLvcdkSw9tZ-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1" target="MCZPyset5YLvcdkSw9tZ-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="353" y="6160" as="sourcePoint" />
+            <mxPoint x="320" y="6120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MCZPyset5YLvcdkSw9tZ-33" value="↑ Creatinina" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="6138" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MCZPyset5YLvcdkSw9tZ-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="6210" as="sourcePoint" />
+            <mxPoint x="200" y="6210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MCZPyset5YLvcdkSw9tZ-35" value="De mas leve a mas grave" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="63" y="6168" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
