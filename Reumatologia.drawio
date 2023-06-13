@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T18:11:07.728Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="dvJmt1PRsDbQsS-mWzlQ" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-13T22:34:27.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="9owYu2Nh4rebT3HXuLVj" version="21.3.8" type="github">
   <diagram name="Page-1" id="YMc2Lb0-uA0RhdW9XWHS">
     <mxGraphModel dx="408" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -813,13 +813,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MCZPyset5YLvcdkSw9tZ-98" value="Oligoartritis asimetrica en miembros inferiores" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="75.5" y="7200" width="120" height="60" as="geometry" />
+          <mxGeometry x="77.5" y="7200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VdExt_i0eoRINnA_bl2J-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MCZPyset5YLvcdkSw9tZ-99" target="VdExt_i0eoRINnA_bl2J-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MCZPyset5YLvcdkSw9tZ-99" value="Fusion de huesos de vertebras y pelvis" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="236" y="7200" width="120" height="60" as="geometry" />
+          <mxGeometry x="238" y="7200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VdExt_i0eoRINnA_bl2J-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VdExt_i0eoRINnA_bl2J-1" target="VdExt_i0eoRINnA_bl2J-3">
           <mxGeometry relative="1" as="geometry" />
@@ -837,7 +837,7 @@
           <mxGeometry x="239.25" y="7340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VdExt_i0eoRINnA_bl2J-7" value="Osea totalmente opuesta a AR" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="75.5" y="7340" width="120" height="60" as="geometry" />
+          <mxGeometry x="77.5" y="7340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VdExt_i0eoRINnA_bl2J-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VdExt_i0eoRINnA_bl2J-9" target="VdExt_i0eoRINnA_bl2J-13">
           <mxGeometry relative="1" as="geometry" />
