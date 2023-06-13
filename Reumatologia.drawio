@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T22:34:27.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="9owYu2Nh4rebT3HXuLVj" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-13T22:37:50.827Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="pyXRr4G9KGaPMh1pCxIF" version="21.3.8" type="github">
   <diagram name="Page-1" id="YMc2Lb0-uA0RhdW9XWHS">
     <mxGraphModel dx="408" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -833,7 +833,7 @@
         <mxCell id="VdExt_i0eoRINnA_bl2J-3" value="Sacroileitis en Rx + (1)&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;↓ Movilidad lumbar&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;↓ Extension torax&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Dolor lumbar inflamatorio&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Antes de los 40 años&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Empeora al reposo&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Nocturno&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="7165" width="200" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="VdExt_i0eoRINnA_bl2J-6" value="Enfermedad asociada a HLA B27 y en jovenes H=M" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VdExt_i0eoRINnA_bl2J-6" value="Enfermedad asociada a HLA B27 y en jovenes H&amp;gt;M" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="239.25" y="7340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VdExt_i0eoRINnA_bl2J-7" value="Osea totalmente opuesta a AR" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -862,6 +862,9 @@
         </mxCell>
         <mxCell id="VdExt_i0eoRINnA_bl2J-21" value="Periferico" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="678" y="7428" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VdExt_i0eoRINnA_bl2J-22" value="Rx con Signo de caña de bambu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="396" y="7340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
