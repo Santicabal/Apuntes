@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T18:19:56.056Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="lMyw6XHGkNZZ92LT81dy" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T18:22:16.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="GCQMUJQroPoqgW3T_XRb" version="21.5.0" type="github">
   <diagram name="Page-1" id="o6SSl2_z5C2vus49G62G">
     <mxGraphModel dx="797" dy="2177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -493,6 +493,9 @@
         <mxCell id="nTHPkJEATrH_3Rt17hLU-5" value="Cristaloides 1-2L &lt;br&gt;Si Htco &amp;lt;30% →Transfusion" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="296.7" y="1490" width="123" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="nTHPkJEATrH_3Rt17hLU-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nTHPkJEATrH_3Rt17hLU-9" target="nTHPkJEATrH_3Rt17hLU-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nTHPkJEATrH_3Rt17hLU-9" value="Vasopresores cuando cristaloides no alcanzan objetivos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="501.2" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
@@ -564,6 +567,9 @@
         </mxCell>
         <mxCell id="nTHPkJEATrH_3Rt17hLU-33" value="Investigar mas segun sospechas, puncion lumbar, ECG, toxicos, etc" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="238" y="2100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nTHPkJEATrH_3Rt17hLU-35" value="Anafilactico: Adrenalina I.M&lt;br&gt;Septico o cardiogenico: Noradrenalina&lt;br&gt;Cardiogenico: Dobutamina" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="666.2" y="1480" width="158.8" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
