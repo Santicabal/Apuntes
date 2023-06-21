@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T21:53:58.045Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="HKUiXVR234oznrm3ef3F" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-21T22:51:50.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="L9i7lLHaXE3vr9LdHef6" version="21.5.0" type="github">
   <diagram name="Page-1" id="o6SSl2_z5C2vus49G62G">
-    <mxGraphModel dx="1550" dy="2357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1094" dy="1987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -580,7 +580,7 @@
         <mxCell id="nTHPkJEATrH_3Rt17hLU-43" value="&amp;gt;2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nTHPkJEATrH_3Rt17hLU-38" target="nTHPkJEATrH_3Rt17hLU-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nTHPkJEATrH_3Rt17hLU-38" value="qSOFA&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="nTHPkJEATrH_3Rt17hLU-38" value="qSOFA&amp;nbsp;&lt;br&gt;Taquipnea, Glasgow &amp;lt;13, PAS&amp;lt;100" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="295" y="1667" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nTHPkJEATrH_3Rt17hLU-40" value="Monitorizar y reevaluar" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
@@ -745,7 +745,7 @@
             <mxRectangle width="68" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMkPbW43-M-bcj00Bpwv-1" value="Choque septico:&amp;nbsp;&lt;br&gt;Sepsis + Vasopresores + Lactato &amp;gt;2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="UMkPbW43-M-bcj00Bpwv-1" value="&lt;b&gt;Choque septico:&amp;nbsp;&lt;br&gt;&lt;/b&gt;Sepsis + Vasopresores + Lactato &amp;gt;2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="95" y="1810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
