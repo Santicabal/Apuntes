@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T16:43:51.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="KVlGcfOJEhon_bc7DG2G" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-21T16:46:49.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="nSvq7DnokzHmm1gFiBSP" version="21.5.0" type="github">
   <diagram name="Page-1" id="YMc2Lb0-uA0RhdW9XWHS">
     <mxGraphModel dx="930" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1070,10 +1070,10 @@
           <mxGeometry x="80" y="8700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bnhaAn1EzoI1EoSa7hZH-15" value="Bifosfonatos causan Osteonecrosis de maxilar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="213.82" y="8700" width="120" height="60" as="geometry" />
+          <mxGeometry x="343.82" y="8700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bnhaAn1EzoI1EoSa7hZH-16" value="Las Rx de Fx de columna se ven en cuña" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry x="347" y="8700" width="120" height="60" as="geometry" />
+          <mxGeometry x="211" y="8700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bnhaAn1EzoI1EoSa7hZH-17" value="Osteomalacia" style="text;strokeColor=none;fillColor=none;html=1;fontSize=22;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="39" y="8850" width="214" height="40" as="geometry" />
@@ -1093,7 +1093,7 @@
         <mxCell id="bnhaAn1EzoI1EoSa7hZH-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bnhaAn1EzoI1EoSa7hZH-22" target="bnhaAn1EzoI1EoSa7hZH-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bnhaAn1EzoI1EoSa7hZH-22" value="Consecuencias:&lt;br&gt;↓Ca→Sube la PTH →El hueso pierde su calcio para liberarlo en sangre →Riñon ahorra Ca y tira P" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="bnhaAn1EzoI1EoSa7hZH-22" value="Consecuencias:&lt;br&gt;↓Ca→Sube la PTH &lt;br&gt;→El hueso pierde su calcio para liberarlo en sangre →Riñon ahorra Ca y tira P" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="397.5" y="8920" width="162.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="bnhaAn1EzoI1EoSa7hZH-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bnhaAn1EzoI1EoSa7hZH-24" target="bnhaAn1EzoI1EoSa7hZH-26">
