@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T12:10:01.155Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="RortC_39x7RhWw9R4DZp" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-21T13:33:19.870Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="DqdkSmsB86I2fTC51GEq" version="21.5.0" type="github">
   <diagram name="Page-1" id="YMc2Lb0-uA0RhdW9XWHS">
-    <mxGraphModel dx="984" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1312" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -274,7 +274,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mQVOSBeh4m7pWJb2d_9q-43" value="3 episodios de ulceras orales al año&lt;br&gt;+ 2:&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Ulceras genitales&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Lesiones en piel&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Eritema nodoso&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Foliculitis&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Acneiforme&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Uveitis&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Patergia&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="271" y="2998" width="200" height="220" as="geometry" />
+          <mxGeometry x="271" y="2998" width="200" height="232" as="geometry" />
         </mxCell>
         <mxCell id="mQVOSBeh4m7pWJb2d_9q-45" value="Ulceras curan sin dejar cicatriz y menos en fumadores" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="511" y="2998" width="130" height="80" as="geometry" />
@@ -334,10 +334,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B2miu2K40CoL7UvrQEE2-18" value="Periodo entrecrisis" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="232" y="4183" width="120" height="60" as="geometry" />
+          <mxGeometry x="237" y="4183" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B2miu2K40CoL7UvrQEE2-25" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="B2miu2K40CoL7UvrQEE2-20" target="B2miu2K40CoL7UvrQEE2-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="B2miu2K40CoL7UvrQEE2-25" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" target="B2miu2K40CoL7UvrQEE2-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="297" y="4393" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="B2miu2K40CoL7UvrQEE2-20" value="Dieta sin purinas" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="252" y="4303" width="90" height="90" as="geometry" />
@@ -372,10 +374,10 @@
         </mxCell>
         <mxCell id="B2miu2K40CoL7UvrQEE2-49" value="No sirve alopurinol&lt;br&gt;&amp;nbsp;ni dieta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="B2miu2K40CoL7UvrQEE2-48" vertex="1" connectable="0">
           <mxGeometry x="0.6912" y="2" relative="1" as="geometry">
-            <mxPoint x="153" y="-54" as="offset" />
+            <mxPoint x="149" y="-54" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B2miu2K40CoL7UvrQEE2-40" value="&lt;ul&gt;&lt;li&gt;Mujeres &amp;gt;70&lt;/li&gt;&lt;li&gt;Rodilla, codo, carpo, tobillo&lt;/li&gt;&lt;li&gt;Birrefringencia debilmente +&lt;br&gt;&lt;/li&gt;&lt;li&gt;Rx con condrocalcinosis&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=top;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="B2miu2K40CoL7UvrQEE2-40" value="&lt;ul&gt;&lt;li&gt;Mujeres &amp;gt;70&lt;/li&gt;&lt;li&gt;Rodilla, codo, carpo, tobillo&lt;/li&gt;&lt;li&gt;Birrefringencia debilmente +&lt;br&gt;&lt;/li&gt;&lt;li&gt;Rx con condrocalcinosis&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=middle;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="452.5" y="3625" width="181.5" height="160" as="geometry" />
         </mxCell>
         <mxCell id="B2miu2K40CoL7UvrQEE2-39" value="&lt;ul&gt;&lt;li&gt;Hombres &amp;gt;50&lt;/li&gt;&lt;li&gt;Miembros inferiores&lt;/li&gt;&lt;li&gt;Birrefringencia fuertemente -&lt;br&gt;&lt;/li&gt;&lt;li&gt;Rx con erosiones&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=top;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
@@ -994,6 +996,45 @@
         </mxCell>
         <mxCell id="EjSzhbdZShdXIu3yqtPd-36" value="ABx si hubo chlamyidia o si la infeccion sigue activa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="483" y="8160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EjSzhbdZShdXIu3yqtPd-38" value="Paget" style="text;strokeColor=none;fillColor=none;html=1;fontSize=22;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="44" y="8290" width="214" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EjSzhbdZShdXIu3yqtPd-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjSzhbdZShdXIu3yqtPd-40" target="EjSzhbdZShdXIu3yqtPd-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjSzhbdZShdXIu3yqtPd-40" value="↑↑ Metabolismo oseo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="76.25" y="8360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EjSzhbdZShdXIu3yqtPd-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjSzhbdZShdXIu3yqtPd-41" target="EjSzhbdZShdXIu3yqtPd-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjSzhbdZShdXIu3yqtPd-41" value="↑Ca y FA&lt;br&gt;afecta huesos largos, se deforman calientan y debilitan" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="253.25" y="8360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EjSzhbdZShdXIu3yqtPd-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjSzhbdZShdXIu3yqtPd-47" target="EjSzhbdZShdXIu3yqtPd-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjSzhbdZShdXIu3yqtPd-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjSzhbdZShdXIu3yqtPd-43" target="EjSzhbdZShdXIu3yqtPd-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjSzhbdZShdXIu3yqtPd-43" value="Pueden tener IRC, IC de alto gasto" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="424.25" y="8360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EjSzhbdZShdXIu3yqtPd-45" value="Bifosfonatos" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="728.75" y="8350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EjSzhbdZShdXIu3yqtPd-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjSzhbdZShdXIu3yqtPd-43" target="EjSzhbdZShdXIu3yqtPd-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="544.25" y="8390" as="sourcePoint" />
+            <mxPoint x="673.25" y="8390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EjSzhbdZShdXIu3yqtPd-47" value="Dx con Rx y Gamagrafia" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="581.25" y="8360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EjSzhbdZShdXIu3yqtPd-50" value="Aumentan talla de sombrero" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="158" y="8460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
