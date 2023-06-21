@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T13:33:19.870Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="DqdkSmsB86I2fTC51GEq" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-21T14:06:14.117Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="FSNuIVSx58dihUXb8oGT" version="21.5.0" type="github">
   <diagram name="Page-1" id="YMc2Lb0-uA0RhdW9XWHS">
     <mxGraphModel dx="1312" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1003,13 +1003,13 @@
         <mxCell id="EjSzhbdZShdXIu3yqtPd-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjSzhbdZShdXIu3yqtPd-40" target="EjSzhbdZShdXIu3yqtPd-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EjSzhbdZShdXIu3yqtPd-40" value="↑↑ Metabolismo oseo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EjSzhbdZShdXIu3yqtPd-40" value="↑↑ Metabolismo oseo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="76.25" y="8360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EjSzhbdZShdXIu3yqtPd-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjSzhbdZShdXIu3yqtPd-41" target="EjSzhbdZShdXIu3yqtPd-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EjSzhbdZShdXIu3yqtPd-41" value="↑Ca y FA&lt;br&gt;afecta huesos largos, se deforman calientan y debilitan" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="EjSzhbdZShdXIu3yqtPd-41" value="↑Ca y FA&lt;br&gt;afecta huesos largos, se deforman calientan y debilitan" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="253.25" y="8360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EjSzhbdZShdXIu3yqtPd-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjSzhbdZShdXIu3yqtPd-47" target="EjSzhbdZShdXIu3yqtPd-45">
@@ -1018,10 +1018,10 @@
         <mxCell id="EjSzhbdZShdXIu3yqtPd-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjSzhbdZShdXIu3yqtPd-43" target="EjSzhbdZShdXIu3yqtPd-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EjSzhbdZShdXIu3yqtPd-43" value="Pueden tener IRC, IC de alto gasto" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="EjSzhbdZShdXIu3yqtPd-43" value="Pueden tener IRC, IC de alto gasto" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="424.25" y="8360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EjSzhbdZShdXIu3yqtPd-45" value="Bifosfonatos" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="EjSzhbdZShdXIu3yqtPd-45" value="Bifosfonatos" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="728.75" y="8350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EjSzhbdZShdXIu3yqtPd-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjSzhbdZShdXIu3yqtPd-43" target="EjSzhbdZShdXIu3yqtPd-47">
@@ -1030,10 +1030,10 @@
             <mxPoint x="673.25" y="8390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EjSzhbdZShdXIu3yqtPd-47" value="Dx con Rx y Gamagrafia" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="EjSzhbdZShdXIu3yqtPd-47" value="Dx con Rx y Gamagrafia" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="581.25" y="8360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EjSzhbdZShdXIu3yqtPd-50" value="Aumentan talla de sombrero" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EjSzhbdZShdXIu3yqtPd-50" value="Aumentan talla de sombrero" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="158" y="8460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
