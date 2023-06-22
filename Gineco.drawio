@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T22:47:04.818Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="SblXksBihCoxn6VO0KLc" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T23:00:27.280Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="mAT-y9UcbOTdj69cMQZD" version="21.5.0" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
-    <mxGraphModel dx="1406" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="856" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,8 +146,31 @@
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-58" value="Multicentrica" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="880" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-63" value="" style="orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=elbowEdgeStyle;rounded=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-59" target="3IjL7LeWgJH9LYlmYb9x-62">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-63" value="" style="orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=elbowEdgeStyle;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-59" target="3IjL7LeWgJH9LYlmYb9x-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="895" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-79" value="≥T3&amp;nbsp; o 5cm" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3IjL7LeWgJH9LYlmYb9x-63">
+          <mxGeometry x="-0.5812" y="-1" relative="1" as="geometry">
+            <mxPoint x="2" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="311" y="960" />
+              <mxPoint x="840" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-80" value="Si no saltarse RT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3IjL7LeWgJH9LYlmYb9x-77">
+          <mxGeometry x="-0.6397" y="-2" relative="1" as="geometry">
+            <mxPoint x="-1" y="-2" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-59" value="Mastectomia" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="271" y="855" width="80" height="80" as="geometry" />
@@ -158,24 +181,24 @@
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-68" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-61" target="3IjL7LeWgJH9LYlmYb9x-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-61" value="Ganglio centinela +" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="560" y="719" width="60" height="60" as="geometry" />
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-61" value="Ganglio centinela +" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="565" y="659" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-64" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="3IjL7LeWgJH9LYlmYb9x-61">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="833" as="sourcePoint" />
+            <mxPoint x="535" y="773" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-70" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="3IjL7LeWgJH9LYlmYb9x-69">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="833" as="sourcePoint" />
+            <mxPoint x="535" y="773" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-62" value="Radioterapia" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="792" width="80" height="80" as="geometry" />
+          <mxGeometry x="450" y="735" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-67" value="Linfa-denectomia " style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="695" y="710" width="80" height="80" as="geometry" />
+          <mxGeometry x="700" y="650" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-72" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-69" target="3IjL7LeWgJH9LYlmYb9x-71">
           <mxGeometry relative="1" as="geometry" />
@@ -183,20 +206,20 @@
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-74" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-69" target="3IjL7LeWgJH9LYlmYb9x-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-69" value="Receptor hormonal +" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="873" width="60" height="60" as="geometry" />
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-69" value="Receptor hormonal +" style="ellipse;whiteSpace=wrap;html=1;rounded=1;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="565" y="813" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-71" value="Tamoxifeno" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="695" y="813" width="80" height="80" as="geometry" />
+          <mxGeometry x="700" y="753" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-73" value="Inhib. Aromatasa (Anastrosol)" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="695" y="913" width="80" height="80" as="geometry" />
+          <mxGeometry x="700" y="853" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-75" value="PREmenopasia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="594" y="813" width="110" height="30" as="geometry" />
+          <mxGeometry x="599" y="753" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-76" value="POSTmenopasia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="594" y="968" width="110" height="30" as="geometry" />
+          <mxGeometry x="599" y="908" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
