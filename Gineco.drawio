@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T23:22:59.167Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="jPnrhviEcd4EDbdDCRfA" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T23:49:28.533Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="GePTTFuR1IPnmX1krtNr" version="21.5.0" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
     <mxGraphModel dx="1640" dy="1055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -48,7 +48,7 @@
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-14" target="3IjL7LeWgJH9LYlmYb9x-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-17" value="Aun &lt;br&gt;inconcluso" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3IjL7LeWgJH9LYlmYb9x-16">
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-17" value="Aún &lt;br&gt;inconcluso" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3IjL7LeWgJH9LYlmYb9x-16">
           <mxGeometry x="-0.225" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -260,7 +260,7 @@
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-89" value="HER2 - y RH -" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="1213" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-91" value="&lt;div align=&quot;left&quot;&gt;Es mejor tener receptores + porque hay tx dirigidos. ademas no responden a Qx porque replican poco. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Los triple negativo son los peores pero si responden a Qx&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;arcSize=9;" vertex="1" parent="1">
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-91" value="&lt;div align=&quot;left&quot;&gt;Es mejor tener receptores + porque hay tx dirigidos. ademas no responden a Qx porque replican poco. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Los triple negativo son malos por no tener tx dirigidos pero si responden a Qx&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="70" y="1120" width="150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-92" target="3IjL7LeWgJH9LYlmYb9x-94">
@@ -314,6 +314,27 @@
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-101" value="El Ki 67 es que tanto se replica, mas alto el numero mas se replica" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="1283" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-107" target="3IjL7LeWgJH9LYlmYb9x-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-107" value="Resumen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-108" target="3IjL7LeWgJH9LYlmYb9x-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-108" value="Cx" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-110" target="3IjL7LeWgJH9LYlmYb9x-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-110" value="RT" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="1430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-112" value="HT/Qx/Bio" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="1430" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
