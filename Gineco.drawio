@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T23:10:03.502Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="R5pCFV7DC7A2UFERF7Ur" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T23:22:59.167Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="jPnrhviEcd4EDbdDCRfA" version="21.5.0" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
-    <mxGraphModel dx="1312" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1640" dy="1055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -236,20 +236,84 @@
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-85" target="3IjL7LeWgJH9LYlmYb9x-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-85" value="Luminales &lt;br&gt;(RH + y HER2 -)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-85" target="3IjL7LeWgJH9LYlmYb9x-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-85" value="Luminales A&lt;br&gt;(RH + y HER2 -)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-87" target="3IjL7LeWgJH9LYlmYb9x-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-87" target="3IjL7LeWgJH9LYlmYb9x-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-87" value="HER2 + y RH -" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1160" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-89" target="3IjL7LeWgJH9LYlmYb9x-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-89" target="3IjL7LeWgJH9LYlmYb9x-97">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-89" value="HER2 - y RH -" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1300" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="1213" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-91" value="Es mejor tener receptores + porque hay tx dirigidos. por eso los triple negativo son los peores" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1120" width="120" height="60" as="geometry" />
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-91" value="&lt;div align=&quot;left&quot;&gt;Es mejor tener receptores + porque hay tx dirigidos. ademas no responden a Qx porque replican poco. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Los triple negativo son los peores pero si responden a Qx&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1120" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-92" target="3IjL7LeWgJH9LYlmYb9x-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-92" value="Trastuzumab" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-94" value="Qx" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1203" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-97" target="3IjL7LeWgJH9LYlmYb9x-99">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="1360" />
+              <mxPoint x="810" y="1050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-97" target="3IjL7LeWgJH9LYlmYb9x-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="1360" />
+              <mxPoint x="810" y="1140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-106" value="HER2 +." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3IjL7LeWgJH9LYlmYb9x-103">
+          <mxGeometry x="0.8806" y="1" relative="1" as="geometry">
+            <mxPoint x="9" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-97" target="3IjL7LeWgJH9LYlmYb9x-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="1360" />
+              <mxPoint x="810" y="1243" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-105" value="Ki &amp;gt;20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3IjL7LeWgJH9LYlmYb9x-104">
+          <mxGeometry x="0.8479" y="1" relative="1" as="geometry">
+            <mxPoint x="5" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-97" value="Luminales B&lt;br&gt;RH + y HER2 y/o Ki 67&amp;gt; 20%" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-99" value="Hormono-terapia" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1010" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-101" value="El Ki 67 es que tanto se replica, mas alto el numero mas se replica" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1283" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
