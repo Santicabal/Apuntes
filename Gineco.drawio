@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T22:19:18.863Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="_QFxfb_txTMi3mwma9B5" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T22:26:29.633Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="EZMlcEUVi_uDPo9q0yvO" version="21.5.0" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
     <mxGraphModel dx="1158" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -119,8 +119,11 @@
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-49" value="Reseccion" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="620" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-51" value="Carcinoma infiltrante" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="710" width="120" height="30" as="geometry" />
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-51" target="3IjL7LeWgJH9LYlmYb9x-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-51" value="Multifocal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="740" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-52" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=0;fillWeight=2;hachureGap=8;fillColor=#990000;fillStyle=dots;sketch=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="235" y="512" width="30" height="34" as="geometry" />
@@ -130,6 +133,21 @@
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-54" value="Estudio de ganglio centinela a TODOS menos in situ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="461" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-55" value="Cx Conservadora" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="715" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-58" target="3IjL7LeWgJH9LYlmYb9x-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-58" value="Multicentrica" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="820" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-59" value="Mastectomia" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="795" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-60" value="Depende la relacion tamaño tumor / mama" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="735" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
