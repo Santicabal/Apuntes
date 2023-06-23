@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T08:43:54.697Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="wuKtzrrJ_eTlIhLNnEAD" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-23T09:04:03.115Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="m215WKzbaAe1z-Rqry31" version="21.5.0" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
     <mxGraphModel dx="1158" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -62,8 +62,11 @@
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-18" target="3IjL7LeWgJH9LYlmYb9x-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-18" target="3IjL7LeWgJH9LYlmYb9x-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-18" value="Riesgo de cancer&lt;br&gt;&lt;div align=&quot;left&quot;&gt;BRCA 1&amp;nbsp; 65%&lt;br&gt;BRCA 2 45%&amp;nbsp;&amp;nbsp;&amp;nbsp; Hormonal neagativos&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry x="580" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="178" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-22" target="3IjL7LeWgJH9LYlmYb9x-49">
           <mxGeometry relative="1" as="geometry" />
@@ -93,12 +96,12 @@
           <mxGeometry x="385" y="504" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-34" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=north;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="535" y="424" width="80" height="20" as="geometry" />
+          <mxGeometry x="535" y="415" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-35" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="535" y="514" as="sourcePoint" />
-            <mxPoint x="535" y="444" as="targetPoint" />
+            <mxPoint x="535" y="505" as="sourcePoint" />
+            <mxPoint x="535" y="435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -339,7 +342,40 @@
           <mxGeometry x="512" y="1430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-116" value="&lt;div&gt;RM &amp;gt;25&lt;br&gt;Mastografia &amp;gt;30&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="270" width="80" height="80" as="geometry" />
+          <mxGeometry x="760" y="168" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-123" value="Mastectomia preventiva reduce 90% riesgo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="580" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-125" target="3IjL7LeWgJH9LYlmYb9x-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-125" value="Enfermedad de Paget" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="79" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-126" target="3IjL7LeWgJH9LYlmYb9x-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-126" value="Ulcera en pezon + eczema" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="247" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-128" target="3IjL7LeWgJH9LYlmYb9x-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-128" value="Suele pero no siempre haber un tumor subyacente" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="408" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-130" target="3IjL7LeWgJH9LYlmYb9x-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-130" value="Biopsia &lt;br&gt;+ RM, mastografia, USG" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-132" value="Cx areola y pezon " style="rhombus;whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="684" y="1550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-134" value="Si hay, &lt;br&gt;Tx del tumor" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="759" y="1550" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
