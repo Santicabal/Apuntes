@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T00:24:29.774Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="GE58gQuGZmu5V8TRNLIq" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-23T00:26:14.837Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="y0331hWZeFofBHtBmsXq" version="21.5.0" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
     <mxGraphModel dx="1158" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -178,8 +178,11 @@
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-59" value="Mastectomia" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="271" y="855" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-60" target="3IjL7LeWgJH9LYlmYb9x-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-60" value="Depende la relacion tamaño tumor / mama" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="255" y="800" width="120" height="35" as="geometry" />
+          <mxGeometry x="251" y="798" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-68" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-61" target="3IjL7LeWgJH9LYlmYb9x-67">
           <mxGeometry relative="1" as="geometry" />
