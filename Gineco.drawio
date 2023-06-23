@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T00:26:14.837Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="y0331hWZeFofBHtBmsXq" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-23T08:43:54.697Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="wuKtzrrJ_eTlIhLNnEAD" version="21.5.0" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
     <mxGraphModel dx="1158" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -59,8 +59,11 @@
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-15" value="RM" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="460" y="270" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-18" value="BRCA 1 + → 65% cancer con receptor hormonal neagativo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry x="630" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-18" target="3IjL7LeWgJH9LYlmYb9x-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-18" value="Riesgo de cancer&lt;br&gt;&lt;div align=&quot;left&quot;&gt;BRCA 1&amp;nbsp; 65%&lt;br&gt;BRCA 2 45%&amp;nbsp;&amp;nbsp;&amp;nbsp; Hormonal neagativos&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="580" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-22" target="3IjL7LeWgJH9LYlmYb9x-49">
           <mxGeometry relative="1" as="geometry" />
@@ -255,65 +258,61 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-87" value="HER2 + y RH -" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1110" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-89" target="3IjL7LeWgJH9LYlmYb9x-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-89" target="3IjL7LeWgJH9LYlmYb9x-97">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-89" value="HER2 - y RH -" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1213" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="1293" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-91" value="&lt;div align=&quot;left&quot;&gt;Es mejor tener receptores + porque hay tx dirigidos. ademas no responden a Qx porque replican poco. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Los triple negativo son malos por no tener tx dirigidos pero si responden a Qx&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;arcSize=9;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="70" y="1120" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-92" target="3IjL7LeWgJH9LYlmYb9x-94">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-92" value="Trastuzumab" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="650" y="1100" width="80" height="80" as="geometry" />
+          <mxGeometry x="640" y="1180" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-94" value="Qx" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="650" y="1203" width="80" height="80" as="geometry" />
+          <mxGeometry x="640" y="1283" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-102" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-97" target="3IjL7LeWgJH9LYlmYb9x-99">
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-118" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="3IjL7LeWgJH9LYlmYb9x-99">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="613" y="1130.0588235294117" as="sourcePoint" />
+            <mxPoint x="751" y="1050" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="810" y="1360" />
-              <mxPoint x="810" y="1050" />
+              <mxPoint x="801" y="1130" />
+              <mxPoint x="801" y="1050" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-103" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-97" target="3IjL7LeWgJH9LYlmYb9x-92">
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-119" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-97" target="3IjL7LeWgJH9LYlmYb9x-92">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="810" y="1360" />
-              <mxPoint x="810" y="1140" />
+              <mxPoint x="800" y="1130" />
+              <mxPoint x="800" y="1220" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-106" value="HER2 +." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3IjL7LeWgJH9LYlmYb9x-103">
-          <mxGeometry x="0.8806" y="1" relative="1" as="geometry">
-            <mxPoint x="9" y="-2" as="offset" />
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-121" value="HER2 +" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3IjL7LeWgJH9LYlmYb9x-119">
+          <mxGeometry x="0.8462" y="1" relative="1" as="geometry">
+            <mxPoint x="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-104" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=1;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-97" target="3IjL7LeWgJH9LYlmYb9x-94">
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-120" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3IjL7LeWgJH9LYlmYb9x-97" target="3IjL7LeWgJH9LYlmYb9x-94">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="810" y="1360" />
-              <mxPoint x="810" y="1243" />
+              <mxPoint x="800" y="1130" />
+              <mxPoint x="800" y="1323" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-105" value="Ki &amp;gt;20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3IjL7LeWgJH9LYlmYb9x-104">
-          <mxGeometry x="0.8479" y="1" relative="1" as="geometry">
-            <mxPoint x="5" y="-2" as="offset" />
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-122" value="Ki 67&amp;gt;20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3IjL7LeWgJH9LYlmYb9x-120">
+          <mxGeometry x="0.8743" relative="1" as="geometry">
+            <mxPoint x="6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-97" value="Luminales B&lt;br&gt;RH + y HER2 y/o Ki 67&amp;gt; 20%" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1325" width="120" height="60" as="geometry" />
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-97" value="Luminales B&lt;br&gt;RH + y HER2 y/o Ki 67&amp;gt; 20%" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FAAA0A;fontColor=#000000;strokeColor=#C73500;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="472" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-99" value="Hormono-terapia" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="650" y="1010" width="80" height="80" as="geometry" />
@@ -338,6 +337,9 @@
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-112" value="HT/Qx/Bio" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="512" y="1430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-116" value="&lt;div&gt;RM &amp;gt;25&lt;br&gt;Mastografia &amp;gt;30&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="270" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
