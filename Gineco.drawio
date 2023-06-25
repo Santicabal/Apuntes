@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T18:39:37.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0bkH2Q8lN9zcFdjJ_Hq_" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-25T19:59:56.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="dLK0cNd1RN3OJgV5l8rc" version="21.5.0" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
     <mxGraphModel dx="353" dy="1067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -606,7 +606,7 @@
         <mxCell id="dxRzScjDpn3iGg9njVZz-64" value="Cancer de Ovario" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry y="3300" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dxRzScjDpn3iGg9njVZz-66" value="Tipo mas frecuente Epitelial" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="dxRzScjDpn3iGg9njVZz-66" value="Tipo mas frecuente: Epitelial, se divide en Seroso y Mucinoso" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="80" y="3400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dxRzScjDpn3iGg9njVZz-69" value="Se dice que al haber mas ovulacion se tiene que reparar mas el epitelio y por eso mas cancer. Tambien el epitelio del utero y las trompas se involucran" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=12;verticalAlign=top;align=left;" vertex="1" parent="1">
