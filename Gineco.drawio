@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T15:29:17.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="vxfS_UYr_0vrRo5cF1s4" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-25T15:30:20.320Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Ed7EYB-7Dge61_24Va_Z" version="21.5.0" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
     <mxGraphModel dx="231" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -431,18 +431,18 @@
         <mxCell id="dxRzScjDpn3iGg9njVZz-1" value="Ovario Poliquistico" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry y="2130" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dxRzScjDpn3iGg9njVZz-4" value="Diagnostico 2 de 3" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;align=center;" vertex="1" parent="1">
+        <mxCell id="dxRzScjDpn3iGg9njVZz-4" value="Diagnostico 2 de 3" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#d6b656;fontSize=16;align=center;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="68" y="2200" width="292" height="170" as="geometry" />
         </mxCell>
         <mxCell id="dxRzScjDpn3iGg9njVZz-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="dxRzScjDpn3iGg9njVZz-4">
           <mxGeometry y="30" width="292" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="dxRzScjDpn3iGg9njVZz-6" value="Clinico" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="dxRzScjDpn3iGg9njVZz-5">
+        <mxCell id="dxRzScjDpn3iGg9njVZz-6" value="Clinico" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="dxRzScjDpn3iGg9njVZz-5">
           <mxGeometry width="92" height="46" as="geometry">
             <mxRectangle width="92" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dxRzScjDpn3iGg9njVZz-7" value="Hirsutismo, alopecia, acne o ↑ Testosterona" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" vertex="1" parent="dxRzScjDpn3iGg9njVZz-5">
+        <mxCell id="dxRzScjDpn3iGg9njVZz-7" value="Hirsutismo, alopecia, acne o ↑ Testosterona" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#82b366;overflow=hidden;fillColor=#d5e8d4;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" vertex="1" parent="dxRzScjDpn3iGg9njVZz-5">
           <mxGeometry x="92" width="200" height="46" as="geometry">
             <mxRectangle width="200" height="46" as="alternateBounds" />
           </mxGeometry>
@@ -450,12 +450,12 @@
         <mxCell id="dxRzScjDpn3iGg9njVZz-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="dxRzScjDpn3iGg9njVZz-4">
           <mxGeometry y="76" width="292" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="dxRzScjDpn3iGg9njVZz-10" value="Anovulacion" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="dxRzScjDpn3iGg9njVZz-9">
+        <mxCell id="dxRzScjDpn3iGg9njVZz-10" value="Anovulacion" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="dxRzScjDpn3iGg9njVZz-9">
           <mxGeometry width="92" height="48" as="geometry">
             <mxRectangle width="92" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dxRzScjDpn3iGg9njVZz-11" value="Oligo o amenorrea, Infertilidad" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" vertex="1" parent="dxRzScjDpn3iGg9njVZz-9">
+        <mxCell id="dxRzScjDpn3iGg9njVZz-11" value="Oligo o amenorrea, Infertilidad" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#82b366;overflow=hidden;fillColor=#d5e8d4;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" vertex="1" parent="dxRzScjDpn3iGg9njVZz-9">
           <mxGeometry x="92" width="200" height="48" as="geometry">
             <mxRectangle width="200" height="48" as="alternateBounds" />
           </mxGeometry>
@@ -463,12 +463,12 @@
         <mxCell id="dxRzScjDpn3iGg9njVZz-17" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="dxRzScjDpn3iGg9njVZz-4">
           <mxGeometry y="124" width="292" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="dxRzScjDpn3iGg9njVZz-18" value="USG" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="dxRzScjDpn3iGg9njVZz-17">
+        <mxCell id="dxRzScjDpn3iGg9njVZz-18" value="USG" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="dxRzScjDpn3iGg9njVZz-17">
           <mxGeometry width="92" height="46" as="geometry">
             <mxRectangle width="92" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dxRzScjDpn3iGg9njVZz-19" value="12 foliculos o Volumen ovarico &amp;gt;10cm&lt;sup&gt;3&lt;/sup&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="dxRzScjDpn3iGg9njVZz-17">
+        <mxCell id="dxRzScjDpn3iGg9njVZz-19" value="12 foliculos o Volumen ovarico &amp;gt;10cm&lt;sup&gt;3&lt;/sup&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#82b366;overflow=hidden;fillColor=#d5e8d4;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="dxRzScjDpn3iGg9njVZz-17">
           <mxGeometry x="92" width="200" height="46" as="geometry">
             <mxRectangle width="200" height="46" as="alternateBounds" />
           </mxGeometry>
