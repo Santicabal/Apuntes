@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T20:24:49.347Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0Nk2N3cR9wR0gfbZvHWz" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-25T20:29:03.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Irgo-5jkLQiBXX9fF35t" version="21.5.0" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
     <mxGraphModel dx="353" dy="1067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -635,6 +635,9 @@
         </mxCell>
         <mxCell id="dxRzScjDpn3iGg9njVZz-77" value="En jovenes el cancer ovarico mas frecuente es de cel. germinales" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
           <mxGeometry x="80" y="3640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-78" value="Marcadores Tumorales:&lt;br&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Epiteliales elevan Ca 125, CEA y Ca 19.9&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Germinales AFP y GCH&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="247" y="3640" width="120" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
