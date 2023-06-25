@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T16:04:32.319Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="E8AvYmpPJBkEsBZAJCka" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-25T16:27:07.914Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="qfyWyon44iEUOg9Id3EQ" version="21.5.0" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
     <mxGraphModel dx="500" dy="1512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -429,7 +429,7 @@
           <mxGeometry x="337.5" y="1970" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dxRzScjDpn3iGg9njVZz-1" value="Ovario Poliquistico" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry y="2130" width="100" height="40" as="geometry" />
+          <mxGeometry y="2130" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dxRzScjDpn3iGg9njVZz-4" value="Diagnostico 2 de 3" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#d6b656;fontSize=16;align=center;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="68" y="2200" width="292" height="170" as="geometry" />
@@ -505,6 +505,36 @@
         </mxCell>
         <mxCell id="dxRzScjDpn3iGg9njVZz-29" value="Inseminacion artificial" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="410" y="2650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-33" value="Cancer de Endometrio" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry y="2750" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-37" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dxRzScjDpn3iGg9njVZz-35" target="dxRzScjDpn3iGg9njVZz-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-35" value="Tipico sangrado posmenopausico y cervix normal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="81" y="2840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-39" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dxRzScjDpn3iGg9njVZz-36" target="dxRzScjDpn3iGg9njVZz-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-36" value="USG transvaginal" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="2830" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-41" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dxRzScjDpn3iGg9njVZz-38" target="dxRzScjDpn3iGg9njVZz-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-38" value="Si hay grososr &amp;gt;3cm" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="2840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-46" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dxRzScjDpn3iGg9njVZz-40" target="dxRzScjDpn3iGg9njVZz-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-40" value="Toma biopsia" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="2830" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-45" value="Hister-oscopia" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="726" y="2830" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
