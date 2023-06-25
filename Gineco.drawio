@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T15:30:20.320Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Ed7EYB-7Dge61_24Va_Z" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-25T16:01:32.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="gQ_FVhN5PciMvWtnu-k0" version="21.5.0" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
-    <mxGraphModel dx="231" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="353" dy="1067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -472,6 +472,39 @@
           <mxGeometry x="92" width="200" height="46" as="geometry">
             <mxRectangle width="200" height="46" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-22" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dxRzScjDpn3iGg9njVZz-20" target="dxRzScjDpn3iGg9njVZz-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-26" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dxRzScjDpn3iGg9njVZz-20" target="dxRzScjDpn3iGg9njVZz-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-20" value="Tratamiento es importante dieta y ejercicio" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="437.5" y="2240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-24" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dxRzScjDpn3iGg9njVZz-21" target="dxRzScjDpn3iGg9njVZz-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-21" value="No quiere embarazarce" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="2360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-23" value="Anticonceptivos anti androgenicos como Ciproterona" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="490" y="2530" width="175" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-28" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dxRzScjDpn3iGg9njVZz-25" target="dxRzScjDpn3iGg9njVZz-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-25" value="Sobrepeso" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="287" y="2390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-30" value="Desea embarazo&lt;br&gt;Pero Tx insuficiente" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dxRzScjDpn3iGg9njVZz-27" target="dxRzScjDpn3iGg9njVZz-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-27" value="Clomifeno +/- Metformina" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="287" y="2530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-29" value="Inseminacion artificial" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="287" y="2710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
