@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T20:29:03.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Irgo-5jkLQiBXX9fF35t" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-25T20:54:45.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="XcLqIBoICpVvHkCQp_QN" version="21.5.0" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
     <mxGraphModel dx="353" dy="1067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -638,6 +638,27 @@
         </mxCell>
         <mxCell id="dxRzScjDpn3iGg9njVZz-78" value="Marcadores Tumorales:&lt;br&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Epiteliales elevan Ca 125, CEA y Ca 19.9&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Germinales AFP y GCH&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="247" y="3640" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-83" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dxRzScjDpn3iGg9njVZz-79" target="dxRzScjDpn3iGg9njVZz-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-79" value="USG sospechoso:&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solido, vascularizado, papilar, hay ascitis&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="81" y="3850" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-85" value="CEA o&amp;nbsp;&lt;br&gt;Ca 19.9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dxRzScjDpn3iGg9njVZz-82" target="dxRzScjDpn3iGg9njVZz-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-87" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dxRzScjDpn3iGg9njVZz-82" target="dxRzScjDpn3iGg9njVZz-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-82" value="Marcadores tumorales" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="3875" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-84" value="Descartar Cancer G.I" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="4030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dxRzScjDpn3iGg9njVZz-86" value="Biopsia por laparos" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="3875" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
