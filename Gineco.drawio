@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T21:48:42.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_WlzD8SrQWSst29PXqCu" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T21:55:47.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="xu39vS_WlKoa30JkpC7z" version="21.5.2" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
     <mxGraphModel dx="1265" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -781,7 +781,7 @@
             <mxPoint y="13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bgk6n63H9uhtrgygC5hi-17" value="HSIL" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Bgk6n63H9uhtrgygC5hi-17" value="HSIL" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="141" y="4660" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bgk6n63H9uhtrgygC5hi-28" value="Conizacion" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
