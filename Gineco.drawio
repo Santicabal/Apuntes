@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T17:53:35.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="HX3rerpWSvDmZrZf5UAI" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T18:22:38.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="x9izdAuNx9gYauElW8XU" version="21.5.2" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
     <mxGraphModel dx="394" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -753,7 +753,7 @@
         <mxCell id="Bgk6n63H9uhtrgygC5hi-16" value="LSIL / ASCUS&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Puede regresar a tejido normal (60-80%), puede avanzar a HSIL pero NO pasa a cancer.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="4740" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Bgk6n63H9uhtrgygC5hi-17" value="HSIL&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Se tratan con Conizacion&amp;nbsp; a todas.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bgk6n63H9uhtrgygC5hi-17" value="HSIL&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Se tratan con Conizacion&amp;nbsp; excepto embarazadas.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="53" y="4840" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
