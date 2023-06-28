@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T09:36:36.391Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="W4B2Tinvb5NCKPQbSEcV" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T14:23:17.952Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="w1EVCliBmJ752DZx6ewj" version="21.5.0" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
-    <mxGraphModel dx="1036" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="856" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -671,6 +671,60 @@
         </mxCell>
         <mxCell id="w-NzW0K68A-QRsspA6rr-1" value="Es muy agresivo y no sirve el tamizaje, lo particular es que la estadificacion se hace Quirurjica durante la biopsia por laparotomia. Ahi aprovechas para verlo, quitarlo y biopsiar por todo el peritoneo" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="429" y="3390" width="171" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NzW0K68A-QRsspA6rr-4" value="Cancer Cervico Uterino" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry y="4035" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NzW0K68A-QRsspA6rr-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-NzW0K68A-QRsspA6rr-6" target="w-NzW0K68A-QRsspA6rr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NzW0K68A-QRsspA6rr-6" value="25-30 años" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="39" y="4120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NzW0K68A-QRsspA6rr-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-NzW0K68A-QRsspA6rr-7" target="w-NzW0K68A-QRsspA6rr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NzW0K68A-QRsspA6rr-7" value="30-65 años" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="4120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NzW0K68A-QRsspA6rr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-NzW0K68A-QRsspA6rr-8" target="w-NzW0K68A-QRsspA6rr-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NzW0K68A-QRsspA6rr-8" value="&amp;gt;65" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="4120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NzW0K68A-QRsspA6rr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-NzW0K68A-QRsspA6rr-9" target="w-NzW0K68A-QRsspA6rr-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NzW0K68A-QRsspA6rr-9" value="Papanicolao c/3 años" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="59" y="4250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NzW0K68A-QRsspA6rr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-NzW0K68A-QRsspA6rr-11" target="w-NzW0K68A-QRsspA6rr-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NzW0K68A-QRsspA6rr-11" value="Prueba de VPH &lt;br&gt;c/5 años" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="4250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NzW0K68A-QRsspA6rr-13" value="Nada" style="triangle;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="405" y="4260" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NzW0K68A-QRsspA6rr-15" value="El 90% de las infecciones por VPH se quitan. Las mujeres mayores de 30 que lo tienen es porque ellas no lo eliminaron naturalmente.&lt;br&gt;Por eso a las menores de 30 les hago Pap porque saber si son positivas para VPH no me ayuda mucho porque se le va a quitar, pero a las mayores ya no por eso a ellas si les pides la prueba" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="535" y="4120" width="210" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NzW0K68A-QRsspA6rr-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-NzW0K68A-QRsspA6rr-18" target="w-NzW0K68A-QRsspA6rr-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NzW0K68A-QRsspA6rr-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-NzW0K68A-QRsspA6rr-18" target="w-NzW0K68A-QRsspA6rr-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NzW0K68A-QRsspA6rr-18" value="Hacer la otra prueba &lt;br&gt;(Pap o VPH)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="4360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NzW0K68A-QRsspA6rr-21" value="Screening anual" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="4360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NzW0K68A-QRsspA6rr-23" value="Colposcopia + Biopsia" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="4490" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
