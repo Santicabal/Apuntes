@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T19:48:44.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="w9pJH0mA90S-c52WsD9A" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T20:50:32.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="gVpdnnTNHYjyD6jMBoEz" version="21.5.2" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
     <mxGraphModel dx="1413" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -678,19 +678,19 @@
         <mxCell id="w-NzW0K68A-QRsspA6rr-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w-NzW0K68A-QRsspA6rr-6" target="w-NzW0K68A-QRsspA6rr-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w-NzW0K68A-QRsspA6rr-6" value="25-30 años" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="w-NzW0K68A-QRsspA6rr-6" value="25-30 años" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="81" y="4120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w-NzW0K68A-QRsspA6rr-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w-NzW0K68A-QRsspA6rr-7" target="w-NzW0K68A-QRsspA6rr-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w-NzW0K68A-QRsspA6rr-7" value="30-65 años" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="w-NzW0K68A-QRsspA6rr-7" value="30-65 años" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="256" y="4120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w-NzW0K68A-QRsspA6rr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="w-NzW0K68A-QRsspA6rr-8" target="w-NzW0K68A-QRsspA6rr-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w-NzW0K68A-QRsspA6rr-8" value="&amp;gt;65" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="w-NzW0K68A-QRsspA6rr-8" value="&amp;gt;65 años" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="427" y="4120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bgk6n63H9uhtrgygC5hi-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-NzW0K68A-QRsspA6rr-9" target="Bgk6n63H9uhtrgygC5hi-11">
@@ -710,7 +710,7 @@
         <mxCell id="w-NzW0K68A-QRsspA6rr-11" value="Prueba de VPH &lt;br&gt;c/5 años" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="276" y="4250" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w-NzW0K68A-QRsspA6rr-13" value="Nada" style="triangle;whiteSpace=wrap;html=1;direction=south;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="w-NzW0K68A-QRsspA6rr-13" value="Nada" style="triangle;whiteSpace=wrap;html=1;direction=south;verticalAlign=middle;spacingBottom=8;" parent="1" vertex="1">
           <mxGeometry x="447" y="4260" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w-NzW0K68A-QRsspA6rr-15" value="El 90% de las infecciones por VPH se quitan. Las mujeres mayores de 30 que lo tienen es porque ellas no lo eliminaron naturalmente.&lt;br&gt;Por eso a las menores de 30 les hago Pap porque saber si son positivas para VPH no me ayuda mucho porque se le va a quitar, pero a las mayores ya no por eso a ellas si les pides la prueba" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;" parent="1" vertex="1">
@@ -735,16 +735,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w-NzW0K68A-QRsspA6rr-23" value="Colposcopia + Biopsia" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="w-NzW0K68A-QRsspA6rr-23" value="Colposcopia &lt;br&gt;+ Biopsia" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="201" y="4650" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bgk6n63H9uhtrgygC5hi-1" value="Se tiñe con lugol, biopsias lo que no pinte. O es endocervix o es patologico" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="373.5" y="4400" width="109" height="100" as="geometry" />
+          <mxGeometry x="293" y="4710" width="109" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bgk6n63H9uhtrgygC5hi-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bgk6n63H9uhtrgygC5hi-10" target="Bgk6n63H9uhtrgygC5hi-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bgk6n63H9uhtrgygC5hi-10" value="Exoxervix&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;ASCUS (atipia celulas escamosas)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;LSIL&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;HSIL&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Carcinoma Escamoso&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;spacingLeft=-25;" vertex="1" parent="1">
           <mxGeometry x="1" y="4380" width="140" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Bgk6n63H9uhtrgygC5hi-11" value="Endocervix&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;ASGUS (Celulas Glandulares atipicas)&lt;/li&gt;&lt;li&gt;Carcinoma in Situ&lt;/li&gt;&lt;li&gt;Adenocarcinoma&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;spacingLeft=-25;" vertex="1" parent="1">
+        <mxCell id="Bgk6n63H9uhtrgygC5hi-11" value="Endocervix&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;ASGUS (Celulas Glandulares atipicas)&lt;/li&gt;&lt;li&gt;Adenocarcinoma in Situ&lt;/li&gt;&lt;li&gt;Adenocarcinoma&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;spacingLeft=-25;" vertex="1" parent="1">
           <mxGeometry x="141" y="4380" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Bgk6n63H9uhtrgygC5hi-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bgk6n63H9uhtrgygC5hi-16" target="w-NzW0K68A-QRsspA6rr-21">
@@ -753,8 +756,11 @@
         <mxCell id="Bgk6n63H9uhtrgygC5hi-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.733;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Bgk6n63H9uhtrgygC5hi-16" target="w-NzW0K68A-QRsspA6rr-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Bgk6n63H9uhtrgygC5hi-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bgk6n63H9uhtrgygC5hi-16" target="Bgk6n63H9uhtrgygC5hi-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Bgk6n63H9uhtrgygC5hi-16" value="LSIL / ASCUS&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Puede regresar a tejido normal (60-80%), puede avanzar a HSIL pero NO pasa a cancer.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="4540" width="140" height="80" as="geometry" />
+          <mxGeometry x="1" y="4540" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bgk6n63H9uhtrgygC5hi-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bgk6n63H9uhtrgygC5hi-17" target="w-NzW0K68A-QRsspA6rr-23">
           <mxGeometry relative="1" as="geometry" />
@@ -762,7 +768,7 @@
         <mxCell id="Bgk6n63H9uhtrgygC5hi-17" value="HSIL" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry y="4670" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Bgk6n63H9uhtrgygC5hi-28" value="Conizacion" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bgk6n63H9uhtrgygC5hi-28" value="Conizacion" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="201" y="4810" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
