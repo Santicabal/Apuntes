@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T21:47:26.623Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="pcH77eIfxCHCyD_1MjVH" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T21:48:42.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_WlzD8SrQWSst29PXqCu" version="21.5.2" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
     <mxGraphModel dx="1265" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -715,7 +715,7 @@
         <mxCell id="w-NzW0K68A-QRsspA6rr-11" value="&lt;b&gt;Prueba de VPH &lt;br&gt;&lt;/b&gt;c/5 años" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="276" y="4250" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w-NzW0K68A-QRsspA6rr-13" value="Nada" style="triangle;whiteSpace=wrap;html=1;direction=south;verticalAlign=middle;spacingBottom=8;" parent="1" vertex="1">
+        <mxCell id="w-NzW0K68A-QRsspA6rr-13" value="Nada" style="triangle;whiteSpace=wrap;html=1;direction=south;verticalAlign=middle;spacingBottom=8;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="447" y="4260" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w-NzW0K68A-QRsspA6rr-15" value="El 90% de las infecciones por VPH se quitan. Las mujeres mayores de 30 que lo tienen es porque ellas no lo eliminaron naturalmente.&lt;br&gt;Por eso a las menores de 30 les hago Pap porque saber si son positivas para VPH no me ayuda mucho porque se le va a quitar, pero a las mayores ya no por eso a ellas si les pides la prueba" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;" parent="1" vertex="1">
@@ -749,7 +749,7 @@
         <mxCell id="Bgk6n63H9uhtrgygC5hi-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bgk6n63H9uhtrgygC5hi-10" target="Bgk6n63H9uhtrgygC5hi-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bgk6n63H9uhtrgygC5hi-10" value="&lt;b&gt;Ectoxervix&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;ASCUS (atipia celulas escamosas)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;LSIL&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;HSIL&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Carcinoma Escamoso&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;spacingLeft=-25;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="Bgk6n63H9uhtrgygC5hi-10" value="&lt;b&gt;Ectocervix&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;ASCUS (atipia celulas escamosas)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;LSIL&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;HSIL&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Carcinoma Escamoso&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;spacingLeft=-25;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="141" y="4380" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Bgk6n63H9uhtrgygC5hi-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bgk6n63H9uhtrgygC5hi-11" target="w-NzW0K68A-QRsspA6rr-23">
