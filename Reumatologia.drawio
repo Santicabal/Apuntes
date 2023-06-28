@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T16:46:49.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="nSvq7DnokzHmm1gFiBSP" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T13:16:14.816Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="DNZF0Ae0riTO-T14tlzP" version="21.5.0" type="github">
   <diagram name="Page-1" id="YMc2Lb0-uA0RhdW9XWHS">
-    <mxGraphModel dx="930" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="984" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1036,74 +1036,77 @@
         <mxCell id="EjSzhbdZShdXIu3yqtPd-50" value="Aumentan talla de sombrero" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="158" y="8460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bnhaAn1EzoI1EoSa7hZH-1" value="Osteoporosis" style="text;strokeColor=none;fillColor=none;html=1;fontSize=22;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="bnhaAn1EzoI1EoSa7hZH-1" value="Osteoporosis" style="text;strokeColor=none;fillColor=none;html=1;fontSize=22;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="44" y="8544" width="214" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bnhaAn1EzoI1EoSa7hZH-3" value="Datos que hay que saber" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+        <mxCell id="bnhaAn1EzoI1EoSa7hZH-3" value="Datos que hay que saber" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
           <mxGeometry x="78.37" y="8614" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bnhaAn1EzoI1EoSa7hZH-4" value="T score es el util no el Z" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+        <mxCell id="bnhaAn1EzoI1EoSa7hZH-4" value="T score es el util no el Z" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
           <mxGeometry x="211" y="8614" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bnhaAn1EzoI1EoSa7hZH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bnhaAn1EzoI1EoSa7hZH-5" target="bnhaAn1EzoI1EoSa7hZH-6">
+        <mxCell id="bnhaAn1EzoI1EoSa7hZH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bnhaAn1EzoI1EoSa7hZH-5" target="bnhaAn1EzoI1EoSa7hZH-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bnhaAn1EzoI1EoSa7hZH-5" value="Se da tratamiento prevventivo a todos que tomen esteroides &amp;gt;3m" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+        <mxCell id="bnhaAn1EzoI1EoSa7hZH-5" value="Se da tratamiento prevventivo a todos que tomen esteroides &amp;gt;3m" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
           <mxGeometry x="343.82" y="8614" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bnhaAn1EzoI1EoSa7hZH-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bnhaAn1EzoI1EoSa7hZH-6" target="bnhaAn1EzoI1EoSa7hZH-11">
+        <mxCell id="bnhaAn1EzoI1EoSa7hZH-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bnhaAn1EzoI1EoSa7hZH-6" target="bnhaAn1EzoI1EoSa7hZH-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bnhaAn1EzoI1EoSa7hZH-6" value="Lo preguntan a veces como un caso clinico de otra enfermedad donde en el Tx es el normal + bifosfonatos&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+        <mxCell id="bnhaAn1EzoI1EoSa7hZH-6" value="Lo preguntan a veces como un caso clinico de otra enfermedad donde en el Tx es el normal + bifosfonatos&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
           <mxGeometry x="500.50000000000006" y="8609" width="146.18" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="bnhaAn1EzoI1EoSa7hZH-9" value="&amp;nbsp;Denosumab cada 6m" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="bnhaAn1EzoI1EoSa7hZH-9" value="&amp;nbsp;Denosumab cada 6m" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="700" y="8713" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bnhaAn1EzoI1EoSa7hZH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bnhaAn1EzoI1EoSa7hZH-11" target="bnhaAn1EzoI1EoSa7hZH-9">
+        <mxCell id="bnhaAn1EzoI1EoSa7hZH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bnhaAn1EzoI1EoSa7hZH-11" target="bnhaAn1EzoI1EoSa7hZH-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bnhaAn1EzoI1EoSa7hZH-11" value="Bifosfonatos" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="bnhaAn1EzoI1EoSa7hZH-11" value="Bifosfonatos" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="700.0000000000001" y="8604" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bnhaAn1EzoI1EoSa7hZH-14" value="&amp;nbsp;Olvidate de raloxifeno y reemplazo hormonal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+        <mxCell id="bnhaAn1EzoI1EoSa7hZH-14" value="&amp;nbsp;Olvidate de raloxifeno y reemplazo hormonal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
           <mxGeometry x="80" y="8700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bnhaAn1EzoI1EoSa7hZH-15" value="Bifosfonatos causan Osteonecrosis de maxilar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="bnhaAn1EzoI1EoSa7hZH-15" value="Bifosfonatos causan Osteonecrosis de maxilar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="343.82" y="8700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bnhaAn1EzoI1EoSa7hZH-16" value="Las Rx de Fx de columna se ven en cuña" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+        <mxCell id="bnhaAn1EzoI1EoSa7hZH-16" value="Las Rx de Fx de columna se ven en cuña" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
           <mxGeometry x="211" y="8700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bnhaAn1EzoI1EoSa7hZH-17" value="Osteomalacia" style="text;strokeColor=none;fillColor=none;html=1;fontSize=22;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="bnhaAn1EzoI1EoSa7hZH-17" value="Osteomalacia" style="text;strokeColor=none;fillColor=none;html=1;fontSize=22;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="39" y="8850" width="214" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bnhaAn1EzoI1EoSa7hZH-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bnhaAn1EzoI1EoSa7hZH-19" target="bnhaAn1EzoI1EoSa7hZH-20">
+        <mxCell id="bnhaAn1EzoI1EoSa7hZH-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bnhaAn1EzoI1EoSa7hZH-19" target="bnhaAn1EzoI1EoSa7hZH-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bnhaAn1EzoI1EoSa7hZH-19" value="Deficit de Vitamina D en adulto" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="bnhaAn1EzoI1EoSa7hZH-19" value="Deficit de Vitamina D en adulto" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="72.5" y="8940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bnhaAn1EzoI1EoSa7hZH-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bnhaAn1EzoI1EoSa7hZH-20" target="bnhaAn1EzoI1EoSa7hZH-22">
+        <mxCell id="bnhaAn1EzoI1EoSa7hZH-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bnhaAn1EzoI1EoSa7hZH-20" target="bnhaAn1EzoI1EoSa7hZH-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bnhaAn1EzoI1EoSa7hZH-20" value="Causas principales&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Reseccion intestinal&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Viejos que no se mueven y no ven el sol&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Anticonvulsivos&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="bnhaAn1EzoI1EoSa7hZH-20" value="Causas principales&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Reseccion intestinal&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Viejos que no se mueven y no ven el sol&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Anticonvulsivos&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="242" y="8905" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="bnhaAn1EzoI1EoSa7hZH-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bnhaAn1EzoI1EoSa7hZH-22" target="bnhaAn1EzoI1EoSa7hZH-24">
+        <mxCell id="bnhaAn1EzoI1EoSa7hZH-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bnhaAn1EzoI1EoSa7hZH-22" target="bnhaAn1EzoI1EoSa7hZH-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bnhaAn1EzoI1EoSa7hZH-22" value="Consecuencias:&lt;br&gt;↓Ca→Sube la PTH &lt;br&gt;→El hueso pierde su calcio para liberarlo en sangre →Riñon ahorra Ca y tira P" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="bnhaAn1EzoI1EoSa7hZH-22" value="Consecuencias:&lt;br&gt;↓Ca→Sube la PTH &lt;br&gt;→El hueso pierde su calcio para liberarlo en sangre →Riñon ahorra Ca y tira P" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="397.5" y="8920" width="162.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="bnhaAn1EzoI1EoSa7hZH-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bnhaAn1EzoI1EoSa7hZH-24" target="bnhaAn1EzoI1EoSa7hZH-26">
+        <mxCell id="bnhaAn1EzoI1EoSa7hZH-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bnhaAn1EzoI1EoSa7hZH-24" target="bnhaAn1EzoI1EoSa7hZH-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bnhaAn1EzoI1EoSa7hZH-24" value="Labs:&lt;br&gt;↓Ca ↓P ↑PTH ↑FA&lt;br&gt;Orina ↓Ca ↑P" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="bnhaAn1EzoI1EoSa7hZH-24" value="Labs:&lt;br&gt;↓Ca ↓P ↑PTH ↑FA&lt;br&gt;Orina ↓Ca ↑P" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="590" y="8940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bnhaAn1EzoI1EoSa7hZH-26" value="Vit D" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="bnhaAn1EzoI1EoSa7hZH-26" value="Vit D" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="740" y="8930" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XoGZp_wvY4HJA477yxvi-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="598" y="9030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
