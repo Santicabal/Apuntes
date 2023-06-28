@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T19:39:43.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="9_olmsYSaoWgqE8SJ38-" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T19:48:44.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="w9pJH0mA90S-c52WsD9A" version="21.5.2" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
-    <mxGraphModel dx="1507" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1413" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -719,11 +719,27 @@
         <mxCell id="w-NzW0K68A-QRsspA6rr-21" value="Screening anual" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="357.5" y="4540" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Bgk6n63H9uhtrgygC5hi-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-NzW0K68A-QRsspA6rr-23" target="w-NzW0K68A-QRsspA6rr-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bgk6n63H9uhtrgygC5hi-27" value="NIC 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Bgk6n63H9uhtrgygC5hi-26">
+          <mxGeometry x="-0.3997" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bgk6n63H9uhtrgygC5hi-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-NzW0K68A-QRsspA6rr-23" target="Bgk6n63H9uhtrgygC5hi-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bgk6n63H9uhtrgygC5hi-30" value="NIC 2-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Bgk6n63H9uhtrgygC5hi-29">
+          <mxGeometry x="-0.175" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="w-NzW0K68A-QRsspA6rr-23" value="Colposcopia + Biopsia" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="201" y="4650" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bgk6n63H9uhtrgygC5hi-1" value="Se tiñe con lugol, biopsias lo que no pinte. O es endocervix o es patologico" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="497.5" y="4660" width="109" height="100" as="geometry" />
+          <mxGeometry x="373.5" y="4400" width="109" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Bgk6n63H9uhtrgygC5hi-10" value="Exoxervix&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;ASCUS (atipia celulas escamosas)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;LSIL&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;HSIL&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Carcinoma Escamoso&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;spacingLeft=-25;" vertex="1" parent="1">
           <mxGeometry x="1" y="4380" width="140" height="130" as="geometry" />
@@ -743,8 +759,11 @@
         <mxCell id="Bgk6n63H9uhtrgygC5hi-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bgk6n63H9uhtrgygC5hi-17" target="w-NzW0K68A-QRsspA6rr-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bgk6n63H9uhtrgygC5hi-17" value="HSIL&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Se tratan con Conizacion&amp;nbsp; excepto embarazadas.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry y="4650" width="140" height="80" as="geometry" />
+        <mxCell id="Bgk6n63H9uhtrgygC5hi-17" value="HSIL" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry y="4670" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bgk6n63H9uhtrgygC5hi-28" value="Conizacion" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="201" y="4810" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
