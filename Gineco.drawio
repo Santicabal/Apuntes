@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T12:19:08.970Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="0D6Vg9Q15GenbEO9H0Or" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-29T12:37:06.826Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="QjOgeqgGDkwW9-YwCJkf" version="21.5.0" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
     <mxGraphModel dx="2008" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -900,14 +900,14 @@
         <mxCell id="pNVrOZYHM1kqgm48MzaG-44" value="RT + Qx" style="rhombus;whiteSpace=wrap;html=1;align=center;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="433" y="5232.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pNVrOZYHM1kqgm48MzaG-47" value="*T1B2 no se opera porque &amp;gt;4cm" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-47" value="*T1B2 no se opera porque &amp;gt;4cm&lt;br&gt;T1B1 agregar RT" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="481.5" y="4975" width="107" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pNVrOZYHM1kqgm48MzaG-48" value="Histerectomia +/- Linfadenectomia" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="525" y="5070" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pNVrOZYHM1kqgm48MzaG-50" value="*T2B1 Si se opera porque &amp;lt;4cm pero con RT" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="508" y="5300" width="107" height="80" as="geometry" />
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-53" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;A&lt;/b&gt; &lt;b&gt;recordar&lt;/b&gt;: &lt;/font&gt;&lt;br&gt;La RM es muy importante. Los tumores no se operan si tocan parametrio o &amp;gt;4cm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="485" y="4870" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
