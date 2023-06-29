@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T18:37:49.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ehLLHtoDfhDStFVJco1q" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-29T18:41:07.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="X6ZaXXPDfELqcg53iOFo" version="21.5.2" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
     <mxGraphModel dx="1179" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1036,8 +1036,14 @@
         <mxCell id="2_BtqErwWpNkh05m9N2Q-71" value="P&amp;lt;3 o 3-10 + Doppler anormal" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="699" y="6160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2_BtqErwWpNkh05m9N2Q-73" value="Que es anormal?&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Ausencia o reversion de flujo diastolico&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Indice Pulsatilidad&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Umbilical &amp;gt;p95&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Uterina &amp;gt;p95&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Cerebral &amp;lt;p5&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=top;spacingLeft=-20;" vertex="1" parent="1">
-          <mxGeometry x="683" y="6270" width="151" height="130" as="geometry" />
+        <mxCell id="2_BtqErwWpNkh05m9N2Q-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2_BtqErwWpNkh05m9N2Q-73" target="2_BtqErwWpNkh05m9N2Q-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_BtqErwWpNkh05m9N2Q-73" value="Que es anormal?&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Indice Pulsatilidad&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Umbilical &amp;gt;p95&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Uterina &amp;gt;p95&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Cerebral &amp;lt;p5&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=top;spacingLeft=-20;" vertex="1" parent="1">
+          <mxGeometry x="683" y="6270" width="151" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2_BtqErwWpNkh05m9N2Q-75" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;Sufrimiento fetal&lt;br&gt;&lt;/span&gt;&lt;ul&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;Ausencia o reversion de flujo diastolico&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;Terminar embarazo&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=top;spacingLeft=-20;" vertex="1" parent="1">
+          <mxGeometry x="683" y="6407" width="151" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
