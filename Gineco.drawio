@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T18:41:07.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="X6ZaXXPDfELqcg53iOFo" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-29T20:56:45.526Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="HaL8L48yShqeMQpGdaU0" version="21.5.2" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
-    <mxGraphModel dx="1179" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1302" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1001,19 +1001,14 @@
         <mxCell id="2_BtqErwWpNkh05m9N2Q-61" value="Biopsia Corial (&amp;gt;10sdg)&lt;br&gt;Amniocentesis (&amp;gt;15)" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="5790" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2_BtqErwWpNkh05m9N2Q-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2_BtqErwWpNkh05m9N2Q-64" target="2_BtqErwWpNkh05m9N2Q-65">
+        <mxCell id="2_BtqErwWpNkh05m9N2Q-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2_BtqErwWpNkh05m9N2Q-64" target="2_BtqErwWpNkh05m9N2Q-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2_BtqErwWpNkh05m9N2Q-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2_BtqErwWpNkh05m9N2Q-64" target="2_BtqErwWpNkh05m9N2Q-69">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="639" y="6000" />
-              <mxPoint x="770" y="6000" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="2_BtqErwWpNkh05m9N2Q-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2_BtqErwWpNkh05m9N2Q-64" target="2_BtqErwWpNkh05m9N2Q-69">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2_BtqErwWpNkh05m9N2Q-64" value="Crecimiento fetal&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="5920" width="120" height="60" as="geometry" />
+          <mxGeometry x="591" y="5920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2_BtqErwWpNkh05m9N2Q-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2_BtqErwWpNkh05m9N2Q-65" target="2_BtqErwWpNkh05m9N2Q-67">
           <mxGeometry relative="1" as="geometry" />
@@ -1044,6 +1039,36 @@
         </mxCell>
         <mxCell id="2_BtqErwWpNkh05m9N2Q-75" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;Sufrimiento fetal&lt;br&gt;&lt;/span&gt;&lt;ul&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;Ausencia o reversion de flujo diastolico&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;Terminar embarazo&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=top;spacingLeft=-20;" vertex="1" parent="1">
           <mxGeometry x="683" y="6407" width="151" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2_BtqErwWpNkh05m9N2Q-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2_BtqErwWpNkh05m9N2Q-78" target="2_BtqErwWpNkh05m9N2Q-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_BtqErwWpNkh05m9N2Q-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2_BtqErwWpNkh05m9N2Q-78" target="2_BtqErwWpNkh05m9N2Q-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_BtqErwWpNkh05m9N2Q-78" value="Registro Tocografico" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="5990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_BtqErwWpNkh05m9N2Q-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2_BtqErwWpNkh05m9N2Q-81" target="2_BtqErwWpNkh05m9N2Q-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_BtqErwWpNkh05m9N2Q-81" value="Normal" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="6120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_BtqErwWpNkh05m9N2Q-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2_BtqErwWpNkh05m9N2Q-83" target="2_BtqErwWpNkh05m9N2Q-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_BtqErwWpNkh05m9N2Q-83" value="Anormal" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="241" y="6120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_BtqErwWpNkh05m9N2Q-85" value="&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Variabilidad 5-25&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Aceleracion 15-25 (min 2 c/20min)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;FCF normal 120-160&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;spacingLeft=-20;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="25" y="6260" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2_BtqErwWpNkh05m9N2Q-87" value="No tan malo pero si con riesgo de sufrimiento" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="241" y="6260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_BtqErwWpNkh05m9N2Q-91" value="Variabilidad: Cuanto sube y baja la FC con cada latido.&lt;br&gt;&lt;br&gt;Aceleraciones: Cuanto sube la FC despues de la contraccion" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="29" y="6377" width="140" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
