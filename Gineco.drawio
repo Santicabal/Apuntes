@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T00:55:33.550Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="p3b1UZ44n7pl9ro5C4Jc" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-29T01:02:45.976Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="ZJi6oqD-XOja9MZ1xApU" version="21.5.0" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
     <mxGraphModel dx="2008" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -740,7 +740,7 @@
             <mxPoint y="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w-NzW0K68A-QRsspA6rr-23" value="Colposcopia &lt;br&gt;+ Biopsia" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="w-NzW0K68A-QRsspA6rr-23" value="Colposcopia &lt;br&gt;+ Biopsia" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="361" y="4640" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bgk6n63H9uhtrgygC5hi-1" value="Se tiñe con lugol, biopsias lo que no pinte. No pintan las cosas patologicas ni endocervix&amp;nbsp;&lt;br&gt;LSIL=NIC 1&lt;br&gt;HSIL=NIC 2-3" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;align=left;" parent="1" vertex="1">
@@ -769,7 +769,7 @@
         <mxCell id="pNVrOZYHM1kqgm48MzaG-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bgk6n63H9uhtrgygC5hi-16" target="w-NzW0K68A-QRsspA6rr-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bgk6n63H9uhtrgygC5hi-16" value="ASCUS y VPH+ / LSIL&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Puede regresar a tejido normal (60-80%), puede avanzar a HSIL pero NO pasa a cancer.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="Bgk6n63H9uhtrgygC5hi-16" value="&lt;b&gt;ASCUS y VPH+ / LSIL&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Puede regresar a tejido normal (60-80%), puede avanzar a HSIL pero NO pasa a cancer.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="141" y="4640" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bgk6n63H9uhtrgygC5hi-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Bgk6n63H9uhtrgygC5hi-17" target="w-NzW0K68A-QRsspA6rr-23" edge="1">
@@ -782,7 +782,7 @@
             <mxPoint x="-1" y="-37" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bgk6n63H9uhtrgygC5hi-17" value="HSIL" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#EA6B66;strokeColor=#b85450;strokeWidth=2;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="Bgk6n63H9uhtrgygC5hi-17" value="&lt;b&gt;HSIL&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#FF7373;strokeColor=#36393d;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="141" y="4760" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bgk6n63H9uhtrgygC5hi-28" value="Conizacion" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
@@ -791,7 +791,7 @@
         <mxCell id="pNVrOZYHM1kqgm48MzaG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pNVrOZYHM1kqgm48MzaG-2" target="w-NzW0K68A-QRsspA6rr-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pNVrOZYHM1kqgm48MzaG-2" value="Normal y VPH+ / ASCUS" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#B3B3B3;strokeColor=#666666;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-2" value="&lt;b&gt;Normal y VPH+ / ASCUS&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#cce5ff;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="144" y="4530" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
