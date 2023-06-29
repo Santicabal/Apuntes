@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T01:02:45.976Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="ZJi6oqD-XOja9MZ1xApU" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-29T12:10:11.040Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="FInK0tjx7Ubapn8W8-2c" version="21.5.0" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
     <mxGraphModel dx="2008" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -743,8 +743,8 @@
         <mxCell id="w-NzW0K68A-QRsspA6rr-23" value="Colposcopia &lt;br&gt;+ Biopsia" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="361" y="4640" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Bgk6n63H9uhtrgygC5hi-1" value="Se tiñe con lugol, biopsias lo que no pinte. No pintan las cosas patologicas ni endocervix&amp;nbsp;&lt;br&gt;LSIL=NIC 1&lt;br&gt;HSIL=NIC 2-3" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;align=left;" parent="1" vertex="1">
-          <mxGeometry x="461" y="4500" width="109" height="130" as="geometry" />
+        <mxCell id="Bgk6n63H9uhtrgygC5hi-1" value="Se tiñe con lugol, biopsias lo que no pinte. No pintan las cosas patologicas ni endocervix&amp;nbsp;&lt;br&gt;&lt;div align=&quot;center&quot;&gt;LSIL=NIC 1&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;HSIL=NIC 2-3&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;align=left;" parent="1" vertex="1">
+          <mxGeometry x="461" y="4500" width="149" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Bgk6n63H9uhtrgygC5hi-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Bgk6n63H9uhtrgygC5hi-10" target="Bgk6n63H9uhtrgygC5hi-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -782,6 +782,9 @@
             <mxPoint x="-1" y="-37" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bgk6n63H9uhtrgygC5hi-17" target="pNVrOZYHM1kqgm48MzaG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Bgk6n63H9uhtrgygC5hi-17" value="&lt;b&gt;HSIL&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#FF7373;strokeColor=#36393d;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="141" y="4760" width="140" height="40" as="geometry" />
         </mxCell>
@@ -793,6 +796,115 @@
         </mxCell>
         <mxCell id="pNVrOZYHM1kqgm48MzaG-2" value="&lt;b&gt;Normal y VPH+ / ASCUS&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#cce5ff;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="144" y="4530" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pNVrOZYHM1kqgm48MzaG-7" target="pNVrOZYHM1kqgm48MzaG-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-7" value="Cancer" style="whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;rounded=1;strokeWidth=4;fontSize=16;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="151" y="4870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-9" value="RM" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;rounded=1;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="4860" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-11" value="TNM" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#6c8ebf;fontSize=16;fillColor=#dae8fc;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="157" y="4960" width="253" height="407.0000000000018" as="geometry" />
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="pNVrOZYHM1kqgm48MzaG-11">
+          <mxGeometry y="30" width="253" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-13" value="Tis" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="pNVrOZYHM1kqgm48MzaG-12">
+          <mxGeometry width="53" height="39" as="geometry">
+            <mxRectangle width="53" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-14" value="Tx: Conizacion" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="pNVrOZYHM1kqgm48MzaG-12">
+          <mxGeometry x="53" width="200" height="39" as="geometry">
+            <mxRectangle width="200" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-16" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="pNVrOZYHM1kqgm48MzaG-11">
+          <mxGeometry y="69" width="253" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-17" value="T1&lt;br&gt;Cervix" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="pNVrOZYHM1kqgm48MzaG-16">
+          <mxGeometry width="53" height="84" as="geometry">
+            <mxRectangle width="53" height="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-18" value="A1: 3mm&lt;br&gt;A2:&amp;nbsp;3-5mm&lt;br&gt;B1: &amp;lt;4cm&lt;br&gt;B2: &amp;gt;4cm" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="pNVrOZYHM1kqgm48MzaG-16">
+          <mxGeometry x="53" width="200" height="84" as="geometry">
+            <mxRectangle width="200" height="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-24" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="pNVrOZYHM1kqgm48MzaG-11">
+          <mxGeometry y="153" width="253" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-25" value="T2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="pNVrOZYHM1kqgm48MzaG-24">
+          <mxGeometry width="53" height="86" as="geometry">
+            <mxRectangle width="53" height="86" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-26" value="A1: Vagina &amp;lt;4cm&lt;br&gt;A2: Vagina &amp;gt;4cm&lt;br&gt;B1: Parametrio &amp;lt;4cm&lt;br&gt;B2: Parametrio &amp;gt;4cm" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="pNVrOZYHM1kqgm48MzaG-24">
+          <mxGeometry x="53" width="200" height="86" as="geometry">
+            <mxRectangle width="200" height="86" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="pNVrOZYHM1kqgm48MzaG-11">
+          <mxGeometry y="239" width="253" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-28" value="T3 Pared Pelvica" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="pNVrOZYHM1kqgm48MzaG-27">
+          <mxGeometry width="53" height="84" as="geometry">
+            <mxRectangle width="53" height="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-29" value="Toca la pared pelvica o 1/3 inferior de vagina. Puede tapar ureteres" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="pNVrOZYHM1kqgm48MzaG-27">
+          <mxGeometry x="53" width="200" height="84" as="geometry">
+            <mxRectangle width="200" height="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-34" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="pNVrOZYHM1kqgm48MzaG-11">
+          <mxGeometry y="323" width="253" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-35" value="T4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="pNVrOZYHM1kqgm48MzaG-34">
+          <mxGeometry width="53" height="84" as="geometry">
+            <mxRectangle width="53" height="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-36" value="Recto, vejiga" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" vertex="1" parent="pNVrOZYHM1kqgm48MzaG-34">
+          <mxGeometry x="53" width="200" height="84" as="geometry">
+            <mxRectangle width="200" height="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pNVrOZYHM1kqgm48MzaG-40" target="pNVrOZYHM1kqgm48MzaG-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-46" value="&amp;lt;4cm" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pNVrOZYHM1kqgm48MzaG-42">
+          <mxGeometry x="-0.2941" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-40" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="432" y="5030" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pNVrOZYHM1kqgm48MzaG-41" target="pNVrOZYHM1kqgm48MzaG-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-41" value="Se operan*" style="rhombus;whiteSpace=wrap;html=1;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="508" y="5040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pNVrOZYHM1kqgm48MzaG-43" target="pNVrOZYHM1kqgm48MzaG-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-43" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="431" y="5135" width="20" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-44" value="Radioterapia" style="rhombus;whiteSpace=wrap;html=1;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="508" y="5207.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-47" value="*B2 no se opera porque &amp;gt;4cm" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="556.5" y="4950" width="107" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pNVrOZYHM1kqgm48MzaG-48" value="Histerectomia +/- Linfadenectomia" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="668" y="5040" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
