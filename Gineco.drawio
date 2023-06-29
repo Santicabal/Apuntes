@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T12:39:26.270Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="IQBJmShdAK9oWrgw5_T8" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-29T12:50:09.318Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="i5i-04AIUkCeg9oOq9sn" version="21.5.0" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
     <mxGraphModel dx="2008" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -383,16 +383,16 @@
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3IjL7LeWgJH9LYlmYb9x-137" target="3IjL7LeWgJH9LYlmYb9x-138" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-137" value="Casi siempre asintomaticos" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-137" value="Casi siempre asintomaticos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="79" y="1760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3IjL7LeWgJH9LYlmYb9x-138" target="3IjL7LeWgJH9LYlmYb9x-140" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-138" value="Solo tratas si hay sintomas o interfiere con deseos de embarazo" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-138" value="Solo tratas si hay sintomas o interfiere con deseos de embarazo" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="267" y="1760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-140" value="Subserosos: en la parte de afuera casi nunca molestan.&lt;br&gt;&lt;br&gt;Intramural: En medio y segun tamaño pueden o no invadir adentro.&lt;br&gt;&lt;br&gt;Submucosos: Si pueden dar clinica " style="whiteSpace=wrap;html=1;rounded=1;align=left;spacingRight=0;spacingLeft=5;" parent="1" vertex="1">
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-140" value="Subserosos: en la parte de afuera casi nunca molestan.&lt;br&gt;&lt;br&gt;Intramural: En medio y segun tamaño pueden o no invadir adentro.&lt;br&gt;&lt;br&gt;Submucosos: Si pueden dar clinica " style="whiteSpace=wrap;html=1;rounded=1;align=left;spacingRight=0;spacingLeft=5;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="445" y="1717.5" width="180" height="145" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3IjL7LeWgJH9LYlmYb9x-142" target="3IjL7LeWgJH9LYlmYb9x-144" edge="1">
@@ -401,11 +401,11 @@
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3IjL7LeWgJH9LYlmYb9x-142" target="3IjL7LeWgJH9LYlmYb9x-146" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-142" value="&lt;div align=&quot;center&quot;&gt;Submucoso y desea embarazo&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="79" y="1830" width="100" height="100" as="geometry" />
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-142" value="&lt;div align=&quot;center&quot;&gt;Submucoso y desea embarazo&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
+          <mxGeometry x="79" y="1830" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-144" value="Miomectomia" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="79" y="1970" width="100" height="100" as="geometry" />
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-144" value="Miomectomia" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="74" y="1970" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3IjL7LeWgJH9LYlmYb9x-146" target="3IjL7LeWgJH9LYlmYb9x-148" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -413,20 +413,20 @@
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3IjL7LeWgJH9LYlmYb9x-146" target="3IjL7LeWgJH9LYlmYb9x-150" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-146" value="Crece rapido &lt;br&gt;+ no quiere embarazo" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="210" y="1830" width="100" height="100" as="geometry" />
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-146" value="Crece rapido &lt;br&gt;+ no quiere embarazo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
+          <mxGeometry x="210" y="1830" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-148" value="Histerectomia" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="1970" width="100" height="100" as="geometry" />
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-148" value="Histerectomia" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="205" y="1970" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3IjL7LeWgJH9LYlmYb9x-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3IjL7LeWgJH9LYlmYb9x-150" target="3IjL7LeWgJH9LYlmYb9x-152" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-150" value="Tx para control sintomas" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="337.5" y="1830" width="100" height="100" as="geometry" />
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-150" value="Tx para control sintomas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
+          <mxGeometry x="337.5" y="1830" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3IjL7LeWgJH9LYlmYb9x-152" value="Mirena / Anticonceptivos" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="337.5" y="1970" width="100" height="100" as="geometry" />
+        <mxCell id="3IjL7LeWgJH9LYlmYb9x-152" value="Mirena / Anticonceptivos" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="332.5" y="1970" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dxRzScjDpn3iGg9njVZz-1" value="Ovario Poliquistico" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry y="2130" width="160" height="40" as="geometry" />
@@ -479,13 +479,13 @@
         <mxCell id="dxRzScjDpn3iGg9njVZz-26" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="dxRzScjDpn3iGg9njVZz-20" target="dxRzScjDpn3iGg9njVZz-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dxRzScjDpn3iGg9njVZz-20" value="Tratamiento es importante dieta y ejercicio" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="dxRzScjDpn3iGg9njVZz-20" value="Tratamiento es importante dieta y ejercicio" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="558.5" y="2240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dxRzScjDpn3iGg9njVZz-24" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="dxRzScjDpn3iGg9njVZz-21" target="dxRzScjDpn3iGg9njVZz-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dxRzScjDpn3iGg9njVZz-21" value="No quiere embarazarce" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="dxRzScjDpn3iGg9njVZz-21" value="No quiere embarazarce" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="686" y="2360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dxRzScjDpn3iGg9njVZz-23" value="Anticonceptivos anti androgenicos como Ciproterona" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
@@ -494,7 +494,7 @@
         <mxCell id="dxRzScjDpn3iGg9njVZz-28" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="dxRzScjDpn3iGg9njVZz-25" target="dxRzScjDpn3iGg9njVZz-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dxRzScjDpn3iGg9njVZz-25" value="Sobrepeso" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="dxRzScjDpn3iGg9njVZz-25" value="Sobrepeso" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="408" y="2360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dxRzScjDpn3iGg9njVZz-30" value="Desea embarazo&lt;br&gt;Pero Tx insuficiente" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="dxRzScjDpn3iGg9njVZz-27" target="dxRzScjDpn3iGg9njVZz-29" edge="1">
@@ -785,7 +785,7 @@
         <mxCell id="Bgk6n63H9uhtrgygC5hi-17" value="&lt;b&gt;HSIL&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#FF7373;strokeColor=#36393d;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="141" y="4760" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Bgk6n63H9uhtrgygC5hi-28" value="Conizacion" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="Bgk6n63H9uhtrgygC5hi-28" value="Conización" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="512" y="4640" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pNVrOZYHM1kqgm48MzaG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pNVrOZYHM1kqgm48MzaG-2" target="w-NzW0K68A-QRsspA6rr-21">
