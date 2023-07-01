@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-01T17:19:54.663Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="R_KVSO13gx2WZKPerF8O" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-01T17:41:36.657Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="boWY5-etMhGxLYwLY9g4" version="21.5.0" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
-    <mxGraphModel dx="2256" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2162" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1450,6 +1450,44 @@
         </mxCell>
         <mxCell id="XSIGFNJBAzWYb4vmSP-4-128" value="Parto a 39sdg" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;rounded=1;spacing=4;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="99" y="8790" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-132" value="VIH" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="4" y="9170" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-135" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;align=left;spacingLeft=-20;" vertex="1" parent="1">
+          <mxGeometry x="235" y="9230" width="332" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-136" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="XSIGFNJBAzWYb4vmSP-4-135">
+          <mxGeometry width="332" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-137" value="Parto" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b46504;overflow=hidden;fillColor=#fad7ac;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="XSIGFNJBAzWYb4vmSP-4-136">
+          <mxGeometry width="173" height="40" as="geometry">
+            <mxRectangle width="173" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-138" value="Cesarea" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#56517e;overflow=hidden;fillColor=#d0cee2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="XSIGFNJBAzWYb4vmSP-4-136">
+          <mxGeometry x="173" width="159" height="40" as="geometry">
+            <mxRectangle width="159" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-140" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="XSIGFNJBAzWYb4vmSP-4-135">
+          <mxGeometry y="40" width="332" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-141" value="&lt;ul&gt;&lt;li&gt;Carga viral &amp;lt;50&lt;/li&gt;&lt;li&gt;Triple Anti retroviral&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b46504;overflow=hidden;fillColor=#fad7ac;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;spacingLeft=-20;verticalAlign=top;" vertex="1" parent="XSIGFNJBAzWYb4vmSP-4-140">
+          <mxGeometry width="173" height="95" as="geometry">
+            <mxRectangle width="173" height="95" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-142" value="&lt;ul&gt;&lt;li&gt;Carga viral &amp;gt;1,000&lt;/li&gt;&lt;li&gt;Monoterapia AZT&lt;/li&gt;&lt;li&gt;Deseo de la madre&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#56517e;overflow=hidden;fillColor=#d0cee2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;verticalAlign=top;spacingLeft=-20;" vertex="1" parent="XSIGFNJBAzWYb4vmSP-4-140">
+          <mxGeometry x="173" width="159" height="95" as="geometry">
+            <mxRectangle width="159" height="95" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-148" value="Cuando AZT intraparto?&lt;br&gt;Carga viral &amp;gt;1,000" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="9390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-149" value="Evitar lactancia" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="423" y="9390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
