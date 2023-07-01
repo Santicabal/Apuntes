@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-01T11:14:08.400Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="8VD9hsv0iCWFEOoQfzQH" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-01T12:47:33.678Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="AknT_F-Z43mVx-dcn1WB" version="21.5.0" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
     <mxGraphModel dx="2008" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -996,10 +996,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2_BtqErwWpNkh05m9N2Q-60" value="Screening de Sx Down. Translucenica + PAPP + B GCH" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="560" y="5800" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="5860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2_BtqErwWpNkh05m9N2Q-61" value="Biopsia Corial (&amp;gt;10sdg)&lt;br&gt;Amniocentesis (&amp;gt;15)" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="760" y="5790" width="80" height="80" as="geometry" />
+          <mxGeometry x="760" y="5850" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2_BtqErwWpNkh05m9N2Q-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2_BtqErwWpNkh05m9N2Q-64" target="2_BtqErwWpNkh05m9N2Q-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1163,6 +1163,20 @@
         </mxCell>
         <mxCell id="XSIGFNJBAzWYb4vmSP-4-23" value="Repetir registro en 15 min" style="ellipse;whiteSpace=wrap;html=1;rounded=1;spacingLeft=0;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="261" y="6685" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XSIGFNJBAzWYb4vmSP-4-30" target="XSIGFNJBAzWYb4vmSP-4-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="5760" />
+              <mxPoint x="690" y="5760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-30" value="ß-GCH:&lt;br&gt;&lt;div align=&quot;left&quot;&gt;500: No se ven USG, repetir toma en 48h&lt;br&gt;1,000: se ven muchos&lt;br&gt;1,500: se ven el 90%&lt;br&gt;1,800: Deberian todos, si no se ve buscalo ectopico&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="5730" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-31" value="Duplica→ Embarazo&lt;br&gt;Sube poco→ Ectopico&lt;br&gt;Baja→ Aborto" style="whiteSpace=wrap;html=1;rounded=1;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="710" y="5730" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
