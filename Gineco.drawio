@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-01T12:47:33.678Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="AknT_F-Z43mVx-dcn1WB" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-01T14:45:15.299Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="uh4zcvdYSZxiM7znZKjM" version="21.5.0" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
-    <mxGraphModel dx="2008" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2256" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1177,6 +1177,90 @@
         </mxCell>
         <mxCell id="XSIGFNJBAzWYb4vmSP-4-31" value="Duplica→ Embarazo&lt;br&gt;Sube poco→ Ectopico&lt;br&gt;Baja→ Aborto" style="whiteSpace=wrap;html=1;rounded=1;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="710" y="5730" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-33" value="Hemorragias Placentarias" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry y="6860" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XSIGFNJBAzWYb4vmSP-4-35" target="XSIGFNJBAzWYb4vmSP-4-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-35" value="Placenta previa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="116" y="6959" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XSIGFNJBAzWYb4vmSP-4-36" target="XSIGFNJBAzWYb4vmSP-4-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-36" value="En cicratices uterinas, multiparas, fumadoras, edad &amp;gt; 35" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="116" y="7068" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XSIGFNJBAzWYb4vmSP-4-38" target="XSIGFNJBAzWYb4vmSP-4-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-44" value="Completa &lt;br&gt;o&lt;br&gt;Parcial" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XSIGFNJBAzWYb4vmSP-4-41">
+          <mxGeometry x="0.3822" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XSIGFNJBAzWYb4vmSP-4-38" target="XSIGFNJBAzWYb4vmSP-4-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-45" value="Marginal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XSIGFNJBAzWYb4vmSP-4-43">
+          <mxGeometry x="0.3473" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XSIGFNJBAzWYb4vmSP-4-38" target="XSIGFNJBAzWYb4vmSP-4-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-38" value="USG Vaginal" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="136" y="7169" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-40" value="Cesarea" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="68" y="7319" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-42" value="Cesarea o parto" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="7319" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XSIGFNJBAzWYb4vmSP-4-46" target="XSIGFNJBAzWYb4vmSP-4-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-46" value="Desprendimiento de placenta" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="402" y="6959" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XSIGFNJBAzWYb4vmSP-4-48" target="XSIGFNJBAzWYb4vmSP-4-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-48" value="Hipertensas, multigestas, trauma, cocaina, gemelar, tabaco" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="402" y="7068" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XSIGFNJBAzWYb4vmSP-4-50" target="XSIGFNJBAzWYb4vmSP-4-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XSIGFNJBAzWYb4vmSP-4-50" target="XSIGFNJBAzWYb4vmSP-4-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XSIGFNJBAzWYb4vmSP-4-50" target="XSIGFNJBAzWYb4vmSP-4-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-61" value="Madre O&lt;sup&gt;-&lt;/sup&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XSIGFNJBAzWYb4vmSP-4-60">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-50" value="Clinico:&lt;br&gt;Hipertonia + Sangrado" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="422" y="7169" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-52" value="El sangrado de placenta previa es rojo brilllante.&lt;br&gt;&lt;br&gt;El de abrupto es oscura y coagulada" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="588.5" y="6939" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-54" value="Valorar Tocolisis y&amp;nbsp; esteroide" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="7169" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-57" value="Cesarea" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="422" y="7319" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-59" value="Anti-D" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="582" y="7169" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
