@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-01T16:09:29.392Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="Dt9NrkH6uAZqcRvjgNfM" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-01T16:15:28.854Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="6XS8_J7vcpuhYaQXALHa" version="21.5.0" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
     <mxGraphModel dx="2256" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1325,12 +1325,12 @@
           <mxGeometry x="495.5" y="7870" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XSIGFNJBAzWYb4vmSP-4-80" value="&lt;div align=&quot;left&quot;&gt;La fibronectina por si sola no sirve, solo ayuda cuando hay mas cosas como longitud de cervix y sintomas&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="125" y="7770" width="140" height="100" as="geometry" />
+          <mxGeometry x="125" y="7760" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XSIGFNJBAzWYb4vmSP-4-81" value="Beta-metasona&lt;br&gt;12mg" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacing=5;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="160" y="7870" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XSIGFNJBAzWYb4vmSP-4-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XSIGFNJBAzWYb4vmSP-4-84" target="XSIGFNJBAzWYb4vmSP-4-88">
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="XSIGFNJBAzWYb4vmSP-4-84" target="XSIGFNJBAzWYb4vmSP-4-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XSIGFNJBAzWYb4vmSP-4-84" value="Tocolitico" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
@@ -1338,6 +1338,14 @@
         </mxCell>
         <mxCell id="XSIGFNJBAzWYb4vmSP-4-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XSIGFNJBAzWYb4vmSP-4-88" target="XSIGFNJBAzWYb4vmSP-4-91">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XSIGFNJBAzWYb4vmSP-4-88" target="XSIGFNJBAzWYb4vmSP-4-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-100" value="34sdg" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XSIGFNJBAzWYb4vmSP-4-99">
+          <mxGeometry x="-0.1755" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XSIGFNJBAzWYb4vmSP-4-88" value="Rotura de membranas pretermino" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="316.5" y="8110" width="120" height="60" as="geometry" />
@@ -1351,11 +1359,14 @@
         <mxCell id="XSIGFNJBAzWYb4vmSP-4-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XSIGFNJBAzWYb4vmSP-4-95" target="XSIGFNJBAzWYb4vmSP-4-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XSIGFNJBAzWYb4vmSP-4-95" value="Hay que intentar llegar a las semana 34 pero si hay datos de infección" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-95" value="Hay que intentar llegar a la semana 34 pero si hay datos de infección" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="144" y="7560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XSIGFNJBAzWYb4vmSP-4-96" value="Terminar embarazo" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="164" y="7670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XSIGFNJBAzWYb4vmSP-4-98" value="Terminar embarazo" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="336.5" y="8240" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
