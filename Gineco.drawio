@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-01T17:00:55.051Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="JagAikjhmHpIgiVDvTvz" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-01T17:19:54.663Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="R_KVSO13gx2WZKPerF8O" version="21.5.0" type="github">
   <diagram name="Página-1" id="x1ECHJm3GgScoIIS8FfD">
     <mxGraphModel dx="2256" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -921,7 +921,7 @@
         <mxCell id="2_BtqErwWpNkh05m9N2Q-17" value="Pruebas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="120" y="5560" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2_BtqErwWpNkh05m9N2Q-18" value="&lt;ul&gt;&lt;li&gt;BH&lt;/li&gt;&lt;li&gt;TSH&lt;/li&gt;&lt;li&gt;EGO&lt;/li&gt;&lt;li&gt;Grupo Rh (Para su grupo)&lt;/li&gt;&lt;li&gt;Coombs Indirecto (Saber si hay reaccion)&lt;/li&gt;&lt;li&gt;Glucosa&lt;/li&gt;&lt;li&gt;Pap&lt;/li&gt;&lt;li&gt;VIH / Sifilis/ Hep B / Rubeola&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+        <mxCell id="2_BtqErwWpNkh05m9N2Q-18" value="&lt;ul&gt;&lt;li&gt;BH&lt;/li&gt;&lt;li&gt;TSH&lt;/li&gt;&lt;li&gt;EGO&lt;/li&gt;&lt;li&gt;Grupo Rh (Para su grupo)&lt;/li&gt;&lt;li&gt;Coombs Indirecto (Saber si hay reaccion)&lt;/li&gt;&lt;li&gt;Glucosa y O&#39;sullivan 24-28 sdg&lt;br&gt;&lt;/li&gt;&lt;li&gt;Pap&lt;/li&gt;&lt;li&gt;VIH / Sifilis/ Hep B / Rubeola&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="120" y="5600" width="210" height="160" as="geometry" />
         </mxCell>
         <mxCell id="2_BtqErwWpNkh05m9N2Q-19" value="&lt;ul&gt;&lt;li&gt;Vacunar cada embarazo&amp;nbsp;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Tos Ferina&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;NO SRP ni Varicela&lt;/li&gt;&lt;li&gt;No tiene? puede darse&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Td / Influenza / Hep A y B / Men y Neumococo&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Profilaxis Estrep B (Penicilina)&lt;/li&gt;&lt;ul&gt;&lt;li&gt;IVU con Estrep B&lt;/li&gt;&lt;li&gt;Exudado+ en sem 37&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
