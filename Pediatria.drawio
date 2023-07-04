@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-03T22:14:25.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="pobuAJAMYNz-VkeMPd1t" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T09:05:42.355Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="yN2PlGw88y1Af368prfC" version="21.5.2" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
-    <mxGraphModel dx="235" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1312" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,7 +88,7 @@
           <mxGeometry x="80" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HqyEcuFVQdqJihXE6mJL-27" value="APGAR" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#3700CC;fontSize=16;fillColor=#6a00ff;fontColor=#ffffff;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="650" width="370" height="270" as="geometry" />
+          <mxGeometry x="80" y="680" width="370" height="270" as="geometry" />
         </mxCell>
         <mxCell id="HqyEcuFVQdqJihXE6mJL-28" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="HqyEcuFVQdqJihXE6mJL-27" vertex="1">
           <mxGeometry y="30" width="370" height="40" as="geometry" />
@@ -228,26 +228,26 @@
             <mxRectangle width="92" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3640d2P8LfR4qgrudTrk-1" value="Caput Sucedaneo&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cambia la piel&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;no respeta sutura&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=0;verticalAlign=top;align=left;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1000" width="140" height="140" as="geometry" />
+        <mxCell id="3640d2P8LfR4qgrudTrk-1" value="&lt;div align=&quot;center&quot;&gt;Caput Sucedaneo&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cambia la piel&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;no respeta sutura&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=0;verticalAlign=top;align=left;fillColor=#cce5ff;strokeColor=#36393d;spacingLeft=-15;" parent="1" vertex="1">
+          <mxGeometry x="520" y="680" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="3640d2P8LfR4qgrudTrk-2" value="Cefalohematoma&lt;br&gt;&lt;ul&gt;&lt;li&gt;Abomba pero no cambia color de piel&lt;/li&gt;&lt;li&gt;Se detiene en suturas&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=0;align=left;verticalAlign=top;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1000" width="140" height="140" as="geometry" />
+        <mxCell id="3640d2P8LfR4qgrudTrk-2" value="&lt;div align=&quot;center&quot;&gt;Cefalohematoma&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Abomba pero no cambia color de piel&lt;/li&gt;&lt;li&gt;Se detiene en suturas&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=0;align=left;verticalAlign=top;fillColor=#ffff88;strokeColor=#36393d;spacingLeft=-15;" parent="1" vertex="1">
+          <mxGeometry x="660" y="680" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="3640d2P8LfR4qgrudTrk-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="3640d2P8LfR4qgrudTrk-3" target="3640d2P8LfR4qgrudTrk-4">
+        <mxCell id="3640d2P8LfR4qgrudTrk-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="3640d2P8LfR4qgrudTrk-3" target="3640d2P8LfR4qgrudTrk-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3640d2P8LfR4qgrudTrk-3" value="Hemorragia suprarrenal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1280" width="120" height="60" as="geometry" />
+        <mxCell id="3640d2P8LfR4qgrudTrk-3" value="Hemorragia suprarrenal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="80" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3640d2P8LfR4qgrudTrk-7" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="3640d2P8LfR4qgrudTrk-4" target="3640d2P8LfR4qgrudTrk-6">
+        <mxCell id="3640d2P8LfR4qgrudTrk-7" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="3640d2P8LfR4qgrudTrk-4" target="3640d2P8LfR4qgrudTrk-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3640d2P8LfR4qgrudTrk-4" value="Hipoglucemia, anemia, ictericia acidosis, ↓Na ↑K" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1280" width="150" height="60" as="geometry" />
+        <mxCell id="3640d2P8LfR4qgrudTrk-4" value="Hipoglucemia, anemia, ictericia acidosis, ↓Na ↑K" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="1000" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3640d2P8LfR4qgrudTrk-6" value="Bebe Macrosomico y parto de nalgas" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="1280" width="120" height="60" as="geometry" />
+        <mxCell id="3640d2P8LfR4qgrudTrk-6" value="Bebe Macrosomico y parto de nalgas" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
