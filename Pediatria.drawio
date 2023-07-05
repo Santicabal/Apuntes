@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T22:30:36.929Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_AM7-mytT2fxZSAqETYg" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-05T22:32:25.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="oE_mOgIUko_eN3Pczs_d" version="21.6.1" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
     <mxGraphModel dx="417" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -594,7 +594,7 @@
         <mxCell id="NbEfAGg2gPnOYmqMoiis-37" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="NbEfAGg2gPnOYmqMoiis-1">
           <mxGeometry y="180" width="600" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="NbEfAGg2gPnOYmqMoiis-38" value="Auscultacion" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NbEfAGg2gPnOYmqMoiis-37">
+        <mxCell id="NbEfAGg2gPnOYmqMoiis-38" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NbEfAGg2gPnOYmqMoiis-37">
           <mxGeometry width="120" height="63" as="geometry">
             <mxRectangle width="120" height="63" as="alternateBounds" />
           </mxGeometry>
@@ -609,7 +609,7 @@
             <mxRectangle width="120" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NbEfAGg2gPnOYmqMoiis-41" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="NbEfAGg2gPnOYmqMoiis-37">
+        <mxCell id="NbEfAGg2gPnOYmqMoiis-41" value="Vari" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="NbEfAGg2gPnOYmqMoiis-37">
           <mxGeometry x="360" width="120" height="63" as="geometry">
             <mxRectangle width="120" height="63" as="alternateBounds" />
           </mxGeometry>
@@ -637,7 +637,7 @@
             <mxRectangle width="120" height="62" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NbEfAGg2gPnOYmqMoiis-24" value="Atrapamiento aereo" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="NbEfAGg2gPnOYmqMoiis-10">
+        <mxCell id="NbEfAGg2gPnOYmqMoiis-24" value="Atrapamiento aereo, infiltrado algodonoso, hiperinsuflacion" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="NbEfAGg2gPnOYmqMoiis-10">
           <mxGeometry x="360" width="120" height="62" as="geometry">
             <mxRectangle width="120" height="62" as="alternateBounds" />
           </mxGeometry>
