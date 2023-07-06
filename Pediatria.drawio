@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T00:01:26.603Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="hpQCXgVsycVAMuII40kG" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-06T12:21:02.461Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="L1-ct4ucQkPQkHC4w_Rz" version="21.5.2" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
-    <mxGraphModel dx="1968" dy="1266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1230" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -674,6 +674,42 @@
           <mxGeometry x="576" width="144" height="62" as="geometry">
             <mxRectangle width="144" height="62" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EAmd-aj6uMpdDVcp3c-U-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EAmd-aj6uMpdDVcp3c-U-1" target="EAmd-aj6uMpdDVcp3c-U-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAmd-aj6uMpdDVcp3c-U-1" value="Enterocolitis necrotizante" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EAmd-aj6uMpdDVcp3c-U-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EAmd-aj6uMpdDVcp3c-U-2" target="EAmd-aj6uMpdDVcp3c-U-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAmd-aj6uMpdDVcp3c-U-2" value="Prematuros e hipoxia" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EAmd-aj6uMpdDVcp3c-U-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EAmd-aj6uMpdDVcp3c-U-4" target="EAmd-aj6uMpdDVcp3c-U-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAmd-aj6uMpdDVcp3c-U-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EAmd-aj6uMpdDVcp3c-U-4" target="EAmd-aj6uMpdDVcp3c-U-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAmd-aj6uMpdDVcp3c-U-4" value="Distencion abdominal, asas fijas, con edema o neumatosis" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EAmd-aj6uMpdDVcp3c-U-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EAmd-aj6uMpdDVcp3c-U-6" target="EAmd-aj6uMpdDVcp3c-U-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAmd-aj6uMpdDVcp3c-U-6" value="Neumoperitoneo" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="620" y="2200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EAmd-aj6uMpdDVcp3c-U-8" value="SNG +&lt;br&gt;Dieta absoluta" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="460" y="2310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EAmd-aj6uMpdDVcp3c-U-10" value="Amika+Vanco" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="460" y="2390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EAmd-aj6uMpdDVcp3c-U-12" value="Cx" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="640" y="2310" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
