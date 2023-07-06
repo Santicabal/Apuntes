@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T13:48:59.595Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="Irq2gmZVLar2Vi-PWAKY" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-06T22:02:01.196Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="YxfK8O9k8GPpqlET4t_y" version="21.5.2" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
     <mxGraphModel dx="1406" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -717,7 +717,7 @@
         <mxCell id="LKXhwQMqZCtmlg8uFUcx-2" value="Fisiologica" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="97" y="2510" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LKXhwQMqZCtmlg8uFUcx-3" value="Fototerapia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;shadow=0;fontSize=19;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="LKXhwQMqZCtmlg8uFUcx-3" value="Generalmente sin Tx.&lt;br&gt;Fototerapia segun las graficas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;shadow=0;fontSize=19;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="97" y="2810" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="LKXhwQMqZCtmlg8uFUcx-4" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
@@ -742,34 +742,34 @@
           <mxGeometry x="397" y="2827" width="240" height="10" as="geometry" />
         </mxCell>
         <mxCell id="LKXhwQMqZCtmlg8uFUcx-15" value="&lt;ul&gt;&lt;li&gt;Puede ser por RH o ABO&lt;/li&gt;&lt;li&gt;RH&lt;/li&gt;&lt;ul&gt;&lt;li&gt;No afecta 1ero&lt;/li&gt;&lt;li&gt;Puede ser grave&lt;/li&gt;&lt;li&gt;Anemia e hidrops&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;ABO&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Si afecta 1ero&lt;/li&gt;&lt;li&gt;Es leve&lt;/li&gt;&lt;li&gt;Anemia Sin hidrops&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=left;fillColor=#FFB001;strokeColor=#FFFFFF;verticalAlign=top;spacingTop=66;" vertex="1" parent="1">
-          <mxGeometry x="657" y="2490" width="280" height="430" as="geometry" />
+          <mxGeometry x="97" y="2930" width="280" height="430" as="geometry" />
         </mxCell>
         <mxCell id="LKXhwQMqZCtmlg8uFUcx-16" value="Isoinmunización" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="657" y="2510" width="280" height="60" as="geometry" />
+          <mxGeometry x="97" y="2950" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LKXhwQMqZCtmlg8uFUcx-17" value="Fototerapia +/- exanguineo transfusion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;shadow=0;fontSize=19;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="657" y="2810" width="280" height="90" as="geometry" />
+          <mxGeometry x="97" y="3250" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="LKXhwQMqZCtmlg8uFUcx-18" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="677" y="2570" width="240" height="10" as="geometry" />
+          <mxGeometry x="117" y="3010" width="240" height="10" as="geometry" />
         </mxCell>
         <mxCell id="LKXhwQMqZCtmlg8uFUcx-19" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="677" y="2827" width="240" height="10" as="geometry" />
+          <mxGeometry x="117" y="3267" width="240" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="LKXhwQMqZCtmlg8uFUcx-22" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FE9900;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="937" y="2490" width="280" height="430" as="geometry" />
+        <mxCell id="LKXhwQMqZCtmlg8uFUcx-22" value="&lt;ul&gt;&lt;li&gt;Bilirrubina directa &amp;gt;20%&lt;/li&gt;&lt;li&gt;Se ven verdosos&lt;/li&gt;&lt;li&gt;Acolia, coluria&lt;/li&gt;&lt;li&gt;↓ Vit. ADEK&lt;/li&gt;&lt;li&gt;Dx: Gammagrafía pero definitivo con colangiografía&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;fontSize=20;align=left;fillColor=#6d8764;strokeColor=none;fontColor=#ffffff;verticalAlign=top;spacingTop=66;" vertex="1" parent="1">
+          <mxGeometry x="377" y="2930" width="280" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="LKXhwQMqZCtmlg8uFUcx-23" value="DELIGHT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="937" y="2510" width="280" height="60" as="geometry" />
+        <mxCell id="LKXhwQMqZCtmlg8uFUcx-23" value="Atresia Vias biliares" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="377" y="2950" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LKXhwQMqZCtmlg8uFUcx-24" value="Events&lt;div&gt;Social Inbox&lt;/div&gt;&lt;div&gt;Smart Content&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="937" y="2810" width="280" height="90" as="geometry" />
+        <mxCell id="LKXhwQMqZCtmlg8uFUcx-24" value="Trigliceridos Cadena Media, Vitaminas ADEK, Ac. Ursodesoxicolico.&lt;br style=&quot;font-size: 16px;&quot;&gt;Cx Kasai y luego trasplante" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="377" y="3250" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="LKXhwQMqZCtmlg8uFUcx-25" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="957" y="2570" width="240" height="10" as="geometry" />
+          <mxGeometry x="397" y="3010" width="240" height="10" as="geometry" />
         </mxCell>
         <mxCell id="LKXhwQMqZCtmlg8uFUcx-26" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="957" y="2790" width="240" height="10" as="geometry" />
+          <mxGeometry x="397" y="3267" width="240" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
