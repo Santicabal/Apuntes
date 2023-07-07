@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T19:43:13.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3OxH8kH4Cgs6Z-ir0--m" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-07T19:47:54.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="xB8LPXwxnFlt0WIfs5FF" version="21.6.1" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
     <mxGraphModel dx="382" dy="1340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -791,6 +791,15 @@
         </mxCell>
         <mxCell id="qEz4d5NTartNPZNqIucS-6" value="Dieta temprana" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="3325" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qEz4d5NTartNPZNqIucS-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="qEz4d5NTartNPZNqIucS-8" target="qEz4d5NTartNPZNqIucS-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qEz4d5NTartNPZNqIucS-8" value="Hipotiroidismo congenito" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qEz4d5NTartNPZNqIucS-9" value="Causa: Disgenesia tiroidea" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="277" y="3490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
