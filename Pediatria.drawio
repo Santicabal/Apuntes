@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T19:54:16.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-bndsVoZv6yIKpG1wdz5" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-07T20:01:14.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_J4MemQ0mT0UDC12dxs_" version="21.6.1" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
     <mxGraphModel dx="382" dy="1340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -836,7 +836,7 @@
           <mxGeometry x="710" y="3600" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qEz4d5NTartNPZNqIucS-21" value="Levo-tiroxina" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="3600" width="80" height="80" as="geometry" />
+          <mxGeometry x="563" y="3600" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qEz4d5NTartNPZNqIucS-24" value="Valorar dar o no Tx" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;rounded=1;spacing=9;" vertex="1" parent="1">
           <mxGeometry x="710" y="3750" width="80" height="80" as="geometry" />
