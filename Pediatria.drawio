@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-08T16:02:09.980Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="aIX4tUtqV0F6LSjXqt9z" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-08T16:05:03.375Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="m6c_xymoq6j-eyIKDPYI" version="21.6.1" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
     <mxGraphModel dx="87" dy="1340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -866,6 +866,9 @@
         </mxCell>
         <mxCell id="ukP2hB4DgyIj6RB7DeLM-7" value="Ampi + Cefotaxima" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="3840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ukP2hB4DgyIj6RB7DeLM-10" value="Fontanela abombada, &lt;br&gt;LCR con :pleocitosis,prot ↓Glu" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=16;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="330" y="3880" width="140" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
