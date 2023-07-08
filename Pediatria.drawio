@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-08T21:54:58.419Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="wH7Rg3lwmwVayrvDwhWs" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-08T21:55:09.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="WdbHllNh-vxWzlX7RZAZ" version="21.6.1" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
     <mxGraphModel dx="440" dy="1340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -789,7 +789,7 @@
         <mxCell id="qEz4d5NTartNPZNqIucS-4" value="Al nacer por teneer hiperinsulinismo les da hipoglucemia" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="500" y="3335" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qEz4d5NTartNPZNqIucS-6" value="Dieta temprana" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;rounded=1;" parent="1" vertex="1">
+        <mxCell id="qEz4d5NTartNPZNqIucS-6" value="Dieta temprana" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="720" y="3325" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qEz4d5NTartNPZNqIucS-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="qEz4d5NTartNPZNqIucS-8" target="qEz4d5NTartNPZNqIucS-9" edge="1">
