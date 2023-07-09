@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T18:00:21.767Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PykyFpDQWVyEDDrhLsdM" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-09T18:11:26.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="I5u6z11PvOSZ-IfvrUO1" version="21.6.1" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
-    <mxGraphModel dx="747" dy="1676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="420" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1242,6 +1242,38 @@
         </mxCell>
         <mxCell id="uptHogqzlnzF8dUy-l1c-23" value="Hernia Diafragmatica" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="80" y="4588" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uptHogqzlnzF8dUy-l1c-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uptHogqzlnzF8dUy-l1c-25" target="uptHogqzlnzF8dUy-l1c-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uptHogqzlnzF8dUy-l1c-25" value="Hiperplasia de piloro" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="5000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uptHogqzlnzF8dUy-l1c-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uptHogqzlnzF8dUy-l1c-26" target="uptHogqzlnzF8dUy-l1c-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uptHogqzlnzF8dUy-l1c-26" value="Varon de 3-6 semnas. Vomito en proyectil, oliva pilorica, irritable, Alcalosis Hipocloremica" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="283.27" y="4995" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uptHogqzlnzF8dUy-l1c-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uptHogqzlnzF8dUy-l1c-28" target="uptHogqzlnzF8dUy-l1c-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uptHogqzlnzF8dUy-l1c-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uptHogqzlnzF8dUy-l1c-28" target="uptHogqzlnzF8dUy-l1c-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uptHogqzlnzF8dUy-l1c-34" value="Otros" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uptHogqzlnzF8dUy-l1c-33">
+          <mxGeometry x="-0.3563" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uptHogqzlnzF8dUy-l1c-28" value="USG:&lt;br&gt;Elongacion &amp;gt;15mm&amp;nbsp;&lt;br&gt;&amp;nbsp;Grosor &lt;br&gt;&amp;gt;3mm" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="483" y="4990" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uptHogqzlnzF8dUy-l1c-30" value="Pilorotomia" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="643" y="4990" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uptHogqzlnzF8dUy-l1c-32" value="Rx:&lt;br&gt;&amp;nbsp;Burbuja unica&lt;br&gt;Contraste: sigo de la cuerda" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="483" y="5106" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
