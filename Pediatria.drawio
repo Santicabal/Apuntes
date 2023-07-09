@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T18:28:34.726Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Ux0UNBQ8sghuwleDSxV2" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-09T19:43:38.742Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ASBUlQAEe8efCAr8DBcC" version="21.6.1" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
     <mxGraphModel dx="420" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1274,6 +1274,21 @@
         </mxCell>
         <mxCell id="uptHogqzlnzF8dUy-l1c-32" value="Rx:&lt;br&gt;&amp;nbsp;Burbuja unica&lt;br&gt;Contraste: sigo de la cuerda" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="483" y="5106" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uptHogqzlnzF8dUy-l1c-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uptHogqzlnzF8dUy-l1c-35" target="uptHogqzlnzF8dUy-l1c-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uptHogqzlnzF8dUy-l1c-35" value="Atresia Duodenal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="118.35999999999999" y="5240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uptHogqzlnzF8dUy-l1c-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uptHogqzlnzF8dUy-l1c-36" target="uptHogqzlnzF8dUy-l1c-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uptHogqzlnzF8dUy-l1c-36" value="Asociado a Sx Down, hay vomitos biliares" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="283.27" y="5240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uptHogqzlnzF8dUy-l1c-38" value="Rx con doble burbuja" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="483.2" y="5230" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
