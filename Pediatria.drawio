@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T08:31:19.113Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="4n7pRXf2nvraEsgiTqPn" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-09T09:07:59.151Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="5foTaJZ26-D-tZwdUU24" version="21.5.2" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
     <mxGraphModel dx="1036" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1169,6 +1169,35 @@
         </mxCell>
         <mxCell id="KUeMnwPIA5BBR7GV7PST-20" value="Infeccion de vias aeres de repetición" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="634" y="4148" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KUeMnwPIA5BBR7GV7PST-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KUeMnwPIA5BBR7GV7PST-23" target="KUeMnwPIA5BBR7GV7PST-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KUeMnwPIA5BBR7GV7PST-23" value="&lt;div&gt;Diagnostico: Metes SNG y haces Rx&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="93.13" y="4560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KUeMnwPIA5BBR7GV7PST-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KUeMnwPIA5BBR7GV7PST-24" target="KUeMnwPIA5BBR7GV7PST-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KUeMnwPIA5BBR7GV7PST-28" value="Si todo &lt;br&gt;Parece&lt;br&gt;normal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KUeMnwPIA5BBR7GV7PST-27">
+          <mxGeometry x="-0.1863" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KUeMnwPIA5BBR7GV7PST-24" value="Si hay burbuja estomacal hay fistula distal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="257" y="4560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KUeMnwPIA5BBR7GV7PST-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KUeMnwPIA5BBR7GV7PST-26" target="KUeMnwPIA5BBR7GV7PST-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KUeMnwPIA5BBR7GV7PST-26" value="Broncoscopia" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="477" y="4550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KUeMnwPIA5BBR7GV7PST-29" value="Cx" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="601.64" y="4550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KUeMnwPIA5BBR7GV7PST-31" value="Complicacion mas frecuente ERGE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="682.95" y="4570" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
