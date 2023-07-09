@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T21:57:25.344Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="q3WzcsZ3-o8JqryaeZni" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-09T22:02:19.845Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qO-_eeWOq8f91g0gZxTK" version="21.6.1" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
-    <mxGraphModel dx="747" dy="1676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="420" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1314,11 +1314,17 @@
         <mxCell id="uptHogqzlnzF8dUy-l1c-47" value="MEN 2 (CaFe PARA 2)&lt;br&gt;Carcinoa medular de tiroides, Feocromocitoma &lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;y paratiroides&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="188.37" y="5558" width="270" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uptHogqzlnzF8dUy-l1c-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uptHogqzlnzF8dUy-l1c-48" target="uptHogqzlnzF8dUy-l1c-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uptHogqzlnzF8dUy-l1c-48" value="Clinica:&amp;nbsp;&lt;br&gt;Ileo meconial, estreñimiento cronico, retraso de crecimiento, vomitos fecaloides, ampula rectal vacia, hipertonia de esfinter anal interno" style="whiteSpace=wrap;html=1;rounded=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="613.62" y="5465" width="145.22" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="uptHogqzlnzF8dUy-l1c-50" value="Al no haber estos plexos, esa parte del intestino esta estenotica, ahi se atoran las hces, se distiende el colon y no pasa a la ampula rectal" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="66.37" y="5618" width="140" height="120" as="geometry" />
+        <mxCell id="uptHogqzlnzF8dUy-l1c-50" value="Al no haber estos plexos, esa parte del intestino esta estenotica, ahi se atoran las hces, se distiende el colon y no pasa a la ampula rectal, por eso esta vacia y en la Rx no se ve gas&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="66.37" y="5618" width="140" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="uptHogqzlnzF8dUy-l1c-51" value="Rx: Distencion + No gas distal" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;rounded=1;spacing=3;" vertex="1" parent="1">
+          <mxGeometry x="646.23" y="5640" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
