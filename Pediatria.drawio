@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T18:20:29.265Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bJY6bENvM3eRug3xprlo" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T18:22:13.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="okI4M2ZlGoFCJUMDNDbx" version="21.6.1" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
-    <mxGraphModel dx="883" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1236" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1374,19 +1374,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VTY20OBMiCR9WmHNU94D-10" value="Invaginacion intestinal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="121.82" y="5980" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="6025" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VTY20OBMiCR9WmHNU94D-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTY20OBMiCR9WmHNU94D-12" target="VTY20OBMiCR9WmHNU94D-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VTY20OBMiCR9WmHNU94D-12" value="En mayores de 3 meses mayor causa de obstruccion intestinal" style="whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="288.02" y="5980" width="120" height="60" as="geometry" />
+          <mxGeometry x="286.2" y="6025" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VTY20OBMiCR9WmHNU94D-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTY20OBMiCR9WmHNU94D-15" target="VTY20OBMiCR9WmHNU94D-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VTY20OBMiCR9WmHNU94D-15" value="Idiopatica 95%&lt;br&gt;Adenovirus, Meckel, Linfoma" style="whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="454.4" y="5980" width="120" height="60" as="geometry" />
+          <mxGeometry x="452.58" y="6025" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VTY20OBMiCR9WmHNU94D-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTY20OBMiCR9WmHNU94D-17" target="VTY20OBMiCR9WmHNU94D-21">
           <mxGeometry relative="1" as="geometry" />
@@ -1409,7 +1409,7 @@
           <mxGeometry x="639.655" y="6170" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VTY20OBMiCR9WmHNU94D-23" value="Enema&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="460" y="6110" width="80" height="80" as="geometry" />
+          <mxGeometry x="460" y="6118" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VTY20OBMiCR9WmHNU94D-25" value="Reduccion &lt;br style=&quot;font-size: 11px;&quot;&gt;+/- &lt;br style=&quot;font-size: 11px;&quot;&gt;reseccion" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;fontSize=11;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="459.99999999999994" y="6229" width="80" height="80" as="geometry" />
