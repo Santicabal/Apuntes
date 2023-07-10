@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T17:22:44.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="B8ssOaLNiuHyrkbOL5v6" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T17:26:41.638Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="wUJBpwtJq8k-AjnMCF5v" version="21.6.1" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
-    <mxGraphModel dx="1545" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="742" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1308,8 +1308,8 @@
         <mxCell id="uptHogqzlnzF8dUy-l1c-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uptHogqzlnzF8dUy-l1c-45" target="uptHogqzlnzF8dUy-l1c-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uptHogqzlnzF8dUy-l1c-45" value="Obstruccion intestinal baja, eso causa Megacolon" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="468.8" y="5008" width="120" height="60" as="geometry" />
+        <mxCell id="uptHogqzlnzF8dUy-l1c-45" value="Obstruccion intestinal baja (Causa No.1 en RN), eso causa Megacolon" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="440" y="5008" width="148.8" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uptHogqzlnzF8dUy-l1c-47" value="MEN 2 (CaFe PARA 2)&lt;br&gt;Carcinoa medular de tiroides, Feocromocitoma &lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;y paratiroides&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="209.53" y="5068" width="270" height="60" as="geometry" />
@@ -1369,6 +1369,15 @@
         </mxCell>
         <mxCell id="VTY20OBMiCR9WmHNU94D-8" value="Cx" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="754" y="5830" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTY20OBMiCR9WmHNU94D-10" target="VTY20OBMiCR9WmHNU94D-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-10" value="Invaginacion intestinal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="121.82" y="5980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-12" value="En mayores de 3 meses mayor causa de obstruccion intestinal" style="whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="288.02" y="5980" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
