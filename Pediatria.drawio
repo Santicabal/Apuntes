@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T16:59:20.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="sTyJJffX_CL7mQcCJVKu" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T17:22:44.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="B8ssOaLNiuHyrkbOL5v6" version="21.6.1" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
     <mxGraphModel dx="1545" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1246,7 +1246,7 @@
         <mxCell id="uptHogqzlnzF8dUy-l1c-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uptHogqzlnzF8dUy-l1c-25" target="uptHogqzlnzF8dUy-l1c-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uptHogqzlnzF8dUy-l1c-25" value="Hiperplasia de piloro" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uptHogqzlnzF8dUy-l1c-25" value="Hiperplasia de piloro" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=3;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="122.72" y="5440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uptHogqzlnzF8dUy-l1c-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uptHogqzlnzF8dUy-l1c-26" target="uptHogqzlnzF8dUy-l1c-28" edge="1">
@@ -1278,13 +1278,13 @@
         <mxCell id="uptHogqzlnzF8dUy-l1c-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uptHogqzlnzF8dUy-l1c-35" target="uptHogqzlnzF8dUy-l1c-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uptHogqzlnzF8dUy-l1c-35" value="Atresia Duodenal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="uptHogqzlnzF8dUy-l1c-35" value="Atresia Duodenal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;strokeWidth=3;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="121.07999999999998" y="5680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uptHogqzlnzF8dUy-l1c-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uptHogqzlnzF8dUy-l1c-36" target="uptHogqzlnzF8dUy-l1c-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uptHogqzlnzF8dUy-l1c-36" value="Asociado a Sx Down, hay vomitos biliares" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uptHogqzlnzF8dUy-l1c-36" value="Asociado a Sx Down, hay vomitos biliares" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="285.99" y="5680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uptHogqzlnzF8dUy-l1c-38" value="Rx con doble burbuja" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" parent="1" vertex="1">
@@ -1342,6 +1342,33 @@
         </mxCell>
         <mxCell id="uptHogqzlnzF8dUy-l1c-56" value="Cx: &lt;br&gt;Reseccion + anastomosis" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;spacing=3;strokeWidth=2;verticalAlign=top;spacingTop=10;" parent="1" vertex="1">
           <mxGeometry x="497.39000000000004" y="5267" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTY20OBMiCR9WmHNU94D-1" target="VTY20OBMiCR9WmHNU94D-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-1" value="Diverticulo de Meckel" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="121.82" y="5840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTY20OBMiCR9WmHNU94D-2" target="VTY20OBMiCR9WmHNU94D-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-2" value="Casi nunca da clinica suele ser Dx incidental." style="whiteSpace=wrap;html=1;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="288.02" y="5840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTY20OBMiCR9WmHNU94D-4" target="VTY20OBMiCR9WmHNU94D-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-4" value="Rectorragia indolora intermitente" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="459.13999999999993" y="5840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTY20OBMiCR9WmHNU94D-6" target="VTY20OBMiCR9WmHNU94D-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-6" value="Gammagrafia Tc 99" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="630.26" y="5830" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-8" value="Cx" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="754" y="5830" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
