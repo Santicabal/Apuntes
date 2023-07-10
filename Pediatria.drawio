@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T19:45:23.388Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7VlkBuEpbjj2DdBx7KNi" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T19:54:43.771Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="U0RrPhpfnU-RAWiyH3c2" version="21.6.1" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
     <mxGraphModel dx="1236" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1426,50 +1426,88 @@
         <mxCell id="VTY20OBMiCR9WmHNU94D-30" value="Proteina mas implicada B-lactoglobulina" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="286" y="6360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTY20OBMiCR9WmHNU94D-33" target="VTY20OBMiCR9WmHNU94D-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VTY20OBMiCR9WmHNU94D-33" value="Se quita salo en los primeros años" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="452.58" y="6360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VTY20OBMiCR9WmHNU94D-35" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="450" y="6430" width="120" height="140" as="geometry" />
+        <mxCell id="VTY20OBMiCR9WmHNU94D-35" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="6430" width="210" height="217" as="geometry" />
         </mxCell>
         <mxCell id="VTY20OBMiCR9WmHNU94D-36" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="VTY20OBMiCR9WmHNU94D-35">
-          <mxGeometry width="120" height="47" as="geometry" />
+          <mxGeometry width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VTY20OBMiCR9WmHNU94D-37" value="IgE" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="VTY20OBMiCR9WmHNU94D-36">
-          <mxGeometry width="60" height="47" as="geometry">
-            <mxRectangle width="60" height="47" as="alternateBounds" />
+        <mxCell id="VTY20OBMiCR9WmHNU94D-37" value="IgE" style="connectable=0;recursiveResize=0;strokeColor=#0e8088;fillColor=#b0e3e6;align=center;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="VTY20OBMiCR9WmHNU94D-36">
+          <mxGeometry width="105" height="30" as="geometry">
+            <mxRectangle width="105" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTY20OBMiCR9WmHNU94D-38" value="NO IgE" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="VTY20OBMiCR9WmHNU94D-36">
-          <mxGeometry x="60" width="60" height="47" as="geometry">
-            <mxRectangle width="60" height="47" as="alternateBounds" />
+        <mxCell id="VTY20OBMiCR9WmHNU94D-38" value="NO IgE" style="connectable=0;recursiveResize=0;strokeColor=#b46504;fillColor=#fad7ac;align=center;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="VTY20OBMiCR9WmHNU94D-36">
+          <mxGeometry x="105" width="105" height="30" as="geometry">
+            <mxRectangle width="105" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VTY20OBMiCR9WmHNU94D-40" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="VTY20OBMiCR9WmHNU94D-35">
-          <mxGeometry y="47" width="120" height="46" as="geometry" />
+          <mxGeometry y="30" width="210" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="VTY20OBMiCR9WmHNU94D-41" value="Aparece rapido" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="VTY20OBMiCR9WmHNU94D-40">
-          <mxGeometry width="60" height="46" as="geometry">
-            <mxRectangle width="60" height="46" as="alternateBounds" />
+        <mxCell id="VTY20OBMiCR9WmHNU94D-41" value="Aparece rapido" style="connectable=0;recursiveResize=0;strokeColor=#0e8088;fillColor=#b0e3e6;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="VTY20OBMiCR9WmHNU94D-40">
+          <mxGeometry width="105" height="46" as="geometry">
+            <mxRectangle width="105" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTY20OBMiCR9WmHNU94D-42" value="Mas larvada" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="VTY20OBMiCR9WmHNU94D-40">
-          <mxGeometry x="60" width="60" height="46" as="geometry">
-            <mxRectangle width="60" height="46" as="alternateBounds" />
+        <mxCell id="VTY20OBMiCR9WmHNU94D-42" value="Mas larvada" style="connectable=0;recursiveResize=0;strokeColor=#b46504;fillColor=#fad7ac;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="VTY20OBMiCR9WmHNU94D-40">
+          <mxGeometry x="105" width="105" height="46" as="geometry">
+            <mxRectangle width="105" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VTY20OBMiCR9WmHNU94D-44" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="VTY20OBMiCR9WmHNU94D-35">
-          <mxGeometry y="93" width="120" height="47" as="geometry" />
+          <mxGeometry y="76" width="210" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="VTY20OBMiCR9WmHNU94D-45" value="Puede haber urticaria o angioedema" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="VTY20OBMiCR9WmHNU94D-44">
-          <mxGeometry width="60" height="47" as="geometry">
-            <mxRectangle width="60" height="47" as="alternateBounds" />
+        <mxCell id="VTY20OBMiCR9WmHNU94D-45" value="Puede haber urticaria o angioedema" style="connectable=0;recursiveResize=0;strokeColor=#0e8088;fillColor=#b0e3e6;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="VTY20OBMiCR9WmHNU94D-44">
+          <mxGeometry width="105" height="47" as="geometry">
+            <mxRectangle width="105" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTY20OBMiCR9WmHNU94D-46" value="Value 8" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="VTY20OBMiCR9WmHNU94D-44">
-          <mxGeometry x="60" width="60" height="47" as="geometry">
-            <mxRectangle width="60" height="47" as="alternateBounds" />
+        <mxCell id="VTY20OBMiCR9WmHNU94D-46" value="NUNCA urticaria&amp;nbsp;" style="connectable=0;recursiveResize=0;strokeColor=#b46504;fillColor=#fad7ac;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="VTY20OBMiCR9WmHNU94D-44">
+          <mxGeometry x="105" width="105" height="47" as="geometry">
+            <mxRectangle width="105" height="47" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-48" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="VTY20OBMiCR9WmHNU94D-35">
+          <mxGeometry y="123" width="210" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-49" style="connectable=0;recursiveResize=0;strokeColor=#0e8088;fillColor=#b0e3e6;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="VTY20OBMiCR9WmHNU94D-48">
+          <mxGeometry width="105" height="47" as="geometry">
+            <mxRectangle width="105" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-50" value="Heces con sangre y enterocolitis" style="connectable=0;recursiveResize=0;strokeColor=#b46504;fillColor=#fad7ac;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="VTY20OBMiCR9WmHNU94D-48">
+          <mxGeometry x="105" width="105" height="47" as="geometry">
+            <mxRectangle width="105" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-55" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="VTY20OBMiCR9WmHNU94D-35">
+          <mxGeometry y="170" width="210" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-56" value="Tx de angioedema" style="connectable=0;recursiveResize=0;strokeColor=#0e8088;fillColor=#b0e3e6;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="VTY20OBMiCR9WmHNU94D-55">
+          <mxGeometry width="105" height="47" as="geometry">
+            <mxRectangle width="105" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-57" value="Tx de enterocolitis: Expansion con Solucion salina" style="connectable=0;recursiveResize=0;strokeColor=#b46504;fillColor=#fad7ac;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="VTY20OBMiCR9WmHNU94D-55">
+          <mxGeometry x="105" width="105" height="47" as="geometry">
+            <mxRectangle width="105" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTY20OBMiCR9WmHNU94D-51" target="VTY20OBMiCR9WmHNU94D-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-51" value="Test de provocacion" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="620" y="6350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-53" value="Formula hidrolizada" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="750" y="6350" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
