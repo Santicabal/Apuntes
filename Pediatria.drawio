@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T20:36:18.044Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="aQpE4COSp_OVj5b1pWPy" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T22:17:31.178Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Egmu84rvCB3qKlKz8v7R" version="21.6.1" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
     <mxGraphModel dx="1236" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1512,23 +1512,52 @@
         <mxCell id="VTY20OBMiCR9WmHNU94D-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTY20OBMiCR9WmHNU94D-58" target="VTY20OBMiCR9WmHNU94D-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VTY20OBMiCR9WmHNU94D-58" value="Enfermedad Celiaca" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=3;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="120" y="6700" width="120" height="60" as="geometry" />
+        <mxCell id="VTY20OBMiCR9WmHNU94D-58" value="Enfermedad Celiaca" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#6d8764;strokeColor=#3A5431;strokeWidth=3;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="120" y="6733" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VTY20OBMiCR9WmHNU94D-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTY20OBMiCR9WmHNU94D-60" target="VTY20OBMiCR9WmHNU94D-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VTY20OBMiCR9WmHNU94D-60" value="En el MIR. Diarrea cronica + retraso de crecimineto = celiaca" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="284.60999999999996" y="6700" width="120" height="60" as="geometry" />
+        <mxCell id="VTY20OBMiCR9WmHNU94D-60" value="En el MIR. Diarrea cronica + retraso de crecimineto = celiaca" style="whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="284.60999999999996" y="6733" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VTY20OBMiCR9WmHNU94D-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTY20OBMiCR9WmHNU94D-63" target="VTY20OBMiCR9WmHNU94D-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VTY20OBMiCR9WmHNU94D-63" value="Distencion abdominal, aftas orales, sin esmalte dental, anemia, esteatorrea" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="449.9599999999999" y="6700" width="120" height="60" as="geometry" />
+        <mxCell id="VTY20OBMiCR9WmHNU94D-63" value="Distencion abdominal, aftas orales, sin esmalte dental, anemia, esteatorrea" style="whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="449.96" y="6728" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VTY20OBMiCR9WmHNU94D-65" value="Asociado a Sx down, DM1, Deficit IgA y Dermatitis Herpetiforme" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="614.78" y="6700" width="120" height="60" as="geometry" />
+        <mxCell id="VTY20OBMiCR9WmHNU94D-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTY20OBMiCR9WmHNU94D-65" target="VTY20OBMiCR9WmHNU94D-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-65" value="Asociado a Sx down, DM1, Deficit IgA y Dermatitis Herpetiforme" style="whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="614.78" y="6733" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTY20OBMiCR9WmHNU94D-67" target="VTY20OBMiCR9WmHNU94D-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-67" value="Niveles de IgA, anti-transglutaminasa y anti endomisio." style="ellipse;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;rounded=1;verticalAlign=middle;spacing=5;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="624.78" y="6830" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTY20OBMiCR9WmHNU94D-71" target="VTY20OBMiCR9WmHNU94D-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-75" value="Anti TGA &amp;lt;10x&amp;nbsp;&lt;br&gt;o&lt;br&gt;Anti Endomisio -" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VTY20OBMiCR9WmHNU94D-74">
+          <mxGeometry x="0.2664" relative="1" as="geometry">
+            <mxPoint x="28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-71" value="El diagnostico se hace con Anti TGA IgA &amp;gt;10 veces valor + Anti Endomisio positivo" style="whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;rounded=1;spacing=5;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="352.96000000000004" y="6850" width="134.78" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTY20OBMiCR9WmHNU94D-73" target="VTY20OBMiCR9WmHNU94D-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-73" value="Biopsia" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;rounded=1;spacing=5;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="136.27" y="6840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VTY20OBMiCR9WmHNU94D-76" value="Dieta libre de gluten" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;spacing=9;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="136.27" y="6970" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
