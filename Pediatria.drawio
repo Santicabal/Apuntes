@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T18:57:02.747Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="buU_PKe7LMHG6kgKbN1G" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T20:03:07.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jE76-7muHK51d-A4Cn3f" version="21.6.2" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
     <mxGraphModel dx="930" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1621,6 +1621,15 @@
         </mxCell>
         <mxCell id="jEaLeb8qirJbMKOjXkLK-14" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Vitamina D&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Fe: Nace &amp;lt;32 sdg, peso &amp;lt;1.5kg, anema al nacer&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#bac8d3;strokeColor=#23445d;spacing=6;" vertex="1" parent="1">
           <mxGeometry x="280.92999999999995" y="7640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jEaLeb8qirJbMKOjXkLK-16" target="jEaLeb8qirJbMKOjXkLK-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-16" value="Alimentacion complimentaria" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="118.36" y="7780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-17" value="Despues del año: introducir verduras de hoja verde porque antes hay riesgo de metahemoglobinemia, ni &lt;b&gt;miel &lt;/b&gt;por botulismo" style="whiteSpace=wrap;html=1;rounded=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="280.93" y="7760" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
