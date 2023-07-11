@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T17:04:48.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nKZ3caTcybIm6ngBrRAV" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T18:31:00.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Jrxv2aIa-nbTK0ZuCXd5" version="21.6.2" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
     <mxGraphModel dx="930" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1591,6 +1591,27 @@
         </mxCell>
         <mxCell id="jEaLeb8qirJbMKOjXkLK-4" value="Hitos&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;0-3 Meses: Prefieren a humanos&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3-6 Meses: Prefieres a padres&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;6-9 Meses: Llora al separarse&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;gt;9 meses: No llora con desconocidos&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;5 años: Entiende la muerte&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="380" y="7300" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jEaLeb8qirJbMKOjXkLK-6" target="jEaLeb8qirJbMKOjXkLK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-6" value="Leche materna vs formula" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="118.91" y="7500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jEaLeb8qirJbMKOjXkLK-7" target="jEaLeb8qirJbMKOjXkLK-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-7" value="↑ Formula:&lt;br&gt;MI BAKA PACA&lt;br&gt;(Minerales, Vit B y K, proteina y Ca)" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280.89" y="7500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jEaLeb8qirJbMKOjXkLK-9" target="jEaLeb8qirJbMKOjXkLK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-9" value="Leche materna:&lt;br&gt;Mejor en hierro, azucares, lipidos" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="448.0899999999999" y="7500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-11" value="Contraindicaciones de Lactancia:&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Galactosemia&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;VIH materna&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Sifilis o herpes em pezon&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Drogas o farmacos&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Tb en madre sin tx&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Varicela en madre&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="615.57" y="7450" width="159" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
