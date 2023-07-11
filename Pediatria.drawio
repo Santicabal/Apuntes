@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T18:31:00.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Jrxv2aIa-nbTK0ZuCXd5" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T18:57:02.747Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="buU_PKe7LMHG6kgKbN1G" version="21.6.2" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
     <mxGraphModel dx="930" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1612,6 +1612,15 @@
         </mxCell>
         <mxCell id="jEaLeb8qirJbMKOjXkLK-11" value="Contraindicaciones de Lactancia:&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Galactosemia&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;VIH materna&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Sifilis o herpes em pezon&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Drogas o farmacos&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Tb en madre sin tx&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Varicela en madre&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="615.57" y="7450" width="159" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jEaLeb8qirJbMKOjXkLK-13" target="jEaLeb8qirJbMKOjXkLK-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-13" value="Suplementos el primer año" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="119.03" y="7640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-14" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Vitamina D&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Fe: Nace &amp;lt;32 sdg, peso &amp;lt;1.5kg, anema al nacer&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#bac8d3;strokeColor=#23445d;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="280.92999999999995" y="7640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
