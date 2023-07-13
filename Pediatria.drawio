@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T21:33:33.568Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NLGuvIN1KnM4RrB2zTfJ" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-13T21:44:12.744Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="N-eg2o274ipOTfEqc5Q4" version="21.6.2" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
     <mxGraphModel dx="291" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1707,7 +1707,7 @@
           <mxGeometry x="430" y="8580" width="310" height="190" as="geometry" />
         </mxCell>
         <mxCell id="17ALlkGPRrZ63bgxcy9a-22" value="&lt;b&gt;Epiglotitis&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Causa bacteriana con muy mal estado general.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Asegurar via aerea en quirofano y Tx Ceftriaxona&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="484.46" y="9070" width="150.97" height="90" as="geometry" />
+          <mxGeometry x="396.36" y="9420" width="150.97" height="90" as="geometry" />
         </mxCell>
         <mxCell id="17ALlkGPRrZ63bgxcy9a-24" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;Bronquilitis&lt;/b&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Sibilancias en &amp;lt;2 años&lt;/li&gt;&lt;li&gt;Causa No. 1 De ingreso &amp;lt;1 año&lt;/li&gt;&lt;li&gt;Virus Sincitial Respiratorio&lt;/li&gt;&lt;li&gt;Gripa + sibilancias +/- dificultad respiratoria&lt;/li&gt;&lt;li&gt;Rx no necesaria pero hay&lt;/li&gt;&lt;li&gt;Tx: O&lt;sub&gt;2&lt;/sub&gt; y medidas de soporte&lt;/li&gt;&lt;ul&gt;&lt;li&gt;No dar otros tx porque no hacen nada&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Prevencion: Palivizumab.&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&amp;lt;2 años en riesgo (Cardiopatas, Inmunodeprimidos, prematuros)&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#6a00ff;strokeColor=#3700CC;spacing=2;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="430" y="8830" width="310" height="190" as="geometry" />
@@ -1715,8 +1715,20 @@
         <mxCell id="17ALlkGPRrZ63bgxcy9a-26" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;Tos Ferina&lt;/b&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Bordetella Pertusis&lt;/li&gt;&lt;li&gt;Hay prodromo con gripa, luego tos cianosante, en accesos, con gallo&lt;/li&gt;&lt;li&gt;Puede haber reaccion leucemoide&lt;/li&gt;&lt;li&gt;El Dx es clinico pero hay que confirmarlo con PCR&lt;/li&gt;&lt;li&gt;Tx: Azitromicina y a toda la familia&lt;/li&gt;&lt;li&gt;La vacuna ni infeccion protegwn 100%&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#fa6800;strokeColor=#C73500;spacing=2;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="80" y="8830" width="310" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="17ALlkGPRrZ63bgxcy9a-28" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;Fibrosis Quistica&lt;/b&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Enfermedad hereditaria potencialmente mortal mas frecuente&lt;/li&gt;&lt;li&gt;Autosomica Rescesuva 7q Gen CFTR&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Mutacion F508 predice afectacion pancreatica&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Clinca: Tos con felmas hialinas luego purulentas, difi resp. Insf. exocrina de pancreas, ileo meconial, obstruccion intestinal. Sudan cloro, azoospermia&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacing=2;fillColor=#FFFF00;" vertex="1" parent="1">
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="17ALlkGPRrZ63bgxcy9a-28" target="17ALlkGPRrZ63bgxcy9a-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-28" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;Fibrosis Quistica&lt;/b&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Enfermedad hereditaria potencialmente mortal mas frecuente&lt;/li&gt;&lt;li&gt;Autosomica Rescesuva 7q Gen CFTR&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Mutacion F508 predice afectacion pancreatica&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Clinca: Tos con felmas hialinas luego purulentas, difi resp. Insf. exocrina de pancreas, ileo meconial, obstruccion intestinal. Sudan cloro, infertilidad&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacing=2;fillColor=#FFFF00;" vertex="1" parent="1">
           <mxGeometry x="80" y="9100" width="310" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="17ALlkGPRrZ63bgxcy9a-30" target="17ALlkGPRrZ63bgxcy9a-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-30" value="Dx:&lt;br&gt;Cribado neonatal / clinica&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#FFFF00;rounded=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="420.28000000000003" y="9155" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-32" value="Test de sudor &amp;gt;60mmol 2 veces, &lt;br&gt;Prubea genetica con mutacion en ambos 7q (Uno lo hace portador) &lt;br&gt;Potenciales nasales" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#FFFF00;rounded=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="551.78" y="9142.5" width="173" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
