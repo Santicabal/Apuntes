@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T21:58:49.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fbtoVcf0rFMrIrSvSqDR" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-13T22:25:18.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="cQ8VUBqtJmv30Am8Pc7z" version="21.6.2" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
     <mxGraphModel dx="291" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1707,7 +1707,7 @@
           <mxGeometry x="430" y="8580" width="310" height="190" as="geometry" />
         </mxCell>
         <mxCell id="17ALlkGPRrZ63bgxcy9a-22" value="&lt;b&gt;Epiglotitis&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Causa bacteriana con muy mal estado general.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Asegurar via aerea en quirofano y Tx Ceftriaxona&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="396.36" y="9420" width="150.97" height="90" as="geometry" />
+          <mxGeometry x="144.24" y="9360" width="150.97" height="90" as="geometry" />
         </mxCell>
         <mxCell id="17ALlkGPRrZ63bgxcy9a-24" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;Bronquilitis&lt;/b&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Sibilancias en &amp;lt;2 años&lt;/li&gt;&lt;li&gt;Causa No. 1 De ingreso &amp;lt;1 año&lt;/li&gt;&lt;li&gt;Virus Sincitial Respiratorio&lt;/li&gt;&lt;li&gt;Gripa + sibilancias +/- dificultad respiratoria&lt;/li&gt;&lt;li&gt;Rx no necesaria pero hay&lt;/li&gt;&lt;li&gt;Tx: O&lt;sub&gt;2&lt;/sub&gt; y medidas de soporte&lt;/li&gt;&lt;ul&gt;&lt;li&gt;No dar otros tx porque no hacen nada&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Prevencion: Palivizumab.&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&amp;lt;2 años en riesgo (Cardiopatas, Inmunodeprimidos, prematuros)&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#6a00ff;strokeColor=#3700CC;spacing=2;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="430" y="8830" width="310" height="190" as="geometry" />
