@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T22:59:41.876Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="pCqUN6iGG4kHolvhGZ5m" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-13T16:47:14.799Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1ofaLtv_KEsm5e8flhaL" version="21.6.2" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="204" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1583,53 +1583,110 @@
         <mxCell id="VTY20OBMiCR9WmHNU94D-84" value="Denticion&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Inicia 6 meses con incisivos inf. permanentes a 6 años&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;spacing=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="721.54" y="7160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jEaLeb8qirJbMKOjXkLK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jEaLeb8qirJbMKOjXkLK-1" target="jEaLeb8qirJbMKOjXkLK-4">
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jEaLeb8qirJbMKOjXkLK-1" target="jEaLeb8qirJbMKOjXkLK-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jEaLeb8qirJbMKOjXkLK-1" value="Hitos&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2 Meses: Sonrisa social&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3 meses: Sosten cefalico&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;6 Meses: Se sienta&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9 meses: Se para&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;12 Meses: Primera palabra real&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;18 Meses: Corre y apila objetos&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-1" value="Hitos&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2 Meses: Sonrisa social&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3 meses: Sosten cefalico&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;6 Meses: Se sienta&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9 meses: Se para&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;12 Meses: Primera palabra real&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;18 Meses: Corre y apila objetos&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="121.54" y="7300" width="178.46" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="jEaLeb8qirJbMKOjXkLK-4" value="Hitos&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;0-3 Meses: Prefieren a humanos&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3-6 Meses: Prefieres a padres&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;6-9 Meses: Llora al separarse&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;gt;9 meses: No llora con desconocidos&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;5 años: Entiende la muerte&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-4" value="Hitos&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;0-3 Meses: Prefieren a humanos&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3-6 Meses: Prefieres a padres&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;6-9 Meses: Llora al separarse&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;gt;9 meses: No llora con desconocidos&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;5 años: Entiende la muerte&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="380" y="7300" width="210" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="jEaLeb8qirJbMKOjXkLK-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jEaLeb8qirJbMKOjXkLK-6" target="jEaLeb8qirJbMKOjXkLK-7">
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jEaLeb8qirJbMKOjXkLK-6" target="jEaLeb8qirJbMKOjXkLK-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jEaLeb8qirJbMKOjXkLK-6" value="Leche materna vs formula" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-6" value="Leche materna vs formula" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="118.91" y="7500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jEaLeb8qirJbMKOjXkLK-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jEaLeb8qirJbMKOjXkLK-7" target="jEaLeb8qirJbMKOjXkLK-9">
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jEaLeb8qirJbMKOjXkLK-7" target="jEaLeb8qirJbMKOjXkLK-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jEaLeb8qirJbMKOjXkLK-7" value="↑ Formula:&lt;br&gt;MI BAKA PACA&lt;br&gt;(Minerales, Vit B y K, proteina y Ca)" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-7" value="↑ Formula:&lt;br&gt;MI BAKA PACA&lt;br&gt;(Minerales, Vit B y K, proteina y Ca)" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="280.89" y="7500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jEaLeb8qirJbMKOjXkLK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jEaLeb8qirJbMKOjXkLK-9" target="jEaLeb8qirJbMKOjXkLK-11">
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jEaLeb8qirJbMKOjXkLK-9" target="jEaLeb8qirJbMKOjXkLK-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jEaLeb8qirJbMKOjXkLK-9" value="Leche materna:&lt;br&gt;Mejor en hierro, azucares, lipidos" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-9" value="Leche materna:&lt;br&gt;Mejor en hierro, azucares, lipidos" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="448.0899999999999" y="7500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jEaLeb8qirJbMKOjXkLK-11" value="Contraindicaciones de Lactancia:&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Galactosemia&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;VIH materna&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Sifilis o herpes em pezon&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Drogas o farmacos&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Tb en madre sin tx&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Varicela en madre&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-11" value="Contraindicaciones de Lactancia:&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Galactosemia&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;VIH materna&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Sifilis o herpes em pezon&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Drogas o farmacos&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Tb en madre sin tx&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Varicela en madre&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="615.57" y="7450" width="159" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="jEaLeb8qirJbMKOjXkLK-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jEaLeb8qirJbMKOjXkLK-13" target="jEaLeb8qirJbMKOjXkLK-14">
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jEaLeb8qirJbMKOjXkLK-13" target="jEaLeb8qirJbMKOjXkLK-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jEaLeb8qirJbMKOjXkLK-13" value="Suplementos el primer año" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-13" value="Suplementos el primer año" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="119.03" y="7640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jEaLeb8qirJbMKOjXkLK-14" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Vitamina D&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Fe: Nace &amp;lt;32 sdg, peso &amp;lt;1.5kg, anema al nacer&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#bac8d3;strokeColor=#23445d;spacing=6;" vertex="1" parent="1">
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-14" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Vitamina D&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Fe: Nace &amp;lt;32 sdg, peso &amp;lt;1.5kg, anema al nacer&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#bac8d3;strokeColor=#23445d;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="280.92999999999995" y="7640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jEaLeb8qirJbMKOjXkLK-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jEaLeb8qirJbMKOjXkLK-16" target="jEaLeb8qirJbMKOjXkLK-17">
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jEaLeb8qirJbMKOjXkLK-16" target="jEaLeb8qirJbMKOjXkLK-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jEaLeb8qirJbMKOjXkLK-16" value="Alimentacion complimentaria" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-16" value="Alimentacion complimentaria" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="118.36" y="7780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jEaLeb8qirJbMKOjXkLK-17" value="Despues del año: introducir verduras de hoja verde porque antes hay riesgo de metahemoglobinemia, ni &lt;b&gt;miel &lt;/b&gt;por botulismo" style="whiteSpace=wrap;html=1;rounded=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="jEaLeb8qirJbMKOjXkLK-17" value="Despues del año: introducir verduras de hoja verde porque antes hay riesgo de metahemoglobinemia, ni &lt;b&gt;miel &lt;/b&gt;por botulismo" style="whiteSpace=wrap;html=1;rounded=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="280.93" y="7760" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-1" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="7920" width="390" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-1">
+          <mxGeometry width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-3" value="Isotonica" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-2">
+          <mxGeometry width="130" height="30" as="geometry">
+            <mxRectangle width="130" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-4" value="Hipotonica" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-2">
+          <mxGeometry x="130" width="130" height="30" as="geometry">
+            <mxRectangle width="130" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-5" value="Hipertonica" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-2">
+          <mxGeometry x="260" width="130" height="30" as="geometry">
+            <mxRectangle width="130" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-6" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-1">
+          <mxGeometry y="30" width="390" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-7" value="Osm 270+300&lt;br&gt;Na 135-145" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-6">
+          <mxGeometry width="130" height="46" as="geometry">
+            <mxRectangle width="130" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-8" value="Osm &amp;lt;270&lt;br&gt;Na &amp;lt;130" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-6">
+          <mxGeometry x="130" width="130" height="46" as="geometry">
+            <mxRectangle width="130" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-9" value="Osm &amp;gt;300&lt;br&gt;Na &amp;gt;150" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-6">
+          <mxGeometry x="260" width="130" height="46" as="geometry">
+            <mxRectangle width="130" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-10" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-1">
+          <mxGeometry y="76" width="390" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-11" value="Signo de pliegue&lt;br&gt;Mucosas secas&lt;br&gt;Fontanela deprimida" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-10">
+          <mxGeometry width="130" height="47" as="geometry">
+            <mxRectangle width="130" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-12" value="Lo mismo pero mas marcado, hipotension, shock, convulsion" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-10">
+          <mxGeometry x="130" width="130" height="47" as="geometry">
+            <mxRectangle width="130" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-13" value="Ademas tienen fibre, irritabilidad, hipertonia" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-10">
+          <mxGeometry x="260" width="130" height="47" as="geometry">
+            <mxRectangle width="130" height="47" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
