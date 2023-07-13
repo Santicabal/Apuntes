@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T19:56:59.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8ThWDx7i0IbYzRUbPvu3" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-13T20:02:08.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="n5tB61HNXUf7Ub_cJml1" version="21.6.2" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
-    <mxGraphModel dx="204" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="291" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1704,16 +1704,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="17ALlkGPRrZ63bgxcy9a-19" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;Malacias&lt;/b&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Causa de estridor congenito&lt;/li&gt;&lt;li&gt;Laringomalacia&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Estridor Inspiratorio&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Trawueomalacia&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Estridor inspiratorio y espiratorio&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Dx Laringoscopia&lt;/li&gt;&lt;li&gt;Tx no necesario a menos que haya dif respiratoria severa&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Cx&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="80" y="8580" width="270" height="170" as="geometry" />
+          <mxGeometry x="80" y="8580" width="310" height="190" as="geometry" />
         </mxCell>
         <mxCell id="17ALlkGPRrZ63bgxcy9a-20" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;Laringiits&lt;/b&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Puede ser virica o espasmodica&lt;/li&gt;&lt;li&gt;Virica&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Parainflueza, VSR&lt;/li&gt;&lt;li&gt;Fiebre&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Espasmodica&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Reaccion ante algun estimulo (Estres, ERGE, alergia)&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Tratamiento con Dexametasona V.O&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Estridor en reposo o Dif Severa dar adrenalina nebulizada&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#ffcd28;strokeColor=#d79b00;spacing=2;gradientColor=#ffa500;" vertex="1" parent="1">
-          <mxGeometry x="430" y="8580" width="270" height="170" as="geometry" />
+          <mxGeometry x="430" y="8580" width="310" height="190" as="geometry" />
         </mxCell>
         <mxCell id="17ALlkGPRrZ63bgxcy9a-22" value="&lt;b&gt;Epiglotitis&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Causa bacteriana con muy mal estado general.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Asegurar via aerea en quirofano y Tx Ceftriaxona&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="119.03" y="8820" width="150.97" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="17ALlkGPRrZ63bgxcy9a-24" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;Bronquilitis&lt;/b&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Sibilancias en &amp;lt;2 años&lt;/li&gt;&lt;li&gt;Causa No. 1 De ingreso &amp;lt;1 año&lt;/li&gt;&lt;li&gt;Virus Sincitial Respiratorio&lt;/li&gt;&lt;li&gt;Gripa + sibilancias +/- dificultad respiratoria&lt;/li&gt;&lt;li&gt;Rx no necesaria pero hay&lt;/li&gt;&lt;li&gt;Tx: O2 y medidas de soporte&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#6a00ff;strokeColor=#3700CC;spacing=2;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="430" y="8830" width="270" height="170" as="geometry" />
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-24" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;Bronquilitis&lt;/b&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Sibilancias en &amp;lt;2 años&lt;/li&gt;&lt;li&gt;Causa No. 1 De ingreso &amp;lt;1 año&lt;/li&gt;&lt;li&gt;Virus Sincitial Respiratorio&lt;/li&gt;&lt;li&gt;Gripa + sibilancias +/- dificultad respiratoria&lt;/li&gt;&lt;li&gt;Rx no necesaria pero hay&lt;/li&gt;&lt;li&gt;Tx: O&lt;sub&gt;2&lt;/sub&gt; y medidas de soporte&lt;/li&gt;&lt;ul&gt;&lt;li&gt;No dar otros tx porque no hacen nada&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Prevencion: Palivizumab.&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&amp;lt;2 años en riesgo (Cardiopatas, Inmunodeprimidos, prematuros)&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#6a00ff;strokeColor=#3700CC;spacing=2;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="430" y="8830" width="310" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
