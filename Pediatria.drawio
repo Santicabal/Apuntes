@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T16:47:14.799Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1ofaLtv_KEsm5e8flhaL" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-13T16:58:02.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ABUwoWm0WmSHJKvgQ78R" version="21.6.2" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
     <mxGraphModel dx="204" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1637,17 +1637,17 @@
         <mxCell id="17ALlkGPRrZ63bgxcy9a-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-1">
           <mxGeometry width="390" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="17ALlkGPRrZ63bgxcy9a-3" value="Isotonica" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-2">
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-3" value="Isotonica" style="connectable=0;recursiveResize=0;strokeColor=#0e8088;fillColor=#b0e3e6;align=center;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-2">
           <mxGeometry width="130" height="30" as="geometry">
             <mxRectangle width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="17ALlkGPRrZ63bgxcy9a-4" value="Hipotonica" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-2">
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-4" value="Hipotonica" style="connectable=0;recursiveResize=0;strokeColor=#10739e;fillColor=#b1ddf0;align=center;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-2">
           <mxGeometry x="130" width="130" height="30" as="geometry">
             <mxRectangle width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="17ALlkGPRrZ63bgxcy9a-5" value="Hipertonica" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-2">
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-5" value="Hipertonica" style="connectable=0;recursiveResize=0;strokeColor=#23445d;fillColor=#bac8d3;align=center;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-2">
           <mxGeometry x="260" width="130" height="30" as="geometry">
             <mxRectangle width="130" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1655,17 +1655,17 @@
         <mxCell id="17ALlkGPRrZ63bgxcy9a-6" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-1">
           <mxGeometry y="30" width="390" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="17ALlkGPRrZ63bgxcy9a-7" value="Osm 270+300&lt;br&gt;Na 135-145" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-6">
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-7" value="Osm 270+300&lt;br&gt;Na 135-145" style="connectable=0;recursiveResize=0;strokeColor=#0e8088;fillColor=#b0e3e6;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-6">
           <mxGeometry width="130" height="46" as="geometry">
             <mxRectangle width="130" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="17ALlkGPRrZ63bgxcy9a-8" value="Osm &amp;lt;270&lt;br&gt;Na &amp;lt;130" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-6">
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-8" value="Osm &amp;lt;270&lt;br&gt;Na &amp;lt;130" style="connectable=0;recursiveResize=0;strokeColor=#10739e;fillColor=#b1ddf0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-6">
           <mxGeometry x="130" width="130" height="46" as="geometry">
             <mxRectangle width="130" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="17ALlkGPRrZ63bgxcy9a-9" value="Osm &amp;gt;300&lt;br&gt;Na &amp;gt;150" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-6">
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-9" value="Osm &amp;gt;300&lt;br&gt;Na &amp;gt;150" style="connectable=0;recursiveResize=0;strokeColor=#23445d;fillColor=#bac8d3;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-6">
           <mxGeometry x="260" width="130" height="46" as="geometry">
             <mxRectangle width="130" height="46" as="alternateBounds" />
           </mxGeometry>
@@ -1673,17 +1673,17 @@
         <mxCell id="17ALlkGPRrZ63bgxcy9a-10" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-1">
           <mxGeometry y="76" width="390" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="17ALlkGPRrZ63bgxcy9a-11" value="Signo de pliegue&lt;br&gt;Mucosas secas&lt;br&gt;Fontanela deprimida" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-10">
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-11" value="Signo de pliegue&lt;br&gt;Mucosas secas&lt;br&gt;Fontanela deprimida" style="connectable=0;recursiveResize=0;strokeColor=#0e8088;fillColor=#b0e3e6;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-10">
           <mxGeometry width="130" height="47" as="geometry">
             <mxRectangle width="130" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="17ALlkGPRrZ63bgxcy9a-12" value="Lo mismo pero mas marcado, hipotension, shock, convulsion" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-10">
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-12" value="Lo mismo pero mas marcado, hipotension, shock, convulsion" style="connectable=0;recursiveResize=0;strokeColor=#10739e;fillColor=#b1ddf0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-10">
           <mxGeometry x="130" width="130" height="47" as="geometry">
             <mxRectangle width="130" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="17ALlkGPRrZ63bgxcy9a-13" value="Ademas tienen fibre, irritabilidad, hipertonia" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-10">
+        <mxCell id="17ALlkGPRrZ63bgxcy9a-13" value="Ademas tienen fibre, irritabilidad, hipertonia" style="connectable=0;recursiveResize=0;strokeColor=#23445d;fillColor=#bac8d3;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="17ALlkGPRrZ63bgxcy9a-10">
           <mxGeometry x="260" width="130" height="47" as="geometry">
             <mxRectangle width="130" height="47" as="alternateBounds" />
           </mxGeometry>
