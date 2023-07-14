@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T17:16:46.016Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="boBwpV6VjPeSGAWswFOJ" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-14T17:37:46.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="WwWufPKHwJWIbAD_wN1F" version="21.6.2" type="github">
   <diagram name="Página-1" id="2CrfE8WvnRpnQF9L1QOg">
     <mxGraphModel dx="930" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -110,7 +110,7 @@
             <mxRectangle width="115" height="53" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TPgOUrvoIxnq0UZ94LA--20" value="Susceptibles a infecciones catalasa + &lt;br&gt;(Aureus, nocardia) en piel y mucosas" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=13;rowspan=3;colspan=1;" parent="TPgOUrvoIxnq0UZ94LA--18" vertex="1">
+        <mxCell id="TPgOUrvoIxnq0UZ94LA--20" value="Susceptibles a infecciones catalasa + &lt;br&gt;(Aureus, nocardia) en piel y mucosas" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=13;rowspan=3;colspan=1;align=center;" parent="TPgOUrvoIxnq0UZ94LA--18" vertex="1">
           <mxGeometry x="115" width="115" height="160" as="geometry">
             <mxRectangle width="115" height="53" as="alternateBounds" />
           </mxGeometry>
