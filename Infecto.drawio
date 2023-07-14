@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T17:42:59.757Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="g_qE0nkBVad_0rIoRWtM" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-14T17:45:40.769Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="j7EIvuZB4quQ3XP8JMz_" version="21.6.2" type="github">
   <diagram name="Página-1" id="2CrfE8WvnRpnQF9L1QOg">
     <mxGraphModel dx="930" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -220,7 +220,7 @@
         </mxCell>
         <mxCell id="DG7osGkd72HydQvR9eQq-18" value="Continua&lt;br&gt;Fiebre" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DG7osGkd72HydQvR9eQq-17">
           <mxGeometry x="-0.275" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DG7osGkd72HydQvR9eQq-12" value="Abx contra Pseudomona" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -230,7 +230,7 @@
           <mxGeometry x="550" y="550" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DG7osGkd72HydQvR9eQq-16" value="Amfotericina B" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="710" width="80" height="80" as="geometry" />
+          <mxGeometry x="390" y="698" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
