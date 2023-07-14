@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T17:37:46.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="WwWufPKHwJWIbAD_wN1F" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-14T17:42:59.757Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="g_qE0nkBVad_0rIoRWtM" version="21.6.2" type="github">
   <diagram name="Página-1" id="2CrfE8WvnRpnQF9L1QOg">
     <mxGraphModel dx="930" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -194,6 +194,43 @@
         </mxCell>
         <mxCell id="DG7osGkd72HydQvR9eQq-4" value="&lt;b&gt;Pseudomona&lt;/b&gt;: Artritis proximales&lt;br&gt;&lt;b&gt;Candida&lt;/b&gt;: Foliculitis + costocondritis + corioretinitis." style="rounded=1;whiteSpace=wrap;html=1;align=left;arcSize=7;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DG7osGkd72HydQvR9eQq-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DG7osGkd72HydQvR9eQq-5" target="DG7osGkd72HydQvR9eQq-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DG7osGkd72HydQvR9eQq-5" value="Fiebre y neutropenia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DG7osGkd72HydQvR9eQq-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DG7osGkd72HydQvR9eQq-10" target="DG7osGkd72HydQvR9eQq-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DG7osGkd72HydQvR9eQq-10" value="Hemocultivos" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DG7osGkd72HydQvR9eQq-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DG7osGkd72HydQvR9eQq-12" target="DG7osGkd72HydQvR9eQq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DG7osGkd72HydQvR9eQq-24" value="Con &lt;br&gt;cateter" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DG7osGkd72HydQvR9eQq-15">
+          <mxGeometry x="-0.3" y="-1" relative="1" as="geometry">
+            <mxPoint x="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DG7osGkd72HydQvR9eQq-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DG7osGkd72HydQvR9eQq-12" target="DG7osGkd72HydQvR9eQq-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DG7osGkd72HydQvR9eQq-18" value="Continua&lt;br&gt;Fiebre" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DG7osGkd72HydQvR9eQq-17">
+          <mxGeometry x="-0.275" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DG7osGkd72HydQvR9eQq-12" value="Abx contra Pseudomona" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DG7osGkd72HydQvR9eQq-14" value="Cubrir &lt;br&gt;Gram +" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="550" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DG7osGkd72HydQvR9eQq-16" value="Amfotericina B" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="710" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
