@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T17:45:40.769Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="j7EIvuZB4quQ3XP8JMz_" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-14T17:49:30.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="AEcXogswpsliT_Y_eW3z" version="21.6.2" type="github">
   <diagram name="Página-1" id="2CrfE8WvnRpnQF9L1QOg">
     <mxGraphModel dx="930" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -226,10 +226,10 @@
         <mxCell id="DG7osGkd72HydQvR9eQq-12" value="Abx contra Pseudomona" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="550" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DG7osGkd72HydQvR9eQq-14" value="Cubrir &lt;br&gt;Gram +" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacing=4;" vertex="1" parent="1">
+        <mxCell id="DG7osGkd72HydQvR9eQq-14" value="&lt;div style=&quot;&quot;&gt;&lt;/div&gt;Cbrir&lt;br&gt;Gram +" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacing=4;align=center;" vertex="1" parent="1">
           <mxGeometry x="550" y="550" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DG7osGkd72HydQvR9eQq-16" value="Amfotericina B" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="DG7osGkd72HydQvR9eQq-16" value="Voriconazol" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="698" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
