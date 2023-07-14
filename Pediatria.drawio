@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T10:13:28.786Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="XrXP87X7Efoou6gAMsdm" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-14T10:14:56.854Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="1x7hLVE2gMgcumSoFfFX" version="21.5.2" type="github">
   <diagram name="Página-1" id="TcPMoGSx8ZJz2rr5X1lu">
     <mxGraphModel dx="1158" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1729,6 +1729,9 @@
         </mxCell>
         <mxCell id="17ALlkGPRrZ63bgxcy9a-32" value="&lt;b&gt;Test de sudor&lt;/b&gt; &amp;gt;60mmol 2 veces, &lt;br&gt;&lt;b&gt;Prubea genetica&lt;/b&gt; con mutacion en ambos 7q (Uno lo hace portador) &lt;br&gt;&lt;b&gt;Potenciales nasales&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#FFFF00;rounded=1;spacing=2;" parent="1" vertex="1">
           <mxGeometry x="560" y="9142.5" width="173" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="-2nhww_qn_7b4guzyEsx-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="336.59" y="9450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
