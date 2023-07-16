@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-15T13:03:04.753Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="g8BDuYkdQCkzcStl5-is" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-16T12:08:20.230Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="lldfM4NUdG_MqIE-uTGi" version="21.5.2" type="github">
   <diagram name="Página-1" id="2CrfE8WvnRpnQF9L1QOg">
     <mxGraphModel dx="984" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -231,6 +231,33 @@
         </mxCell>
         <mxCell id="DG7osGkd72HydQvR9eQq-16" value="Anfotericina B&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacingTop=4;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="710" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oTwkvesEyQl_i262vGw3-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oTwkvesEyQl_i262vGw3-1" target="oTwkvesEyQl_i262vGw3-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oTwkvesEyQl_i262vGw3-1" value="Tx de SARM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="700" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="oTwkvesEyQl_i262vGw3-3" value="Linezolid&lt;br&gt;Daptomicina: 1ª en sepsis&lt;br&gt;Vancomicina&lt;br&gt;Ceftarolina" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="250" y="700" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="oTwkvesEyQl_i262vGw3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oTwkvesEyQl_i262vGw3-6" target="oTwkvesEyQl_i262vGw3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oTwkvesEyQl_i262vGw3-6" value="Tx de BLEE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="470" y="700" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="oTwkvesEyQl_i262vGw3-7" value="&lt;div&gt;Colistina&lt;/div&gt;&lt;div&gt;Ceftazidima - Avibactam:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-Klrbsiella OXA-48&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ceftalozano - Tazobactam:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-Pseudomona multiR&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="640" y="700" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="oTwkvesEyQl_i262vGw3-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oTwkvesEyQl_i262vGw3-9" target="oTwkvesEyQl_i262vGw3-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oTwkvesEyQl_i262vGw3-9" value="Tx de Pseudomonas" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="820" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="oTwkvesEyQl_i262vGw3-10" value="&lt;div&gt;Carbapenemicos (Erta NO)&lt;/div&gt;&lt;div&gt;Piperacilina- Tazobactam&lt;/div&gt;Cefalospiras &amp;gt; 4 gen&lt;br&gt;&lt;div&gt;Aztreonam, Colistina&lt;br&gt;&lt;/div&gt;&lt;div&gt;Quinolonas, Amikacina&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="250" y="820" width="150" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
