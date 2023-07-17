@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T18:27:22.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="UolIQQdIjME1mSB5Y-x7" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-17T18:29:27.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="yjt6PgsLbKunyuQ7v8iK" version="21.6.2" type="github">
   <diagram name="Página-1" id="2CrfE8WvnRpnQF9L1QOg">
     <mxGraphModel dx="821" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -383,11 +383,17 @@
         <mxCell id="sHQAMOlgaIM1nV1TYifh-29" value="Endocarditis izquierda" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1940" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sHQAMOlgaIM1nV1TYifh-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sHQAMOlgaIM1nV1TYifh-30" target="sHQAMOlgaIM1nV1TYifh-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sHQAMOlgaIM1nV1TYifh-30" value="Fiebre sin foco, Ins Cardiaca, embolismo septico SNC, bazo. Nodulos Osler, Manchas de Janeway ymanchas de Roth" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="290" y="1940" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sHQAMOlgaIM1nV1TYifh-33" value="Los hemocultivos se pueden tomar siempre no se tiene que esperar al pico febril. la bacteremia es continua y son positivos &amp;gt;90%" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="680" y="1930" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="sHQAMOlgaIM1nV1TYifh-34" value="Hemocultivo y USG transtoracico" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=1;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1930" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
