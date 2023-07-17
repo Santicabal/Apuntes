@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T19:12:49.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DQ2NaYnw6JJWfT6BIiZM" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-17T21:26:51.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Mzw-lr9q1jBm5mAW8u7J" version="21.6.2" type="github">
   <diagram name="Página-1" id="2CrfE8WvnRpnQF9L1QOg">
     <mxGraphModel dx="821" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -357,7 +357,7 @@
           <mxGeometry x="80" y="1760" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sHQAMOlgaIM1nV1TYifh-23" value="Causas&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1 Aureus&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2 Estrep Viridans&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3 HACEK&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="78" y="1835" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="1835" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sHQAMOlgaIM1nV1TYifh-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sHQAMOlgaIM1nV1TYifh-28" target="sHQAMOlgaIM1nV1TYifh-25">
           <mxGeometry relative="1" as="geometry" />
@@ -381,7 +381,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sHQAMOlgaIM1nV1TYifh-29" value="Endocarditis izquierda" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="78" y="1935" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="1935" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sHQAMOlgaIM1nV1TYifh-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sHQAMOlgaIM1nV1TYifh-30" target="sHQAMOlgaIM1nV1TYifh-34">
           <mxGeometry relative="1" as="geometry" />
@@ -399,13 +399,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sHQAMOlgaIM1nV1TYifh-36" value="Empirico Dicloxa + Ceftria&lt;br&gt;Aures: Dicloxa&lt;br&gt;HACEK: Ceftria&lt;br&gt;Protesis: Dicloxa + Genta" style="whiteSpace=wrap;html=1;rounded=1;spacing=2;verticalAlign=middle;align=left;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="675" y="1925" width="150" height="70" as="geometry" />
+          <mxGeometry x="690" y="1925" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sHQAMOlgaIM1nV1TYifh-38" value="Cx" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacing=4;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="595" y="2050" width="80" height="80" as="geometry" />
+          <mxGeometry x="610" y="2050" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sHQAMOlgaIM1nV1TYifh-40" value="Indicaciones de Cx:&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Insuf Cardiaca por rotura de valvula&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Absceso &lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Mala respuesta al Tx&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Embolismos recurrentes&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Protesis con Aureus&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Etiologias que no sean las comunes&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacingLeft=-21;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="418" y="2020" width="160" height="160" as="geometry" />
+          <mxGeometry x="435" y="2020" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="sHQAMOlgaIM1nV1TYifh-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sHQAMOlgaIM1nV1TYifh-34" target="sHQAMOlgaIM1nV1TYifh-42">
           <mxGeometry relative="1" as="geometry">
@@ -414,7 +414,48 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sHQAMOlgaIM1nV1TYifh-42" value="ABx" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="595" y="1925" width="80" height="80" as="geometry" />
+          <mxGeometry x="610" y="1925" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sHQAMOlgaIM1nV1TYifh-43" value="Otros" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2210" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sHQAMOlgaIM1nV1TYifh-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sHQAMOlgaIM1nV1TYifh-45" target="sHQAMOlgaIM1nV1TYifh-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sHQAMOlgaIM1nV1TYifh-45" value="Enf. Arañazo de gato" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="2280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sHQAMOlgaIM1nV1TYifh-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sHQAMOlgaIM1nV1TYifh-46" target="sHQAMOlgaIM1nV1TYifh-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sHQAMOlgaIM1nV1TYifh-46" value="Bartonella Henselae" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="2280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sHQAMOlgaIM1nV1TYifh-48" value="Adenopatia en alguien con gato" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="2280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sHQAMOlgaIM1nV1TYifh-50" value="Meningitis" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sHQAMOlgaIM1nV1TYifh-52" value="Cocos G+ → Neumococo&lt;br&gt;Cocos G- →Meningococo&lt;br&gt;Bacilos G+ → Listeria&lt;br&gt;Bacilos G- → No sabes" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="2480" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sHQAMOlgaIM1nV1TYifh-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="sHQAMOlgaIM1nV1TYifh-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="458" y="2510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHQAMOlgaIM1nV1TYifh-53" value="Indicaciones de TAC previa a Puncion&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Edema de papila&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;↓ Estado consciencia&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Focalidad&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Otitis o sinusitis&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Inmunocomprometido&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="378" y="2560" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sHQAMOlgaIM1nV1TYifh-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sHQAMOlgaIM1nV1TYifh-54" target="sHQAMOlgaIM1nV1TYifh-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sHQAMOlgaIM1nV1TYifh-54" value="Fiebre y rigidez de nuca" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sHQAMOlgaIM1nV1TYifh-55" value="Puncion Lumbar" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="2470" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
