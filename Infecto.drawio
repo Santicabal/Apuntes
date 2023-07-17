@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T16:49:24.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Hl-W_RkvZOdJdhWNL3uu" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-17T16:50:07.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="JheClj8hfBx2mdISfa9n" version="21.6.2" type="github">
   <diagram name="Página-1" id="2CrfE8WvnRpnQF9L1QOg">
     <mxGraphModel dx="821" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -352,6 +352,9 @@
         </mxCell>
         <mxCell id="sHQAMOlgaIM1nV1TYifh-16" value="Levoflox + Ceftriaxona" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="450" y="1600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sHQAMOlgaIM1nV1TYifh-21" value="Endocarditis" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1760" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
