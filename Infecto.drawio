@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T13:22:39.488Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="bQVy0xtAGJx5AjUwA-gj" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-17T13:49:45.348Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="QRzY1nW7OzC9pI9aWBTJ" version="21.5.2" type="github">
   <diagram name="Página-1" id="2CrfE8WvnRpnQF9L1QOg">
     <mxGraphModel dx="984" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -274,7 +274,7 @@
         <mxCell id="oTwkvesEyQl_i262vGw3-15" value="&lt;div&gt;Diafragma&lt;/div&gt;&lt;div&gt;para abajo&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="718" y="850" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oTwkvesEyQl_i262vGw3-17" value="Neumonias" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+        <mxCell id="oTwkvesEyQl_i262vGw3-17" value="Neumonias" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="80" y="1000" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oTwkvesEyQl_i262vGw3-18" value="Neumococo el mas comun, mycoplsma pneumonieae en niños" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -289,14 +289,20 @@
         <mxCell id="oTwkvesEyQl_i262vGw3-21" value="&lt;div&gt;Levo &lt;br&gt;&lt;/div&gt;&lt;div&gt;+/- Rifa&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="1070" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oTwkvesEyQl_i262vGw3-26" value="&lt;div align=&quot;center&quot;&gt;Lobar&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Solo afecta alveolo y no bronquiolos&lt;/li&gt;&lt;li&gt;Se ve broncograma aereo&lt;/li&gt;&lt;li&gt;Clinica tipica&lt;/li&gt;&lt;li&gt;Secundario a asspiracion del germen&lt;br&gt;&lt;/li&gt;&lt;li&gt;Neumococo y Klebsiella&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;align=left;spacingLeft=-25;" vertex="1" parent="1">
+        <mxCell id="oTwkvesEyQl_i262vGw3-26" value="&lt;div align=&quot;center&quot;&gt;Lobar&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Solo afecta alveolo y no bronquiolos&lt;/li&gt;&lt;li&gt;Se ve broncograma aereo&lt;/li&gt;&lt;li&gt;Clinica tipica&lt;/li&gt;&lt;li&gt;Secundario a aspiracion del germen&lt;br&gt;&lt;/li&gt;&lt;li&gt;Neumococo y Klebsiella&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;align=left;spacingLeft=-25;" vertex="1" parent="1">
           <mxGeometry x="120" y="1200" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="oTwkvesEyQl_i262vGw3-27" value="&lt;div align=&quot;center&quot;&gt;Bronconeumonia&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Afecta bronquiolos&lt;/li&gt;&lt;li&gt;Rx con infiltrados en ambos pulmones&lt;/li&gt;&lt;li&gt;Clinica tipica&lt;/li&gt;&lt;li&gt;Secundaria a aspiracion o diseminacion hematogena&lt;br&gt;&lt;/li&gt;&lt;li&gt;Aureus y pseudomona&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;align=left;spacingLeft=-25;" vertex="1" parent="1">
           <mxGeometry x="280" y="1200" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="oTwkvesEyQl_i262vGw3-28" value="&lt;div align=&quot;center&quot;&gt;Intersticial&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Afecta bronquiolos&lt;/li&gt;&lt;li&gt;Rx con infiltrados en ambos pulmones&lt;/li&gt;&lt;li&gt;Clinica tipica&lt;/li&gt;&lt;li&gt;Secundaria a aspiracion o diseminacion hematogena&lt;br&gt;&lt;/li&gt;&lt;li&gt;Aureus y pseudomona&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;align=left;spacingLeft=-25;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1200" width="160" height="160" as="geometry" />
+        <mxCell id="oTwkvesEyQl_i262vGw3-28" value="&lt;div align=&quot;center&quot;&gt;Intersticial&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Afecta a todo intersticio&lt;/li&gt;&lt;li&gt;Rx vidrio deslustrado&lt;/li&gt;&lt;li&gt;Clinica atipica con sintomas extrapulmonares&lt;/li&gt;&lt;li&gt;Secundario a aspiracion&lt;/li&gt;&lt;li&gt;Mycoplasma, chlamydophila, virus&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;align=left;spacingLeft=-25;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1360" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oTwkvesEyQl_i262vGw3-29" value="&lt;div align=&quot;center&quot;&gt;Necrotizante&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Absceso pulmonar&lt;br&gt;&lt;/li&gt;&lt;li&gt;Clinica lenta&lt;/li&gt;&lt;li&gt;Secundaria a brocoaspiracion masiva&lt;br&gt;&lt;/li&gt;&lt;li&gt;Anaerobios orales, neumococo rara vez&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;align=left;spacingLeft=-25;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1360" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oTwkvesEyQl_i262vGw3-30" value="&lt;div&gt;Neumonia + Esplenomegalia = chamidophila&lt;/div&gt;&lt;div&gt;Neumonia + hepatits = coxiella&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1080" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
