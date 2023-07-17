@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T16:05:07.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="rLVoNA_-T92ZHBOaNGwT" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-17T16:25:56.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-Sx65pmbGysOrY16-Hqz" version="21.6.2" type="github">
   <diagram name="Página-1" id="2CrfE8WvnRpnQF9L1QOg">
     <mxGraphModel dx="821" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -304,8 +304,8 @@
         <mxCell id="sHQAMOlgaIM1nV1TYifh-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oTwkvesEyQl_i262vGw3-30" target="sHQAMOlgaIM1nV1TYifh-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oTwkvesEyQl_i262vGw3-30" value="&lt;div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Neumonia +&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Esplenomegalia = chamydia Psittaci&lt;/li&gt;&lt;li&gt;Hepatits = coxiella&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=-26;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="570" y="1070" width="150" height="80" as="geometry" />
+        <mxCell id="oTwkvesEyQl_i262vGw3-30" value="&lt;div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Neumonia +&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Esplenomegalia = chamydia Psittaci (Psitacciosis)&lt;/li&gt;&lt;li&gt;Hepatits = coxiella (Fiebre Q)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=-26;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="540" y="1070" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sHQAMOlgaIM1nV1TYifh-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sHQAMOlgaIM1nV1TYifh-1" target="sHQAMOlgaIM1nV1TYifh-2">
           <mxGeometry relative="1" as="geometry" />
