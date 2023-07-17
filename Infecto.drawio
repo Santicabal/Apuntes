@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-07-16T12:29:42.727Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="q4B9VREBRikt2Nkd4FtU" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-17T13:22:39.488Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="bQVy0xtAGJx5AjUwA-gj" version="21.5.2" type="github">
   <diagram name="Página-1" id="2CrfE8WvnRpnQF9L1QOg">
-    <mxGraphModel dx="1640" dy="1055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="984" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TPgOUrvoIxnq0UZ94LA--1" value="Deficit de inmunidad humoral" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#6c8ebf;fontSize=16;rounded=1;fillColor=#dae8fc;" parent="1" vertex="1">
+        <mxCell id="TPgOUrvoIxnq0UZ94LA--1" value="Deficit de inmunidad humoral" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#3700CC;fontSize=16;rounded=1;fillColor=#6a00ff;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="80" y="90" width="460" height="243" as="geometry" />
         </mxCell>
         <mxCell id="TPgOUrvoIxnq0UZ94LA--2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="TPgOUrvoIxnq0UZ94LA--1" vertex="1">
@@ -99,7 +99,7 @@
             <mxRectangle width="115" height="53" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TPgOUrvoIxnq0UZ94LA--17" value="Trastronos de fagocitosis" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#b85450;fontSize=16;rounded=1;fillColor=#f8cecc;" parent="1" vertex="1">
+        <mxCell id="TPgOUrvoIxnq0UZ94LA--17" value="Trastronos de fagocitosis" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#B20000;fontSize=16;rounded=1;fillColor=#e51400;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="570" y="90" width="230" height="190" as="geometry" />
         </mxCell>
         <mxCell id="TPgOUrvoIxnq0UZ94LA--18" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="TPgOUrvoIxnq0UZ94LA--17" vertex="1">
@@ -141,7 +141,7 @@
             <mxRectangle width="115" height="53" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TPgOUrvoIxnq0UZ94LA--33" value="Trastronos de inmunidad celular" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#d79b00;fontSize=16;rounded=1;fillColor=#ffe6cc;" parent="1" vertex="1">
+        <mxCell id="TPgOUrvoIxnq0UZ94LA--33" value="Trastronos de inmunidad celular" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#6D1F00;fontSize=16;rounded=1;fillColor=#a0522d;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="570" y="300" width="230" height="190" as="geometry" />
         </mxCell>
         <mxCell id="TPgOUrvoIxnq0UZ94LA--34" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="TPgOUrvoIxnq0UZ94LA--33" vertex="1">
@@ -273,6 +273,30 @@
         </mxCell>
         <mxCell id="oTwkvesEyQl_i262vGw3-15" value="&lt;div&gt;Diafragma&lt;/div&gt;&lt;div&gt;para abajo&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="718" y="850" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oTwkvesEyQl_i262vGw3-17" value="Neumonias" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1000" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oTwkvesEyQl_i262vGw3-18" value="Neumococo el mas comun, mycoplsma pneumonieae en niños" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oTwkvesEyQl_i262vGw3-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oTwkvesEyQl_i262vGw3-19" target="oTwkvesEyQl_i262vGw3-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oTwkvesEyQl_i262vGw3-19" value="Para MIR neumonia + diarrea pensar en legionella" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oTwkvesEyQl_i262vGw3-21" value="&lt;div&gt;Levo &lt;br&gt;&lt;/div&gt;&lt;div&gt;+/- Rifa&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1070" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oTwkvesEyQl_i262vGw3-26" value="&lt;div align=&quot;center&quot;&gt;Lobar&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Solo afecta alveolo y no bronquiolos&lt;/li&gt;&lt;li&gt;Se ve broncograma aereo&lt;/li&gt;&lt;li&gt;Clinica tipica&lt;/li&gt;&lt;li&gt;Secundario a asspiracion del germen&lt;br&gt;&lt;/li&gt;&lt;li&gt;Neumococo y Klebsiella&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;align=left;spacingLeft=-25;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1200" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oTwkvesEyQl_i262vGw3-27" value="&lt;div align=&quot;center&quot;&gt;Bronconeumonia&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Afecta bronquiolos&lt;/li&gt;&lt;li&gt;Rx con infiltrados en ambos pulmones&lt;/li&gt;&lt;li&gt;Clinica tipica&lt;/li&gt;&lt;li&gt;Secundaria a aspiracion o diseminacion hematogena&lt;br&gt;&lt;/li&gt;&lt;li&gt;Aureus y pseudomona&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;align=left;spacingLeft=-25;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1200" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oTwkvesEyQl_i262vGw3-28" value="&lt;div align=&quot;center&quot;&gt;Intersticial&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Afecta bronquiolos&lt;/li&gt;&lt;li&gt;Rx con infiltrados en ambos pulmones&lt;/li&gt;&lt;li&gt;Clinica tipica&lt;/li&gt;&lt;li&gt;Secundaria a aspiracion o diseminacion hematogena&lt;br&gt;&lt;/li&gt;&lt;li&gt;Aureus y pseudomona&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;align=left;spacingLeft=-25;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1200" width="160" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
