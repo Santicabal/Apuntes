@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T21:39:06.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Y2nhF2ZNs02ugwhwHLcl" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-17T21:47:50.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="YstoPt6X9C8qZfXxheVq" version="21.6.2" type="github">
   <diagram name="Página-1" id="2CrfE8WvnRpnQF9L1QOg">
     <mxGraphModel dx="821" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -466,8 +466,8 @@
         <mxCell id="sHQAMOlgaIM1nV1TYifh-58" value="Abx Empirico" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="411" y="2460" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sHQAMOlgaIM1nV1TYifh-60" value="&lt;ul&gt;&lt;li&gt;Adulto Menigo o neumococo&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Cefalosporina 3 Gen&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Bebes &amp;lt; 3m (Cubrir Listeria)&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Ceftria + Ampi&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Niños&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="551" y="2470" width="219" height="60" as="geometry" />
+        <mxCell id="sHQAMOlgaIM1nV1TYifh-60" value="&lt;ul&gt;&lt;li&gt;Adulto o niño Menigo o neumococo&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Cefalosporina 3 Gen&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Bebes &amp;lt; 3m (Cubrir Listeria)&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Ceftria + Ampi&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Anciano / Alcoholico / DM / Embarazo&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Ceftria + Ampi&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Inmunodeprimido&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Cubrir pseudomona + Ampi&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;verticalAlign=top;spacingLeft=-20;" vertex="1" parent="1">
+          <mxGeometry x="551" y="2470" width="229" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
