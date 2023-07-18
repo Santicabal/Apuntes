@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T13:29:23.393Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="-0M1TEp_Co9XBmJnbpaS" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-18T13:30:38.738Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="0DHBwJLlMx4locW5998T" version="21.5.2" type="github">
   <diagram name="Página-1" id="2CrfE8WvnRpnQF9L1QOg">
     <mxGraphModel dx="1093" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -633,32 +633,32 @@
           <mxGeometry x="375.5" y="3290" width="229" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GuaTwBuggNfL06iU9gI7-47" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="623" y="3270" width="210" height="130" as="geometry" />
+          <mxGeometry x="613" y="3270" width="223" height="130" as="geometry" />
         </mxCell>
         <mxCell id="GuaTwBuggNfL06iU9gI7-48" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="GuaTwBuggNfL06iU9gI7-47">
-          <mxGeometry width="210" height="41" as="geometry" />
+          <mxGeometry width="223" height="41" as="geometry" />
         </mxCell>
         <mxCell id="GuaTwBuggNfL06iU9gI7-49" value="Falso Positivo" style="connectable=0;recursiveResize=0;strokeColor=#b46504;fillColor=#fad7ac;align=center;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="GuaTwBuggNfL06iU9gI7-48">
-          <mxGeometry width="105" height="41" as="geometry">
-            <mxRectangle width="105" height="41" as="alternateBounds" />
+          <mxGeometry width="112" height="41" as="geometry">
+            <mxRectangle width="112" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GuaTwBuggNfL06iU9gI7-50" value="Falso Negativo" style="connectable=0;recursiveResize=0;strokeColor=#10739e;fillColor=#b1ddf0;align=center;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="GuaTwBuggNfL06iU9gI7-48">
-          <mxGeometry x="105" width="105" height="41" as="geometry">
-            <mxRectangle width="105" height="41" as="alternateBounds" />
+          <mxGeometry x="112" width="111" height="41" as="geometry">
+            <mxRectangle width="111" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GuaTwBuggNfL06iU9gI7-52" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="GuaTwBuggNfL06iU9gI7-47">
-          <mxGeometry y="41" width="210" height="89" as="geometry" />
+          <mxGeometry y="41" width="223" height="89" as="geometry" />
         </mxCell>
         <mxCell id="GuaTwBuggNfL06iU9gI7-53" value="&lt;div&gt;Vacuna BCG&lt;/div&gt;&lt;div&gt;Infeccion previa de otras mycobacterias&lt;br&gt;&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=#b46504;fillColor=#fad7ac;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="GuaTwBuggNfL06iU9gI7-52">
-          <mxGeometry width="105" height="89" as="geometry">
-            <mxRectangle width="105" height="89" as="alternateBounds" />
+          <mxGeometry width="112" height="89" as="geometry">
+            <mxRectangle width="112" height="89" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GuaTwBuggNfL06iU9gI7-54" value="&lt;div&gt;Inmunodeprimidos&lt;/div&gt;&lt;div&gt;Sarcoidosis&lt;/div&gt;&lt;div&gt;IRC&lt;/div&gt;&lt;div&gt;Vacuna SRP&lt;br&gt;&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=#10739e;fillColor=#b1ddf0;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="GuaTwBuggNfL06iU9gI7-52">
-          <mxGeometry x="105" width="105" height="89" as="geometry">
-            <mxRectangle width="105" height="89" as="alternateBounds" />
+        <mxCell id="GuaTwBuggNfL06iU9gI7-54" value="&lt;div&gt;Inmunodeprimidos&lt;/div&gt;&lt;div&gt;Sarcoidosis&lt;/div&gt;&lt;div&gt;IRC&lt;/div&gt;&lt;div&gt;Vacuna SRP&lt;br&gt;&lt;/div&gt;&lt;div&gt;Extremos de la vida&lt;br&gt;&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=#10739e;fillColor=#b1ddf0;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="GuaTwBuggNfL06iU9gI7-52">
+          <mxGeometry x="112" width="111" height="89" as="geometry">
+            <mxRectangle width="111" height="89" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
