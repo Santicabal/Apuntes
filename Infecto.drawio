@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T23:43:55.037Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="Vkw_GHY-sjuI28YdxoF9" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-18T13:29:23.393Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="-0M1TEp_Co9XBmJnbpaS" version="21.5.2" type="github">
   <diagram name="Página-1" id="2CrfE8WvnRpnQF9L1QOg">
     <mxGraphModel dx="1093" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -592,6 +592,74 @@
         </mxCell>
         <mxCell id="GuaTwBuggNfL06iU9gI7-28" value="Cefepime / Meropenem + Metronidazol" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="300" y="2870" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GuaTwBuggNfL06iU9gI7-32" value="Tuberculosis" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3040" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GuaTwBuggNfL06iU9gI7-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GuaTwBuggNfL06iU9gI7-34" target="GuaTwBuggNfL06iU9gI7-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GuaTwBuggNfL06iU9gI7-34" value="Aspiracion del bacilo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="3120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GuaTwBuggNfL06iU9gI7-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GuaTwBuggNfL06iU9gI7-35" target="GuaTwBuggNfL06iU9gI7-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GuaTwBuggNfL06iU9gI7-35" value="Macrofago lo fagocita y lo presenta " style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="3120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GuaTwBuggNfL06iU9gI7-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GuaTwBuggNfL06iU9gI7-37" target="GuaTwBuggNfL06iU9gI7-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GuaTwBuggNfL06iU9gI7-37" value="Los linfocitos generan un grauloma para encapsularlo&lt;br&gt;(TB latente)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="3120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GuaTwBuggNfL06iU9gI7-39" value="&lt;div&gt;Se reactiva en caso de bajar la inmunidad&lt;/div&gt;&lt;div&gt;(TB activa)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="3120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GuaTwBuggNfL06iU9gI7-42" value="TNF es importate en granuloma, por eso monoclonales Anti TNF causan reactivacion" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="460" y="3190" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GuaTwBuggNfL06iU9gI7-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GuaTwBuggNfL06iU9gI7-43" target="GuaTwBuggNfL06iU9gI7-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GuaTwBuggNfL06iU9gI7-43" value="Diagnostico de TB latente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="3290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GuaTwBuggNfL06iU9gI7-44" value="Mantoux" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="3280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GuaTwBuggNfL06iU9gI7-46" value="&lt;div&gt;&amp;gt;&lt;b&gt;5mm&lt;/b&gt; (Contacto cercano o sospecha)&lt;/div&gt;&lt;div&gt;&amp;gt;10mm Personas en region endemica&lt;/div&gt;&lt;div&gt;&amp;gt;15mm alguien sano (Casi nunca porque no le harias esa prueba a alguien sin FR)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="375.5" y="3290" width="229" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GuaTwBuggNfL06iU9gI7-47" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="623" y="3270" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GuaTwBuggNfL06iU9gI7-48" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="GuaTwBuggNfL06iU9gI7-47">
+          <mxGeometry width="210" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="GuaTwBuggNfL06iU9gI7-49" value="Falso Positivo" style="connectable=0;recursiveResize=0;strokeColor=#b46504;fillColor=#fad7ac;align=center;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="GuaTwBuggNfL06iU9gI7-48">
+          <mxGeometry width="105" height="41" as="geometry">
+            <mxRectangle width="105" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GuaTwBuggNfL06iU9gI7-50" value="Falso Negativo" style="connectable=0;recursiveResize=0;strokeColor=#10739e;fillColor=#b1ddf0;align=center;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="GuaTwBuggNfL06iU9gI7-48">
+          <mxGeometry x="105" width="105" height="41" as="geometry">
+            <mxRectangle width="105" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GuaTwBuggNfL06iU9gI7-52" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="GuaTwBuggNfL06iU9gI7-47">
+          <mxGeometry y="41" width="210" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="GuaTwBuggNfL06iU9gI7-53" value="&lt;div&gt;Vacuna BCG&lt;/div&gt;&lt;div&gt;Infeccion previa de otras mycobacterias&lt;br&gt;&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=#b46504;fillColor=#fad7ac;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="GuaTwBuggNfL06iU9gI7-52">
+          <mxGeometry width="105" height="89" as="geometry">
+            <mxRectangle width="105" height="89" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GuaTwBuggNfL06iU9gI7-54" value="&lt;div&gt;Inmunodeprimidos&lt;/div&gt;&lt;div&gt;Sarcoidosis&lt;/div&gt;&lt;div&gt;IRC&lt;/div&gt;&lt;div&gt;Vacuna SRP&lt;br&gt;&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=#10739e;fillColor=#b1ddf0;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="GuaTwBuggNfL06iU9gI7-52">
+          <mxGeometry x="105" width="105" height="89" as="geometry">
+            <mxRectangle width="105" height="89" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
