@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T18:57:29.739Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_ZHcR-k4erVgrTb7E1tT" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-18T18:58:49.092Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="k5sJ413jKu9aFcJvy-L0" version="21.6.2" type="github">
   <diagram name="Página-1" id="2CrfE8WvnRpnQF9L1QOg">
     <mxGraphModel dx="898" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -794,8 +794,14 @@
         <mxCell id="mpoyzIFMiVZxjVanev72-69" value="Todos son hepatotoxicos excepto E" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="469.5" y="4120" width="120" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="mpoyzIFMiVZxjVanev72-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mpoyzIFMiVZxjVanev72-71" target="mpoyzIFMiVZxjVanev72-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mpoyzIFMiVZxjVanev72-71" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Profilaxis&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;TB latente + algo que favorezca reactivacion&lt;/li&gt;&lt;li&gt;TB latente + convive con bacilifero&lt;/li&gt;&lt;li&gt;&amp;lt; 20 años convivie con bacilifero&lt;/li&gt;&lt;li&gt;Inmunodeprido con bacilifero&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="280" y="3980" width="230" height="130" as="geometry" />
+          <mxGeometry x="195" y="3980" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mpoyzIFMiVZxjVanev72-72" value="Isoniazida &lt;br&gt;6 Meses" style="rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="4005" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
