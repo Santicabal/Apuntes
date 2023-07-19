@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T16:52:11.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9iGjFB945G-2mmY5P4Ek" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T17:30:49.833Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="aZgjO9o3I9HpvFg3y0EO" version="21.6.3" type="github">
   <diagram name="Página-1" id="2CrfE8WvnRpnQF9L1QOg">
     <mxGraphModel dx="705" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -815,7 +815,7 @@
         <mxCell id="da6OdQz1IwyQKVGVHcsv-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="da6OdQz1IwyQKVGVHcsv-3" target="da6OdQz1IwyQKVGVHcsv-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="da6OdQz1IwyQKVGVHcsv-3" value="Profilaxis neonatal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-3" value="Profilaxis neonatal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="4480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="da6OdQz1IwyQKVGVHcsv-4" target="da6OdQz1IwyQKVGVHcsv-8">
@@ -823,49 +823,49 @@
             <mxPoint x="440" y="4510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="da6OdQz1IwyQKVGVHcsv-4" value="Todas las madres deben llevar la triple terapia antirretroviral (TAR)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-4" value="Todas las madres deben llevar la triple terapia antirretroviral (TAR)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="280" y="4480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="da6OdQz1IwyQKVGVHcsv-8" target="da6OdQz1IwyQKVGVHcsv-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="da6OdQz1IwyQKVGVHcsv-8" value="Parto&lt;br&gt;Solo si hay TAR + carga viral &amp;lt;50&lt;br&gt;Todo lo demas cesarea" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-8" value="Parto&lt;br&gt;Solo si hay TAR + carga viral &amp;lt;50&lt;br&gt;Todo lo demas cesarea" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="450" y="4480" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="da6OdQz1IwyQKVGVHcsv-10" value="Si tiene &amp;gt;1,000 copias pero ya empezo trabajo de parto?&lt;br&gt;AZT aunque tenga TAR" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-10" value="Si tiene &amp;gt;1,000 copias pero ya empezo trabajo de parto?&lt;br&gt;AZT aunque tenga TAR" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="640" y="4480" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="da6OdQz1IwyQKVGVHcsv-12" value="NO dar lactancia" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-12" value="NO dar lactancia" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="280" y="4580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="da6OdQz1IwyQKVGVHcsv-14" target="da6OdQz1IwyQKVGVHcsv-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="da6OdQz1IwyQKVGVHcsv-14" value="Todos los RN de madre con VIH &lt;br&gt;AZT V.O 6 Semanas" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-14" value="Todos los RN de madre con VIH &lt;br&gt;AZT V.O 6 Semanas" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="120" y="4580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="da6OdQz1IwyQKVGVHcsv-17" value="Efavirenz unico Tx contraindicado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-17" value="Efavirenz unico Tx contraindicado" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="455" y="4580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="da6OdQz1IwyQKVGVHcsv-18" target="da6OdQz1IwyQKVGVHcsv-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="da6OdQz1IwyQKVGVHcsv-18" value="VIH usa GP120 para pegarse a celuas con CD4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-18" value="VIH usa GP120 para pegarse a celuas con CD4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="4694" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="da6OdQz1IwyQKVGVHcsv-19" target="da6OdQz1IwyQKVGVHcsv-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="da6OdQz1IwyQKVGVHcsv-19" value="Linfocitos T CD4 y macrofagos y sus derivados" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-19" value="Linfocitos T CD4 y macrofagos y sus derivados" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="280" y="4694" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="da6OdQz1IwyQKVGVHcsv-21" target="da6OdQz1IwyQKVGVHcsv-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="da6OdQz1IwyQKVGVHcsv-21" value="El virus necesita un coreceptor. &lt;br&gt;CXCR4 o CCR5" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-21" value="El virus necesita un coreceptor. &lt;br&gt;CXCR4 o CCR5" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="440" y="4694" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="da6OdQz1IwyQKVGVHcsv-23" value="El virus puede usar cualquiera de los 2 o ambos (Tropismo)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-23" value="El virus puede usar cualquiera de los 2 o ambos (Tropismo)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="604" y="4694" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="da6OdQz1IwyQKVGVHcsv-25" target="da6OdQz1IwyQKVGVHcsv-26">
@@ -876,16 +876,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="da6OdQz1IwyQKVGVHcsv-25" value="ELISA&lt;br&gt;2 prubeas" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-25" value="ELISA&lt;br&gt;2 prubeas" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="130" y="4803" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="da6OdQz1IwyQKVGVHcsv-26" target="da6OdQz1IwyQKVGVHcsv-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="da6OdQz1IwyQKVGVHcsv-26" value="Western Blot" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-26" value="Western Blot" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="290" y="4803" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="da6OdQz1IwyQKVGVHcsv-29" value="PCR para carga viral" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-29" value="PCR para carga viral" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="450" y="4803" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-31" value="Clasificacion" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#314354;fontSize=16;rounded=1;fillColor=#647687;fontColor=#ffffff;" vertex="1" parent="1">
@@ -904,7 +904,7 @@
             <mxRectangle width="102" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="da6OdQz1IwyQKVGVHcsv-35" value="Inmunologica" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#10739e;overflow=hidden;fillColor=#b1ddf0;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rowspan=1;colspan=2;" vertex="1" parent="da6OdQz1IwyQKVGVHcsv-32">
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-35" value="Inmunologica" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rowspan=1;colspan=2;" vertex="1" parent="da6OdQz1IwyQKVGVHcsv-32">
           <mxGeometry x="203" width="202" height="40" as="geometry">
             <mxRectangle width="101" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -982,6 +982,27 @@
           <mxGeometry x="304" width="101" height="40" as="geometry">
             <mxRectangle width="101" height="40" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-57" value="&lt;ul&gt;&lt;li&gt;Causa mas frecuente de convulsiones en Px VIH&lt;/li&gt;&lt;li&gt;2da Causa de encefalitis despues del propio VIH&lt;/li&gt;&lt;li&gt;Imagen ipica es TAC con lesion redonda con contraste en anillo&lt;/li&gt;&lt;li&gt;Tx con Sulfadiacina&lt;/li&gt;&lt;li&gt;Si no responde hacer biopsia por posible &lt;b&gt;linfoma cerebral&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="198" y="5160" width="182" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-58" value="&lt;ul&gt;&lt;li&gt;Neumonia atipica&lt;/li&gt;&lt;li&gt;Sospecha No.1 en VIH con &amp;lt;200 CD4&lt;/li&gt;&lt;li&gt;Tx con TMP-SMX&lt;/li&gt;&lt;li&gt;NO SIRVE anfotericina B&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="380" y="5160" width="182" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-59" value="&lt;ul&gt;&lt;li&gt;Cuadros muy similares entre si&lt;/li&gt;&lt;li&gt;Diagnostico diferencial&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="562" y="5160" width="182" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-60" value="TB" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="595" y="5290" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-61" value="Otras Mycobacterias" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="5240" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-63" value="Linfoma" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="5240" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-65" value="Leishmania" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="664" y="5280" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
