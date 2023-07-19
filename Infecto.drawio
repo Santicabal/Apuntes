@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T17:30:49.833Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="aZgjO9o3I9HpvFg3y0EO" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T17:38:37.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5BrY0uvKiMf-eluH4wo0" version="21.6.3" type="github">
   <diagram name="Página-1" id="2CrfE8WvnRpnQF9L1QOg">
     <mxGraphModel dx="705" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -989,20 +989,55 @@
         <mxCell id="da6OdQz1IwyQKVGVHcsv-58" value="&lt;ul&gt;&lt;li&gt;Neumonia atipica&lt;/li&gt;&lt;li&gt;Sospecha No.1 en VIH con &amp;lt;200 CD4&lt;/li&gt;&lt;li&gt;Tx con TMP-SMX&lt;/li&gt;&lt;li&gt;NO SIRVE anfotericina B&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="380" y="5160" width="182" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="da6OdQz1IwyQKVGVHcsv-59" value="&lt;ul&gt;&lt;li&gt;Cuadros muy similares entre si&lt;/li&gt;&lt;li&gt;Diagnostico diferencial&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-59" value="&lt;ul&gt;&lt;li&gt;Hacer biopsia de M.O o ganglio&lt;/li&gt;&lt;li&gt;La mas comun es TB&lt;/li&gt;&lt;li&gt;Diagnostico diferencial&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="562" y="5160" width="182" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="da6OdQz1IwyQKVGVHcsv-60" value="TB" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="595" y="5290" width="80" height="60" as="geometry" />
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-60" value="TB" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="589" y="5320" width="80" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="da6OdQz1IwyQKVGVHcsv-61" value="Otras Mycobacterias" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="565" y="5240" width="80" height="60" as="geometry" />
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-61" value="Otras Mycobacterias" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="563" y="5262" width="80" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="da6OdQz1IwyQKVGVHcsv-63" value="Linfoma" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="670" y="5240" width="80" height="60" as="geometry" />
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-63" value="Linfoma" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="693" y="5250" width="45" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="da6OdQz1IwyQKVGVHcsv-65" value="Leishmania" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="664" y="5280" width="80" height="60" as="geometry" />
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-65" value="Leishmania" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="658" y="5310" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-68" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="da6OdQz1IwyQKVGVHcsv-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="626.2692307692307" y="5240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-70" value="&amp;lt;50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="da6OdQz1IwyQKVGVHcsv-68">
+          <mxGeometry x="-0.0035" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-69" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="da6OdQz1IwyQKVGVHcsv-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650.8979591836735" y="5240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-71" value="&amp;lt;200" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="da6OdQz1IwyQKVGVHcsv-69">
+          <mxGeometry x="0.5007" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-72" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="da6OdQz1IwyQKVGVHcsv-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="668.6666666666667" y="5240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-73" value="Sin &lt;br&gt;ganglios" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="da6OdQz1IwyQKVGVHcsv-72">
+          <mxGeometry x="0.1439" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-74" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="da6OdQz1IwyQKVGVHcsv-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690.8571428571429" y="5240" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
