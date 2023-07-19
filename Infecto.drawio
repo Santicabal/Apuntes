@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T20:52:04.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6gr6OiBAupTJ7O2KoTdL" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T21:45:26.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="oRZU3b_GY2M8ky4L-i2D" version="21.6.3" type="github">
   <diagram name="Página-1" id="2CrfE8WvnRpnQF9L1QOg">
     <mxGraphModel dx="783" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sHQAMOlgaIM1nV1TYifh-20" value="NAC + ingreso" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fad9d5;strokeColor=#ae4132;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="sHQAMOlgaIM1nV1TYifh-20" value="NAC + ingreso" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="438" y="1582" width="120" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="sHQAMOlgaIM1nV1TYifh-19" value="NAC atipica" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fad7ac;strokeColor=#b46504;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="sHQAMOlgaIM1nV1TYifh-19" value="NAC atipica" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="278" y="1582" width="120" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="sHQAMOlgaIM1nV1TYifh-18" value="NAC" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="sHQAMOlgaIM1nV1TYifh-18" value="NAC" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="120" y="1582" width="120" height="108" as="geometry" />
         </mxCell>
         <mxCell id="TPgOUrvoIxnq0UZ94LA--1" value="Deficit de inmunidad humoral" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#3700CC;fontSize=16;rounded=1;fillColor=#6a00ff;fontColor=#ffffff;" parent="1" vertex="1">
@@ -404,8 +404,8 @@
         <mxCell id="sHQAMOlgaIM1nV1TYifh-38" value="Cx" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacing=4;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="610" y="2050" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sHQAMOlgaIM1nV1TYifh-40" value="Indicaciones de Cx:&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Insuf Cardiaca por rotura de valvula&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Absceso &lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Mala respuesta al Tx&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Embolismos recurrentes&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Protesis con Aureus&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Etiologias que no sean las comunes&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacingLeft=-21;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="435" y="2020" width="160" height="160" as="geometry" />
+        <mxCell id="sHQAMOlgaIM1nV1TYifh-40" value="Indicaciones de Cx:&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Insuf Cardiaca por rotura de valvula&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Absceso &lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Mala respuesta al Tx&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Embolismos recurrentes&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Protesis con Aureus&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Infeccion por Gram negativo (No HACEK)&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacingLeft=-21;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="435" y="2020" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="sHQAMOlgaIM1nV1TYifh-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sHQAMOlgaIM1nV1TYifh-34" target="sHQAMOlgaIM1nV1TYifh-42" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1113,10 +1113,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-102" value="Suele tener alta resistencia a betalactamicos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="5910" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="5910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-104" value="Vanco" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="615" y="5900" width="80" height="80" as="geometry" />
+          <mxGeometry x="698" y="5900" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="da6OdQz1IwyQKVGVHcsv-100" target="da6OdQz1IwyQKVGVHcsv-107">
           <mxGeometry relative="1" as="geometry">
@@ -1125,7 +1125,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-107" value="Causa 1 de infeccion de cateter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="273" y="5910" width="120" height="60" as="geometry" />
+          <mxGeometry x="322.5" y="5910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="da6OdQz1IwyQKVGVHcsv-108" target="da6OdQz1IwyQKVGVHcsv-110">
           <mxGeometry relative="1" as="geometry" />
