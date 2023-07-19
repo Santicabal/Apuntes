@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T20:41:41.864Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="xmRspj0FELIsqA_b8T7J" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T20:50:18.216Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lWuuwZ-QyARbgZ8SGyZ3" version="21.6.3" type="github">
   <diagram name="Página-1" id="2CrfE8WvnRpnQF9L1QOg">
-    <mxGraphModel dx="940" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="783" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sHQAMOlgaIM1nV1TYifh-20" value="NAC + ingreso" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fad9d5;strokeColor=#ae4132;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="430" y="1582" width="120" height="108" as="geometry" />
+          <mxGeometry x="438" y="1586" width="120" height="108" as="geometry" />
         </mxCell>
         <mxCell id="sHQAMOlgaIM1nV1TYifh-19" value="NAC atipica" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fad7ac;strokeColor=#b46504;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="270" y="1582" width="120" height="108" as="geometry" />
+          <mxGeometry x="278" y="1586" width="120" height="108" as="geometry" />
         </mxCell>
         <mxCell id="sHQAMOlgaIM1nV1TYifh-18" value="NAC" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="110" y="1582" width="120" height="108" as="geometry" />
+          <mxGeometry x="120" y="1582" width="120" height="108" as="geometry" />
         </mxCell>
         <mxCell id="TPgOUrvoIxnq0UZ94LA--1" value="Deficit de inmunidad humoral" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#3700CC;fontSize=16;rounded=1;fillColor=#6a00ff;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="80" y="90" width="460" height="243" as="geometry" />
@@ -342,16 +342,16 @@
           <mxGeometry x="560" y="1437.5" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sHQAMOlgaIM1nV1TYifh-10" value="Levoflox / Amoxi-Clav" style="rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="130" y="1600" width="80" height="80" as="geometry" />
+          <mxGeometry x="140" y="1600" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sHQAMOlgaIM1nV1TYifh-12" value="Levoflox / Azitro" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="290" y="1600" width="80" height="80" as="geometry" />
+          <mxGeometry x="298" y="1604" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sHQAMOlgaIM1nV1TYifh-14" value="Doxiciclina" style="rhombus;whiteSpace=wrap;html=1;align=center;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="750" y="1070" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sHQAMOlgaIM1nV1TYifh-16" value="Ceftriaxona &lt;br&gt;+ Levoflox&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="450" y="1600" width="80" height="80" as="geometry" />
+          <mxGeometry x="458" y="1604" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sHQAMOlgaIM1nV1TYifh-21" value="Endocarditis" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="80" y="1760" width="160" height="40" as="geometry" />
@@ -1147,6 +1147,12 @@
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-114" value="Ampi o &lt;br&gt;Vanco" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="6120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-116" value="Broncoaspiracion" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FF624A;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="598" y="1586" width="120" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-117" value="Amoxiclav 2g / Ceftria + Metro" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="618" y="1604" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
