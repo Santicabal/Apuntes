@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T16:22:27.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ksF6XnjfHjakY-_KjK2K" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T16:52:11.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9iGjFB945G-2mmY5P4Ek" version="21.6.3" type="github">
   <diagram name="Página-1" id="2CrfE8WvnRpnQF9L1QOg">
     <mxGraphModel dx="705" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -851,22 +851,137 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-18" value="VIH usa GP120 para pegarse a celuas con CD4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="4720" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="4694" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="da6OdQz1IwyQKVGVHcsv-19" target="da6OdQz1IwyQKVGVHcsv-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-19" value="Linfocitos T CD4 y macrofagos y sus derivados" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="4720" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="4694" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="da6OdQz1IwyQKVGVHcsv-21" target="da6OdQz1IwyQKVGVHcsv-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-21" value="El virus necesita un coreceptor. &lt;br&gt;CXCR4 o CCR5" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="4720" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="4694" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-23" value="El virus puede usar cualquiera de los 2 o ambos (Tropismo)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="604" y="4720" width="120" height="60" as="geometry" />
+          <mxGeometry x="604" y="4694" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="da6OdQz1IwyQKVGVHcsv-25" target="da6OdQz1IwyQKVGVHcsv-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-28" value="Positivas" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="da6OdQz1IwyQKVGVHcsv-27">
+          <mxGeometry x="-0.175" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-25" value="ELISA&lt;br&gt;2 prubeas" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="4803" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="da6OdQz1IwyQKVGVHcsv-26" target="da6OdQz1IwyQKVGVHcsv-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-26" value="Western Blot" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="4803" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-29" value="PCR para carga viral" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450" y="4803" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-31" value="Clasificacion" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#314354;fontSize=16;rounded=1;fillColor=#647687;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="177.5" y="4920" width="405" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-32" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="da6OdQz1IwyQKVGVHcsv-31">
+          <mxGeometry y="30" width="405" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-33" value="Clinica" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b46504;overflow=hidden;fillColor=#fad7ac;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rowspan=1;colspan=2;" vertex="1" parent="da6OdQz1IwyQKVGVHcsv-32">
+          <mxGeometry width="203" height="40" as="geometry">
+            <mxRectangle width="101" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-34" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" visible="0" parent="da6OdQz1IwyQKVGVHcsv-32">
+          <mxGeometry x="101" width="102" height="40" as="geometry">
+            <mxRectangle width="102" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-35" value="Inmunologica" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#10739e;overflow=hidden;fillColor=#b1ddf0;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rowspan=1;colspan=2;" vertex="1" parent="da6OdQz1IwyQKVGVHcsv-32">
+          <mxGeometry x="203" width="202" height="40" as="geometry">
+            <mxRectangle width="101" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-48" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#56517e;overflow=hidden;fillColor=#d0cee2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" visible="0" parent="da6OdQz1IwyQKVGVHcsv-32">
+          <mxGeometry x="304" width="101" height="40" as="geometry">
+            <mxRectangle width="101" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-36" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="da6OdQz1IwyQKVGVHcsv-31">
+          <mxGeometry y="70" width="405" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-37" value="A" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#ae4132;overflow=hidden;fillColor=#fad9d5;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="da6OdQz1IwyQKVGVHcsv-36">
+          <mxGeometry width="101" height="40" as="geometry">
+            <mxRectangle width="101" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-38" value="Primoinfeccion, esta asintomatico" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#ae4132;overflow=hidden;fillColor=#fad9d5;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="da6OdQz1IwyQKVGVHcsv-36">
+          <mxGeometry x="101" width="102" height="40" as="geometry">
+            <mxRectangle width="102" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-39" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#56517e;overflow=hidden;fillColor=#d0cee2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="da6OdQz1IwyQKVGVHcsv-36">
+          <mxGeometry x="203" width="101" height="40" as="geometry">
+            <mxRectangle width="101" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-49" value="&amp;gt;500 CD4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#56517e;overflow=hidden;fillColor=#d0cee2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="da6OdQz1IwyQKVGVHcsv-36">
+          <mxGeometry x="304" width="101" height="40" as="geometry">
+            <mxRectangle width="101" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-40" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="da6OdQz1IwyQKVGVHcsv-31">
+          <mxGeometry y="110" width="405" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-41" value="B" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#ae4132;overflow=hidden;fillColor=#fad9d5;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="da6OdQz1IwyQKVGVHcsv-40">
+          <mxGeometry width="101" height="40" as="geometry">
+            <mxRectangle width="101" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-42" value="Entre A y C" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#ae4132;overflow=hidden;fillColor=#fad9d5;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="da6OdQz1IwyQKVGVHcsv-40">
+          <mxGeometry x="101" width="102" height="40" as="geometry">
+            <mxRectangle width="102" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-43" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#56517e;overflow=hidden;fillColor=#d0cee2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="da6OdQz1IwyQKVGVHcsv-40">
+          <mxGeometry x="203" width="101" height="40" as="geometry">
+            <mxRectangle width="101" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-50" value="200-500 CD4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#56517e;overflow=hidden;fillColor=#d0cee2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="da6OdQz1IwyQKVGVHcsv-40">
+          <mxGeometry x="304" width="101" height="40" as="geometry">
+            <mxRectangle width="101" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-44" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="da6OdQz1IwyQKVGVHcsv-31">
+          <mxGeometry y="150" width="405" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-45" value="C" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#B20000;overflow=hidden;fillColor=#e51400;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#ffffff;" vertex="1" parent="da6OdQz1IwyQKVGVHcsv-44">
+          <mxGeometry width="101" height="40" as="geometry">
+            <mxRectangle width="101" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-46" value="Infeccion por oportunistas" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#B20000;overflow=hidden;fillColor=#e51400;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontColor=#ffffff;" vertex="1" parent="da6OdQz1IwyQKVGVHcsv-44">
+          <mxGeometry x="101" width="102" height="40" as="geometry">
+            <mxRectangle width="102" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-47" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#B20000;overflow=hidden;fillColor=#e51400;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#ffffff;" vertex="1" parent="da6OdQz1IwyQKVGVHcsv-44">
+          <mxGeometry x="203" width="101" height="40" as="geometry">
+            <mxRectangle width="101" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-51" value="&amp;lt;200 CD4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#B20000;overflow=hidden;fillColor=#e51400;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontColor=#ffffff;" vertex="1" parent="da6OdQz1IwyQKVGVHcsv-44">
+          <mxGeometry x="304" width="101" height="40" as="geometry">
+            <mxRectangle width="101" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
