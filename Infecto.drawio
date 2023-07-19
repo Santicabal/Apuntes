@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T17:41:18.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="x6Ge6S4ZzQWqjWY8Adr4" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T17:44:16.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QGahbIWZhqeHKy7EOsYM" version="21.6.3" type="github">
   <diagram name="Página-1" id="2CrfE8WvnRpnQF9L1QOg">
     <mxGraphModel dx="705" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -983,30 +983,30 @@
             <mxRectangle width="101" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="da6OdQz1IwyQKVGVHcsv-57" value="&lt;ul&gt;&lt;li&gt;Causa mas frecuente de convulsiones en Px VIH&lt;/li&gt;&lt;li&gt;2da Causa de encefalitis despues del propio VIH&lt;/li&gt;&lt;li&gt;Imagen ipica es TAC con lesion redonda con contraste en anillo&lt;/li&gt;&lt;li&gt;Tx con Sulfadiacina&lt;/li&gt;&lt;li&gt;Si no responde hacer biopsia por posible &lt;b&gt;linfoma cerebral&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="198" y="5160" width="182" height="190" as="geometry" />
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-57" value="&lt;ul&gt;&lt;li&gt;Causa mas frecuente de convulsiones en Px VIH&lt;/li&gt;&lt;li&gt;2da Causa de encefalitis despues del propio VIH&lt;/li&gt;&lt;li&gt;Imagen ipica es TAC con lesion redonda con contraste en anillo&lt;/li&gt;&lt;li&gt;Tx con Sulfadiacina&lt;/li&gt;&lt;li&gt;Si no responde hacer biopsia por posible &lt;b&gt;linfoma cerebral&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#cce5ff;strokeColor=#36393d;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="5230" width="182" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="da6OdQz1IwyQKVGVHcsv-58" value="&lt;ul&gt;&lt;li&gt;Neumonia atipica&lt;/li&gt;&lt;li&gt;Sospecha No.1 en VIH con &amp;lt;200 CD4&lt;/li&gt;&lt;li&gt;Tx con TMP-SMX&lt;/li&gt;&lt;li&gt;NO SIRVE anfotericina B&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="380" y="5160" width="182" height="190" as="geometry" />
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-58" value="&lt;ul&gt;&lt;li&gt;Neumonia atipica&lt;/li&gt;&lt;li&gt;Sospecha No.1 en VIH con &amp;lt;200 CD4&lt;/li&gt;&lt;li&gt;Tx con TMP-SMX&lt;/li&gt;&lt;li&gt;NO SIRVE anfotericina B&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="302" y="5230" width="182" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="da6OdQz1IwyQKVGVHcsv-59" value="&lt;ul&gt;&lt;li&gt;Hacer biopsia de M.O o ganglio&lt;/li&gt;&lt;li&gt;La mas comun es TB&lt;/li&gt;&lt;li&gt;Diagnostico diferencial&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="562" y="5160" width="182" height="190" as="geometry" />
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-59" value="&lt;ul&gt;&lt;li&gt;Hacer biopsia de M.O o ganglio&lt;/li&gt;&lt;li&gt;La mas comun es TB&lt;/li&gt;&lt;li&gt;Diagnostico diferencial&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffcc99;strokeColor=#36393d;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="484" y="5230" width="182" height="190" as="geometry" />
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-60" value="TB" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="589" y="5320" width="80" height="25" as="geometry" />
+          <mxGeometry x="511" y="5390" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-61" value="Otras Mycobacterias" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="563" y="5262" width="80" height="25" as="geometry" />
+          <mxGeometry x="485" y="5332" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-63" value="Linfoma" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="693" y="5250" width="45" height="25" as="geometry" />
+          <mxGeometry x="615" y="5320" width="45" height="25" as="geometry" />
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-65" value="Leishmania" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="658" y="5310" width="80" height="25" as="geometry" />
+          <mxGeometry x="580" y="5380" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-68" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="da6OdQz1IwyQKVGVHcsv-61">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="626.2692307692307" y="5240" as="sourcePoint" />
+            <mxPoint x="548.2692307692307" y="5310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-70" value="&amp;lt;50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="da6OdQz1IwyQKVGVHcsv-68">
@@ -1016,7 +1016,7 @@
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-69" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="da6OdQz1IwyQKVGVHcsv-60">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650.8979591836735" y="5240" as="sourcePoint" />
+            <mxPoint x="572.8979591836735" y="5310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-71" value="&amp;lt;200" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="da6OdQz1IwyQKVGVHcsv-69">
@@ -1026,7 +1026,7 @@
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-72" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="da6OdQz1IwyQKVGVHcsv-65">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="668.6666666666667" y="5240" as="sourcePoint" />
+            <mxPoint x="590.6666666666667" y="5310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-73" value="Sin &lt;br&gt;ganglios" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="da6OdQz1IwyQKVGVHcsv-72">
@@ -1036,8 +1036,17 @@
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-74" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="da6OdQz1IwyQKVGVHcsv-63">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690.8571428571429" y="5240" as="sourcePoint" />
+            <mxPoint x="612.8571428571429" y="5310" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-75" value="Toxoplasmosis" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="120" y="5190" width="182" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-76" value="Jirovecii" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="302" y="5190" width="182" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-77" value="Fiebre, Citopenia y Esplenomegalia" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="484" y="5190" width="182" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
