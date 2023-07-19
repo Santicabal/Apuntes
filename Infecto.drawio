@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T16:11:16.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="w2y2bqHrkcCUkr7VGNWV" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T16:22:27.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ksF6XnjfHjakY-_KjK2K" version="21.6.3" type="github">
   <diagram name="Página-1" id="2CrfE8WvnRpnQF9L1QOg">
     <mxGraphModel dx="705" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -843,6 +843,30 @@
         </mxCell>
         <mxCell id="da6OdQz1IwyQKVGVHcsv-14" value="Todos los RN de madre con VIH &lt;br&gt;AZT V.O 6 Semanas" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="4580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-17" value="Efavirenz unico Tx contraindicado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="4580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="da6OdQz1IwyQKVGVHcsv-18" target="da6OdQz1IwyQKVGVHcsv-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-18" value="VIH usa GP120 para pegarse a celuas con CD4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="4720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="da6OdQz1IwyQKVGVHcsv-19" target="da6OdQz1IwyQKVGVHcsv-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-19" value="Linfocitos T CD4 y macrofagos y sus derivados" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="4720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="da6OdQz1IwyQKVGVHcsv-21" target="da6OdQz1IwyQKVGVHcsv-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-21" value="El virus necesita un coreceptor. &lt;br&gt;CXCR4 o CCR5" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="4720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="da6OdQz1IwyQKVGVHcsv-23" value="El virus puede usar cualquiera de los 2 o ambos (Tropismo)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="604" y="4720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
