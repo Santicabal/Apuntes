@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T18:57:01.432Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Lb9P0Qa_FX5Gh1zCbMh0" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T19:32:26.828Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="SdpbGPz0Ms_5HY_896lw" version="21.6.5" type="github">
   <diagram name="Page-1" id="xC1T5dPMzcvkAjgWcqzF">
     <mxGraphModel dx="1027" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -118,8 +118,8 @@
         <mxCell id="73Jti63QLcTPkXVLQlRy-45" value="Hipotiroidismo&lt;br&gt;Hepatopatias&lt;br&gt;Sx Mielodisplasicos" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="280" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="73Jti63QLcTPkXVLQlRy-47" value="El alcholosimo es la causa No. 1 de Macrocitosis&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="425" y="690" width="120" height="80" as="geometry" />
+        <mxCell id="73Jti63QLcTPkXVLQlRy-47" value="El alcholosimo es la causa No. 1 de Macrocitosis&lt;br&gt;Los retis causan falso&amp;nbsp; ↑ VCM" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="425" y="690" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
