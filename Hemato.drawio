@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T22:13:17.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7rFniLZlO9yt76kG__Hm" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-23T22:14:17.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5YMM7-2fJsAN-a4C9RfU" version="21.6.5" type="github">
   <diagram name="Page-1" id="xC1T5dPMzcvkAjgWcqzF">
-    <mxGraphModel dx="393" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="944" dy="1508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -380,7 +380,7 @@
           <mxGeometry x="249" y="1025" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pxykGlDc7MtHIHAwk9MH-99" value="Membrana" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#b46504;fontSize=16;fillColor=#fad7ac;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1408" width="290" height="104" as="geometry" />
+          <mxGeometry x="329" y="1408" width="290" height="104" as="geometry" />
         </mxCell>
         <mxCell id="pxykGlDc7MtHIHAwk9MH-100" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="pxykGlDc7MtHIHAwk9MH-99">
           <mxGeometry y="30" width="290" height="32" as="geometry" />
@@ -419,7 +419,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pxykGlDc7MtHIHAwk9MH-112" value="Metabolico" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#56517e;fontSize=16;fillColor=#d0cee2;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1530" width="290" height="104" as="geometry" />
+          <mxGeometry x="329" y="1530" width="290" height="104" as="geometry" />
         </mxCell>
         <mxCell id="pxykGlDc7MtHIHAwk9MH-113" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="pxykGlDc7MtHIHAwk9MH-112">
           <mxGeometry y="30" width="290" height="32" as="geometry" />
@@ -458,7 +458,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pxykGlDc7MtHIHAwk9MH-121" value="Sintesis de globina" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#ae4132;fontSize=16;fillColor=#fad9d5;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1650" width="290" height="104" as="geometry" />
+          <mxGeometry x="329" y="1650" width="290" height="104" as="geometry" />
         </mxCell>
         <mxCell id="pxykGlDc7MtHIHAwk9MH-122" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="pxykGlDc7MtHIHAwk9MH-121">
           <mxGeometry y="30" width="290" height="32" as="geometry" />
@@ -495,6 +495,9 @@
           <mxGeometry x="193" width="97" height="42" as="geometry">
             <mxRectangle width="97" height="42" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pxykGlDc7MtHIHAwk9MH-130" value="Hemolitica" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="81" y="1552" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
