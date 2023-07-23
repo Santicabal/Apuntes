@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T18:44:53.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="pW1ttwmnodzbz3apaAuo" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-23T19:23:21.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="xt84aN5UbQXAAKHCHHd-" version="21.6.5" type="github">
   <diagram name="Page-1" id="xC1T5dPMzcvkAjgWcqzF">
-    <mxGraphModel dx="472" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="674" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="73Jti63QLcTPkXVLQlRy-1" value="Anemias Microciticas" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="80" y="40" width="260" height="40" as="geometry" />
+        <mxCell id="73Jti63QLcTPkXVLQlRy-1" value="Anemias&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="80" y="40" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="73Jti63QLcTPkXVLQlRy-3" value="Hb" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#660000;strokeWidth=11;fontSize=19;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="89" y="193" width="100" height="100" as="geometry" />
@@ -103,7 +103,7 @@
         <mxCell id="73Jti63QLcTPkXVLQlRy-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="73Jti63QLcTPkXVLQlRy-40" target="73Jti63QLcTPkXVLQlRy-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="73Jti63QLcTPkXVLQlRy-40" value="Megalobasticas" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="73Jti63QLcTPkXVLQlRy-40" value="Megalobasticas" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="80" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="73Jti63QLcTPkXVLQlRy-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="73Jti63QLcTPkXVLQlRy-41" target="73Jti63QLcTPkXVLQlRy-45" edge="1">
@@ -112,8 +112,11 @@
         <mxCell id="73Jti63QLcTPkXVLQlRy-41" value="No megaloblasticas" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="990" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pxykGlDc7MtHIHAwk9MH-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="73Jti63QLcTPkXVLQlRy-43" target="pxykGlDc7MtHIHAwk9MH-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="73Jti63QLcTPkXVLQlRy-43" value="Deficit B9 o B12" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="249" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="73Jti63QLcTPkXVLQlRy-45" value="Hipotiroidismo&lt;br&gt;Hepatopatias&lt;br&gt;Sx Mielodisplasicos" style="whiteSpace=wrap;html=1;rounded=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="280" y="990" width="120" height="60" as="geometry" />
@@ -257,6 +260,15 @@
         </mxCell>
         <mxCell id="pxykGlDc7MtHIHAwk9MH-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="510" y="585" width="39" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pxykGlDc7MtHIHAwk9MH-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxykGlDc7MtHIHAwk9MH-59" target="pxykGlDc7MtHIHAwk9MH-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxykGlDc7MtHIHAwk9MH-59" value="Crecen todas las series pero la mas evidente es la roja" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="410" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pxykGlDc7MtHIHAwk9MH-61" value="VCM &amp;gt;110&lt;br&gt;Frotis hay macroovalocitos y granulocitos con nucleo hipersegmentado" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="580" y="850" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
