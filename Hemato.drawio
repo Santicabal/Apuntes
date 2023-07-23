@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T22:14:17.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5YMM7-2fJsAN-a4C9RfU" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-23T22:36:20.344Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Lf2YW9d9g8v90EScqUlj" version="21.6.5" type="github">
   <diagram name="Page-1" id="xC1T5dPMzcvkAjgWcqzF">
     <mxGraphModel dx="944" dy="1508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -340,10 +340,10 @@
         <mxCell id="pxykGlDc7MtHIHAwk9MH-80" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3700CC;fontColor=#ffffff;strokeColor=#3700CC;strokeWidth=3;flipV=0;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="736" y="1118" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pxykGlDc7MtHIHAwk9MH-81" value="" style="curved=1;endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;endFill=0;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=3;" edge="1" parent="1" target="pxykGlDc7MtHIHAwk9MH-80">
+        <mxCell id="pxykGlDc7MtHIHAwk9MH-81" value="" style="curved=1;endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;endFill=0;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="787.0710678118654" y="1099.9289321881345" as="sourcePoint" />
-            <mxPoint x="748.0710678118553" y="1109.9289321881447" as="targetPoint" />
+            <mxPoint x="756" y="1126" as="targetPoint" />
             <Array as="points">
               <mxPoint x="786" y="1105.9289321881347" />
               <mxPoint x="796" y="1115.9289321881347" />
@@ -418,7 +418,7 @@
             <mxRectangle width="97" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pxykGlDc7MtHIHAwk9MH-112" value="Metabolico" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#56517e;fontSize=16;fillColor=#d0cee2;" vertex="1" parent="1">
+        <mxCell id="pxykGlDc7MtHIHAwk9MH-112" value="Metabolico" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#3700CC;fontSize=16;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="329" y="1530" width="290" height="104" as="geometry" />
         </mxCell>
         <mxCell id="pxykGlDc7MtHIHAwk9MH-113" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="pxykGlDc7MtHIHAwk9MH-112">
@@ -457,7 +457,7 @@
             <mxRectangle width="97" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pxykGlDc7MtHIHAwk9MH-121" value="Sintesis de globina" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#ae4132;fontSize=16;fillColor=#fad9d5;" vertex="1" parent="1">
+        <mxCell id="pxykGlDc7MtHIHAwk9MH-121" value="Sintesis de globina" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#3A5431;fontSize=16;fillColor=#6d8764;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="329" y="1650" width="290" height="104" as="geometry" />
         </mxCell>
         <mxCell id="pxykGlDc7MtHIHAwk9MH-122" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="pxykGlDc7MtHIHAwk9MH-121">
@@ -481,7 +481,7 @@
         <mxCell id="pxykGlDc7MtHIHAwk9MH-126" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="pxykGlDc7MtHIHAwk9MH-121">
           <mxGeometry y="62" width="290" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="pxykGlDc7MtHIHAwk9MH-127" value="Esplenomegalia" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rowspan=1;colspan=3;" vertex="1" parent="pxykGlDc7MtHIHAwk9MH-126">
+        <mxCell id="pxykGlDc7MtHIHAwk9MH-127" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rowspan=1;colspan=3;" vertex="1" parent="pxykGlDc7MtHIHAwk9MH-126">
           <mxGeometry width="290" height="42" as="geometry">
             <mxRectangle width="97" height="42" as="alternateBounds" />
           </mxGeometry>
@@ -496,8 +496,11 @@
             <mxRectangle width="97" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pxykGlDc7MtHIHAwk9MH-130" value="Hemolitica" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="pxykGlDc7MtHIHAwk9MH-130" value="Hemolitica" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="81" y="1552" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pxykGlDc7MtHIHAwk9MH-132" value="Falciforme&lt;br&gt;Crisis de dolor, infartos, sindromes toracicos, priapismo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="1770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
