@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T15:29:59.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="z6-628YUHjk5fcvJC1Bh" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-23T16:01:03.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2pC5kfzd1Qp_fhrt3h1L" version="21.6.5" type="github">
   <diagram name="Page-1" id="xC1T5dPMzcvkAjgWcqzF">
-    <mxGraphModel dx="472" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="787" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,13 +128,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pxykGlDc7MtHIHAwk9MH-1" value="Poca celularidad de progenitores en M.O" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="81" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pxykGlDc7MtHIHAwk9MH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxykGlDc7MtHIHAwk9MH-2" target="pxykGlDc7MtHIHAwk9MH-4">
+        <mxCell id="pxykGlDc7MtHIHAwk9MH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxykGlDc7MtHIHAwk9MH-10" target="pxykGlDc7MtHIHAwk9MH-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pxykGlDc7MtHIHAwk9MH-2" value="Causas&lt;br&gt;Autoinmune" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="241" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pxykGlDc7MtHIHAwk9MH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxykGlDc7MtHIHAwk9MH-4" target="pxykGlDc7MtHIHAwk9MH-6">
           <mxGeometry relative="1" as="geometry" />
@@ -145,13 +145,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pxykGlDc7MtHIHAwk9MH-4" value="BH&lt;br&gt;Pancitopenia&lt;br&gt;Aspirado&lt;br&gt;↓ celulas" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="910" width="80" height="80" as="geometry" />
+          <mxGeometry x="561" y="910" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pxykGlDc7MtHIHAwk9MH-6" value="Biopsia M.O" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="910" width="80" height="80" as="geometry" />
+          <mxGeometry x="741" y="910" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pxykGlDc7MtHIHAwk9MH-9" value="Retis en 0 es aplasia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pxykGlDc7MtHIHAwk9MH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxykGlDc7MtHIHAwk9MH-2" target="pxykGlDc7MtHIHAwk9MH-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="361" y="950" as="sourcePoint" />
+            <mxPoint x="561" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pxykGlDc7MtHIHAwk9MH-10" value="Sx anemico, infecciones y hemorragias SIN megalias" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pxykGlDc7MtHIHAwk9MH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="pxykGlDc7MtHIHAwk9MH-12" target="pxykGlDc7MtHIHAwk9MH-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxykGlDc7MtHIHAwk9MH-12" value="Trasplante" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pxykGlDc7MtHIHAwk9MH-14" value="GAT + Ciclosporina" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pxykGlDc7MtHIHAwk9MH-16" value="40 años" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="274" y="1038" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
