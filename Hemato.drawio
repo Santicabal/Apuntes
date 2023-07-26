@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T17:52:57.936Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MDOIk9KfnXuc8jpBvpE2" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T17:56:21.284Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="UoANWqgz88XSTeYIQkbT" version="21.6.5" type="github">
   <diagram name="Page-1" id="xC1T5dPMzcvkAjgWcqzF">
     <mxGraphModel dx="699" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -506,25 +506,25 @@
           <mxGeometry x="81" y="2540" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-3" value="Alteracion en M.O de formacion de 1-3 lineas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="120" y="2640" width="120" height="60" as="geometry" />
+          <mxGeometry x="127" y="2620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-4" value="% de Blastos dice si es o no Leucemia&lt;br&gt;SMD = &amp;lt;19%&lt;br&gt;Leucemia = &amp;gt;20%" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="271" y="2640" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="2620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-5" value="&lt;ul&gt;&lt;li&gt;Anemia macro ↓ Retis&lt;/li&gt;&lt;li&gt;Blastos &amp;lt;19%&lt;/li&gt;&lt;li&gt;Puede tener ↓ cualquir linea pero si hay ↑&lt;/li&gt;&lt;li&gt;Plaq = SMD del 5q&lt;/li&gt;&lt;li&gt;Frotis hay neutrofilos hiposegmentados&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingLeft=-20;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="408" y="2720" width="150" height="130" as="geometry" />
+          <mxGeometry x="458" y="2801" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-6" value="Que se ve en BH y frotis?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="443" y="2630" width="80" height="80" as="geometry" />
+          <mxGeometry x="493" y="2711" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-7" value="Caso clinico?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="592" y="2640" width="100" height="60" as="geometry" />
+          <mxGeometry x="311" y="2721" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-8" value="&lt;ul&gt;&lt;li&gt;Viejitos&lt;/li&gt;&lt;li&gt;Sx anemico&lt;/li&gt;&lt;li&gt;Infecciones&lt;/li&gt;&lt;li&gt;Hemorragias&lt;/li&gt;&lt;li&gt;25% tiene alguna autoinmunidad&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingLeft=-20;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="567" y="2720" width="150" height="130" as="geometry" />
+          <mxGeometry x="286" y="2801" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-10" value="Pronostico" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="2740" width="140" height="210" as="geometry" />
+          <mxGeometry x="117" y="2721" width="140" height="210" as="geometry" />
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-11" value="Sideroblastos en anillo es buen signo" style="text;strokeColor=#36393d;fillColor=#cdeb8b;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZE_jgSUsJ4w7CjUMQWtj-10">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -545,10 +545,10 @@
           <mxGeometry y="180" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-17" value="Tx" style="rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;spacingLeft=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="440" y="2880" width="80" height="80" as="geometry" />
+          <mxGeometry x="665" y="2707" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-19" value="&lt;ul&gt;&lt;li&gt;Alotrasplante es curativo pero casi nadie es apto&lt;/li&gt;&lt;li&gt;Azacitidina&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Hb&amp;lt;10 + Blastos &amp;gt;5%&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Ertropoyetina&lt;/li&gt;&lt;li&gt;Lenalidomida en del 5q&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingLeft=-20;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;spacingTop=-8;" vertex="1" parent="1">
-          <mxGeometry x="405" y="2974" width="150" height="130" as="geometry" />
+          <mxGeometry x="630" y="2801" width="150" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
