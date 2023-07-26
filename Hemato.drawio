@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T17:30:19.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="UkRebq1cJryP18FCI4uM" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T17:37:06.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EvVd8Rky_8HAzqD0NQpC" version="21.6.5" type="github">
   <diagram name="Page-1" id="xC1T5dPMzcvkAjgWcqzF">
     <mxGraphModel dx="699" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -508,10 +508,10 @@
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-3" value="Alteracion en M.O de formacion de 1-3 lineas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="2640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-4" value="% de Blastos dice si es o no Leucemia&lt;br&gt;SMD = 5-19%&lt;br&gt;Leucemia = &amp;gt;20%" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-4" value="% de Blastos dice si es o no Leucemia&lt;br&gt;SMD = &amp;lt;19%&lt;br&gt;Leucemia = &amp;gt;20%" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="271" y="2640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-5" value="&lt;ul&gt;&lt;li&gt;Anemia macro ↓ Retis&lt;/li&gt;&lt;li&gt;Blastos 5-19%&lt;/li&gt;&lt;li&gt;Puede tener ↓ cualquir linea pero si hay ↑&lt;/li&gt;&lt;li&gt;Plaq = SMD del 5q&lt;/li&gt;&lt;li&gt;Frotis hay neutrofilos hiposegmentados&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingLeft=-20;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-5" value="&lt;ul&gt;&lt;li&gt;Anemia macro ↓ Retis&lt;/li&gt;&lt;li&gt;Blastos &amp;lt;19%&lt;/li&gt;&lt;li&gt;Puede tener ↓ cualquir linea pero si hay ↑&lt;/li&gt;&lt;li&gt;Plaq = SMD del 5q&lt;/li&gt;&lt;li&gt;Frotis hay neutrofilos hiposegmentados&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingLeft=-20;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="408" y="2720" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-6" value="Que se ve en BH y frotis?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
@@ -522,6 +522,27 @@
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-8" value="&lt;ul&gt;&lt;li&gt;Viejitos&lt;/li&gt;&lt;li&gt;Sx anemico&lt;/li&gt;&lt;li&gt;Infecciones&lt;/li&gt;&lt;li&gt;Hemorragias&lt;/li&gt;&lt;li&gt;25% tiene autoinmunidad&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingLeft=-20;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="567" y="2720" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-10" value="Pronostico" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2740" width="140" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-11" value="Sideroblastos en anillo es buen signo" style="text;strokeColor=#36393d;fillColor=#cdeb8b;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZE_jgSUsJ4w7CjUMQWtj-10">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-12" value="Severidad de citopenias" style="text;strokeColor=#36393d;fillColor=#cdeb8b;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZE_jgSUsJ4w7CjUMQWtj-10">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-13" value="Cantidad de blastos" style="text;strokeColor=#36393d;fillColor=#cdeb8b;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZE_jgSUsJ4w7CjUMQWtj-10">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-14" value="Del 5q buen pronostico" style="text;strokeColor=#36393d;fillColor=#cdeb8b;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZE_jgSUsJ4w7CjUMQWtj-10">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-15" value="Bajo riesgo viven 6 años" style="text;strokeColor=#36393d;fillColor=#cdeb8b;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZE_jgSUsJ4w7CjUMQWtj-10">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-16" value="Alto riesgo 1.5 años" style="text;strokeColor=#36393d;fillColor=#cdeb8b;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZE_jgSUsJ4w7CjUMQWtj-10">
+          <mxGeometry y="180" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
