@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T21:45:01.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="A9tkMBLr0okn8BLtKd2x" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T21:49:54.982Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Z4WtZJIkeB6nPtuylGFG" version="21.6.5" type="github">
   <diagram name="Page-1" id="xC1T5dPMzcvkAjgWcqzF">
     <mxGraphModel dx="699" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -759,8 +759,11 @@
             <mxRectangle width="83" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TzV9Z8EnyOH-VbIkAy4E-30" value="Pronostico&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Lo mas importante es la variedad genetica&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Buen pronostico&lt;/li&gt;&lt;ul&gt;&lt;li&gt;t(15,17), t(8,21),&amp;nbsp; t(16,16) inv(6,9)&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Mal pronostico&lt;/li&gt;&lt;ul&gt;&lt;li&gt;t(3,3) t(6,9) t(v,11)&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;div&gt;Otros datos de pronostico:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Edad &amp;gt; 60&lt;/li&gt;&lt;li&gt;Leucos al Dx &amp;gt; 20,000&lt;/li&gt;&lt;li&gt;No alcanzar remision en ciclo de induccion&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="TzV9Z8EnyOH-VbIkAy4E-30" value="Pronostico Mielociticas&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Lo mas importante es la variedad genetica&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Buen pronostico&lt;/li&gt;&lt;ul&gt;&lt;li&gt;t(15,17), t(8,21),&amp;nbsp; t(16,16) inv(6,9)&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Mal pronostico&lt;/li&gt;&lt;ul&gt;&lt;li&gt;t(3,3) t(6,9) t(v,11)&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;div&gt;Otros datos de pronostico:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Edad &amp;gt; 60&lt;/li&gt;&lt;li&gt;Leucos al Dx &amp;gt; 20,000&lt;/li&gt;&lt;li&gt;No alcanzar remision en ciclo de induccion&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="560" y="3600" width="190" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="TzV9Z8EnyOH-VbIkAy4E-31" value="Pronostico Linfociticas&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Lo mas importante es respuesta al Tx&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mal pronostico&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Leucos &amp;gt;50,000&lt;/li&gt;&lt;li&gt;&amp;lt; de 1 año y &amp;gt; 9 años&lt;/li&gt;&lt;li&gt;Adultos &amp;gt; 30 años&lt;/li&gt;&lt;li&gt;t(9,22) Philadelphia&lt;/li&gt;&lt;li&gt;Hipoploidia&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="565" y="3890" width="190" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
