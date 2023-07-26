@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T19:20:52.833Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="VkRL4ZXDnPoj0NNLY-hj" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T19:25:11.850Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RynUeyPAlPV-we9VRh_p" version="21.6.5" type="github">
   <diagram name="Page-1" id="xC1T5dPMzcvkAjgWcqzF">
     <mxGraphModel dx="699" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -554,16 +554,16 @@
           <mxGeometry x="81" y="3040" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-23" value="Aqui es lo opuesto, hay mas celulas en vez de citopenias" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="117" y="3120" width="120" height="60" as="geometry" />
+          <mxGeometry x="83" y="3120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-25" value="Px con esplenomegalia + ↑ alguna linea" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="3120" width="120" height="60" as="geometry" />
+          <mxGeometry x="223" y="3120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-26" value="Neoplasias mieloproliferativas" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#006EAF;fontSize=16;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="430" y="3120" width="493" height="241" as="geometry" />
+        <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-26" value="Neoplasias mieloproliferativas" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#006EAF;fontSize=16;fillColor=#1ba1e2;fontColor=#ffffff;spacingLeft=0;" vertex="1" parent="1">
+          <mxGeometry x="351" y="3120" width="469" height="241" as="geometry" />
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-27" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="ZE_jgSUsJ4w7CjUMQWtj-26">
-          <mxGeometry y="30" width="493" height="52" as="geometry" />
+          <mxGeometry y="30" width="469" height="52" as="geometry" />
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-28" value="Policitemia Vera" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#ffcc99;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ZE_jgSUsJ4w7CjUMQWtj-27">
           <mxGeometry width="123" height="52" as="geometry">
@@ -580,13 +580,13 @@
             <mxRectangle width="123" height="52" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-56" value="Hidroxiurea&lt;br&gt;Interferon alfa&lt;br&gt;Ruxolitinib" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#ffcc99;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;rowspan=3;colspan=1;" vertex="1" parent="ZE_jgSUsJ4w7CjUMQWtj-27">
-          <mxGeometry x="370" width="123" height="160" as="geometry">
-            <mxRectangle width="123" height="52" as="alternateBounds" />
+        <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-56" value="&lt;ul&gt;&lt;li&gt;Hidroxiurea&lt;/li&gt;&lt;li&gt;Interferon alfa&lt;/li&gt;&lt;li&gt;Ruxolitinib&lt;/li&gt;&lt;li&gt;AAS (PV, TE)&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#2D7600;overflow=hidden;fillColor=#60a917;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;rowspan=3;colspan=1;fontColor=#ffffff;spacingLeft=-20;" vertex="1" parent="ZE_jgSUsJ4w7CjUMQWtj-27">
+          <mxGeometry x="370" width="99" height="160" as="geometry">
+            <mxRectangle width="99" height="52" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-31" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="ZE_jgSUsJ4w7CjUMQWtj-26">
-          <mxGeometry y="82" width="493" height="53" as="geometry" />
+          <mxGeometry y="82" width="469" height="53" as="geometry" />
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-32" value="Trobocitemia Escencial" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ZE_jgSUsJ4w7CjUMQWtj-31">
           <mxGeometry width="123" height="53" as="geometry">
@@ -604,12 +604,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-57" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" visible="0" parent="ZE_jgSUsJ4w7CjUMQWtj-31">
-          <mxGeometry x="370" width="123" height="53" as="geometry">
-            <mxRectangle width="123" height="53" as="alternateBounds" />
+          <mxGeometry x="370" width="99" height="53" as="geometry">
+            <mxRectangle width="99" height="53" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-35" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="ZE_jgSUsJ4w7CjUMQWtj-26">
-          <mxGeometry y="135" width="493" height="55" as="geometry" />
+          <mxGeometry y="135" width="469" height="55" as="geometry" />
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-36" value="Mielofibrosis primaria" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#ffff88;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ZE_jgSUsJ4w7CjUMQWtj-35">
           <mxGeometry width="123" height="55" as="geometry">
@@ -627,12 +627,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-58" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#ffff88;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" visible="0" parent="ZE_jgSUsJ4w7CjUMQWtj-35">
-          <mxGeometry x="370" width="123" height="55" as="geometry">
-            <mxRectangle width="123" height="55" as="alternateBounds" />
+          <mxGeometry x="370" width="99" height="55" as="geometry">
+            <mxRectangle width="99" height="55" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-42" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="ZE_jgSUsJ4w7CjUMQWtj-26">
-          <mxGeometry y="190" width="493" height="51" as="geometry" />
+          <mxGeometry y="190" width="469" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-43" value="Leucemia Mieloide Cronica" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#B20000;overflow=hidden;fillColor=#e51400;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#ffffff;" vertex="1" parent="ZE_jgSUsJ4w7CjUMQWtj-42">
           <mxGeometry width="123" height="51" as="geometry">
@@ -650,12 +650,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-59" value="Imatinib" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#B20000;overflow=hidden;fillColor=#e51400;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;fontColor=#ffffff;" vertex="1" parent="ZE_jgSUsJ4w7CjUMQWtj-42">
-          <mxGeometry x="370" width="123" height="51" as="geometry">
-            <mxRectangle width="123" height="51" as="alternateBounds" />
+          <mxGeometry x="370" width="99" height="51" as="geometry">
+            <mxRectangle width="99" height="51" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-51" value="Sintomas B: Fiebre, sudor ↓ peso" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="3210" width="120" height="60" as="geometry" />
+          <mxGeometry x="223" y="3210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-52" value="Tx" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="137" y="3250" width="80" height="80" as="geometry" />
@@ -664,7 +664,7 @@
           <mxGeometry x="117" y="3330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-55" value="El gen del cromosoma filadelfia es ABL 1 y el imatinib lo inhibe" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="264" y="3291" width="140" height="70" as="geometry" />
+          <mxGeometry x="117" y="3420" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
