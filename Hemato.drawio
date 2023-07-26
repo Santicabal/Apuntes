@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T19:50:27.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tOofV79SZEceOCPg-FI5" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T21:15:15.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="11u_IUddzvT8p8knOJp5" version="21.6.5" type="github">
   <diagram name="Page-1" id="xC1T5dPMzcvkAjgWcqzF">
     <mxGraphModel dx="699" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -662,6 +662,27 @@
         </mxCell>
         <mxCell id="ZE_jgSUsJ4w7CjUMQWtj-61" value="&amp;nbsp;Complicaciones trombosis o hemorragias graves" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;strokeWidth=2;spacing=14;" parent="1" vertex="1">
           <mxGeometry x="223" y="3300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TzV9Z8EnyOH-VbIkAy4E-2" value="Leucemias Agudas" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3460" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TzV9Z8EnyOH-VbIkAy4E-4" value="Blastos M.O &amp;gt; 20%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="117" y="3550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TzV9Z8EnyOH-VbIkAy4E-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TzV9Z8EnyOH-VbIkAy4E-5" target="TzV9Z8EnyOH-VbIkAy4E-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TzV9Z8EnyOH-VbIkAy4E-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TzV9Z8EnyOH-VbIkAy4E-5" target="TzV9Z8EnyOH-VbIkAy4E-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TzV9Z8EnyOH-VbIkAy4E-5" value="Clinica" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="257" y="3550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TzV9Z8EnyOH-VbIkAy4E-6" value="Fallo de M.O&lt;br&gt;Anemias, Infecciones y hemorragias" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="3500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TzV9Z8EnyOH-VbIkAy4E-8" value="&quot;Metastasis&quot;&lt;br&gt;Infiltraciones en organos que causan fallos, Insf reanl, hepatica, EVC, etc&lt;br&gt;Megalias" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="425" y="3610" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
