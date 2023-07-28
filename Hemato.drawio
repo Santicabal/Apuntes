@@ -1,14 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T10:43:08.059Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="GgwPa5L2bmBjfy0wPWM4" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-28T23:38:20.784Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="Sy0xOLlcTcyJ4V9FZDvn" version="21.5.2" type="github">
   <diagram name="Page-1" id="xC1T5dPMzcvkAjgWcqzF">
-    <mxGraphModel dx="1312" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1406" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-47" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="5080" width="180" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-25" value="Fase media" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;verticalAlign=top;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="485" y="4360" width="180" height="470" as="geometry" />
+          <mxGeometry x="485" y="4459" width="180" height="470" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-24" value="Fase inicial" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;verticalAlign=top;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="290" y="4360" width="180" height="470" as="geometry" />
+          <mxGeometry x="290" y="4459" width="180" height="470" as="geometry" />
         </mxCell>
         <mxCell id="pxykGlDc7MtHIHAwk9MH-92" value="Hiper-segmentado" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="703" y="1007" width="120" height="160" as="geometry" />
@@ -670,38 +673,38 @@
           <mxGeometry x="223" y="3300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TzV9Z8EnyOH-VbIkAy4E-2" value="Leucemias Agudas" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="81" y="3720" width="260" height="40" as="geometry" />
+          <mxGeometry x="81" y="3819" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TzV9Z8EnyOH-VbIkAy4E-4" value="Blastos M.O &amp;gt; 20%" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
-          <mxGeometry x="118" y="3824" width="120" height="60" as="geometry" />
+          <mxGeometry x="118" y="3923" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TzV9Z8EnyOH-VbIkAy4E-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TzV9Z8EnyOH-VbIkAy4E-5" target="TzV9Z8EnyOH-VbIkAy4E-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="401" y="3854" />
-              <mxPoint x="401" y="3790" />
+              <mxPoint x="401" y="3953" />
+              <mxPoint x="401" y="3889" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TzV9Z8EnyOH-VbIkAy4E-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TzV9Z8EnyOH-VbIkAy4E-5" target="TzV9Z8EnyOH-VbIkAy4E-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="401" y="3854" />
-              <mxPoint x="401" y="3920" />
+              <mxPoint x="401" y="3953" />
+              <mxPoint x="401" y="4019" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TzV9Z8EnyOH-VbIkAy4E-5" value="Clinica" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
-          <mxGeometry x="258" y="3824" width="120" height="60" as="geometry" />
+          <mxGeometry x="258" y="3923" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TzV9Z8EnyOH-VbIkAy4E-6" value="Fallo de M.O&lt;br&gt;Anemias, Infecciones y hemorragias" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
-          <mxGeometry x="426" y="3760" width="120" height="60" as="geometry" />
+          <mxGeometry x="426" y="3859" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TzV9Z8EnyOH-VbIkAy4E-8" value="&quot;Metastasis&quot;&lt;br&gt;Infiltraciones en organos que causan fallos, Insf reanl, hepatica, EVC, etc&lt;br&gt;Megalias" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=top;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
-          <mxGeometry x="426" y="3870" width="120" height="100" as="geometry" />
+          <mxGeometry x="426" y="3969" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TzV9Z8EnyOH-VbIkAy4E-10" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="110.5" y="3990" width="363" height="220" as="geometry" />
+          <mxGeometry x="110.5" y="4089" width="363" height="220" as="geometry" />
         </mxCell>
         <mxCell id="TzV9Z8EnyOH-VbIkAy4E-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="TzV9Z8EnyOH-VbIkAy4E-10" vertex="1">
           <mxGeometry width="363" height="60" as="geometry" />
@@ -758,10 +761,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TzV9Z8EnyOH-VbIkAy4E-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Pronostico Mielociticas&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Lo mas importante es la variedad genetica&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Buen pronostico&lt;/li&gt;&lt;ul&gt;&lt;li&gt;t(15,17), t(8,21),&amp;nbsp; t(16,16) inv(6,9)&lt;/li&gt;&lt;li&gt;Osea M2, M3&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Mal pronostico&lt;/li&gt;&lt;ul&gt;&lt;li&gt;t(3,3) t(6,9) t(v,11)&lt;/li&gt;&lt;li&gt;Osea M 0, 5, 6 y 7&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;div&gt;Otros datos de pronostico:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Edad &amp;gt; 60&lt;/li&gt;&lt;li&gt;Leucos al Dx &amp;gt; 20,000&lt;/li&gt;&lt;li&gt;No alcanzar remision en ciclo de induccion&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="561" y="3750" width="190" height="290" as="geometry" />
+          <mxGeometry x="561" y="3849" width="190" height="290" as="geometry" />
         </mxCell>
         <mxCell id="TzV9Z8EnyOH-VbIkAy4E-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Pronostico Linfociticas&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Lo mas importante es respuesta al Tx&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mal pronostico&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Leucos &amp;gt;50,000&lt;/li&gt;&lt;li&gt;&amp;lt; de 1 año y &amp;gt; 9 años&lt;/li&gt;&lt;li&gt;Adultos &amp;gt; 30 años&lt;/li&gt;&lt;li&gt;t(9,22) Philadelphia&lt;/li&gt;&lt;li&gt;Hipoploidia&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="563" y="4050" width="190" height="180" as="geometry" />
+          <mxGeometry x="563" y="4149" width="190" height="180" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-1" value="&lt;div&gt;Pronostico&lt;/div&gt;&lt;div&gt;Remiten el 90% de LMC&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="352.5" y="3370" width="120" height="60" as="geometry" />
@@ -769,13 +772,13 @@
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-2" value="Leucemia Linfocitica Crónica" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="83" y="3460" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-4" value="La mas comun de todas y en adultos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-4" value="La mas comun de todas y en adultos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="117" y="3520" width="123" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-5" target="8JVbl4d7tyo6c1ldZ0Sn-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-5" value="Aparece acompañado de otras afectacione autoinmunes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-5" value="Aparece acompañado de otras afectacione autoinmunes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="271" y="3520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-6" value="&lt;div&gt;A recordar:&lt;/div&gt;&lt;div&gt;Son asintomaticos y no llevan tratamiento&lt;/div&gt;&lt;div&gt;Tienen ↓IgG&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;" vertex="1" parent="1">
@@ -784,68 +787,136 @@
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-7" value="Viejo de 70 con sintomas B, &amp;gt; 5,000 linf B" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;strokeWidth=2;spacing=14;" vertex="1" parent="1">
           <mxGeometry x="117" y="3620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-8" value="&lt;div&gt;Clasificacion riesgo RAI&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;0 Bajo 1-2 Medio 3-4 Alto&lt;br&gt;&lt;/div&gt;&lt;div&gt;0: Linfocitos &amp;gt;15,000&lt;/div&gt;&lt;div&gt;1: Linfos + adenopatia&lt;/div&gt;&lt;div&gt;2: Linfos + Hepato/ Espleno&lt;/div&gt;&lt;div&gt;3: Linfos + Anemia &amp;lt;11&lt;/div&gt;&lt;div&gt;4: Linfos + Tromopenia&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-8" value="&lt;div&gt;Clasificacion riesgo RAI&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;0 Bajo 1-2 Medio 3-4 Alto&lt;br&gt;&lt;/div&gt;&lt;div&gt;0: Linfocitos &amp;gt;15,000&lt;/div&gt;&lt;div&gt;1: Linfos + adenopatia&lt;/div&gt;&lt;div&gt;2: Linfos + Hepato/ Espleno&lt;/div&gt;&lt;div&gt;3: Linfos + Anemia &amp;lt;11&lt;/div&gt;&lt;div&gt;4: Linfos + Tromopenia&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="571" y="3510" width="178" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-9" value="Canceres Linfoides" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="80" y="4290" width="260" height="40" as="geometry" />
+          <mxGeometry x="80" y="4389" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-11" target="8JVbl4d7tyo6c1ldZ0Sn-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-11" value="Leucemias" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="120" y="4400" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="4499" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-12" target="8JVbl4d7tyo6c1ldZ0Sn-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-12" value="Linfomas" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="117" y="4520" width="120" height="60" as="geometry" />
+          <mxGeometry x="117" y="4619" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-13" target="8JVbl4d7tyo6c1ldZ0Sn-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-13" value="Mielomas" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="117" y="4640" width="120" height="60" as="geometry" />
+          <mxGeometry x="117" y="4739" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-14" target="8JVbl4d7tyo6c1ldZ0Sn-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-14" value="↑ Linfos en sangre" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="4400" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="4499" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-16" target="8JVbl4d7tyo6c1ldZ0Sn-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-16" value="Adenopatias" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="317" y="4520" width="120" height="60" as="geometry" />
+          <mxGeometry x="317" y="4619" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-18" value="&lt;div&gt;Afecta huesos&lt;/div&gt;&lt;div&gt;No hay linfocitosis nii megalias&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="317" y="4640" width="120" height="60" as="geometry" />
+          <mxGeometry x="317" y="4739" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-20" value="Invade organos y ganglios" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="4400" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="4499" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-22" value="&lt;div&gt;Expresion en sangre del linfoma &lt;br&gt;&lt;/div&gt;&lt;div&gt;(↑ Linfos)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="517" y="4520" width="120" height="60" as="geometry" />
+          <mxGeometry x="517" y="4619" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-26" value="Se diferencias porque en esta fase estas enfermedade no comparten esas caracteristicas" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;spacing=15;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry x="303" y="4730" width="155" height="90" as="geometry" />
+          <mxGeometry x="303" y="4829" width="155" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-27" value="Aqui son indistinguibles porque tienen linfos y adenopatias. tengo que usar citometria para diferencial" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;spacing=15;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry x="496" y="4630" width="155" height="90" as="geometry" />
+          <mxGeometry x="496" y="4729" width="155" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-28" value="Esteroides" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-28" value="Esteroides" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="291" y="3620" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-30" value="Leucemia: CD5, CD19, CD20, CD23" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;spacing=15;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry x="496" y="4730" width="155" height="90" as="geometry" />
+          <mxGeometry x="496" y="4829" width="155" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-31" value="No Tx a menos que haya fallo M.O con citopenias" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-31" value="No Tx a menos que haya fallo M.O con citopenias" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="421" y="3520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-32" value="Linfoma Hodgkin" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="81" y="4910" width="260" height="40" as="geometry" />
+          <mxGeometry x="81" y="5009" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-34" target="8JVbl4d7tyo6c1ldZ0Sn-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-34" value="Leucemia de celulas peludas" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="117" y="3730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-35" target="8JVbl4d7tyo6c1ldZ0Sn-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-39" value="&lt;div&gt;Fase &lt;br&gt;&lt;/div&gt;&lt;div&gt;Avanzada&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8JVbl4d7tyo6c1ldZ0Sn-38">
+          <mxGeometry x="-0.301" y="1" relative="1" as="geometry">
+            <mxPoint x="10" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-35" value="Asintomaticos o con esplenomegalia" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="286" y="3730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-37" target="8JVbl4d7tyo6c1ldZ0Sn-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-37" value="Fallo M.O (Citopenias)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="500" y="3730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-40" target="8JVbl4d7tyo6c1ldZ0Sn-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-40" value="Aspirado M.O Seco" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="657" y="3720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-42" value="Cladribina" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="767" y="3720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-44" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Adenopatias&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;Cervicales: 75%&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;Mediastino&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;Axilares&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;Sintomas B&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;Prurito&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Sx Hoster: Dolor de adenopatias a la ingesta de alcohol&lt;/b&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;verticalAlign=top;align=left;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="120" y="5080" width="180" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-45" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#6A00FF;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="360.5" y="5110" width="51.5" height="51.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-48" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6A00FF;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="376.25" y="5125.75" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-49" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#6A00FF;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="431.5" y="5111" width="51.5" height="51.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-50" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6A00FF;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="447.25" y="5126.75" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-51" value="Reed Stemberg" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="350" y="5208" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-52" target="8JVbl4d7tyo6c1ldZ0Sn-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-52" value="Clasico" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="553" y="5070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-53" target="8JVbl4d7tyo6c1ldZ0Sn-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-53" value="Predominio Linfocitico" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="553" y="5162.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-54" value="&lt;div&gt;CD20 Pos&lt;/div&gt;&lt;div&gt;CD15 y 30 Neg&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="753" y="5162.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-56" value="&lt;div&gt;CD20 Neg&lt;/div&gt;&lt;div&gt;CD15 y 30 Pos&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="753" y="5070" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
