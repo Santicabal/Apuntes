@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-29T13:38:19.641Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="uhkHgWPOqQV6GZjd0bcq" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-29T13:44:00.039Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="_yhrd-HRFIcsuwOQiBog" version="21.5.2" type="github">
   <diagram name="Page-1" id="xC1T5dPMzcvkAjgWcqzF">
     <mxGraphModel dx="895" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1149,7 +1149,7 @@
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-126" value="Cancer de celulas plasmaticas en viejitos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="82" y="6345" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-127" value="Dolor osea e hipercalcemia" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-127" value="Dolor oseo e hipercalcemia" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="249" y="6345" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-128" value="&lt;div&gt;IgG&lt;/div&gt;&lt;div&gt;IgA&lt;/div&gt;&lt;div&gt;IgM&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Plasmocitos&lt;/div&gt;&lt;div&gt;LinfoPlasmaticas&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;fillColor=#12AAB5;gradientColor=none;gradientDirection=east;strokeColor=none;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
@@ -1220,6 +1220,9 @@
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-176" value="Asintomatico" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="756" y="6300" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-177" value="&lt;div&gt;Se considera un &lt;br&gt;&lt;/div&gt;&lt;div&gt;linfoma no hodgkin&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="572" y="6725" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
