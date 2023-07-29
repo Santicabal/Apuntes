@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-29T12:05:24.095Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="L_bPcOGCAGvnTpqUI3ze" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-29T13:19:40.382Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="dJPHOnSbEI8PowAu9SUx" version="21.5.2" type="github">
   <diagram name="Page-1" id="xC1T5dPMzcvkAjgWcqzF">
-    <mxGraphModel dx="1093" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="895" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -834,7 +834,7 @@
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-16" value="Adenopatias" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="317" y="4619" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-18" value="&lt;div&gt;Afecta huesos&lt;/div&gt;&lt;div&gt;No hay linfocitosis nii megalias&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-18" value="&lt;div&gt;Afecta huesos&lt;/div&gt;&lt;div&gt;No hay linfocitosis ni megalias&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="317" y="4739" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-20" value="Invade organos y ganglios" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
@@ -1142,6 +1142,60 @@
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-124" value="Ciclofosfamida Hidroxydarroubicina Oncovin (Vincristina) Prednisona" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="692" y="6055" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-125" value="Mieloma" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="83" y="6250" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-126" value="Cancer de celulas plasmaticas en viejitos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="116" y="6320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-127" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="6320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-128" value="&lt;div&gt;IgG&lt;/div&gt;&lt;div&gt;IgA&lt;/div&gt;&lt;div&gt;IgM&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Plasmocitos&lt;/div&gt;&lt;div&gt;LinfoPlasmaticas&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;fillColor=#12AAB5;gradientColor=none;gradientDirection=east;strokeColor=none;html=1;fontColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="138.25" y="6480" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-129" value="&lt;div&gt;IgM&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;LinfoPlasmaticas" style="whiteSpace=wrap;fillColor=#12AAB5;gradientColor=none;gradientDirection=east;strokeColor=none;html=1;fontColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="552" y="6590" width="120" height="50.00000000000023" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-130" value="&lt;div&gt;IgG&lt;/div&gt;&lt;div&gt;IgA&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Plasmocitos&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;fillColor=#12AAB5;gradientColor=none;gradientDirection=east;strokeColor=none;html=1;fontColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="345" y="6530" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-132" value="" style="edgeStyle=none;html=1;fontColor=#000000;strokeWidth=3;strokeColor=#000000;rounded=0;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="78.25" y="6640" as="sourcePoint" />
+            <mxPoint x="78.25" y="6410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-139" value="" style="edgeStyle=none;html=1;fontColor=#000000;strokeWidth=3;strokeColor=#000000;rounded=0;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="78.25" y="6640" as="sourcePoint" />
+            <mxPoint x="698.25" y="6640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-141" value="GMSI" style="text;spacingTop=-5;align=center;verticalAlign=middle;fontStyle=0;html=1;fontSize=18;points=[];strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="138.25" y="6642" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-142" value="Mieloma" style="text;spacingTop=-5;align=center;verticalAlign=middle;fontStyle=0;html=1;fontSize=18;points=[];strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="338.25" y="6642" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-143" value="Macrogamaglobulinemia" style="text;spacingTop=-5;align=center;verticalAlign=middle;fontStyle=0;html=1;fontSize=18;points=[];strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="559" y="6642" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-158" value="Frecuencia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="6468" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-159" value="&lt;div&gt;&amp;lt; 3g/dl&lt;/div&gt;&lt;div&gt;&amp;lt; 500mg/24h&lt;/div&gt;&amp;lt; 10% celulas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="6423" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-160" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="345" y="6498" width="335" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-161" value="&lt;div&gt;&amp;gt; 3g/dl&lt;/div&gt;&lt;div&gt;&amp;gt; 500mg/24h&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; 10% celulas&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="6447" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-163" value="&lt;div&gt;Si me dicen:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Hay IgM → Descarto mieloma&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Hay celulas LP en M.O → Descarto mieloma&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Hay mas de 3g de IgG → Mieloma&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;(Juega con los escenarios)&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="261" y="6690" width="250" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
