@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-29T12:04:47.106Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="lGp9FO6GLUt9PHOttV9k" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-29T12:05:24.095Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="L_bPcOGCAGvnTpqUI3ze" version="21.5.2" type="github">
   <diagram name="Page-1" id="xC1T5dPMzcvkAjgWcqzF">
     <mxGraphModel dx="1093" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1129,19 +1129,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-119" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
-          <mxGeometry x="467" y="5820" width="53" height="380" as="geometry" />
+          <mxGeometry x="467" y="5820" width="53" height="370" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-120" value="Rituximab" style="rhombus;whiteSpace=wrap;html=1;align=center;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="590" y="5970" width="80" height="80" as="geometry" />
+          <mxGeometry x="593" y="5965" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-122" value="C H O P" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=3;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="691" y="5980" width="120" height="60" as="geometry" />
+          <mxGeometry x="694" y="5975" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-123" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="662" y="5993" width="30" height="30" as="geometry" />
+          <mxGeometry x="665" y="5988" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-124" value="Ciclofosfamida Hidroxydarroubicina Oncovin (Vincristina) Prednisona" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="689" y="6060" width="120" height="60" as="geometry" />
+          <mxGeometry x="692" y="6055" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
