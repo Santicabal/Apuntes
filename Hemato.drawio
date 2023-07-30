@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-30T10:26:57.544Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="mBKq6-6YdD1yXC-Zlbk5" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-30T10:51:04.131Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="FDlBkuzWZj4w2O_nFLJZ" version="21.5.2" type="github">
   <diagram name="Page-1" id="xC1T5dPMzcvkAjgWcqzF">
-    <mxGraphModel dx="1514" dy="974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1230" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1341,6 +1341,66 @@
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-220" value="El diagnostico es de exclusion. Trombopenia sin anemia ni leucopenia y sin otra causa aparente" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="180" y="7370" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-221" value="&lt;div&gt;Purpura Trombocitopenica Trombotica&lt;/div&gt;&lt;div&gt;y Sindrome Uremico Hemolitico&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="82" y="7570" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-225" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-223" target="8JVbl4d7tyo6c1ldZ0Sn-224">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-223" value="&lt;div&gt;Trombos de plaquetas&lt;/div&gt;&lt;div&gt;NO de fibrina&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="7650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-241" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-224" target="8JVbl4d7tyo6c1ldZ0Sn-240">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-224" value="Por eso NO se alteran los tiempos coagulacion" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="306" y="7650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-226" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=north;strokeColor=#FF0000;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="158.25" y="7800" width="321.75" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-227" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#990000;fillStyle=dots;sketch=1;strokeColor=none;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="7790" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-228" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#990000;fillStyle=dots;sketch=1;strokeColor=none;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="289" y="7800" width="68.25" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;dashed=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-229" target="8JVbl4d7tyo6c1ldZ0Sn-234">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-229" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=#FF0000;fillColor=#FFFFFF;gradientDirection=radial;strokeWidth=3;strokeColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="219" y="7808" width="31" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;dashed=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-230" target="8JVbl4d7tyo6c1ldZ0Sn-235">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-230" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=#FF0000;fillColor=#FFFFFF;gradientDirection=radial;strokeWidth=3;strokeColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="257" y="7834.5" width="31" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;dashed=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-231" target="8JVbl4d7tyo6c1ldZ0Sn-236">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-231" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=#FF0000;fillColor=#FFFFFF;gradientDirection=radial;strokeWidth=3;strokeColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="233" y="7860" width="31" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-234" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.6_point_star;gradientColor=#FF0000;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="381.5" y="7812.5" width="34.5" height="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-235" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.6_point_star;gradientColor=#FF0000;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="414.25" y="7839.25" width="34.5" height="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-236" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.6_point_star;gradientColor=#FF0000;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="390.5" y="7866.5" width="34.5" height="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-243" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-240" target="8JVbl4d7tyo6c1ldZ0Sn-242">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-240" value="&lt;div&gt;↓ ADAMST-13&lt;/div&gt;&lt;div&gt;(Este se encarga de disolver trombos)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="493" y="7650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-242" value="Los hematies chocan y se rompen haciendo hemolisis (↑LDH, BI)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="7650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
