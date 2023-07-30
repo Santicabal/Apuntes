@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-30T11:53:05.443Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="JHQpuxMkvwDuQmPYRTyJ" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-30T12:07:08.915Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="36FeUaY7wj5EiR2TxRGm" version="21.5.2" type="github">
   <diagram name="Page-1" id="xC1T5dPMzcvkAjgWcqzF">
-    <mxGraphModel dx="1158" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="895" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1603,14 +1603,62 @@
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-319" value="TP" style="shape=delay;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="427" y="8325" width="40" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-321" value="Si solo se alarga un tiempo queire decir que el problema esta en esa rama y no en la comun" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-321" value="Si solo se alarga un tiempo queire decir que el problema esta en esa rama y no en la comun" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="529" y="8320" width="151" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-322" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=west;rotation=330;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="246" y="8368" width="20" height="42" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-323" value="Hemofilia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="8390" width="70" height="22" as="geometry" />
+          <mxGeometry x="150" y="8380" width="90" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-324" value="Von. Wilebrand" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="8406" width="90" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-327" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-325" target="8JVbl4d7tyo6c1ldZ0Sn-326">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-325" value="↑ TTPa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="183.25" y="8620" width="102" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-329" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-326" target="8JVbl4d7tyo6c1ldZ0Sn-328">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="385" y="8580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-332" value="Profundo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8JVbl4d7tyo6c1ldZ0Sn-329">
+          <mxGeometry x="0.1306" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-331" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-326" target="8JVbl4d7tyo6c1ldZ0Sn-330">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="385" y="8710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-333" value="de plaquetas" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8JVbl4d7tyo6c1ldZ0Sn-331">
+          <mxGeometry x="0.201" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-326" value="Tipo de sangrado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="8620" width="102" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-328" value="Hemofilia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474.88" y="8560" width="102" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-335" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-330" target="8JVbl4d7tyo6c1ldZ0Sn-334">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-330" value="&lt;div&gt;Von Wilebrand&lt;/div&gt;&lt;div&gt;(Mas común)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="8690" width="102" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-334" value="Tiempo de sangrado ↑" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="612" y="8670" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
