@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-30T10:21:36.385Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="47eFErvowLh681hczC-T" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-30T10:26:57.544Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="mBKq6-6YdD1yXC-Zlbk5" version="21.5.2" type="github">
   <diagram name="Page-1" id="xC1T5dPMzcvkAjgWcqzF">
     <mxGraphModel dx="1514" dy="974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1290,8 +1290,11 @@
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-200" value="80%" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="492.5" y="6990" width="120" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-219" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-202" target="8JVbl4d7tyo6c1ldZ0Sn-205">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-202" value="Frotis con ↑Mega cariocitos" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="251" y="7270" width="80" height="80" as="geometry" />
+          <mxGeometry x="258.25" y="7270" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-208" value="Grave" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-205" target="8JVbl4d7tyo6c1ldZ0Sn-207">
           <mxGeometry relative="1" as="geometry" />
@@ -1321,6 +1324,9 @@
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-209" value="Sangrados atipicos de plaquetopenia " style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="455.5" y="7339" width="112" height="59" as="geometry" />
         </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-218" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-210" target="8JVbl4d7tyo6c1ldZ0Sn-202">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-210" value="Petequias y sanngrado menstrual abundante" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="83" y="7270" width="120" height="80" as="geometry" />
         </mxCell>
@@ -1332,6 +1338,9 @@
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-215" value="Esplenec tomia" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="393.5" y="7430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-220" value="El diagnostico es de exclusion. Trombopenia sin anemia ni leucopenia y sin otra causa aparente" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="180" y="7370" width="140" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
