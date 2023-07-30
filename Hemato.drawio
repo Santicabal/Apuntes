@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-30T12:07:08.915Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="36FeUaY7wj5EiR2TxRGm" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-30T12:12:40.262Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="VxM8ezw-0mTSPNH2Fkzg" version="21.5.2" type="github">
   <diagram name="Page-1" id="xC1T5dPMzcvkAjgWcqzF">
     <mxGraphModel dx="895" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1619,12 +1619,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-325" value="↑ TTPa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="183.25" y="8620" width="102" height="40" as="geometry" />
+          <mxGeometry x="70.25" y="8643" width="102" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-329" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-326" target="8JVbl4d7tyo6c1ldZ0Sn-328">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="385" y="8580" />
+              <mxPoint x="272" y="8603" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1636,7 +1636,7 @@
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-331" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-326" target="8JVbl4d7tyo6c1ldZ0Sn-330">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="385" y="8710" />
+              <mxPoint x="272" y="8733" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1646,19 +1646,39 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-326" value="Tipo de sangrado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="334" y="8620" width="102" height="40" as="geometry" />
+          <mxGeometry x="221" y="8643" width="102" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-337" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-328" target="8JVbl4d7tyo6c1ldZ0Sn-336">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-328" value="Hemofilia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="474.88" y="8560" width="102" height="40" as="geometry" />
+          <mxGeometry x="361.88" y="8583" width="102" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-335" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-330" target="8JVbl4d7tyo6c1ldZ0Sn-334">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-330" value="&lt;div&gt;Von Wilebrand&lt;/div&gt;&lt;div&gt;(Mas común)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="474" y="8690" width="102" height="40" as="geometry" />
+          <mxGeometry x="361" y="8713" width="102" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-334" value="Tiempo de sangrado ↑" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="612" y="8670" width="80" height="80" as="geometry" />
+          <mxGeometry x="499" y="8698" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-339" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-336" target="8JVbl4d7tyo6c1ldZ0Sn-338">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-336" value="Hamartrosis en niños, Sangrado&amp;nbsp; dig. y SNC" style="rounded=0;whiteSpace=wrap;html=1;shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="502" y="8578" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-341" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-338">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="762" y="8603" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-338" value="Cuantificar Factor 8 o 9" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="654" y="8568" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-340" value="Factor 8" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="763" y="8563" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
