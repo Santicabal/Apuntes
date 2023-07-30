@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-30T11:14:26.668Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="-Jecy_0j82KVZG35lJww" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-30T11:16:17.119Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="r_gxrh_WYcA6QXs18yjL" version="21.5.2" type="github">
   <diagram name="Page-1" id="xC1T5dPMzcvkAjgWcqzF">
     <mxGraphModel dx="1312" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1348,13 +1348,13 @@
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-225" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-223" target="8JVbl4d7tyo6c1ldZ0Sn-224">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-223" value="&lt;div&gt;Trombos de plaquetas&lt;/div&gt;&lt;div&gt;NO de fibrina&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-223" value="&lt;div&gt;Trombos de plaquetas&lt;/div&gt;&lt;div&gt;NO de fibrina&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="7650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-241" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-224" target="8JVbl4d7tyo6c1ldZ0Sn-240">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-224" value="Por eso NO se alteran los tiempos coagulacion" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-224" value="Por eso NO se alteran los tiempos coagulacion" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="306" y="7650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-226" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=north;strokeColor=#FF0000;strokeWidth=3;" vertex="1" parent="1">
@@ -1396,10 +1396,10 @@
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-243" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-240" target="8JVbl4d7tyo6c1ldZ0Sn-242">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-240" value="&lt;div&gt;↓ ADAMST-13&lt;/div&gt;&lt;div&gt;(Este se encarga de disolver trombos)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-240" value="&lt;div&gt;↓ ADAMST-13&lt;/div&gt;&lt;div&gt;(Este se encarga de disolver trombos)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="493" y="7650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-242" value="Los hematies chocan y se rompen haciendo hemolisis (↑LDH, BI)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-242" value="Los hematies chocan y se rompen haciendo hemolisis (↑LDH, BI)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="680" y="7650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-244" value="En el MIR los casos siempre tiene clinica neurologica" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1;fontSize=13;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
@@ -1473,44 +1473,47 @@
             <mxRectangle width="137" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-269" value="Diferencial con anemias y CID" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-289" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-269" target="8JVbl4d7tyo6c1ldZ0Sn-285">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-269" value="Diferencial con anemias y CID" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="269" y="8030" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-271" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="171.5" y="8120" width="275" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-272" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="8JVbl4d7tyo6c1ldZ0Sn-271">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-272" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="8JVbl4d7tyo6c1ldZ0Sn-271">
           <mxGeometry width="275" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-273" value="Anemia hemolitica" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="8JVbl4d7tyo6c1ldZ0Sn-272">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-273" value="Anemia hemolitica" style="connectable=0;recursiveResize=0;strokeColor=#36393d;fillColor=#cce5ff;align=center;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="8JVbl4d7tyo6c1ldZ0Sn-272">
           <mxGeometry width="92" height="40" as="geometry">
             <mxRectangle width="92" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-274" value="TTP" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="8JVbl4d7tyo6c1ldZ0Sn-272">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-274" value="TTP" style="connectable=0;recursiveResize=0;strokeColor=#36393d;fillColor=#cce5ff;align=center;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="8JVbl4d7tyo6c1ldZ0Sn-272">
           <mxGeometry x="92" width="91" height="40" as="geometry">
             <mxRectangle width="91" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-275" value="CID" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="8JVbl4d7tyo6c1ldZ0Sn-272">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-275" value="CID" style="connectable=0;recursiveResize=0;strokeColor=#36393d;fillColor=#cce5ff;align=center;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="8JVbl4d7tyo6c1ldZ0Sn-272">
           <mxGeometry x="183" width="92" height="40" as="geometry">
             <mxRectangle width="92" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-276" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="8JVbl4d7tyo6c1ldZ0Sn-271">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-276" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="8JVbl4d7tyo6c1ldZ0Sn-271">
           <mxGeometry y="40" width="275" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-277" value="Coombs positivo" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="8JVbl4d7tyo6c1ldZ0Sn-276">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-277" value="Coombs positivo" style="connectable=0;recursiveResize=0;strokeColor=#36393d;fillColor=#cdeb8b;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="8JVbl4d7tyo6c1ldZ0Sn-276">
           <mxGeometry width="92" height="50" as="geometry">
             <mxRectangle width="92" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-278" value="&lt;div&gt;Coombs -&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tiempos Normal&lt;br&gt;&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="8JVbl4d7tyo6c1ldZ0Sn-276">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-278" value="&lt;div&gt;Coombs -&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tiempos Normal&lt;br&gt;&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=#36393d;fillColor=#cdeb8b;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="8JVbl4d7tyo6c1ldZ0Sn-276">
           <mxGeometry x="92" width="91" height="50" as="geometry">
             <mxRectangle width="91" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-279" value="Tiempos prolongagos" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="8JVbl4d7tyo6c1ldZ0Sn-276">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-279" value="Tiempos prolongagos" style="connectable=0;recursiveResize=0;strokeColor=#36393d;fillColor=#cdeb8b;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="8JVbl4d7tyo6c1ldZ0Sn-276">
           <mxGeometry x="183" width="92" height="50" as="geometry">
             <mxRectangle width="92" height="50" as="alternateBounds" />
           </mxGeometry>
@@ -1518,10 +1521,10 @@
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-288" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-285" target="8JVbl4d7tyo6c1ldZ0Sn-287">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-285" value="Trasfundir PLASMA" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-285" value="Trasfundir PLASMA" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="446.5" y="8030" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-287" value="&lt;div&gt;Rituximab Esteroides&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-287" value="&lt;div&gt;Rituximab Esteroides&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="568" y="8030" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
