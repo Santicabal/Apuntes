@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-30T16:26:00.230Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="ETaXEtmN6jtYA-Q1EtoD" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-30T16:30:33.940Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="r42UWtNg0E2hQt2D54Pb" version="21.5.2" type="github">
   <diagram name="Page-1" id="xC1T5dPMzcvkAjgWcqzF">
-    <mxGraphModel dx="787" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1230" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1890,7 +1890,7 @@
           <mxGeometry x="900" y="2000" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-453" value="&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; í µí¼¶+ÃŸ&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; í µí¼¶+âˆ‚&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;í µí¼¶+É£&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;direction=north;strokeWidth=2;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="364" y="2234" width="260" height="100" as="geometry" />
+          <mxGeometry x="364" y="2234" width="216" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-455" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="388" y="2254" width="36" height="79" as="geometry" />
@@ -1910,8 +1910,11 @@
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-460" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="525" y="2328" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-461" value="&lt;div&gt;â†‘ A2: ÃŸ Talasemia&lt;/div&gt;&lt;div&gt;â†‘ F: ÃŸ + rasgo delta&lt;br&gt;&lt;/div&gt;&lt;div&gt;% noraml: í µí¼¶ talasemia&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="585" y="2233" width="140" height="60" as="geometry" />
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-461" value="&lt;div&gt;â†‘ A2: ÃŸ Talasemia&lt;/div&gt;&lt;div&gt;â†‘ F: ÃŸ + rasgo delta&lt;br&gt;&lt;/div&gt;&lt;div&gt;Proporcion normal: í µí¼¶ talasemia&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="556" y="2234" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-462" value="El diferencial es con ferropenica por anemia leve + VCM â†“" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="798" y="2248" width="140" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
