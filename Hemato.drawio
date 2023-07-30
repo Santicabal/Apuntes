@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-30T11:16:56.032Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="FCNhyDs8rQxW3t-lCvl2" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-30T11:19:17.836Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="rtrMCcLzjva7mqwGZ1cX" version="21.5.2" type="github">
   <diagram name="Page-1" id="xC1T5dPMzcvkAjgWcqzF">
     <mxGraphModel dx="1312" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1242,58 +1242,58 @@
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-180" target="8JVbl4d7tyo6c1ldZ0Sn-185">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-180" value="Anticuerpos IgG contra plaquetas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-180" value="Anticuerpos IgG contra plaquetas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="60" y="7086" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-192" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-181" target="8JVbl4d7tyo6c1ldZ0Sn-191">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-181" value="Infecciones" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-181" value="Infecciones" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="291" y="7056" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-195" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-182" target="8JVbl4d7tyo6c1ldZ0Sn-194">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-182" value="Farmacos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-182" value="Farmacos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="290" y="7101" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-197" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-183" target="8JVbl4d7tyo6c1ldZ0Sn-196">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-183" value="Autoinmunes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-183" value="Autoinmunes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="291" y="7146" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-199" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-184" target="8JVbl4d7tyo6c1ldZ0Sn-198">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-184" value="Neoplasias" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-184" value="Neoplasias" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="290" y="7196" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-201" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-185" target="8JVbl4d7tyo6c1ldZ0Sn-200">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-185" value="Idiopatica" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-185" value="Idiopatica" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="291" y="6990" width="120" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-191" value="Hep B y C, VIH. H Pyñori" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-191" value="Hep B y C, VIH. H Pyñori" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="491" y="7056" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-194" value="Quinina" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-194" value="Quinina" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="491" y="7101" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-196" value="LES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-196" value="LES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="492.5" y="7146" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-198" value="LLC, Linfomas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-198" value="LLC, Linfomas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="491" y="7196" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-200" value="80%" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-200" value="80%" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="492.5" y="6990" width="120" height="46" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-219" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-202" target="8JVbl4d7tyo6c1ldZ0Sn-205">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-202" value="Frotis con ↑Mega cariocitos" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-202" value="Frotis con ↑Mega cariocitos" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="258.25" y="7270" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-208" value="Grave" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-205" target="8JVbl4d7tyo6c1ldZ0Sn-207">
@@ -1304,39 +1304,39 @@
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-217" value="&lt;div&gt;2da&lt;/div&gt;&lt;div&gt;Linea&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8JVbl4d7tyo6c1ldZ0Sn-216">
           <mxGeometry x="0.1308" y="2" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
+            <mxPoint x="-4" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-205" value="Esteroides" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-205" value="Esteroides" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="393.5" y="7270" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-213" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-207" target="8JVbl4d7tyo6c1ldZ0Sn-212">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-214" value="Riesgo vital" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8JVbl4d7tyo6c1ldZ0Sn-213">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-214" value="&lt;div&gt;Riesgo &lt;br&gt;&lt;/div&gt;&lt;div&gt;vital&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8JVbl4d7tyo6c1ldZ0Sn-213">
           <mxGeometry x="-0.226" y="-1" relative="1" as="geometry">
             <mxPoint x="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-207" value="Gamma globulina" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-207" value="Gamma globulina" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="553.5" y="7270" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-209" value="Sangrados atipicos de plaquetopenia " style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-209" value="Sangrados atipicos de plaquetopenia " style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="455.5" y="7339" width="112" height="59" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-218" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JVbl4d7tyo6c1ldZ0Sn-210" target="8JVbl4d7tyo6c1ldZ0Sn-202">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-210" value="Petequias y sanngrado menstrual abundante" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-210" value="Petequias y sanngrado menstrual abundante" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="83" y="7270" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-211" value="La trasnfusion la dicta la clinica no la cantidad de plaq" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-211" value="La trasnfusion la dicta la clinica no la cantidad de plaq" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="612.5" y="7339" width="112" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-212" value="Transfusion plaquetas" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-212" value="Transfusion plaquetas" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="713.5" y="7270" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-215" value="Esplenec tomia" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-215" value="Esplenec tomia" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="393.5" y="7430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8JVbl4d7tyo6c1ldZ0Sn-220" value="El diagnostico es de exclusion. Trombopenia sin anemia ni leucopenia y sin otra causa aparente" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;" vertex="1" parent="1">
