@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T18:15:17.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lCl5Vdre5zHT60D5WUfL" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-01T18:32:26.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="JBV2IVmzj9E6e44ED9B0" version="21.6.6" type="github">
   <diagram name="Page-1" id="bMWYh2EHfCeD_MVpmSU7">
-    <mxGraphModel dx="666" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="943" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,8 +215,72 @@
         <mxCell id="bzbSga2sPSERFjx-gCcn-40" value="Hipopituitarismo" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="40" y="1210" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bzbSga2sPSERFjx-gCcn-42" value="Causas:&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1280" width="160" height="120" as="geometry" />
+        <mxCell id="bzbSga2sPSERFjx-gCcn-42" value="Causas:&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;Tumores que compriman&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;TBC, hemocromatosis, sarcoidosis&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;Sheehan o apoplejia&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;Iatrogenica&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;strokeColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1280" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-44" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.5385028543417254;endAngle=0.2566276223066356;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="343" y="1340" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-45" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.2674369402488821;endAngle=0.896162629132136;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1338" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-46" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1240" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-47" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="482" y="1249" width="40" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzbSga2sPSERFjx-gCcn-48" target="bzbSga2sPSERFjx-gCcn-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-48" value="PRL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="157" y="1458" width="78" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-49" value="Agalactia" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="1598" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzbSga2sPSERFjx-gCcn-51" target="bzbSga2sPSERFjx-gCcn-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-51" value="GH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284" y="1458" width="78" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-52" value="Talla baja&lt;br&gt;sueño, obesidad" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="263" y="1598" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzbSga2sPSERFjx-gCcn-54" target="bzbSga2sPSERFjx-gCcn-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-58" value="Hipogonadismo&lt;br&gt;Hipogonadotropo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bzbSga2sPSERFjx-gCcn-56">
+          <mxGeometry x="0.0162" y="-2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-54" value="FS / LH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1458" width="78" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-55" value="Amenorrea&lt;br&gt;Impotencia, perdida libido" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="389" y="1598" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzbSga2sPSERFjx-gCcn-57" target="bzbSga2sPSERFjx-gCcn-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-57" value="TSH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="536" y="1458" width="78" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-59" value="Hipotiroidismo secundario" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1598" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzbSga2sPSERFjx-gCcn-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="703" y="1598" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-61" value="ACTH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="664" y="1458" width="78" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-62" value="&lt;b&gt;Astenia&lt;/b&gt;, Hipoglucemia, anorexia, hipotension" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="644" y="1598" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
