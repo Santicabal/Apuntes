@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T18:59:36.033Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HXXrfiGEuXzjZYs36wku" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-01T19:16:09.153Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ODb_GbDjLkGbQETKyiik" version="21.6.6" type="github">
   <diagram name="Page-1" id="bMWYh2EHfCeD_MVpmSU7">
     <mxGraphModel dx="809" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -317,7 +317,7 @@
         <mxCell id="bzbSga2sPSERFjx-gCcn-71" value="Reponer hormonas" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="723" y="1870" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bzbSga2sPSERFjx-gCcn-73" value="&lt;div style=&quot;&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cortisol&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;L4&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Estrogenos&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Progesterona&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GH&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=top;spacingLeft=-16;align=left;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="bzbSga2sPSERFjx-gCcn-73" value="&lt;div style=&quot;&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Corticoides&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;L4&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Estrogenos&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Progesterona&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GH&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=top;spacingLeft=-16;align=left;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="708.75" y="1990" width="108.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="bzbSga2sPSERFjx-gCcn-75" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1">
@@ -337,6 +337,45 @@
         </mxCell>
         <mxCell id="bzbSga2sPSERFjx-gCcn-78" value="&lt;font color=&quot;#2d7600&quot;&gt;Orden en que se tratan&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#66CC00;" vertex="1" parent="1">
           <mxGeometry x="390" y="1780" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzbSga2sPSERFjx-gCcn-80" target="bzbSga2sPSERFjx-gCcn-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-80" value="Apoplejia hipofisiaria" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="117" y="2015" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzbSga2sPSERFjx-gCcn-82" target="bzbSga2sPSERFjx-gCcn-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-82" value="Necrosis por hemorragia de un tumor de hipofisis" style="whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="2015" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzbSga2sPSERFjx-gCcn-84" target="bzbSga2sPSERFjx-gCcn-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-84" value="Parece hemorragia subaracnoidea y meningismo" style="whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="441" y="2015" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bzbSga2sPSERFjx-gCcn-86" target="bzbSga2sPSERFjx-gCcn-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzbSga2sPSERFjx-gCcn-86" target="bzbSga2sPSERFjx-gCcn-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-86" value="RM&amp;nbsp;se ven zonas de hipo e hiper intensidad" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="601" y="2005" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzbSga2sPSERFjx-gCcn-92" target="bzbSga2sPSERFjx-gCcn-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-92" value="Edema de papila, coma, alteracion visual" style="whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="581" y="2140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-94" value="Cx" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;rounded=1;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="601" y="2240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbSga2sPSERFjx-gCcn-96" value="Cefalea intesa + tumor en hipofisis = apoplejia&lt;br&gt;&amp;nbsp;Los corticoides son I.V" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2110" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
