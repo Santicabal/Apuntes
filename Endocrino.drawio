@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T17:52:29.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="AlgBL7qWrQTSQi21fR1N" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-02T18:01:30.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="JehiBJxjDHnF8Brx9ff1" version="21.6.6" type="github">
   <diagram name="Page-1" id="bMWYh2EHfCeD_MVpmSU7">
     <mxGraphModel dx="661" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -515,8 +515,19 @@
         <mxCell id="SpFlBvPFcj6LrMEth4uV-41" value="Puede llegar a deviar traquea y esofago cdando disfagia" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="291" y="2920" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SpFlBvPFcj6LrMEth4uV-43" target="SpFlBvPFcj6LrMEth4uV-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-47" value="Si comprime" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SpFlBvPFcj6LrMEth4uV-46">
+          <mxGeometry x="-0.28" relative="1" as="geometry">
+            <mxPoint x="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SpFlBvPFcj6LrMEth4uV-43" value="&lt;b&gt;NO da disfonia.&lt;br&gt;&lt;/b&gt;Eso es Cancer" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="2920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-45" value="Tiroidectomia" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="2910" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
