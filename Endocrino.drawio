@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T18:50:59.090Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1D3V9VR0I9dY6RG5UaME" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-02T19:29:28.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="uRo9hReNGVwKUCjPqwH9" version="21.6.6" type="github">
   <diagram name="Page-1" id="bMWYh2EHfCeD_MVpmSU7">
     <mxGraphModel dx="661" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -562,19 +562,94 @@
         <mxCell id="SpFlBvPFcj6LrMEth4uV-59" value="Hipotiroidismo secundario NUNCA se normaliza TSH por eso usas T4L" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="3520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SpFlBvPFcj6LrMEth4uV-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SpFlBvPFcj6LrMEth4uV-60" target="SpFlBvPFcj6LrMEth4uV-61">
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SpFlBvPFcj6LrMEth4uV-60" target="SpFlBvPFcj6LrMEth4uV-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SpFlBvPFcj6LrMEth4uV-63" value="↓T4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SpFlBvPFcj6LrMEth4uV-62">
-          <mxGeometry x="-0.3077" y="-2" relative="1" as="geometry">
-            <mxPoint y="-2" as="offset" />
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-70" value="↑TSH&lt;br&gt;↓T4L" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SpFlBvPFcj6LrMEth4uV-69">
+          <mxGeometry x="-0.175" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SpFlBvPFcj6LrMEth4uV-60" target="SpFlBvPFcj6LrMEth4uV-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="4000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-73" value="↑TSH&lt;br&gt;T4L N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SpFlBvPFcj6LrMEth4uV-72">
+          <mxGeometry x="-0.275" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SpFlBvPFcj6LrMEth4uV-60" value="TSH&amp;nbsp;&lt;br&gt;T4L" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="240" y="3310" width="80" height="80" as="geometry" />
+          <mxGeometry x="250" y="3840" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SpFlBvPFcj6LrMEth4uV-61" value="TSH &amp;gt; 10 Primario&lt;br&gt;TSH 4-9: Subclinico&lt;br&gt;TSH ↓: Secundario" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="372" y="3320" width="120" height="60" as="geometry" />
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-61" value="TSH &amp;gt; 10 Primario&lt;br&gt;TSH 4-9: Subclinico (T4L n)&lt;br&gt;TSH ↓: Secundario" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="534" y="3580" width="158" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-65" value="&lt;ul&gt;&lt;li&gt;Coma + Hipotermia + Bradicardia&lt;/li&gt;&lt;li&gt;Ocurre por abandono de Tx, farmacos sedantes, postquirugico&lt;/li&gt;&lt;li&gt;T4 I.V + Corticoides&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Por si acaso hay ↓ cortisol&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;20% Mortalidad&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingLeft=-21;" vertex="1" parent="1">
+          <mxGeometry x="275" y="3660" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-66" value="Coma Mixedematoso" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="275" y="3640" width="211" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-67" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="3520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-68" value="Levotiroxina" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="3950" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SpFlBvPFcj6LrMEth4uV-74" target="SpFlBvPFcj6LrMEth4uV-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-77" value="TSH &amp;gt;10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SpFlBvPFcj6LrMEth4uV-76">
+          <mxGeometry x="-0.0698" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SpFlBvPFcj6LrMEth4uV-74" target="SpFlBvPFcj6LrMEth4uV-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-80" value="5-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SpFlBvPFcj6LrMEth4uV-79">
+          <mxGeometry x="0.1724" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-74" value="Subclinico" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="146" y="3990" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-75" value="Levotiroxina" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="4070" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SpFlBvPFcj6LrMEth4uV-78" target="SpFlBvPFcj6LrMEth4uV-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SpFlBvPFcj6LrMEth4uV-78" target="SpFlBvPFcj6LrMEth4uV-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-78" value="Embarazo y niños" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="4095" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SpFlBvPFcj6LrMEth4uV-82" target="SpFlBvPFcj6LrMEth4uV-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-85" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SpFlBvPFcj6LrMEth4uV-84">
+          <mxGeometry x="-0.4222" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SpFlBvPFcj6LrMEth4uV-82" target="SpFlBvPFcj6LrMEth4uV-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-88" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SpFlBvPFcj6LrMEth4uV-87">
+          <mxGeometry x="-0.25" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-82" value="Bocio&lt;br&gt;Dislipidemia&lt;br&gt;Anti TPO +&lt;br&gt;Clinica" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="80" y="4150" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-86" value="Vigilancia" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="80" y="4270" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
