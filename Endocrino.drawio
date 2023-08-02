@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T20:05:40.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7ZCP9H7-k3FpZPMwCXfR" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-02T21:00:41.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1PlJKAeeHsTcQQsC-J67" version="21.6.6" type="github">
   <diagram name="Page-1" id="bMWYh2EHfCeD_MVpmSU7">
     <mxGraphModel dx="661" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -533,7 +533,7 @@
           <mxGeometry x="40" y="3240" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SpFlBvPFcj6LrMEth4uV-50" value="Hashimoto #1&lt;br&gt;Mundo ↓ Yodo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="3320" width="120" height="60" as="geometry" />
+          <mxGeometry x="82" y="3320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SpFlBvPFcj6LrMEth4uV-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SpFlBvPFcj6LrMEth4uV-51" target="SpFlBvPFcj6LrMEth4uV-52">
           <mxGeometry relative="1" as="geometry" />
@@ -658,11 +658,57 @@
         <mxCell id="SpFlBvPFcj6LrMEth4uV-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SpFlBvPFcj6LrMEth4uV-82" target="SpFlBvPFcj6LrMEth4uV-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-92" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SpFlBvPFcj6LrMEth4uV-87">
+          <mxGeometry x="-0.05" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SpFlBvPFcj6LrMEth4uV-82" value="Bocio&lt;br&gt;Dislipidemia&lt;br&gt;Anti TPO +&lt;br&gt;Clinica" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="240" y="3560" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SpFlBvPFcj6LrMEth4uV-86" value="Vigilancia" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="240" y="3680" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-93" value="Hipertiroidismo" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="3880" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-95" value="&lt;ul&gt;&lt;li&gt;Graves en jovenes&lt;/li&gt;&lt;li&gt;Bocio MNT viejos&lt;/li&gt;&lt;li&gt;Los ancianos presentan cuadro apatico&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Arritmias, apatia,&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=-20;" vertex="1" parent="1">
+          <mxGeometry x="122" y="3960" width="158" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-96" value="Siempre hay que buscar la causa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="296" y="3960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SpFlBvPFcj6LrMEth4uV-97" target="SpFlBvPFcj6LrMEth4uV-98">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="4068" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="520" y="4050" />
+              <mxPoint x="400" y="4050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SpFlBvPFcj6LrMEth4uV-97" target="SpFlBvPFcj6LrMEth4uV-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="4050" />
+              <mxPoint x="650" y="4050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-97" value="Gammagrafia" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="3950" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-98" value="Hipercaptante" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="4070" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-101" value="Hipocaptante" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="4070" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-106" value="&lt;ul&gt;&lt;li&gt;Graves&lt;/li&gt;&lt;li&gt;Bocio MNT&lt;/li&gt;&lt;li&gt;Adenoma Toxico&lt;/li&gt;&lt;li&gt;Mola del embarazo&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=-20;" vertex="1" parent="1">
+          <mxGeometry x="331" y="4100" width="138" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-107" value="&lt;ul&gt;&lt;li&gt;Tiroiditis&lt;/li&gt;&lt;li&gt;Intoxicacion por L4&lt;/li&gt;&lt;li&gt;Struma Ovarii&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=-20;" vertex="1" parent="1">
+          <mxGeometry x="581" y="4100" width="138" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
