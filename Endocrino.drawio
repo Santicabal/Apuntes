@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T18:26:40.090Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="h1CpdkWf7vi_QdLTBgDl" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-02T18:46:18.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jKFnpJSJ9s-crtGGvkYb" version="21.6.6" type="github">
   <diagram name="Page-1" id="bMWYh2EHfCeD_MVpmSU7">
     <mxGraphModel dx="661" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -528,6 +528,39 @@
         </mxCell>
         <mxCell id="SpFlBvPFcj6LrMEth4uV-45" value="Tiroidectomia" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="690" y="2910" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-48" value="Hipotiroidismo" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="3240" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-50" value="Hashimoto #1&lt;br&gt;Mundo ↓ Yodo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SpFlBvPFcj6LrMEth4uV-51" target="SpFlBvPFcj6LrMEth4uV-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-51" value="Levotiroxina se toma en ayuno sin otro fx a 1.6µg/kg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SpFlBvPFcj6LrMEth4uV-52" target="SpFlBvPFcj6LrMEth4uV-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-52" value="Si es anciano no empezar a mas de 25µg" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="3420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SpFlBvPFcj6LrMEth4uV-54" target="SpFlBvPFcj6LrMEth4uV-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-54" value="Las dosis no son estables a lo largo de la vida" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="407" y="3420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-56" value="Embarazo aumetar 30-50% dosis" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="571" y="3420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-58" value="Reevaluas en 6 semanas&lt;br&gt;TSH ↑: Subir dosis&lt;br&gt;TSH N: Seguir igual&lt;br&gt;TSH ↓: Bajar dosis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-59" value="Hipotiroidismo secundario NUNCA se normaliza TSH por eso usas T4L" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="3520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
