@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T18:46:18.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jKFnpJSJ9s-crtGGvkYb" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-02T18:50:59.090Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1D3V9VR0I9dY6RG5UaME" version="21.6.6" type="github">
   <diagram name="Page-1" id="bMWYh2EHfCeD_MVpmSU7">
     <mxGraphModel dx="661" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -561,6 +561,20 @@
         </mxCell>
         <mxCell id="SpFlBvPFcj6LrMEth4uV-59" value="Hipotiroidismo secundario NUNCA se normaliza TSH por eso usas T4L" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="3520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SpFlBvPFcj6LrMEth4uV-60" target="SpFlBvPFcj6LrMEth4uV-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-63" value="↓T4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SpFlBvPFcj6LrMEth4uV-62">
+          <mxGeometry x="-0.3077" y="-2" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-60" value="TSH&amp;nbsp;&lt;br&gt;T4L" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="3310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SpFlBvPFcj6LrMEth4uV-61" value="TSH &amp;gt; 10 Primario&lt;br&gt;TSH 4-9: Subclinico&lt;br&gt;TSH ↓: Secundario" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="372" y="3320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
