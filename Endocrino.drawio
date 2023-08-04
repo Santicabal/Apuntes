@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T18:11:32.705Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jQJTtVVTYFW3T0GboczM" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-04T18:17:30.865Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="pEHMgJd_s_vaaBd5pW7_" version="21.6.6" type="github">
   <diagram name="Page-1" id="bMWYh2EHfCeD_MVpmSU7">
     <mxGraphModel dx="748" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -732,20 +732,23 @@
         <mxCell id="BekInoIXJNdLXY5IJm2M-12" value="Control de sintomas" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacingLeft=0;" vertex="1" parent="1">
           <mxGeometry x="110.5" y="4200" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="BekInoIXJNdLXY5IJm2M-37" value="Resumen de Tx" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;verticalAlign=top;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="280" y="4320" width="380" height="290" as="geometry" />
+        </mxCell>
         <mxCell id="BekInoIXJNdLXY5IJm2M-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BekInoIXJNdLXY5IJm2M-15" target="BekInoIXJNdLXY5IJm2M-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BekInoIXJNdLXY5IJm2M-15" value="&lt;ul&gt;&lt;li&gt;BetaBloq&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Contraindicado en embarazo, Bloqueo AV, Asma&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Corticoides&lt;/li&gt;&lt;li&gt;Yodo normal&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;spacingLeft=-20;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="30" y="4280" width="200" height="100" as="geometry" />
+        <mxCell id="BekInoIXJNdLXY5IJm2M-15" value="&lt;ul&gt;&lt;li&gt;BetaBloq&lt;/li&gt;&lt;li&gt;Corticoides&lt;/li&gt;&lt;li&gt;Yodo normal&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;spacingLeft=-20;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="96" y="4280" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BekInoIXJNdLXY5IJm2M-18" value="Control tiroideo" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacingLeft=0;" vertex="1" parent="1">
-          <mxGeometry x="96" y="4360" width="80" height="80" as="geometry" />
+          <mxGeometry x="111" y="4350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BekInoIXJNdLXY5IJm2M-20" value="&lt;ul&gt;&lt;li&gt;Graves&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Metimazol 1-2 años&lt;/li&gt;&lt;li&gt;Yodo R en ancianos para que no rebrote (Por arritmias)&lt;/li&gt;&lt;li&gt;Cx si oftalmopatia severa, bocio agresivo&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;BMT y adenoma toxico&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Yodo radioactivo&lt;/li&gt;&lt;li&gt;Metimazol mientras hace efecto (6 meses)&lt;/li&gt;&lt;li&gt;Cx si comprime&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;spacingLeft=-20;align=left;verticalAlign=top;spacingTop=-10;" vertex="1" parent="1">
-          <mxGeometry x="30" y="4410" width="224" height="170" as="geometry" />
+          <mxGeometry x="46" y="4430" width="224" height="170" as="geometry" />
         </mxCell>
         <mxCell id="BekInoIXJNdLXY5IJm2M-21" value="Los antitiroidos no se mantienen toda la vida porque se relacionan con aplasia medular y hepatotoxicidad" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="266" y="4510" width="140" height="100" as="geometry" />
+          <mxGeometry x="310" y="4500" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BekInoIXJNdLXY5IJm2M-23" value="Graves da en brotes, cuando lo controlas con tx idealmente por 1- años no regresa pero podria" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="438" y="4190" width="140" height="80" as="geometry" />
@@ -753,7 +756,7 @@
         <mxCell id="BekInoIXJNdLXY5IJm2M-27" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BekInoIXJNdLXY5IJm2M-24" target="BekInoIXJNdLXY5IJm2M-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BekInoIXJNdLXY5IJm2M-30" value="Anciano&lt;br&gt;o&lt;br&gt;BMT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BekInoIXJNdLXY5IJm2M-27">
+        <mxCell id="BekInoIXJNdLXY5IJm2M-30" value="Anciano&lt;br&gt;o&lt;br&gt;BMT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="BekInoIXJNdLXY5IJm2M-27">
           <mxGeometry x="-0.3412" y="2" relative="1" as="geometry">
             <mxPoint x="9" y="2" as="offset" />
           </mxGeometry>
@@ -761,19 +764,25 @@
         <mxCell id="BekInoIXJNdLXY5IJm2M-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BekInoIXJNdLXY5IJm2M-24" target="BekInoIXJNdLXY5IJm2M-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BekInoIXJNdLXY5IJm2M-34" value="Oftalmo severa&lt;br&gt;Bocio comprime" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BekInoIXJNdLXY5IJm2M-32">
+        <mxCell id="BekInoIXJNdLXY5IJm2M-34" value="Oftalmo severa&lt;br&gt;Bocio comprime" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="BekInoIXJNdLXY5IJm2M-32">
           <mxGeometry x="-0.1808" y="-1" relative="1" as="geometry">
             <mxPoint x="14" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BekInoIXJNdLXY5IJm2M-24" value="Metimazol" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacingLeft=0;" vertex="1" parent="1">
-          <mxGeometry x="289" y="4340" width="80" height="80" as="geometry" />
+        <mxCell id="BekInoIXJNdLXY5IJm2M-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="BekInoIXJNdLXY5IJm2M-24" target="BekInoIXJNdLXY5IJm2M-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BekInoIXJNdLXY5IJm2M-26" value="Yodo Radioactivo" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacingLeft=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="4280" width="80" height="80" as="geometry" />
+        <mxCell id="BekInoIXJNdLXY5IJm2M-24" value="Metimazol" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacingLeft=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="395" y="4410" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BekInoIXJNdLXY5IJm2M-28" value="Cx" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacingLeft=0;" vertex="1" parent="1">
-          <mxGeometry x="452" y="4410" width="80" height="80" as="geometry" />
+        <mxCell id="BekInoIXJNdLXY5IJm2M-26" value="Yodo Radioactivo" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacingLeft=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="4320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BekInoIXJNdLXY5IJm2M-28" value="Cx" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacingLeft=0;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="553" y="4510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BekInoIXJNdLXY5IJm2M-35" value="Betabloq / Corticoides" style="rhombus;whiteSpace=wrap;html=1;rounded=1;spacingLeft=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="283" y="4410" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
