@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T20:22:29.938Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="4_-ftE2XLvwUH8UCdptG" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-04T20:24:30.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dPe19gwfqK0GDWFrOG_j" version="21.6.6" type="github">
   <diagram name="Page-1" id="bMWYh2EHfCeD_MVpmSU7">
     <mxGraphModel dx="748" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -979,17 +979,17 @@
         <mxCell id="BekInoIXJNdLXY5IJm2M-100" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="BekInoIXJNdLXY5IJm2M-83">
           <mxGeometry y="158" width="340" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="BekInoIXJNdLXY5IJm2M-101" value="IV: Sospecha folicular" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#ffcccc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=13;align=left;" vertex="1" parent="BekInoIXJNdLXY5IJm2M-100">
+        <mxCell id="BekInoIXJNdLXY5IJm2M-101" value="IV: Sospecha folicular" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#ffff88;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=13;align=left;" vertex="1" parent="BekInoIXJNdLXY5IJm2M-100">
           <mxGeometry width="113" height="32" as="geometry">
             <mxRectangle width="113" height="32" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BekInoIXJNdLXY5IJm2M-102" value="15-30%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#ffcccc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="BekInoIXJNdLXY5IJm2M-100">
+        <mxCell id="BekInoIXJNdLXY5IJm2M-102" value="15-30%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#ffff88;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="BekInoIXJNdLXY5IJm2M-100">
           <mxGeometry x="113" width="102" height="32" as="geometry">
             <mxRectangle width="102" height="32" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BekInoIXJNdLXY5IJm2M-103" value="Hemitiroidectomia" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#ffcccc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=13;" vertex="1" parent="BekInoIXJNdLXY5IJm2M-100">
+        <mxCell id="BekInoIXJNdLXY5IJm2M-103" value="Hemitiroidectomia" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#ffff88;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=13;" vertex="1" parent="BekInoIXJNdLXY5IJm2M-100">
           <mxGeometry x="215" width="125" height="32" as="geometry">
             <mxRectangle width="125" height="32" as="alternateBounds" />
           </mxGeometry>
