@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T20:54:56.624Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="geYbKdlaqqDz3YdpCiQC" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-04T20:56:55.758Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3_YrKMVqc3SqnnpMcmaF" version="21.6.6" type="github">
   <diagram name="Page-1" id="bMWYh2EHfCeD_MVpmSU7">
     <mxGraphModel dx="748" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1045,7 +1045,7 @@
         <mxCell id="BekInoIXJNdLXY5IJm2M-123" value="Cancer de tiroides" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="40" y="5520" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BekInoIXJNdLXY5IJm2M-125" value="Epitelio Folicular" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#10739e;fontSize=16;fillColor=#b1ddf0;" vertex="1" parent="1">
+        <mxCell id="BekInoIXJNdLXY5IJm2M-125" value="Epitelio Folicular" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#10739e;fontSize=16;fillColor=#b1ddf0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="95" y="5600" width="547" height="350" as="geometry" />
         </mxCell>
         <mxCell id="BekInoIXJNdLXY5IJm2M-126" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="BekInoIXJNdLXY5IJm2M-125">
