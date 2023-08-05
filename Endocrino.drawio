@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-08-05T20:17:29.053Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="4A64y-a0w0J58OiMf71E" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-05T20:28:23.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="D8dQVM4lv3_9QplifrFf" version="21.6.6" type="github">
   <diagram name="Page-1" id="bMWYh2EHfCeD_MVpmSU7">
     <mxGraphModel dx="674" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GlOn7ntjsbbanIs4BGrS-46" value="Tx de crisis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;strokeWidth=2;verticalAlign=top;align=left;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="488" y="8210" width="217" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="ZT0bNW4Sw8YkX2uZJB2J-1" value="Hiperprolactinemia" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="180" height="40" as="geometry" />
         </mxCell>
@@ -1618,6 +1621,15 @@
         </mxCell>
         <mxCell id="GlOn7ntjsbbanIs4BGrS-39" value="Fludro&lt;br&gt;cortisona" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="204" y="8233" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GlOn7ntjsbbanIs4BGrS-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GlOn7ntjsbbanIs4BGrS-42" target="GlOn7ntjsbbanIs4BGrS-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GlOn7ntjsbbanIs4BGrS-42" value="Hidro- cortisona&lt;br&gt;I.V" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="503" y="8233" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GlOn7ntjsbbanIs4BGrS-44" value="Fisiologico + Glucosado 5%" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="613" y="8233" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
