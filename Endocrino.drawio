@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-06T16:40:10.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Idwilbg_2PXJfy6jm2sm" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-06T16:41:20.196Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="aq_btodrR6rEo_p1XuFk" version="21.6.6" type="github">
   <diagram name="Page-1" id="bMWYh2EHfCeD_MVpmSU7">
     <mxGraphModel dx="715" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1747,7 +1747,7 @@
           <mxGeometry x="505" y="9100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QM2qF6KL0DIQnRFdvvq0-62" value="El cortisol se produce muhco en la mañana y baja en la noche.&lt;br&gt;Si lo mides en la noche y esta alto es porque hay algo mal&lt;br&gt;DXT = Dexametasona" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="88" y="9100" width="140" height="110" as="geometry" />
+          <mxGeometry x="88" y="9100" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="QM2qF6KL0DIQnRFdvvq0-63" value="&lt;ol&gt;&lt;li&gt;Cortisol en orina de 24h&lt;/li&gt;&lt;li&gt;Cortisol post DXT&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Nugent&lt;/li&gt;&lt;li&gt;Liddle debil&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cortisol Nocturno&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=-23;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="270" y="9080" width="154" height="100" as="geometry" />
@@ -1755,7 +1755,7 @@
         <mxCell id="QM2qF6KL0DIQnRFdvvq0-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QM2qF6KL0DIQnRFdvvq0-65" target="QM2qF6KL0DIQnRFdvvq0-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QM2qF6KL0DIQnRFdvvq0-71" value="Bajo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QM2qF6KL0DIQnRFdvvq0-70">
+        <mxCell id="QM2qF6KL0DIQnRFdvvq0-71" value="Baja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QM2qF6KL0DIQnRFdvvq0-70">
           <mxGeometry x="-0.0375" y="-2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -1763,9 +1763,9 @@
         <mxCell id="QM2qF6KL0DIQnRFdvvq0-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QM2qF6KL0DIQnRFdvvq0-65" target="QM2qF6KL0DIQnRFdvvq0-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QM2qF6KL0DIQnRFdvvq0-74" value="Alto" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QM2qF6KL0DIQnRFdvvq0-73">
+        <mxCell id="QM2qF6KL0DIQnRFdvvq0-74" value="Alta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QM2qF6KL0DIQnRFdvvq0-73">
           <mxGeometry x="-0.2125" y="-2" relative="1" as="geometry">
-            <mxPoint x="4" y="-2" as="offset" />
+            <mxPoint x="9" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QM2qF6KL0DIQnRFdvvq0-65" value="ACTH" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
