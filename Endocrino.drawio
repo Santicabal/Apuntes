@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-06T18:05:35.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8KYowg7UWoX-WVW3yaPG" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-06T18:06:37.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="pjJea03CIRCoorEl8DB6" version="21.6.6" type="github">
   <diagram name="Page-1" id="bMWYh2EHfCeD_MVpmSU7">
     <mxGraphModel dx="841" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2006,8 +2006,14 @@
         <mxCell id="QM2qF6KL0DIQnRFdvvq0-145" value="Aldosterona post infusion suero fisiologico" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="464" y="9960" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="QM2qF6KL0DIQnRFdvvq0-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QM2qF6KL0DIQnRFdvvq0-148" target="QM2qF6KL0DIQnRFdvvq0-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QM2qF6KL0DIQnRFdvvq0-148" value="TAC de supra renales" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="625.25" y="9960" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QM2qF6KL0DIQnRFdvvq0-152" value="Espiro nolactona" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="759" y="9960" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
