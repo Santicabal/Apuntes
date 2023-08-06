@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-06T20:28:39.916Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RxJdmqb-hLmweWlz6V2Y" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-06T20:50:55.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Vrheqc3igOC2uEHbpCY_" version="21.6.6" type="github">
   <diagram name="Page-1" id="bMWYh2EHfCeD_MVpmSU7">
     <mxGraphModel dx="841" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2165,6 +2165,45 @@
         </mxCell>
         <mxCell id="QM2qF6KL0DIQnRFdvvq0-210" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;A Quien Screening?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&amp;gt; 45 años&lt;/li&gt;&lt;li&gt;Obesidad +&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Familia 1er grado&lt;/li&gt;&lt;li&gt;Diabetes gestacional&lt;/li&gt;&lt;li&gt;HAS o Dislipidemia&lt;/li&gt;&lt;li&gt;Ovario Poliquistico&lt;/li&gt;&lt;li&gt;Resistencia a insulina&lt;/li&gt;&lt;li&gt;Enfermedad CV&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingLeft=-10;" vertex="1" parent="1">
           <mxGeometry x="117" y="11280" width="203" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QM2qF6KL0DIQnRFdvvq0-211" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="358" y="11280" width="482" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="QM2qF6KL0DIQnRFdvvq0-212" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="QM2qF6KL0DIQnRFdvvq0-211">
+          <mxGeometry width="482" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="QM2qF6KL0DIQnRFdvvq0-213" value="DM 1" style="connectable=0;recursiveResize=0;strokeColor=#b46504;fillColor=#fad7ac;align=center;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="QM2qF6KL0DIQnRFdvvq0-212">
+          <mxGeometry width="160" height="44" as="geometry">
+            <mxRectangle width="160" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QM2qF6KL0DIQnRFdvvq0-214" value="DM 2" style="connectable=0;recursiveResize=0;strokeColor=#0e8088;fillColor=#b0e3e6;align=center;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="QM2qF6KL0DIQnRFdvvq0-212">
+          <mxGeometry x="160" width="162" height="44" as="geometry">
+            <mxRectangle width="162" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QM2qF6KL0DIQnRFdvvq0-224" value="Mody" style="connectable=0;recursiveResize=0;strokeColor=#ae4132;fillColor=#fad9d5;align=center;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="QM2qF6KL0DIQnRFdvvq0-212">
+          <mxGeometry x="322" width="160" height="44" as="geometry">
+            <mxRectangle width="160" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QM2qF6KL0DIQnRFdvvq0-215" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="QM2qF6KL0DIQnRFdvvq0-211">
+          <mxGeometry y="44" width="482" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="QM2qF6KL0DIQnRFdvvq0-216" value="&lt;ul&gt;&lt;li&gt;5-10%&lt;/li&gt;&lt;li&gt;Niños y jovenes&lt;/li&gt;&lt;li&gt;Debut Brusco&lt;/li&gt;&lt;li&gt;Anticuerpos GAD e IA2&lt;/li&gt;&lt;li&gt;Necesitan insulina&lt;/li&gt;&lt;li&gt;Extrañamente entre gemelos solo 30-70% y familiar 5%&lt;/li&gt;&lt;/ul&gt;" style="connectable=0;recursiveResize=0;strokeColor=#b46504;fillColor=#fad7ac;align=left;whiteSpace=wrap;html=1;verticalAlign=top;spacingLeft=-20;" vertex="1" parent="QM2qF6KL0DIQnRFdvvq0-215">
+          <mxGeometry width="160" height="136" as="geometry">
+            <mxRectangle width="160" height="136" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QM2qF6KL0DIQnRFdvvq0-217" value="&lt;ul&gt;&lt;li&gt;90-95%&lt;/li&gt;&lt;li&gt;Mayores de 40&lt;/li&gt;&lt;li&gt;Obesidad&lt;/li&gt;&lt;li&gt;Resistenica a insulina&lt;/li&gt;&lt;li&gt;Mas genetica que la 1&lt;/li&gt;&lt;li&gt;Gemelos 70-90%&lt;/li&gt;&lt;/ul&gt;" style="connectable=0;recursiveResize=0;strokeColor=#0e8088;fillColor=#b0e3e6;align=left;whiteSpace=wrap;html=1;verticalAlign=top;spacingLeft=-20;" vertex="1" parent="QM2qF6KL0DIQnRFdvvq0-215">
+          <mxGeometry x="160" width="162" height="136" as="geometry">
+            <mxRectangle width="162" height="136" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QM2qF6KL0DIQnRFdvvq0-225" value="&lt;ul&gt;&lt;li&gt;Autosomica dominante&lt;/li&gt;&lt;li&gt;2 generaciones para Dx&lt;/li&gt;&lt;li&gt;Debut en jovenes&lt;/li&gt;&lt;li&gt;Enfermedad leve&lt;/li&gt;&lt;li&gt;MODY 2 (Niños)&lt;/li&gt;&lt;ul&gt;&lt;li&gt;No insulina&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;MODY 3 (Adultos)&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Necesitan insulina&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="connectable=0;recursiveResize=0;strokeColor=#ae4132;fillColor=#fad9d5;align=left;whiteSpace=wrap;html=1;verticalAlign=top;spacingLeft=-20;" vertex="1" parent="QM2qF6KL0DIQnRFdvvq0-215">
+          <mxGeometry x="322" width="160" height="136" as="geometry">
+            <mxRectangle width="160" height="136" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
