@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-06T17:00:48.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="XehjhGDngzaIKCB0OK3X" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-06T17:18:57.601Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="asc-whYu8sW1tgptsDRb" version="21.6.6" type="github">
   <diagram name="Page-1" id="bMWYh2EHfCeD_MVpmSU7">
     <mxGraphModel dx="841" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1891,6 +1891,18 @@
         </mxCell>
         <mxCell id="QM2qF6KL0DIQnRFdvvq0-103" value="Gradiente positivo es tumor en hipofisis&lt;br&gt;Negativo es ectopico" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="534" y="9530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QM2qF6KL0DIQnRFdvvq0-104" value="Cx de los tumores" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="77" y="9610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QM2qF6KL0DIQnRFdvvq0-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="QM2qF6KL0DIQnRFdvvq0-106" target="QM2qF6KL0DIQnRFdvvq0-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QM2qF6KL0DIQnRFdvvq0-106" value="Ketoconazol" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="77" y="9490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QM2qF6KL0DIQnRFdvvq0-110" value="Inhibe cortisol, en lo que buscas la causa" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="164" y="9500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
