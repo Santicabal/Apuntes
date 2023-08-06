@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-06T16:47:41.394Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="aKA4vfRm2SWXyvc3QQlc" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-06T16:51:48.336Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Sghy4Xoqfi0_FP04R8pj" version="21.6.6" type="github">
   <diagram name="Page-1" id="bMWYh2EHfCeD_MVpmSU7">
-    <mxGraphModel dx="715" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="841" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1715,7 +1715,7 @@
           <mxGeometry x="648" y="8720" width="120" height="220" as="geometry" />
         </mxCell>
         <mxCell id="QM2qF6KL0DIQnRFdvvq0-53" value="2 de 4&amp;nbsp; estudios" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="300" y="9000" width="80" height="80" as="geometry" />
+          <mxGeometry x="305" y="8999" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QM2qF6KL0DIQnRFdvvq0-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QM2qF6KL0DIQnRFdvvq0-63" target="QM2qF6KL0DIQnRFdvvq0-56">
           <mxGeometry relative="1" as="geometry">
@@ -1875,8 +1875,8 @@
             <mxRectangle width="60" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QM2qF6KL0DIQnRFdvvq0-99" value="&lt;ol&gt;&lt;li&gt;Buscas si hay hipercortisolismo&lt;/li&gt;&lt;li&gt;Busco si depende de ACTH&lt;/li&gt;&lt;li&gt;Baja = Independiente Alta = Dependiente&lt;/li&gt;&lt;/ol&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;spacingLeft=-20;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="630" y="9220" width="140" height="160" as="geometry" />
+        <mxCell id="QM2qF6KL0DIQnRFdvvq0-99" value="&lt;ol&gt;&lt;li&gt;Buscas si hay hipercortisolismo&lt;/li&gt;&lt;li&gt;Busco si depende de ACTH&lt;/li&gt;&lt;li&gt;Baja = Independiente Alta = Dependiente&lt;/li&gt;&lt;li&gt;Micro el unico que suprime con DXT, Ectopico no a nada&lt;/li&gt;&lt;/ol&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;spacingLeft=-20;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="616.25" y="9230" width="185" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
