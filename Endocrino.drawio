@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-06T19:02:54.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="I0gbbf9_04RElL5cKPVe" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-06T19:05:29.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="rbqrRSvft2HtJu0zEZfk" version="21.6.6" type="github">
   <diagram name="Page-1" id="bMWYh2EHfCeD_MVpmSU7">
     <mxGraphModel dx="841" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2078,22 +2078,22 @@
         <mxCell id="QM2qF6KL0DIQnRFdvvq0-172" value="Feocromocitoma" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="40" y="10620" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QM2qF6KL0DIQnRFdvvq0-174" value="10%Extra adrenal&lt;br&gt;10% niños&lt;br&gt;10% bilateral&lt;br&gt;10% asintomatico&lt;br&gt;10% malignos&lt;br&gt;10% familiar" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="QM2qF6KL0DIQnRFdvvq0-174" value="10%Extra adrenal&lt;br&gt;10% niños&lt;br&gt;10% bilateral&lt;br&gt;10% asintomatico&lt;br&gt;10% malignos&lt;br&gt;10% familiar" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="78" y="10680" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="QM2qF6KL0DIQnRFdvvq0-176" value="Asociado a&lt;br&gt;MEN 2A y 2B gen RET&lt;br&gt;Von Hipple Lindau (Cancer renal y retina)&lt;br&gt;Von Recklinghausen&lt;br&gt;(Manchas cafe con leche y neruofibromas)" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="QM2qF6KL0DIQnRFdvvq0-176" value="Asociado a&lt;br&gt;MEN 2A y 2B gen RET&lt;br&gt;Von Hipple Lindau (Cancer renal y retina)&lt;br&gt;Von Recklinghausen&lt;br&gt;(Manchas cafe con leche y neruofibromas)" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="222" y="10680" width="128" height="120" as="geometry" />
         </mxCell>
         <mxCell id="QM2qF6KL0DIQnRFdvvq0-179" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QM2qF6KL0DIQnRFdvvq0-177" target="QM2qF6KL0DIQnRFdvvq0-178">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QM2qF6KL0DIQnRFdvvq0-177" value="Crisis hipertensiva con&lt;br&gt;Triada clasica: Cefalea, sudor y palpitaciones" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QM2qF6KL0DIQnRFdvvq0-177" value="Crisis hipertensiva con&lt;br&gt;Triada clasica: Cefalea, sudor y palpitaciones" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
           <mxGeometry x="390.5" y="10680" width="133" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QM2qF6KL0DIQnRFdvvq0-181" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QM2qF6KL0DIQnRFdvvq0-178" target="QM2qF6KL0DIQnRFdvvq0-180">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QM2qF6KL0DIQnRFdvvq0-178" value="Catecolaminas y metanefrinas orina" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="QM2qF6KL0DIQnRFdvvq0-178" value="Catecolaminas y metanefrinas orina" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="571" y="10670" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QM2qF6KL0DIQnRFdvvq0-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QM2qF6KL0DIQnRFdvvq0-180" target="QM2qF6KL0DIQnRFdvvq0-182">
@@ -2104,10 +2104,10 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QM2qF6KL0DIQnRFdvvq0-180" value="TAC" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="QM2qF6KL0DIQnRFdvvq0-180" value="TAC" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="705.25" y="10670" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QM2qF6KL0DIQnRFdvvq0-182" value="Gammagrafia o PET" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="QM2qF6KL0DIQnRFdvvq0-182" value="Gammagrafia o PET" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="705" y="10820" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QM2qF6KL0DIQnRFdvvq0-185" value="Tx Prequirurgico" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;verticalAlign=top;align=left;fontSize=15;fontStyle=1" vertex="1" parent="1">
@@ -2138,6 +2138,9 @@
         </mxCell>
         <mxCell id="QM2qF6KL0DIQnRFdvvq0-197" value="Cx" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;strokeWidth=2;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="552.53" y="10850" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QM2qF6KL0DIQnRFdvvq0-200" value="Diabetes" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="39" y="11010" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
