@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T21:22:43.709Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="S7bzoWaL4hGV0uC1-pQQ" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T21:25:05.277Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="LxhCY05PPBwihBLdJ1pq" version="21.6.6" type="github">
   <diagram name="Page-1" id="bMWYh2EHfCeD_MVpmSU7">
     <mxGraphModel dx="846" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2508,7 +2508,7 @@
         <mxCell id="rcMai_4c2VjAGgn2EfUP-77" value="Sobredosis insulina:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Peptido C ↓&lt;/li&gt;&lt;li&gt;Proinsulina ↓&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Glibenclamida / Insulinoma / Autoinmune&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Peptido C ↑&lt;/li&gt;&lt;li&gt;Proinsulina ↑&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;arcSize=10;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="378.52" y="13400" width="133" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="rcMai_4c2VjAGgn2EfUP-78" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Tumor productor IGF2&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;IGF 2 ↑&lt;/li&gt;&lt;li&gt;Es tumor pleural&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;arcSize=10;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-78" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tumor productor IGF2 (Sx Doege Potter)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;IGF 2 ↑&lt;/li&gt;&lt;li&gt;Es tumor pleural&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;arcSize=10;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="548.77" y="13400" width="133" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rcMai_4c2VjAGgn2EfUP-79" value="Paciente hospitalizado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
