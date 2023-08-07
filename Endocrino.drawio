@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T17:06:33.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hdXv104rGkiG7HbokjNS" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T17:24:14.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="W8Q6FdskaWxp9-47GLqd" version="21.6.6" type="github">
   <diagram name="Page-1" id="bMWYh2EHfCeD_MVpmSU7">
-    <mxGraphModel dx="1128" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="645" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2282,17 +2282,17 @@
             <mxPoint x="280" y="12210" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rcMai_4c2VjAGgn2EfUP-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.4936371943260041;endAngle=0.005614902612100043;direction=south;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.4968173254495136;endAngle=0.0033501354978332167;direction=south;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="333" y="12031" width="40" height="280" as="geometry" />
         </mxCell>
         <mxCell id="rcMai_4c2VjAGgn2EfUP-5" value="Insulinas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="384" y="11980" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rcMai_4c2VjAGgn2EfUP-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.4936371943260041;endAngle=0.0038810584091566016;direction=south;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.4952267833287348;endAngle=0.0038810584091566016;direction=south;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="418" y="12030" width="40" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="rcMai_4c2VjAGgn2EfUP-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.4952267833287348;endAngle=0.006040955873916814;direction=south;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="507.5" y="12030" width="40" height="280" as="geometry" />
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.4968173254495136;endAngle=0.003658090016092396;direction=south;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="12031" width="40" height="280" as="geometry" />
         </mxCell>
         <mxCell id="rcMai_4c2VjAGgn2EfUP-8" value="Desayuno" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="12178" width="80" height="30" as="geometry" />
@@ -2303,8 +2303,47 @@
         <mxCell id="rcMai_4c2VjAGgn2EfUP-10" value="Cena" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="12178" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rcMai_4c2VjAGgn2EfUP-11" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Ultra Rapidas&lt;/b&gt;: Lispro, Aspart, Glulisina&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Actua en 10 min dura 2-3h&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;b&gt;Basales&lt;/b&gt;: Detemir, Glargina, Degludec&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Dura 24h&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Rapidas: Regular&amp;nbsp;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;No se recomienda&lt;/li&gt;&lt;li&gt;Actua en 30 min dura 6-8h&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Intermedia: NPH, NPL&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Actua en 4h dura 10-12h&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=-19;verticalAlign=top;spacingTop=-11;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-11" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Ultra Rapidas&lt;/b&gt;: Lispro, Aspart, Glulisina&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Actua en 10 min dura 2-3h&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;b&gt;Basales&lt;/b&gt;: Detemir, Glargina, Degludec&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Dura 24h&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Rapidas: Regular&amp;nbsp;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Actua en 30 min dura 6-8h&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Intermedia: NPH, NPL&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Actua en 4h dura 10-12h&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=-19;verticalAlign=top;spacingTop=-11;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="595" y="12010" width="240" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-15" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Somogyi&lt;/b&gt;:&lt;/span&gt;&lt;/div&gt;Hipoglucemia a las 3am segido de hiperglucemia debido a dosis alta" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;align=left;" vertex="1" parent="1">
+          <mxGeometry x="573" y="12240" width="147" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-16" value="&lt;b&gt;Alba&lt;/b&gt;: &lt;br&gt;Hiperglucemia constante debido a dosis insuficiente" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="573" y="12330" width="147" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="283" y="12251" width="249.89" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-12" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;strokeWidth=2;fillColor=#6a00ff;strokeColor=#3700CC;" edge="1" parent="rcMai_4c2VjAGgn2EfUP-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7.513902613124866" y="54.54545454545455" as="sourcePoint" />
+            <mxPoint x="234.7175475572963" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="58.570901476983614" />
+              <mxPoint x="43.25380181782599" y="150" />
+              <mxPoint x="81.54655096572006" y="109.0909090909091" />
+              <mxPoint x="107.07505039764945" y="27.272727272727273" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-13" value="" style="line;strokeWidth=2;direction=south;html=1;rotation=75;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="rcMai_4c2VjAGgn2EfUP-17">
+          <mxGeometry x="118.56287514201765" y="-81.81818181818181" width="12.764249715964688" height="272.72727272727275" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-18" value="Tomar glucosa a las 3am" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="744" y="12280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-19" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;dashed=1;dashPattern=8 8;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="259.25" y="12270" width="290.75" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-21" value="Glucemia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="12258" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-22" value="3 am" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="12408" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-23" value="8 am" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="483" y="12408" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
