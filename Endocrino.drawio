@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T18:21:14.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="cc2PfeKdoYsKgAK1V-TE" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T18:49:22.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CVpdz4Lx6W5D8pXSDns8" version="21.6.6" type="github">
   <diagram name="Page-1" id="bMWYh2EHfCeD_MVpmSU7">
     <mxGraphModel dx="752" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2345,14 +2345,32 @@
         <mxCell id="rcMai_4c2VjAGgn2EfUP-23" value="8 am" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="483" y="12408" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rcMai_4c2VjAGgn2EfUP-24" value="&lt;div style=&quot;text-align: center; font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Clasicos&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;Metformina: Eleccion. causa Ac. Lactica&lt;br&gt;Pioglitazona: Fracturas, edema, ICC, Hepatotoxico&lt;br&gt;Sulfonilureas: Hipoglucemias" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-24" value="&lt;div style=&quot;text-align: center; font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Clasicos&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;Metformina: Eleccion. causa Ac. Lactica&lt;br&gt;Pioglitazona: Fracturas, edema, ICC, Hepatotoxico&lt;br&gt;Sulfonilureas: Hipoglucemias" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="122" y="12490" width="204" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="rcMai_4c2VjAGgn2EfUP-25" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Incretinas&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;Analogos GLP1: Semaglutide, hacen perder peso, dan saciedad&lt;br&gt;Inh DPP4:&amp;nbsp; Gliptinas, no san efectos adversos recomendado ancianos" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-25" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Incretinas&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;Analogos GLP1: Semaglutide, hacen perder peso, dan saciedad&lt;br&gt;Inh DPP4:&amp;nbsp; Gliptinas, no san efectos adversos recomendado ancianos" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="333" y="12490" width="204" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="rcMai_4c2VjAGgn2EfUP-26" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Glucosuricos&lt;/span&gt;&lt;/div&gt;Inh SGLT2: Parecen diureticos, mejoran riesgo CV, mejoran albuminuria. Causan IVUs por que hacen glucosuria" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-26" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Glucosuricos&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;Inh SGLT2: Parecen diureticos, mejoran riesgo CV, mejoran albuminuria. Indicados en IRC Causan IVUs por que hacen glucosuria" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="544" y="12490" width="204" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rcMai_4c2VjAGgn2EfUP-27" target="rcMai_4c2VjAGgn2EfUP-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-27" value="Tx DM 2" style="rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#2D7600;rounded=1;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="398.75" y="12610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-29" value="Metfromina" style="rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#2D7600;rounded=1;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="399" y="12730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rcMai_4c2VjAGgn2EfUP-31" target="rcMai_4c2VjAGgn2EfUP-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-31" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Contraindicaciones&lt;/b&gt;&lt;/font&gt;:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Alcoholismo (Solo Metformina)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ins Cardiaca descompensada&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ciirrosis&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Filtrado Glom &amp;lt;30 (Excepto incretinas)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Embarazo&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Al hospitalizar por enf grave&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="120" y="12640" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-33" value="Insulina" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="185" y="12800" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
