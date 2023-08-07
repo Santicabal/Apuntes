@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T17:24:14.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="W8Q6FdskaWxp9-47GLqd" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T17:26:20.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="IgWaaAeYneuXKyPRB_Me" version="21.6.6" type="github">
   <diagram name="Page-1" id="bMWYh2EHfCeD_MVpmSU7">
     <mxGraphModel dx="645" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2306,8 +2306,8 @@
         <mxCell id="rcMai_4c2VjAGgn2EfUP-11" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Ultra Rapidas&lt;/b&gt;: Lispro, Aspart, Glulisina&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Actua en 10 min dura 2-3h&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;b&gt;Basales&lt;/b&gt;: Detemir, Glargina, Degludec&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Dura 24h&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Rapidas: Regular&amp;nbsp;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Actua en 30 min dura 6-8h&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Intermedia: NPH, NPL&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Actua en 4h dura 10-12h&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=-19;verticalAlign=top;spacingTop=-11;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="595" y="12010" width="240" height="139" as="geometry" />
         </mxCell>
-        <mxCell id="rcMai_4c2VjAGgn2EfUP-15" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Somogyi&lt;/b&gt;:&lt;/span&gt;&lt;/div&gt;Hipoglucemia a las 3am segido de hiperglucemia debido a dosis alta" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;align=left;" vertex="1" parent="1">
-          <mxGeometry x="573" y="12240" width="147" height="60" as="geometry" />
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-15" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Somogyi&lt;/b&gt;:&lt;/span&gt;&lt;/div&gt;Hipoglucemia a las 3am segido de hiperglucemia Causa: Insulina que hace picos o dosis alta" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;align=left;" vertex="1" parent="1">
+          <mxGeometry x="573" y="12240" width="147" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rcMai_4c2VjAGgn2EfUP-16" value="&lt;b&gt;Alba&lt;/b&gt;: &lt;br&gt;Hiperglucemia constante debido a dosis insuficiente" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="573" y="12330" width="147" height="60" as="geometry" />
@@ -2334,7 +2334,7 @@
           <mxGeometry x="744" y="12280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rcMai_4c2VjAGgn2EfUP-19" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;dashed=1;dashPattern=8 8;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="259.25" y="12270" width="290.75" height="128" as="geometry" />
+          <mxGeometry x="259.25" y="12280" width="290.75" height="118" as="geometry" />
         </mxCell>
         <mxCell id="rcMai_4c2VjAGgn2EfUP-21" value="Glucemia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="195" y="12258" width="70" height="30" as="geometry" />
