@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T17:26:20.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="IgWaaAeYneuXKyPRB_Me" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T18:21:14.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="cc2PfeKdoYsKgAK1V-TE" version="21.6.6" type="github">
   <diagram name="Page-1" id="bMWYh2EHfCeD_MVpmSU7">
-    <mxGraphModel dx="645" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="752" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2271,10 +2271,10 @@
         <mxCell id="yjn-ivnE-ODzRmSnaWVF-29" value="Se da cuando K baje a normal 5.3 para no causarle hipokalemia" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="670" y="11865" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rcMai_4c2VjAGgn2EfUP-1" value="Objetivos del Tx&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;HbA1c &amp;lt; 7%&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LDL &amp;lt;100 sin Fr&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt;70 1 FR o 10 años con DM&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt;55 3 FR o 20 años con DM&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;HAS &amp;lt;140/80&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-1" value="Objetivos del Tx&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;HbA1c &amp;lt; 7%&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LDL &amp;lt;100 sin Fr&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt;70 1 FR o 10 años con DM&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt;55 3 FR o 20 años con DM&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;HAS &amp;lt;140/80&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
           <mxGeometry x="121" y="12020" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rcMai_4c2VjAGgn2EfUP-2" value="" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};strokeWidth=3;strokeColor=#6666FF;" vertex="1" parent="1">
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-2" value="" style="whiteSpace=wrap;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};strokeWidth=3;strokeColor=#6666FF;html=1;expand=1;resizable=0;" vertex="1" parent="1">
           <mxGeometry x="332" y="12135" width="318" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rcMai_4c2VjAGgn2EfUP-3" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;strokeWidth=3;strokeColor=#6666FF;" edge="1" target="rcMai_4c2VjAGgn2EfUP-2" parent="1">
@@ -2344,6 +2344,15 @@
         </mxCell>
         <mxCell id="rcMai_4c2VjAGgn2EfUP-23" value="8 am" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="483" y="12408" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-24" value="&lt;div style=&quot;text-align: center; font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Clasicos&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;Metformina: Eleccion. causa Ac. Lactica&lt;br&gt;Pioglitazona: Fracturas, edema, ICC, Hepatotoxico&lt;br&gt;Sulfonilureas: Hipoglucemias" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="122" y="12490" width="204" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-25" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Incretinas&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;Analogos GLP1: Semaglutide, hacen perder peso, dan saciedad&lt;br&gt;Inh DPP4:&amp;nbsp; Gliptinas, no san efectos adversos recomendado ancianos" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="333" y="12490" width="204" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-26" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Glucosuricos&lt;/span&gt;&lt;/div&gt;Inh SGLT2: Parecen diureticos, mejoran riesgo CV, mejoran albuminuria. Causan IVUs por que hacen glucosuria" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="544" y="12490" width="204" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
