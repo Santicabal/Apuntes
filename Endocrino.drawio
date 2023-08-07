@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T13:57:56.998Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="H5Q2_8V7Z_auh6rI5K43" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T14:00:09.456Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="wUvILoTlEMYl8UvG6p3z" version="21.6.6" type="github">
   <diagram name="Page-1" id="bMWYh2EHfCeD_MVpmSU7">
     <mxGraphModel dx="984" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2211,32 +2211,32 @@
         <mxCell id="yjn-ivnE-ODzRmSnaWVF-2" value="&lt;div&gt;Acidosis&lt;/div&gt;&lt;div&gt;Glucosa &amp;gt;250&lt;/div&gt;&lt;div&gt;Cetonas en orina&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="133" y="11560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yjn-ivnE-ODzRmSnaWVF-3" value="Respiracion de Kussmaul, coma, deshidratacion. ↑K ↓Na. Anion gap ↑" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="133" y="11630" width="120" height="60" as="geometry" />
+        <mxCell id="yjn-ivnE-ODzRmSnaWVF-3" value="Vomito y dolor abdominal, Resp de Kussmaul, coma, deshidratacion. ↑K ↓Na. Anion gap ↑" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="133" y="11630" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yjn-ivnE-ODzRmSnaWVF-4" value="Liquidos" style="rhombus;whiteSpace=wrap;html=1;align=center;fillColor=#60a917;strokeColor=#2D7600;rounded=1;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="287" y="11550" width="80" height="80" as="geometry" />
+          <mxGeometry x="287" y="11555" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yjn-ivnE-ODzRmSnaWVF-6" value="Insulina" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;rounded=1;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="419" y="11550" width="80" height="80" as="geometry" />
+          <mxGeometry x="419" y="11555" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yjn-ivnE-ODzRmSnaWVF-8" value="Bicarbonato" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;rounded=1;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="557" y="11550" width="80" height="80" as="geometry" />
+          <mxGeometry x="557" y="11555" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yjn-ivnE-ODzRmSnaWVF-11" value="&lt;div&gt;Sol Fis 1L/hr&lt;/div&gt;&lt;div&gt;Cuando glucosa ~200 → Glucosada 5%&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="271" y="11630" width="120" height="60" as="geometry" />
+          <mxGeometry x="271" y="11635" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yjn-ivnE-ODzRmSnaWVF-13" value="&lt;div&gt;Bolo + infusion I.V 0.1u/kg&lt;/div&gt;&lt;div&gt;Glucosa ~200 → Subcutanea&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="404" y="11630" width="120" height="60" as="geometry" />
+          <mxGeometry x="404" y="11635" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yjn-ivnE-ODzRmSnaWVF-15" value="&lt;div&gt;pH &amp;lt; 6.9&lt;/div&gt;&lt;div&gt;Si es mayor no dar&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="538" y="11630" width="120" height="60" as="geometry" />
+          <mxGeometry x="538" y="11635" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yjn-ivnE-ODzRmSnaWVF-17" value="K" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;rounded=1;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="689" y="11550" width="80" height="80" as="geometry" />
+          <mxGeometry x="689" y="11555" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yjn-ivnE-ODzRmSnaWVF-18" value="Se da cuando K baje a normal 5.3" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="670" y="11630" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="11635" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
