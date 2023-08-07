@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T20:02:34.601Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="IoUwhQsnZIJtm5FFHHKd" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T20:14:58.445Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qaDghr9RIpCmPEOjyAsy" version="21.6.6" type="github">
   <diagram name="Page-1" id="bMWYh2EHfCeD_MVpmSU7">
     <mxGraphModel dx="846" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2471,6 +2471,21 @@
         </mxCell>
         <mxCell id="rcMai_4c2VjAGgn2EfUP-62" value="Las 3 P siempre se tratan con insulina" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="122" y="12618" width="140" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-64" value="Dislipidemia" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="39" y="13280" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-66" value="Objetivos de LDL segun Score&lt;br&gt;&lt;br&gt;10%: LDL &amp;lt;55&lt;br&gt;5-10%: LDL &amp;lt;70&lt;br&gt;1-5% LDL &amp;lt;100" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="127.5" y="13412.5" width="130" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-67" value="Directo a &amp;lt;55 de LDL&lt;br&gt;&lt;br&gt;Enfermo CV (ej IAM)&lt;br&gt;IRC FG &amp;lt;30&lt;br&gt;DM + 3 FR / lesion organo diana / &amp;gt;20 años de diabetes" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="315" y="13360" width="130" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-69" value="Directo a &amp;lt;70 de LDL&lt;br&gt;&lt;br&gt;Hipercolesterolemia&lt;br&gt;HAS &amp;gt;180/90&lt;br&gt;DM + 1 FR / &amp;gt;10 años&lt;br&gt;IRC FG &amp;gt;30" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="315" y="13470" width="130" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-70" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="280" y="13360" width="20" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
