@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T20:14:58.445Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qaDghr9RIpCmPEOjyAsy" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T21:22:43.709Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="S7bzoWaL4hGV0uC1-pQQ" version="21.6.6" type="github">
   <diagram name="Page-1" id="bMWYh2EHfCeD_MVpmSU7">
     <mxGraphModel dx="846" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-83" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="356" y="13318" width="354" height="272" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-82" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="151" y="13318" width="199" height="272" as="geometry" />
+        </mxCell>
         <mxCell id="GlOn7ntjsbbanIs4BGrS-46" value="Tx de crisis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;strokeWidth=2;verticalAlign=top;align=left;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="488" y="8460" width="217" height="120" as="geometry" />
         </mxCell>
@@ -2473,19 +2479,43 @@
           <mxGeometry x="122" y="12618" width="140" height="62" as="geometry" />
         </mxCell>
         <mxCell id="rcMai_4c2VjAGgn2EfUP-64" value="Dislipidemia" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="39" y="13280" width="180" height="40" as="geometry" />
+          <mxGeometry x="42" y="13614" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rcMai_4c2VjAGgn2EfUP-66" value="Objetivos de LDL segun Score&lt;br&gt;&lt;br&gt;10%: LDL &amp;lt;55&lt;br&gt;5-10%: LDL &amp;lt;70&lt;br&gt;1-5% LDL &amp;lt;100" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="127.5" y="13412.5" width="130" height="105" as="geometry" />
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-66" value="Objetivos de LDL segun Score&lt;br&gt;&lt;br&gt;10%: LDL &amp;lt;55&lt;br&gt;5-10%: LDL &amp;lt;70&lt;br&gt;1-5% LDL &amp;lt;100" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="130.5" y="13746.5" width="130" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="rcMai_4c2VjAGgn2EfUP-67" value="Directo a &amp;lt;55 de LDL&lt;br&gt;&lt;br&gt;Enfermo CV (ej IAM)&lt;br&gt;IRC FG &amp;lt;30&lt;br&gt;DM + 3 FR / lesion organo diana / &amp;gt;20 años de diabetes" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="315" y="13360" width="130" height="105" as="geometry" />
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-67" value="Directo a &amp;lt;55 de LDL&lt;br&gt;&lt;br&gt;Enfermo CV (ej IAM)&lt;br&gt;IRC FG &amp;lt;30&lt;br&gt;DM + 3 FR / lesion organo diana / &amp;gt;20 años de diabetes" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="318" y="13694" width="130" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="rcMai_4c2VjAGgn2EfUP-69" value="Directo a &amp;lt;70 de LDL&lt;br&gt;&lt;br&gt;Hipercolesterolemia&lt;br&gt;HAS &amp;gt;180/90&lt;br&gt;DM + 1 FR / &amp;gt;10 años&lt;br&gt;IRC FG &amp;gt;30" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="315" y="13470" width="130" height="105" as="geometry" />
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-69" value="Directo a &amp;lt;70 de LDL&lt;br&gt;&lt;br&gt;Hipercolesterolemia&lt;br&gt;HAS &amp;gt;180/90&lt;br&gt;DM + 1 FR / &amp;gt;10 años&lt;br&gt;IRC FG &amp;gt;30" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="318" y="13804" width="130" height="105" as="geometry" />
         </mxCell>
         <mxCell id="rcMai_4c2VjAGgn2EfUP-70" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
-          <mxGeometry x="280" y="13360" width="20" height="210" as="geometry" />
+          <mxGeometry x="283" y="13694" width="20" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-71" value="Hipoglucemia" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="41.5" y="13260" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-73" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Farmacos&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Alcholol&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ayuno prolongado&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Sepsis&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="176" y="13360" width="154" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-74" value="Insulina ↑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="395.02" y="13360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-75" value="Insulina ↓" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="566.77" y="13360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-77" value="Sobredosis insulina:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Peptido C ↓&lt;/li&gt;&lt;li&gt;Proinsulina ↓&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Glibenclamida / Insulinoma / Autoinmune&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Peptido C ↑&lt;/li&gt;&lt;li&gt;Proinsulina ↑&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;arcSize=10;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="378.52" y="13400" width="133" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-78" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Tumor productor IGF2&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;IGF 2 ↑&lt;/li&gt;&lt;li&gt;Es tumor pleural&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;arcSize=10;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="548.77" y="13400" width="133" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-79" value="Paciente hospitalizado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="13318" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rcMai_4c2VjAGgn2EfUP-81" value="Paciente &quot;Sano&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="478.75" y="13318" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
