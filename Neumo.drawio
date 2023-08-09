@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T19:45:22.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="48u1-fhQP1P90jmRsreu" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-09T19:59:31.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="37ryTACInbc1oWvAi-v8" version="21.6.7" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
     <mxGraphModel dx="861" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -143,8 +143,8 @@
         <mxCell id="sU-v4qAwtsRLPM2VlvNM-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-47" target="sU-v4qAwtsRLPM2VlvNM-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-47" value="La hipoxia por gran altitud es la unica que causa Hipocapnia" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="719" width="120" height="60" as="geometry" />
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-47" value="La hipoxia con Hipocapnia tiene que ser porque hay poco O2 (Altura) o algo tiene el pulmon (ej Asma)" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="493" y="710.75" width="145" height="76.5" as="geometry" />
         </mxCell>
         <mxCell id="sU-v4qAwtsRLPM2VlvNM-49" value="Hay poco oxigeno, paciente hiperventila para compensar y saca CO2" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="719" width="120" height="60" as="geometry" />
