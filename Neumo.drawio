@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T20:40:07.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="A8DMV_TwyIX_37PjSsRi" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-09T21:33:58.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="odrAocJLSaaQIrTVkdJI" version="21.6.7" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
     <mxGraphModel dx="861" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -178,6 +178,33 @@
         </mxCell>
         <mxCell id="sU-v4qAwtsRLPM2VlvNM-63" value="Intubar cunado:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;↓ Nivel de conciencia&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Hipoxemia grave y refractaria&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Inestabilidad hemodinamica&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Acidosis respiratoria grave&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="1400" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-64" value="Cancer de pulmon" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1520" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-66" value="Cancer que mas mata, 90% fumadores" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-67" value="Ninguno se considera de buen pronostico, pero el epidermoide es el mejor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-68" value="Adenocarcinoma" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-69" target="sU-v4qAwtsRLPM2VlvNM-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-69" value="Epidermoide" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="241" y="1805" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-70" value="Celulas grandes" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1870" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-71" value="Microcitico" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1940" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-72" value="Hace cavitaciones" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="441" y="1795" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
