@@ -1,9 +1,97 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T16:32:31.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.7" etag="d60dtciYk8biTpxbzyrN" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-09T17:38:29.698Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZVLrPXo3a1aLB93LJBaN" version="21.6.7" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
-    <mxGraphModel>
+    <mxGraphModel dx="732" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-1" value="Pruebas funcionales" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-2" target="sU-v4qAwtsRLPM2VlvNM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-2" value="Volumenes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-3" target="sU-v4qAwtsRLPM2VlvNM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-3" value="Capacidad Pulmonar Total:&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-5" target="sU-v4qAwtsRLPM2VlvNM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-5" value="Parenquimatoso" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="135" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-7" value="CPT ↓&lt;br&gt;Vol Residual ↓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="135" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="sU-v4qAwtsRLPM2VlvNM-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="205" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-9" value="Extra Parenquimatoso" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-10" value="CPT ↓&amp;nbsp;&lt;br&gt;Vol Residua ↑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-12" value="Por problemas musculares&lt;br&gt;No tiene furza para meter&lt;br&gt;ni sacar aire" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="220" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-13" target="sU-v4qAwtsRLPM2VlvNM-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-13" value="Flujos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-14" value="FEV1 / CVF: El mas importante, &amp;lt;70% es Dx" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-20" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;direction=north;container=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="400" width="214" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-21" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;dashed=1;dashPattern=8 8;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="sU-v4qAwtsRLPM2VlvNM-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="511" y="531" as="sourcePoint" />
+            <mxPoint x="681" y="536" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="521" y="446" />
+              <mxPoint x="551" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-22" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=south;dashed=1;dashPattern=8 8;container=0;" vertex="1" parent="1">
+          <mxGeometry x="511" y="530" width="152" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-16" value="" style="curved=1;endArrow=none;html=1;rounded=0;snapToPoint=0;endFill=0;strokeColor=#6666FF;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="513" y="530" as="sourcePoint" />
+            <mxPoint x="663" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="513" y="430" />
+              <mxPoint x="594.8181818181818" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-18" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=south;container=0;strokeColor=#6666FF;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="513" y="530" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-23" value="La fibrois quistica da Obstuctiva,&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="420" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-24" target="sU-v4qAwtsRLPM2VlvNM-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-24" value="Ventilacion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-25" value="Cuando&amp;nbsp; la &lt;br&gt;↑ pCO2 hipoventilando.&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;↓ pCO2 Hiperventilacion&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="290" y="640" width="140" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
