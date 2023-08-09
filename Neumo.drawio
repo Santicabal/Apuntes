@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T20:01:22.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nqrE31rRqMJowXM95BoE" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-09T20:40:07.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="A8DMV_TwyIX_37PjSsRi" version="21.6.7" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
     <mxGraphModel dx="861" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -166,6 +166,18 @@
         </mxCell>
         <mxCell id="sU-v4qAwtsRLPM2VlvNM-57" value="&lt;b&gt;PaO2&lt;/b&gt;: 80-100&lt;br&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;PaCO2&lt;/b&gt;: 35-45" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=17;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-58" value="Insuficiencia respiratoria" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-61" value="&lt;b&gt;PaO2&lt;/b&gt;: &amp;lt;60&lt;br&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;PaCO2&lt;/b&gt;: &amp;gt;50" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=17;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-62" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Oxigenoterapia:&lt;/span&gt;&lt;/div&gt;Puntas nasales&lt;br&gt;Mascarilla: #1 en Hipercapnia" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1400" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-63" value="Intubar cunado:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;↓ Nivel de conciencia&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Hipoxemia grave y refractaria&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Inestabilidad hemodinamica&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Acidosis respiratoria grave&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="1400" width="165" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
