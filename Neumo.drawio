@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T18:23:55.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="4l7pt87WL8K4X0sL41u7" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-09T19:25:09.530Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DtnH1l9D6bYv6m181H8A" version="21.6.7" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
     <mxGraphModel dx="861" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -92,8 +92,11 @@
         <mxCell id="sU-v4qAwtsRLPM2VlvNM-24" value="Ventilacion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-25" value="Cuando&amp;nbsp; la &lt;br&gt;↑ pCO2 hipoventilando.&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;↓ pCO2 Hiperventilacion&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="290" y="640" width="140" height="60" as="geometry" />
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-25" target="sU-v4qAwtsRLPM2VlvNM-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-25" value="Cuando&amp;nbsp; la pCO2&lt;br&gt;el paciente esta...&lt;br&gt;↑ pCO2 hipoventilado.&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;↓ pCO2 Hiperventilado&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="290" y="640" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sU-v4qAwtsRLPM2VlvNM-27" value="PO2 ↓ con esfuerzo problema de difusion (ej fibrosis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="720" width="120" height="60" as="geometry" />
@@ -135,7 +138,31 @@
           <mxGeometry x="40" y="555" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sU-v4qAwtsRLPM2VlvNM-46" value="Shunt es el unico que no mejora con O&lt;sub&gt;2&lt;/sub&gt;&lt;br&gt;&lt;br&gt;Hay Presion arterial de O2 (PaO&lt;sub&gt;2&lt;/sub&gt;) y Presion Alveolar O2 (PAO&lt;sub&gt;2&lt;/sub&gt;)&lt;br&gt;PAO&lt;sub&gt;2&lt;/sub&gt;=FiO&lt;sub&gt;2&lt;/sub&gt;-pCO&lt;sub&gt;2&lt;/sub&gt;/0.8" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="620" y="810" width="140" height="151" as="geometry" />
+          <mxGeometry x="640" y="890" width="130" height="151" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-47" target="sU-v4qAwtsRLPM2VlvNM-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-47" value="La hipoxia por gran altitud es la unica que causa Hipocapnia" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-49" value="Hay poco oxigeno, paciente hiperventila para compensar y saca CO2" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-51" target="sU-v4qAwtsRLPM2VlvNM-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-51" value="Gradiente Alveolo - Arteria" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1095" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-52" target="sU-v4qAwtsRLPM2VlvNM-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-52" value="La diferencia de oxigeno entre el alveolo y las arterias" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1095" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-54" value="&lt;b&gt;Normal debajo de 15.&lt;br&gt;&lt;/b&gt;Hipoxia + gradiente normal: Causa Extrapulmonar (grandes alturas)&lt;br&gt;Hipoxia + Grad &amp;gt;15: Patologia en el pulmon" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1080" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
