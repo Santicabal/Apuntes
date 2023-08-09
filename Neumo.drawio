@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T17:38:29.698Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZVLrPXo3a1aLB93LJBaN" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-09T18:23:55.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="4l7pt87WL8K4X0sL41u7" version="21.6.7" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
-    <mxGraphModel dx="732" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="861" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-34" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="821" width="50" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="sU-v4qAwtsRLPM2VlvNM-1" value="Pruebas funcionales" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="100" height="40" as="geometry" />
         </mxCell>
@@ -91,6 +94,48 @@
         </mxCell>
         <mxCell id="sU-v4qAwtsRLPM2VlvNM-25" value="Cuando&amp;nbsp; la &lt;br&gt;↑ pCO2 hipoventilando.&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;↓ pCO2 Hiperventilacion&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="290" y="640" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-27" value="PO2 ↓ con esfuerzo problema de difusion (ej fibrosis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-28" target="sU-v4qAwtsRLPM2VlvNM-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-28" value="Ventilacion / Perfusion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-29" value="No ventilado si perfundido (V/Q=0)&lt;br&gt;&lt;b&gt;Shunt&lt;/b&gt;:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Atelectasia, Neumonia, edema pulmonar, Hemorragia alveolar&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="810" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-31" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;direction=north;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="480" y="861" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-33" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;direction=south;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="793" width="30" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-37" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="1">
+          <mxGeometry x="493" y="800" width="55" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="958" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-39" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;direction=north;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;gradientColor=#FFFFFF;gradientDirection=south;" vertex="1" parent="1">
+          <mxGeometry x="480" y="998" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-40" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;direction=south;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="930" width="30" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-41" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1007" width="25" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-42" value="Ventilado No perfundido (V/Q=∞)&lt;br&gt;&lt;b&gt;Espacio muerto alveolar&lt;/b&gt;:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;TEP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="938" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-43" value="Hipoxia" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="555" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-46" value="Shunt es el unico que no mejora con O&lt;sub&gt;2&lt;/sub&gt;&lt;br&gt;&lt;br&gt;Hay Presion arterial de O2 (PaO&lt;sub&gt;2&lt;/sub&gt;) y Presion Alveolar O2 (PAO&lt;sub&gt;2&lt;/sub&gt;)&lt;br&gt;PAO&lt;sub&gt;2&lt;/sub&gt;=FiO&lt;sub&gt;2&lt;/sub&gt;-pCO&lt;sub&gt;2&lt;/sub&gt;/0.8" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="620" y="810" width="140" height="151" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
