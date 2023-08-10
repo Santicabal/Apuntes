@@ -1,63 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T21:33:58.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="odrAocJLSaaQIrTVkdJI" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T18:51:06.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="a_WA93AkKC6GRxanp-i8" version="21.6.8" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
-    <mxGraphModel dx="861" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="685" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-34" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-34" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="495" y="900" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-1" value="Pruebas funcionales" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-1" value="Pruebas funcionales" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-2" target="sU-v4qAwtsRLPM2VlvNM-3">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sU-v4qAwtsRLPM2VlvNM-2" target="sU-v4qAwtsRLPM2VlvNM-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-2" value="Volumenes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-2" value="Volumenes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-3" target="sU-v4qAwtsRLPM2VlvNM-5">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sU-v4qAwtsRLPM2VlvNM-3" target="sU-v4qAwtsRLPM2VlvNM-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-3" value="Capacidad Pulmonar Total:&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-3" value="Capacidad Pulmonar Total:&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-5" target="sU-v4qAwtsRLPM2VlvNM-7">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sU-v4qAwtsRLPM2VlvNM-5" target="sU-v4qAwtsRLPM2VlvNM-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-5" value="Parenquimatoso" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-5" value="Parenquimatoso" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="425" y="135" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-7" value="CPT ↓&lt;br&gt;Vol Residual ↓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-7" value="CPT ↓&lt;br&gt;Vol Residual ↓" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="135" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="sU-v4qAwtsRLPM2VlvNM-10">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="sU-v4qAwtsRLPM2VlvNM-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="525" y="205" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-9" value="Extra Parenquimatoso" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-9" value="Extra Parenquimatoso" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="425" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-10" value="CPT ↓&amp;nbsp;&lt;br&gt;Vol Residua ↑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-10" value="CPT ↓&amp;nbsp;&lt;br&gt;Vol Residua ↑" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-12" value="Por problemas musculares&lt;br&gt;No tiene furza para meter&lt;br&gt;ni sacar aire" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-12" value="Por problemas musculares&lt;br&gt;No tiene furza para meter&lt;br&gt;ni sacar aire" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="425" y="220" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-13" target="sU-v4qAwtsRLPM2VlvNM-14">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sU-v4qAwtsRLPM2VlvNM-13" target="sU-v4qAwtsRLPM2VlvNM-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-13" value="Flujos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-13" value="Flujos" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-14" value="FEV1 / CVF: El mas importante, &amp;lt;70% es Dx" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-14" value="FEV1 / CVF: El mas importante, &amp;lt;70% es Dx" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-20" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;direction=north;container=0;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-20" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;direction=north;container=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="400" width="214" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-21" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;dashed=1;dashPattern=8 8;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="sU-v4qAwtsRLPM2VlvNM-20">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-21" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;dashed=1;dashPattern=8 8;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" target="sU-v4qAwtsRLPM2VlvNM-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="511" y="531" as="sourcePoint" />
             <mxPoint x="681" y="536" as="targetPoint" />
@@ -67,10 +67,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-22" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=south;dashed=1;dashPattern=8 8;container=0;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-22" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=south;dashed=1;dashPattern=8 8;container=0;" parent="1" vertex="1">
           <mxGeometry x="511" y="530" width="159" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-16" value="" style="curved=1;endArrow=none;html=1;rounded=0;snapToPoint=0;endFill=0;strokeColor=#6666FF;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-16" value="" style="curved=1;endArrow=none;html=1;rounded=0;snapToPoint=0;endFill=0;strokeColor=#6666FF;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="513" y="530" as="sourcePoint" />
             <mxPoint x="663" y="530" as="targetPoint" />
@@ -80,131 +80,161 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-18" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=south;container=0;strokeColor=#6666FF;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-18" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=south;container=0;strokeColor=#6666FF;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="513" y="530" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-23" value="La fibrois quistica da Obstuctiva,&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-23" value="La fibrois quistica da Obstuctiva,&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="420" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-24" target="sU-v4qAwtsRLPM2VlvNM-25">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sU-v4qAwtsRLPM2VlvNM-24" target="sU-v4qAwtsRLPM2VlvNM-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-24" value="Ventilacion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-24" value="Ventilacion" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="719" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-25" target="sU-v4qAwtsRLPM2VlvNM-47">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sU-v4qAwtsRLPM2VlvNM-25" target="sU-v4qAwtsRLPM2VlvNM-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-25" value="Cuando&amp;nbsp; la pCO2&lt;br&gt;el paciente esta...&lt;br&gt;↑ pCO2 hipoventilado.&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;↓ pCO2 Hiperventilado&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-25" value="Cuando&amp;nbsp; la pCO2&lt;br&gt;el paciente esta...&lt;br&gt;↑ pCO2 hipoventilado.&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;↓ pCO2 Hiperventilado&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="290" y="719" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-27" value="PO2 ↓ con esfuerzo problema de difusion (ej fibrosis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-27" value="PO2 ↓ con esfuerzo problema de difusion (ej fibrosis" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="799" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-28" target="sU-v4qAwtsRLPM2VlvNM-29">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sU-v4qAwtsRLPM2VlvNM-28" target="sU-v4qAwtsRLPM2VlvNM-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-28" value="Ventilacion / Perfusion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-28" value="Ventilacion / Perfusion" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="909" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-29" value="No ventilado si perfundido (V/Q=0)&lt;br&gt;&lt;b&gt;Shunt&lt;/b&gt;:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Atelectasia, Neumonia, edema pulmonar, Hemorragia alveolar&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-29" value="No ventilado si perfundido (V/Q=0)&lt;br&gt;&lt;b&gt;Shunt&lt;/b&gt;:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Atelectasia, Neumonia, edema pulmonar, Hemorragia alveolar&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="889" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-31" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;direction=north;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-31" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;direction=north;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="480" y="940" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-33" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;direction=south;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-33" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;direction=south;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="505" y="872" width="30" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-37" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-37" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" parent="1" vertex="1">
           <mxGeometry x="493" y="879" width="55" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="495" y="1037" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-39" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;direction=north;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;gradientColor=#FFFFFF;gradientDirection=south;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-39" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;direction=north;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;gradientColor=#FFFFFF;gradientDirection=south;" parent="1" vertex="1">
           <mxGeometry x="480" y="1077" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-40" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;direction=south;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-40" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;direction=south;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="505" y="1009" width="30" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-41" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-41" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" parent="1" vertex="1">
           <mxGeometry x="480" y="1086" width="25" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-42" value="Ventilado No perfundido (V/Q=∞)&lt;br&gt;&lt;b&gt;Espacio muerto alveolar&lt;/b&gt;:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;TEP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-42" value="Ventilado No perfundido (V/Q=∞)&lt;br&gt;&lt;b&gt;Espacio muerto alveolar&lt;/b&gt;:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;TEP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="1017" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-43" value="Hipoxia" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-43" value="Hipoxia" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="40" y="555" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-46" value="Shunt es el unico que no mejora con O&lt;sub&gt;2 &lt;/sub&gt;osea que el TEP si mejora&lt;br&gt;&lt;br&gt;Hay Presion arterial de O2 (PaO&lt;sub&gt;2&lt;/sub&gt;) y Presion Alveolar O2 (PAO&lt;sub&gt;2&lt;/sub&gt;)&lt;br&gt;PAO&lt;sub&gt;2&lt;/sub&gt;=FiO&lt;sub&gt;2&lt;/sub&gt;-pCO&lt;sub&gt;2&lt;/sub&gt;/0.8" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-46" value="Shunt es el unico que no mejora con O&lt;sub&gt;2 &lt;/sub&gt;osea que el TEP si mejora&lt;br&gt;&lt;br&gt;Hay Presion arterial de O2 (PaO&lt;sub&gt;2&lt;/sub&gt;) y Presion Alveolar O2 (PAO&lt;sub&gt;2&lt;/sub&gt;)&lt;br&gt;PAO&lt;sub&gt;2&lt;/sub&gt;=FiO&lt;sub&gt;2&lt;/sub&gt;-pCO&lt;sub&gt;2&lt;/sub&gt;/0.8" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="640" y="969" width="130" height="151" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-47" target="sU-v4qAwtsRLPM2VlvNM-49">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sU-v4qAwtsRLPM2VlvNM-47" target="sU-v4qAwtsRLPM2VlvNM-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-47" value="La hipoxia con Hipocapnia tiene que ser porque hay poco O2 (Altura) o algo tiene el pulmon (ej Asma)" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-47" value="La hipoxia con Hipocapnia tiene que ser porque hay poco O2 (Altura) o algo tiene el pulmon (ej Asma)" style="whiteSpace=wrap;html=1;align=left;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="493" y="710.75" width="145" height="76.5" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-49" value="Hay poco oxigeno, paciente hiperventila para compensar y saca CO2" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-49" value="Hay poco oxigeno, paciente hiperventila para compensar y saca CO2" style="whiteSpace=wrap;html=1;align=left;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="705" y="719" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-51" target="sU-v4qAwtsRLPM2VlvNM-52">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sU-v4qAwtsRLPM2VlvNM-51" target="sU-v4qAwtsRLPM2VlvNM-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-51" value="Gradiente Alveolo - Arteria" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-51" value="Gradiente Alveolo - Arteria" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="1174" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-52" target="sU-v4qAwtsRLPM2VlvNM-54">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sU-v4qAwtsRLPM2VlvNM-52" target="sU-v4qAwtsRLPM2VlvNM-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-52" value="La diferencia de oxigeno entre el alveolo y las arterias" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-52" value="La diferencia de oxigeno entre el alveolo y las arterias" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="1174" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-54" value="&lt;b&gt;Normal debajo de 15.&lt;br&gt;&lt;/b&gt;Hipoxia + gradiente normal: Causa Extrapulmonar (grandes alturas)&lt;br&gt;Hipoxia + Grad &amp;gt;15: Patologia en el pulmon" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-54" value="&lt;b&gt;Normal debajo de 15.&lt;br&gt;&lt;/b&gt;Hipoxia + gradiente normal: Causa Extrapulmonar (grandes alturas)&lt;br&gt;Hipoxia + Grad &amp;gt;15: Patologia en el pulmon" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="470" y="1159" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-57" value="&lt;b&gt;PaO2&lt;/b&gt;: 80-100&lt;br&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;PaCO2&lt;/b&gt;: 35-45" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=17;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-57" value="&lt;b&gt;PaO2&lt;/b&gt;: 80-100&lt;br&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;PaCO2&lt;/b&gt;: 35-45" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=17;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-58" value="Insuficiencia respiratoria" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-58" value="Insuficiencia respiratoria" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="40" y="1320" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-61" value="&lt;b&gt;PaO2&lt;/b&gt;: &amp;lt;60&lt;br&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;PaCO2&lt;/b&gt;: &amp;gt;50" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=17;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-61" value="&lt;b&gt;PaO2&lt;/b&gt;: &amp;lt;60&lt;br&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;PaCO2&lt;/b&gt;: &amp;gt;50" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=17;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-62" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Oxigenoterapia:&lt;/span&gt;&lt;/div&gt;Puntas nasales&lt;br&gt;Mascarilla: #1 en Hipercapnia" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-62" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Oxigenoterapia:&lt;/span&gt;&lt;/div&gt;Puntas nasales&lt;br&gt;Mascarilla: #1 en Hipercapnia" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="300" y="1400" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-63" value="Intubar cunado:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;↓ Nivel de conciencia&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Hipoxemia grave y refractaria&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Inestabilidad hemodinamica&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Acidosis respiratoria grave&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-63" value="Intubar cunado:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;↓ Nivel de conciencia&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Hipoxemia grave y refractaria&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Inestabilidad hemodinamica&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Acidosis respiratoria grave&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="495" y="1400" width="165" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-64" value="Cancer de pulmon" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-64" value="Cancer de pulmon" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="40" y="1520" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-66" value="Cancer que mas mata, 90% fumadores" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-66" value="Cancer que mas mata, 90% fumadores" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-67" value="Ninguno se considera de buen pronostico, pero el epidermoide es el mejor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-67" value="Ninguno se considera de buen pronostico, pero el epidermoide es el mejor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-68" value="Adenocarcinoma" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1740" width="120" height="40" as="geometry" />
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-68" value="Adenocarcinoma" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1670" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-69" target="sU-v4qAwtsRLPM2VlvNM-72">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sU-v4qAwtsRLPM2VlvNM-69" target="sU-v4qAwtsRLPM2VlvNM-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-69" value="Epidermoide" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="241" y="1805" width="120" height="40" as="geometry" />
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-69" value="Epidermoide" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1800" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-70" value="Celulas grandes" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-70" value="Celulas grandes" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj-hr3UklDrpazf8FQOq-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-71" target="Sj-hr3UklDrpazf8FQOq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-71" value="Microcitico" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
           <mxGeometry x="240" y="1870" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-71" value="Microcitico" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1940" width="120" height="40" as="geometry" />
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-72" value="Sindrome de Pancoast.&lt;br&gt;Hace cavitaciones" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="1790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-72" value="Hace cavitaciones" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="441" y="1795" width="120" height="60" as="geometry" />
+        <mxCell id="Sj-hr3UklDrpazf8FQOq-1" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Sindromes paraneoplasicos:&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Adenocarcinoma&lt;/b&gt;: Acropaquias, Artopatia&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Epidermoide&lt;/b&gt;: Hipercalcemia&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Cel grandes&lt;/b&gt;: Ginecomastia&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Microcitico&lt;/b&gt;: SIADH, Cushing, Eaton Lambert&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="580.5" y="1770" width="249" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj-hr3UklDrpazf8FQOq-2" value="Hijo de padres con Ca de pulmon con 2x riesgo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj-hr3UklDrpazf8FQOq-3" value="Sindrome Vena Cava Superior: Masa paratraqual derecha" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj-hr3UklDrpazf8FQOq-4" value="Tos, hemoptisism atelectasias, disnea" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj-hr3UklDrpazf8FQOq-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1670" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj-hr3UklDrpazf8FQOq-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1805" width="20" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj-hr3UklDrpazf8FQOq-7" value="Perifericos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1698" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj-hr3UklDrpazf8FQOq-8" value="Centrales" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="1838" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj-hr3UklDrpazf8FQOq-9" value="Asintomaticos, derrame pleural" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1728" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
