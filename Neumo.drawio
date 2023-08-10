@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T19:46:12.247Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bzEN20-FrucNI7x9hM2B" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T19:54:31.929Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fbQWGtlgNczcmh_QlqB1" version="21.6.8" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
-    <mxGraphModel dx="685" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="979" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,71 +182,68 @@
         <mxCell id="sU-v4qAwtsRLPM2VlvNM-64" value="Cancer de pulmon" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="40" y="1520" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-66" value="Cancer que mas mata, 90% fumadores" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="1600" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-67" value="Ninguno se considera de buen pronostico, pero el epidermoide es el mejor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="1600" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="sU-v4qAwtsRLPM2VlvNM-68" value="Adenocarcinoma" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
-          <mxGeometry x="240" y="1670" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="1666" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sU-v4qAwtsRLPM2VlvNM-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sU-v4qAwtsRLPM2VlvNM-69" target="sU-v4qAwtsRLPM2VlvNM-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sU-v4qAwtsRLPM2VlvNM-69" value="Epidermoide" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
-          <mxGeometry x="240" y="1800" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="1796" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sU-v4qAwtsRLPM2VlvNM-70" value="Celulas grandes" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
-          <mxGeometry x="240" y="1730" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="1726" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sj-hr3UklDrpazf8FQOq-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-71" target="Sj-hr3UklDrpazf8FQOq-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sU-v4qAwtsRLPM2VlvNM-71" value="Microcitico" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
-          <mxGeometry x="240" y="1870" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="1866" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sj-hr3UklDrpazf8FQOq-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sU-v4qAwtsRLPM2VlvNM-72" target="Sj-hr3UklDrpazf8FQOq-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sU-v4qAwtsRLPM2VlvNM-72" value="Cavitaciones y Sindrome de Pancoast." style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="1790" width="120" height="60" as="geometry" />
+          <mxGeometry x="525" y="1786.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sj-hr3UklDrpazf8FQOq-1" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Sindromes paraneoplasicos:&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Adenocarcinoma&lt;/b&gt;: Acropaquias, Artopatia&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Epidermoide&lt;/b&gt;: Hipercalcemia&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Cel grandes&lt;/b&gt;: Ginecomastia&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Microcitico&lt;/b&gt;: SIADH, Cushing, Eaton Lambert&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1940" width="249" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="Sj-hr3UklDrpazf8FQOq-2" value="Hijo de padres con Ca de pulmon con 2x riesgo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1600" width="120" height="60" as="geometry" />
+          <mxGeometry x="230.5" y="1940" width="249" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Sj-hr3UklDrpazf8FQOq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sj-hr3UklDrpazf8FQOq-3" target="Sj-hr3UklDrpazf8FQOq-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sj-hr3UklDrpazf8FQOq-3" value="Sindrome Vena Cava Superior: Masa paratraqual derecha" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1860" width="120" height="60" as="geometry" />
+          <mxGeometry x="525" y="1856.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Sj-hr3UklDrpazf8FQOq-4" value="Tos, hemoptisism atelectasias, disnea" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1890" width="120" height="60" as="geometry" />
+        <mxCell id="Sj-hr3UklDrpazf8FQOq-4" value="Tos, hemoptisism atelectasias, disnea" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1836" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sj-hr3UklDrpazf8FQOq-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1670" width="20" height="100" as="geometry" />
+          <mxGeometry x="180" y="1666" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Sj-hr3UklDrpazf8FQOq-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1805" width="20" height="105" as="geometry" />
+          <mxGeometry x="180" y="1801" width="20" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="Sj-hr3UklDrpazf8FQOq-7" value="Perifericos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1698" width="80" height="30" as="geometry" />
+        <mxCell id="Sj-hr3UklDrpazf8FQOq-7" value="Perifericos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1701" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sj-hr3UklDrpazf8FQOq-8" value="Centrales" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="75" y="1838" width="70" height="30" as="geometry" />
+        <mxCell id="Sj-hr3UklDrpazf8FQOq-8" value="Centrales" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="85" y="1838.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sj-hr3UklDrpazf8FQOq-9" value="Asintomaticos, derrame pleural" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1728" width="120" height="60" as="geometry" />
+        <mxCell id="Sj-hr3UklDrpazf8FQOq-9" value="Asintomaticos, derrame pleural" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="393" y="1694" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sj-hr3UklDrpazf8FQOq-11" value="Edema cuello, venas colaterales, Rx con Masa paratraqual derecha" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="610" y="1860" width="120" height="60" as="geometry" />
+          <mxGeometry x="695" y="1856.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sj-hr3UklDrpazf8FQOq-13" value="Afecta plexo barquial C8-T1 causa dolor en hombro y region cubital. Sx Horner" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="1790" width="120" height="60" as="geometry" />
+          <mxGeometry x="695" y="1786.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj-hr3UklDrpazf8FQOq-15" value="Cancer que mas mata, 90% fumadores&lt;br&gt;&lt;br&gt;Hijo de padres con Ca de pulmon con 2x riesgo&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1560" width="175" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj-hr3UklDrpazf8FQOq-16" value="Ninguno se considera de buen pronostico, pero el epidermoide es el mejor" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="1560" width="175" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
