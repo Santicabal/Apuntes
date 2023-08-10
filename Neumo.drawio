@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T18:51:06.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="a_WA93AkKC6GRxanp-i8" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T18:59:26.973Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3-JRDAvkkO38-LPtyzxD" version="21.6.8" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
     <mxGraphModel dx="685" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -210,10 +210,13 @@
           <mxGeometry x="440" y="1790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sj-hr3UklDrpazf8FQOq-1" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Sindromes paraneoplasicos:&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Adenocarcinoma&lt;/b&gt;: Acropaquias, Artopatia&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Epidermoide&lt;/b&gt;: Hipercalcemia&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Cel grandes&lt;/b&gt;: Ginecomastia&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Microcitico&lt;/b&gt;: SIADH, Cushing, Eaton Lambert&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="580.5" y="1770" width="249" height="160" as="geometry" />
+          <mxGeometry x="576" y="1645" width="249" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Sj-hr3UklDrpazf8FQOq-2" value="Hijo de padres con Ca de pulmon con 2x riesgo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj-hr3UklDrpazf8FQOq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sj-hr3UklDrpazf8FQOq-3" target="Sj-hr3UklDrpazf8FQOq-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sj-hr3UklDrpazf8FQOq-3" value="Sindrome Vena Cava Superior: Masa paratraqual derecha" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="440" y="1860" width="120" height="60" as="geometry" />
@@ -235,6 +238,9 @@
         </mxCell>
         <mxCell id="Sj-hr3UklDrpazf8FQOq-9" value="Asintomaticos, derrame pleural" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="1728" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sj-hr3UklDrpazf8FQOq-11" value="Edema cuello, venas colaterales. Sx horner, Rx con Masa paratraqual derecha" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
