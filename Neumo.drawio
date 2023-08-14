@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T16:32:02.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="L00XRdSf4o5GnwZ6eV5M" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-14T16:41:52.442Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="13Rc1lb6Ix2GiI6fxuH1" version="21.6.8" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
     <mxGraphModel dx="1099" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -784,10 +784,10 @@
           <mxGeometry x="440" y="3239" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yaGc_qqoRXyaDCPCh6Cc-29" value="Tx cancer no microcitico" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="220" y="2950" width="100" height="40" as="geometry" />
+          <mxGeometry x="212" y="2950" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yaGc_qqoRXyaDCPCh6Cc-30" value="Tx Microcitico" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="112" y="3650" width="100" height="40" as="geometry" />
+          <mxGeometry x="150" y="3650" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yaGc_qqoRXyaDCPCh6Cc-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yaGc_qqoRXyaDCPCh6Cc-32" target="yaGc_qqoRXyaDCPCh6Cc-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -822,7 +822,7 @@
         <mxCell id="yaGc_qqoRXyaDCPCh6Cc-43" value="Qx+RT" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#60a917;strokeColor=#2D7600;rounded=1;strokeWidth=2;fontStyle=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="282" y="3920" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="J_Vnc06Sm6DrN8foLaQs-4" value="Que Quimios?" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#2D7600;fontSize=16;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="J_Vnc06Sm6DrN8foLaQs-4" value="Que Quimios?" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#2D7600;fontSize=16;fillColor=#60a917;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="500" y="3838.5" width="250" height="141" as="geometry" />
         </mxCell>
         <mxCell id="J_Vnc06Sm6DrN8foLaQs-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="J_Vnc06Sm6DrN8foLaQs-4">
@@ -841,12 +841,12 @@
         <mxCell id="J_Vnc06Sm6DrN8foLaQs-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="J_Vnc06Sm6DrN8foLaQs-4">
           <mxGeometry y="62" width="250" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="J_Vnc06Sm6DrN8foLaQs-10" value="&lt;b&gt;Epidermoide&lt;/b&gt;: Carbaplatino&lt;br&gt;&lt;b&gt;Resto&lt;/b&gt;: Cisplatino" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#ffff88;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="J_Vnc06Sm6DrN8foLaQs-9">
+        <mxCell id="J_Vnc06Sm6DrN8foLaQs-10" value="&lt;b&gt;Epidermoide&lt;/b&gt;: Carboplatino&lt;br&gt;&lt;b&gt;Resto&lt;/b&gt;: Cisplatino" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#ffff88;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="J_Vnc06Sm6DrN8foLaQs-9">
           <mxGeometry width="124" height="79" as="geometry">
             <mxRectangle width="124" height="79" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J_Vnc06Sm6DrN8foLaQs-11" value="&lt;b&gt;Extendido&lt;/b&gt;: Carbaplatino&lt;br&gt;&lt;b&gt;Limitado&lt;/b&gt;: Cisplatino" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#56517e;overflow=hidden;fillColor=#d0cee2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="J_Vnc06Sm6DrN8foLaQs-9">
+        <mxCell id="J_Vnc06Sm6DrN8foLaQs-11" value="&lt;b&gt;Extendido&lt;/b&gt;: Carboplatino&lt;br&gt;&lt;b&gt;Limitado&lt;/b&gt;: Cisplatino" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#56517e;overflow=hidden;fillColor=#d0cee2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="J_Vnc06Sm6DrN8foLaQs-9">
           <mxGeometry x="124" width="126" height="79" as="geometry">
             <mxRectangle width="126" height="79" as="alternateBounds" />
           </mxGeometry>
