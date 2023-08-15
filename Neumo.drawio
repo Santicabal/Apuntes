@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T18:33:24.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="b0xyplfFa2STBb2frEsp" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T19:58:39.004Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MLUEm5wWSpGN8EGBggCs" version="21.6.8" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
     <mxGraphModel dx="768" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1156,23 +1156,54 @@
         <mxCell id="o2XStDFjQmmAr5IW1lQV-12" value="B" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="281" y="6840" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-13" value="Alto Riesgo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="119" y="6788" width="80" height="30" as="geometry" />
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-13" value="&amp;gt;2 o&amp;nbsp;&lt;br&gt;1 hospitalizacion" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="89" y="6780" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-14" value="Bajo Riesgo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="114" y="6860" width="90" height="30" as="geometry" />
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-14" value="0-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="139" y="6860" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-15" value="mMRC &amp;lt;2&lt;br&gt;CAT &amp;lt;10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="201" y="6920" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o2XStDFjQmmAr5IW1lQV-16" target="o2XStDFjQmmAr5IW1lQV-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-16" value="mMRC &amp;gt;2&lt;br&gt;CAT &amp;gt;10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="281" y="6920" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-17" value="Agudizaciones" style="whiteSpace=wrap;html=1;horizontal=0;fontSize=15;labelBackgroundColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-17" value="Agudizaciones en un año" style="whiteSpace=wrap;html=1;horizontal=0;fontSize=15;labelBackgroundColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="6778" width="35" height="112" as="geometry" />
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-18" value="Sintomas" style="whiteSpace=wrap;html=1;horizontal=1;fontSize=15;labelBackgroundColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="230.5" y="6710" width="108" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-19" value="Disnea al caminar en plano" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="236" y="6990" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o2XStDFjQmmAr5IW1lQV-21" target="o2XStDFjQmmAr5IW1lQV-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-25" value="Aumenta&lt;br&gt;Supervivencia" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o2XStDFjQmmAr5IW1lQV-24">
+          <mxGeometry x="-0.32" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-21" value="Tx no farmacos" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="570" y="6620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o2XStDFjQmmAr5IW1lQV-23" target="o2XStDFjQmmAr5IW1lQV-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-28" value="No aumenta&lt;br&gt;superviviencia" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o2XStDFjQmmAr5IW1lQV-27">
+          <mxGeometry x="-0.05" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-23" value="Dejar de fumar&lt;br&gt;O2 cuando PaO2 en reposo &amp;lt;55" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;align=left;" vertex="1" parent="1">
+          <mxGeometry x="550" y="6750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-26" value="Vacuna neumococo&lt;br&gt;Rehabilitacion" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;align=left;" vertex="1" parent="1">
+          <mxGeometry x="550" y="6870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
