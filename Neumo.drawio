@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T21:18:12.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZYN26GnyCOAx1A9HP25I" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T21:43:19.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="F22AHX7eDF4ubYULXu3C" version="21.6.8" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
     <mxGraphModel dx="768" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1260,8 +1260,25 @@
             <mxRectangle width="98" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-42" value="Esosinofilia → LABA + esteroide&lt;br style=&quot;border-color: var(--border-color); font-size: 9px;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;CAT&amp;lt;20 →LAMA&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 9px;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;CAT&amp;gt;20→LAMA+LABA&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=9;fillColor=none;strokeColor=none;fontStyle=0;align=left;" vertex="1" parent="1">
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-42" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;CAT&amp;lt;20 →LAMA&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 9px;&quot;&gt;CAT&amp;gt;20→LAMA + LABA&lt;br&gt;Esosinofilia → LABA + esteroide" style="whiteSpace=wrap;html=1;fontSize=9;fillColor=none;strokeColor=none;fontStyle=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="291" y="6881" width="138" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-44" value="SABA: Salbutamol&lt;br&gt;LABA: Salmeterol, Formeterol&lt;br&gt;SAMA: Ipatropio&lt;br&gt;LAMA: Tiotropio" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="205" y="7190" width="171" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o2XStDFjQmmAr5IW1lQV-46" target="o2XStDFjQmmAr5IW1lQV-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-50" value="Disnea&lt;br&gt;persiste" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o2XStDFjQmmAr5IW1lQV-49">
+          <mxGeometry x="-0.1" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-46" value="LAMA o&lt;br&gt;LABA" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="426" y="7190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-48" value="LAMA +&lt;br&gt;LABA" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="586" y="7190" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
