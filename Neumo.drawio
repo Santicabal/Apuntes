@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T20:48:13.679Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vmQUUfFmQ3zrgTXLwO1P" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T21:01:12.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="E4yHxUV1wNzxTsBb_-Zs" version="21.6.8" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
     <mxGraphModel dx="768" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1144,17 +1144,20 @@
         <mxCell id="o2XStDFjQmmAr5IW1lQV-7" value="FEV&lt;sub&gt;1&lt;/sub&gt; / FVC &amp;lt; 0.7 Post broncodilatacion" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="262" y="6610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-9" value="C" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fontStyle=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="201" y="6760" width="80" height="80" as="geometry" />
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-9" value="C&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;LAMA&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fontStyle=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="140" y="6699" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-10" value="D" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="281" y="6760" width="80" height="80" as="geometry" />
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o2XStDFjQmmAr5IW1lQV-10" target="o2XStDFjQmmAr5IW1lQV-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-11" value="A" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="201" y="6840" width="80" height="80" as="geometry" />
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-10" value="D&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="281" y="6700" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-12" value="B" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="281" y="6840" width="80" height="80" as="geometry" />
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-11" value="A&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;SABA / SAMA&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="140" y="6840" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-12" value="B&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;LAMA / LABA&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="281" y="6840" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-13" value="&amp;gt;2 o&amp;nbsp;&lt;br&gt;1 hospitalizacion" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="89" y="6780" width="110" height="40" as="geometry" />
@@ -1172,7 +1175,7 @@
           <mxGeometry x="281" y="6920" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-17" value="Agudizaciones en un año" style="whiteSpace=wrap;html=1;horizontal=0;fontSize=15;labelBackgroundColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="380" y="6778" width="35" height="112" as="geometry" />
+          <mxGeometry x="70" y="6778" width="35" height="112" as="geometry" />
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-18" value="Sintomas" style="whiteSpace=wrap;html=1;horizontal=1;fontSize=15;labelBackgroundColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="230.5" y="6710" width="108" height="40" as="geometry" />
@@ -1189,7 +1192,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-21" value="Tx no farmacos" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="577" y="6785" width="80" height="80" as="geometry" />
+          <mxGeometry x="702" y="6610" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o2XStDFjQmmAr5IW1lQV-23" target="o2XStDFjQmmAr5IW1lQV-26">
           <mxGeometry relative="1" as="geometry" />
@@ -1200,10 +1203,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-23" value="Dejar de fumar&lt;br&gt;O2 cuando PaO2 en reposo &amp;lt;55" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;align=left;" vertex="1" parent="1">
-          <mxGeometry x="557" y="6915" width="120" height="60" as="geometry" />
+          <mxGeometry x="682" y="6740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-26" value="Vacuna neumococo&lt;br&gt;Rehabilitacion" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;align=left;" vertex="1" parent="1">
-          <mxGeometry x="557" y="7035" width="120" height="60" as="geometry" />
+          <mxGeometry x="682" y="6860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-29" value="Gold" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=#B09500;fontSize=16;fillColor=#e3c800;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="438" y="6610" width="180" height="150" as="geometry" />
@@ -1259,6 +1262,9 @@
           <mxGeometry x="82" width="98" height="30" as="geometry">
             <mxRectangle width="98" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-42" value="Esosinofilia → LABA + esteroide&lt;br style=&quot;border-color: var(--border-color); font-size: 9px;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;CAT&amp;lt;20 →LAMA&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 9px;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;CAT&amp;gt;20→LAMA+LABA&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=9;fillColor=none;strokeColor=none;fontStyle=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="282" y="6780" width="138" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
