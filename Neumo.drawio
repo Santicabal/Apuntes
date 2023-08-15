@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T22:26:53.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="pm3cL9AnrcNC2MaRASbW" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T22:41:15.345Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3yKvttYWn3ZdDgwOsJ8B" version="21.6.8" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
     <mxGraphModel dx="768" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1351,10 +1351,10 @@
         <mxCell id="o2XStDFjQmmAr5IW1lQV-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o2XStDFjQmmAr5IW1lQV-73" target="o2XStDFjQmmAr5IW1lQV-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-73" value="Ventilacion mecanica no invasiva" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-73" value="Ventilacion mecanica no invasiva" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;rounded=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="609" y="7340" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-76" value="Ventilacion invasiva" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-76" value="Ventilacion invasiva" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;rounded=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="739" y="7340" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-78" value="Inconciente&lt;br style=&quot;font-size: 11px;&quot;&gt;o pH &amp;lt;7.2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
