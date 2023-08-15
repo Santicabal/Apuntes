@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T22:41:15.345Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3yKvttYWn3ZdDgwOsJ8B" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T22:59:16.381Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vpwBE03_vJJsrl3A1q7p" version="21.6.8" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
-    <mxGraphModel dx="768" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="530" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1202,13 +1202,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-23" value="Dejar de fumar&lt;br&gt;O&lt;sub&gt;2&lt;/sub&gt; cuando PaO&lt;sub&gt;2&lt;/sub&gt; en reposo &amp;lt;55" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;align=left;" vertex="1" parent="1">
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-23" value="Dejar de fumar&lt;br&gt;O&lt;sub&gt;2&lt;/sub&gt; cuando PaO&lt;sub&gt;2&lt;/sub&gt; en reposo &amp;lt;55 (Sat 88%)" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;align=left;" vertex="1" parent="1">
           <mxGeometry x="560" y="6931" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-26" value="Vacuna neumococo&lt;br&gt;Rehabilitacion" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;align=left;" vertex="1" parent="1">
           <mxGeometry x="560" y="7051" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-29" value="Gold" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=#B09500;fontSize=16;fillColor=#e3c800;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-29" value="Gold" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;strokeColor=#B09500;fontSize=16;fillColor=#e3c800;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="450" y="6605" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-30" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#fad7ac;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#b46504;fontSize=16;" vertex="1" parent="o2XStDFjQmmAr5IW1lQV-29">
@@ -1351,6 +1351,9 @@
         <mxCell id="o2XStDFjQmmAr5IW1lQV-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o2XStDFjQmmAr5IW1lQV-73" target="o2XStDFjQmmAr5IW1lQV-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=-0.133;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 4;endArrow=block;endFill=0;" edge="1" parent="1" source="o2XStDFjQmmAr5IW1lQV-73" target="o2XStDFjQmmAr5IW1lQV-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-73" value="Ventilacion mecanica no invasiva" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;rounded=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="609" y="7340" width="80" height="80" as="geometry" />
         </mxCell>
@@ -1359,6 +1362,15 @@
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-78" value="Inconciente&lt;br style=&quot;font-size: 11px;&quot;&gt;o pH &amp;lt;7.2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="671" y="7340" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-79" value="&lt;b&gt;Criterios de trasplante&lt;br&gt;&lt;/b&gt;Corta expectatvia de vida y GOLD 4 + 1:&lt;br&gt;FEV1 &amp;lt;20% + enfisema homogeneo&lt;br&gt;HAP o Cor pulmonale a pesar de O&lt;sub&gt;2&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="361.25" y="7540" width="202.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-80" value="&lt;b&gt;Anthonisen&lt;br&gt;&lt;/b&gt;1. Disnea, &lt;br&gt;2. Esputo purulento, &lt;br&gt;3. ↑ Cantidad de esputo.&lt;br&gt;&amp;nbsp;Alguno de esputo + otro das ABx" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="359" y="7440" width="202.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-82" value="Aumenta &lt;br&gt;supervivencia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="604" y="7460" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
