@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T18:32:53.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="n9cKHsOZU5zJ2Da81tsz" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T18:33:24.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="b0xyplfFa2STBb2frEsp" version="21.6.8" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
     <mxGraphModel dx="768" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1126,22 +1126,22 @@
         <mxCell id="o2XStDFjQmmAr5IW1lQV-1" value="EPOC" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="37.5" y="6360" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-3" value="Hay 3 tipos de enfisema&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Centroacinar&lt;/b&gt;: Fumadores cronicos&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Panacinar&lt;/b&gt;: Jovenes con Deficit Alfa 1 Antitripsina&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Paraseptal&lt;/b&gt;: Debutan con neumotorax espontaneo&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-3" value="Hay 3 tipos de enfisema&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Centroacinar&lt;/b&gt;: Fumadores cronicos&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Panacinar&lt;/b&gt;: Jovenes con Deficit Alfa 1 Antitripsina&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Paraseptal&lt;/b&gt;: Debutan con neumotorax espontaneo&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="80" y="6440" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-4" value="Hay 2 tipos de clinicas&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Soplador Rosado&lt;/b&gt;: Delgado, tiraje intercostal, ↓ murmullo vesicular. Enfisema&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Abotagado azul&lt;/b&gt;: Expectora mucho Poligloblia, Roncus, sibilancias, hipertension pulmona. Bronquitis&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-4" value="Hay 2 tipos de clinicas&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Soplador Rosado&lt;/b&gt;: Delgado, tiraje intercostal, ↓ murmullo vesicular. Enfisema&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Abotagado azul&lt;/b&gt;: Expectora mucho Poligloblia, Roncus, sibilancias, hipertension pulmona. Bronquitis&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="359" y="6440" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-5" value="Bronquitis cronica:&lt;br&gt;Tos 3 meses/año por 2 años seguidos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-5" value="Bronquitis cronica:&lt;br&gt;Tos 3 meses/año por 2 años seguidos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="635" y="6440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o2XStDFjQmmAr5IW1lQV-6" target="o2XStDFjQmmAr5IW1lQV-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-6" value="Espirometria" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-6" value="Espirometria" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="122" y="6600" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-7" value="FEV&lt;sub&gt;1&lt;/sub&gt; / FVC &amp;lt; 0.7 Post broncodilatacion" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-7" value="FEV&lt;sub&gt;1&lt;/sub&gt; / FVC &amp;lt; 0.7 Post broncodilatacion" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="262" y="6610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-9" value="C" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fontStyle=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
