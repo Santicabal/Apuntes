@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T13:55:56.586Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="4NFH4iHqg8DY-T7xnvl5" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T13:59:50.000Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="2Oba_nOSRhLklT0AvBMQ" version="21.6.6" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
     <mxGraphModel dx="1230" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1066,7 +1066,7 @@
         <mxCell id="M3NYhNZxRh4iyW8WxqWl-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M3NYhNZxRh4iyW8WxqWl-19" target="M3NYhNZxRh4iyW8WxqWl-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M3NYhNZxRh4iyW8WxqWl-19" value="Grande" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="M3NYhNZxRh4iyW8WxqWl-19" value="&lt;div&gt;Grande&lt;/div&gt;&lt;div&gt;(&amp;gt;30%)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="404.5" y="5840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M3NYhNZxRh4iyW8WxqWl-22" value="Un trauma contuso no penetrante hace que el pulmon se ponche y el aire se va al espacio pleural. el aire solo fluye en esa direccion, si crece demasiado se puede hacer a tension, empuja las venas cavas y produce shock" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
