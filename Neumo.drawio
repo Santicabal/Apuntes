@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T21:57:27.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DugcSlamD1cZWbLa2cK-" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T21:59:23.209Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="n0_GTViJbpSKyJmgFPIx" version="21.6.8" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
     <mxGraphModel dx="768" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1178,7 +1178,7 @@
           <mxGeometry x="235.5" y="6750" width="108" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-19" value="Disnea al caminar en plano" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="275" y="7140" width="170" height="30" as="geometry" />
+          <mxGeometry x="275" y="7128" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o2XStDFjQmmAr5IW1lQV-21" target="o2XStDFjQmmAr5IW1lQV-23">
           <mxGeometry relative="1" as="geometry" />
@@ -1264,7 +1264,7 @@
           <mxGeometry x="291" y="6881" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-44" value="SABA: Salbutamol&lt;br&gt;LABA: Salmeterol, Formeterol&lt;br&gt;SAMA: Ipatropio&lt;br&gt;LAMA: Tiotropio, Umeclidinio" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="205" y="7190" width="171" height="70" as="geometry" />
+          <mxGeometry x="162" y="7193" width="171" height="70" as="geometry" />
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-52" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="o2XStDFjQmmAr5IW1lQV-46" target="o2XStDFjQmmAr5IW1lQV-51">
           <mxGeometry relative="1" as="geometry" />
@@ -1275,13 +1275,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-46" value="LAMA o&lt;br&gt;LABA" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="7350" width="80" height="80" as="geometry" />
+          <mxGeometry x="390" y="7188" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-55" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="o2XStDFjQmmAr5IW1lQV-51" target="o2XStDFjQmmAr5IW1lQV-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="510" y="7390" />
-              <mxPoint x="510" y="7350" />
+              <mxPoint x="705" y="7228" />
+              <mxPoint x="705" y="7188" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1293,8 +1293,8 @@
         <mxCell id="o2XStDFjQmmAr5IW1lQV-57" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="o2XStDFjQmmAr5IW1lQV-51" target="o2XStDFjQmmAr5IW1lQV-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="510" y="7390" />
-              <mxPoint x="510" y="7432" />
+              <mxPoint x="705" y="7228" />
+              <mxPoint x="705" y="7270" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1309,13 +1309,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-51" value="LAMA +&lt;br&gt;LABA" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="343.5" y="7350" width="80" height="80" as="geometry" />
+          <mxGeometry x="538.5" y="7188" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-54" value="Roflumilast" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="7312" width="80" height="80" as="geometry" />
+          <mxGeometry x="735" y="7150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-56" value="Azitromicina" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="7392" width="80" height="80" as="geometry" />
+          <mxGeometry x="735" y="7230" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
