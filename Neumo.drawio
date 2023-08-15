@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T13:46:47.734Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="SrkPvIP0uCQbf7FmbmLw" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T13:55:56.586Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="4NFH4iHqg8DY-T7xnvl5" version="21.6.6" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
-    <mxGraphModel dx="1312" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1230" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -965,7 +965,7 @@
         <mxCell id="M3NYhNZxRh4iyW8WxqWl-2" value="Neumotorax" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="80" y="5270" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="M3NYhNZxRh4iyW8WxqWl-3" value="Disnea, dolor toracico, Percusion timpanica, sin murmullo vesicular" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M3NYhNZxRh4iyW8WxqWl-3" value="Disnea, dolor toracico, Percusion timpanica, sin murmullo vesicular" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="115" y="5330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M3NYhNZxRh4iyW8WxqWl-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M3NYhNZxRh4iyW8WxqWl-4" target="M3NYhNZxRh4iyW8WxqWl-15">
@@ -974,7 +974,7 @@
         <mxCell id="M3NYhNZxRh4iyW8WxqWl-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M3NYhNZxRh4iyW8WxqWl-4" target="M3NYhNZxRh4iyW8WxqWl-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M3NYhNZxRh4iyW8WxqWl-4" value="&lt;div&gt;Primario:&lt;/div&gt;&lt;div&gt;Sin enfermedad pulmonar preexistente&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M3NYhNZxRh4iyW8WxqWl-4" value="&lt;div&gt;Primario:&lt;/div&gt;&lt;div&gt;Sin enfermedad pulmonar preexistente&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="322" y="5700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M3NYhNZxRh4iyW8WxqWl-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.685;entryY=0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="M3NYhNZxRh4iyW8WxqWl-5" target="M3NYhNZxRh4iyW8WxqWl-19">
@@ -993,7 +993,7 @@
             <mxPoint x="63" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M3NYhNZxRh4iyW8WxqWl-5" value="&lt;div&gt;Secundario&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M3NYhNZxRh4iyW8WxqWl-5" value="&lt;div&gt;Secundario&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="488" y="5700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M3NYhNZxRh4iyW8WxqWl-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M3NYhNZxRh4iyW8WxqWl-6" target="M3NYhNZxRh4iyW8WxqWl-7">
@@ -1015,7 +1015,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M3NYhNZxRh4iyW8WxqWl-6" value="¿Qué lo causo?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M3NYhNZxRh4iyW8WxqWl-6" value="Tipo de neumotorax" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="406" y="5430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M3NYhNZxRh4iyW8WxqWl-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M3NYhNZxRh4iyW8WxqWl-7" target="M3NYhNZxRh4iyW8WxqWl-29">
@@ -1024,7 +1024,7 @@
         <mxCell id="M3NYhNZxRh4iyW8WxqWl-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M3NYhNZxRh4iyW8WxqWl-7" target="M3NYhNZxRh4iyW8WxqWl-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M3NYhNZxRh4iyW8WxqWl-7" value="Traumatismo o Iatrogenico" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M3NYhNZxRh4iyW8WxqWl-7" value="Traumatismo o Iatrogenico" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="106.5" y="5560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M3NYhNZxRh4iyW8WxqWl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M3NYhNZxRh4iyW8WxqWl-9" target="M3NYhNZxRh4iyW8WxqWl-4">
@@ -1033,7 +1033,7 @@
         <mxCell id="M3NYhNZxRh4iyW8WxqWl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M3NYhNZxRh4iyW8WxqWl-9" target="M3NYhNZxRh4iyW8WxqWl-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M3NYhNZxRh4iyW8WxqWl-9" value="Fue espontaneo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M3NYhNZxRh4iyW8WxqWl-9" value="Espontaneo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="406" y="5570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M3NYhNZxRh4iyW8WxqWl-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M3NYhNZxRh4iyW8WxqWl-13" target="M3NYhNZxRh4iyW8WxqWl-43">
@@ -1043,7 +1043,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M3NYhNZxRh4iyW8WxqWl-13" value="A tension" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M3NYhNZxRh4iyW8WxqWl-13" value="A tension" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="705" y="5560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M3NYhNZxRh4iyW8WxqWl-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M3NYhNZxRh4iyW8WxqWl-15" target="M3NYhNZxRh4iyW8WxqWl-17">
@@ -1054,10 +1054,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M3NYhNZxRh4iyW8WxqWl-15" value="Pequeño y estable sin disnea" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="M3NYhNZxRh4iyW8WxqWl-15" value="Pequeño y estable sin disnea" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="221" y="5840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M3NYhNZxRh4iyW8WxqWl-17" value="&lt;div&gt;Oxigeno &lt;br&gt;&lt;/div&gt;&lt;div&gt;3-6h&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="M3NYhNZxRh4iyW8WxqWl-17" value="&lt;div&gt;Oxigeno &lt;br&gt;&lt;/div&gt;&lt;div&gt;3-6h&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="242" y="5970" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="M3NYhNZxRh4iyW8WxqWl-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M3NYhNZxRh4iyW8WxqWl-19" target="M3NYhNZxRh4iyW8WxqWl-37">
@@ -1066,13 +1066,13 @@
         <mxCell id="M3NYhNZxRh4iyW8WxqWl-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M3NYhNZxRh4iyW8WxqWl-19" target="M3NYhNZxRh4iyW8WxqWl-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M3NYhNZxRh4iyW8WxqWl-19" value="Grande" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M3NYhNZxRh4iyW8WxqWl-19" value="Grande" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="404.5" y="5840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M3NYhNZxRh4iyW8WxqWl-22" value="Un trauma contuso no penetrante hace que el pulmonse ponche y el aire se va al espacio pleural. el aire solo fluye en esa direccion, si crece demasiado se puede hacer a tension, empuja las venas cavas y produce shock" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="M3NYhNZxRh4iyW8WxqWl-22" value="Un trauma contuso no penetrante hace que el pulmon se ponche y el aire se va al espacio pleural. el aire solo fluye en esa direccion, si crece demasiado se puede hacer a tension, empuja las venas cavas y produce shock" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="5350" width="171" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="M3NYhNZxRh4iyW8WxqWl-23" value="&lt;div&gt;Rx: Pulmon colapsa y se ve una linea pleural, pierde vascularidad.&lt;/div&gt;&lt;div&gt;A tension: empuja traquea y mediastino&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M3NYhNZxRh4iyW8WxqWl-23" value="&lt;div&gt;Rx: Pulmon colapsa y se ve una linea pleural, pierde vascularidad.&lt;/div&gt;&lt;div&gt;A tension: empuja traquea y mediastino&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="90" y="5410" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="M3NYhNZxRh4iyW8WxqWl-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M3NYhNZxRh4iyW8WxqWl-24" target="M3NYhNZxRh4iyW8WxqWl-27">
@@ -1087,38 +1087,38 @@
         <mxCell id="M3NYhNZxRh4iyW8WxqWl-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M3NYhNZxRh4iyW8WxqWl-29" target="M3NYhNZxRh4iyW8WxqWl-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M3NYhNZxRh4iyW8WxqWl-29" value="Cerrado" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="M3NYhNZxRh4iyW8WxqWl-29" value="Cerrado" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="175" y="5700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M3NYhNZxRh4iyW8WxqWl-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M3NYhNZxRh4iyW8WxqWl-31" target="M3NYhNZxRh4iyW8WxqWl-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M3NYhNZxRh4iyW8WxqWl-31" value="Abierto" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="M3NYhNZxRh4iyW8WxqWl-31" value="Abierto" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="17.5" y="5700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M3NYhNZxRh4iyW8WxqWl-35" value="Sello de 3 lados" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="M3NYhNZxRh4iyW8WxqWl-35" value="Sello de 3 lados" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="37.5" y="5800" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="M3NYhNZxRh4iyW8WxqWl-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M3NYhNZxRh4iyW8WxqWl-37" target="M3NYhNZxRh4iyW8WxqWl-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M3NYhNZxRh4iyW8WxqWl-37" value="Estable poco sintomatico" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="M3NYhNZxRh4iyW8WxqWl-37" value="Estable poco sintomatico" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="325" y="5980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M3NYhNZxRh4iyW8WxqWl-39" value="Aspiracion con jeringa" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="6100" width="80" height="80" as="geometry" />
+        <mxCell id="M3NYhNZxRh4iyW8WxqWl-39" value="Aspiracion con jeringa" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="345" y="6110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="M3NYhNZxRh4iyW8WxqWl-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M3NYhNZxRh4iyW8WxqWl-41" target="M3NYhNZxRh4iyW8WxqWl-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M3NYhNZxRh4iyW8WxqWl-41" value="Inestable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M3NYhNZxRh4iyW8WxqWl-41" value="Inestable" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="488" y="5980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M3NYhNZxRh4iyW8WxqWl-43" value="Drenaje" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="M3NYhNZxRh4iyW8WxqWl-43" value="Drenaje" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="508" y="6110" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="M3NYhNZxRh4iyW8WxqWl-46" value="Pleurectomia" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="588" y="5820" width="80" height="80" as="geometry" />
+        <mxCell id="M3NYhNZxRh4iyW8WxqWl-46" value="Pleurectomia" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="588" y="5840" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="M3NYhNZxRh4iyW8WxqWl-52" value="&lt;div align=&quot;center&quot;&gt;A tension: &lt;br&gt;&lt;/div&gt;&lt;div&gt;Picar para descomprimir es urgente antes de colocar el drenaje. ATLS recomienda 5 espacio medio axilar &lt;br&gt;&lt;/div&gt;&lt;div&gt;(antes era 2do medio clavicular pero todavia se puede en obesos y fuera del hospital)&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="590" y="6170" width="177" height="140" as="geometry" />
