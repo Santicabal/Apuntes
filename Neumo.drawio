@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T13:44:30.706Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="EYJdrDLvXqWnX77r8x9y" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T13:46:47.734Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="SrkPvIP0uCQbf7FmbmLw" version="21.6.6" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
     <mxGraphModel dx="1312" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1120,8 +1120,8 @@
         <mxCell id="M3NYhNZxRh4iyW8WxqWl-46" value="Pleurectomia" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="588" y="5820" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="M3NYhNZxRh4iyW8WxqWl-52" value="A tension: Picar para descomprimir es urgente antes de colocar el drenaje. ATLS recomienda 5 espacio medio axilar (antes era 2do medio clavicular)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="608" y="6170" width="142" height="110" as="geometry" />
+        <mxCell id="M3NYhNZxRh4iyW8WxqWl-52" value="&lt;div align=&quot;center&quot;&gt;A tension: &lt;br&gt;&lt;/div&gt;&lt;div&gt;Picar para descomprimir es urgente antes de colocar el drenaje. ATLS recomienda 5 espacio medio axilar &lt;br&gt;&lt;/div&gt;&lt;div&gt;(antes era 2do medio clavicular pero todavia se puede en obesos y fuera del hospital)&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="590" y="6170" width="177" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
