@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T21:59:23.209Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="n0_GTViJbpSKyJmgFPIx" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T22:08:01.441Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MNFX9t1rHDv2PUDBqhLz" version="21.6.8" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
     <mxGraphModel dx="768" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1199,7 +1199,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-23" value="Dejar de fumar&lt;br&gt;O2 cuando PaO2 en reposo &amp;lt;55" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;align=left;" vertex="1" parent="1">
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-23" value="Dejar de fumar&lt;br&gt;O&lt;sub&gt;2&lt;/sub&gt; cuando PaO&lt;sub&gt;2&lt;/sub&gt; en reposo &amp;lt;55" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;align=left;" vertex="1" parent="1">
           <mxGeometry x="560" y="6931" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-26" value="Vacuna neumococo&lt;br&gt;Rehabilitacion" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;strokeWidth=2;align=left;" vertex="1" parent="1">
@@ -1260,10 +1260,10 @@
             <mxRectangle width="98" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-42" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;CAT&amp;lt;20 →LAMA&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 9px;&quot;&gt;CAT&amp;gt;20→LAMA + LABA&lt;br&gt;Esosinofilia → LABA + esteroide" style="whiteSpace=wrap;html=1;fontSize=9;fillColor=none;strokeColor=none;fontStyle=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="291" y="6881" width="138" height="60" as="geometry" />
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-42" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;CAT&amp;lt;20 →LAMA&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 9px;&quot;&gt;CAT&amp;gt;20→LAMA + LABA&lt;br&gt;&lt;b style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;Esosinofilia &lt;/b&gt;→ LABA + &lt;b style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;esteroide&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=9;fillColor=none;strokeColor=none;fontStyle=0;align=left;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="292" y="6881" width="138" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-44" value="SABA: Salbutamol&lt;br&gt;LABA: Salmeterol, Formeterol&lt;br&gt;SAMA: Ipatropio&lt;br&gt;LAMA: Tiotropio, Umeclidinio" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-44" value="SABA: Salbutamol, Terbutalina&lt;br&gt;LABA: Salmeterol, Formeterol&lt;br&gt;SAMA: Ipatropio&lt;br&gt;LAMA: Tiotropio, Umeclidinio" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="162" y="7193" width="171" height="70" as="geometry" />
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-52" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="o2XStDFjQmmAr5IW1lQV-46" target="o2XStDFjQmmAr5IW1lQV-51">
@@ -1274,7 +1274,7 @@
             <mxPoint x="-4" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-46" value="LAMA o&lt;br&gt;LABA" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-46" value="LAMA o&lt;br&gt;LABA" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="390" y="7188" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-55" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="o2XStDFjQmmAr5IW1lQV-51" target="o2XStDFjQmmAr5IW1lQV-54">
@@ -1285,7 +1285,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-58" value="Bronquitis" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o2XStDFjQmmAr5IW1lQV-55">
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-58" value="Bronquitis +&lt;br&gt;FEV&lt;sub&gt;1 &lt;/sub&gt;&amp;lt;50%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o2XStDFjQmmAr5IW1lQV-55">
           <mxGeometry x="-0.1524" relative="1" as="geometry">
             <mxPoint x="15" y="-60" as="offset" />
           </mxGeometry>
@@ -1308,13 +1308,13 @@
             <mxPoint x="19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-51" value="LAMA +&lt;br&gt;LABA" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-51" value="LAMA &lt;br&gt;+&lt;br&gt;LABA" style="rhombus;whiteSpace=wrap;html=1;rounded=1;align=center;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="538.5" y="7188" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-54" value="Roflumilast" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-54" value="Roflumilast" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="735" y="7150" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-56" value="Azitromicina" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-56" value="Azitromicina" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="735" y="7230" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
