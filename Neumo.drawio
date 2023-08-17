@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T20:20:15.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9W5UuPjYHPfIYfej9eh3" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T20:31:45.419Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lr8xWQTYot9Y_RNdp9bP" version="21.6.8" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
     <mxGraphModel dx="564" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1695,7 +1695,7 @@
         <mxCell id="5XOH6gMSl76IsOg97sCN-45" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#36393d;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#ffcc99;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="5XOH6gMSl76IsOg97sCN-44">
           <mxGeometry y="30" width="339.88" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5XOH6gMSl76IsOg97sCN-46" value="Signos y sintomas de TEP" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#ffcc99;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="5XOH6gMSl76IsOg97sCN-45">
+        <mxCell id="5XOH6gMSl76IsOg97sCN-46" value="Signos y sintomas de TVP" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#ffcc99;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="5XOH6gMSl76IsOg97sCN-45">
           <mxGeometry width="290" height="30" as="geometry">
             <mxRectangle width="290" height="30" as="alternateBounds" />
           </mxGeometry>
