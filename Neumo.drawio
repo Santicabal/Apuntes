@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T14:09:24.319Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="GOi4e1d1aubp9v9toGib" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T14:15:35.372Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="fFd4pehtB9KiuW6lvFyg" version="21.6.6" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
     <mxGraphModel dx="1230" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1566,17 +1566,35 @@
         <mxCell id="TBpZr83wG0xMWME2ufNr-92" value="&lt;div&gt;Usar ICS es lo mejor porque baja riesgo de exacerbaciones y NUNCA se supende.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;El salbutamol solo ya no es lo recomendable tiene asociado mas crisis y mortalidad&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="120" y="8820" width="140" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="TBpZr83wG0xMWME2ufNr-93" value="&lt;div&gt;Sin control despues de escalon 5&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Agregaremos Biologicos segun el fenotipo de asma del paciente&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Determinaremos alergenos, IgE, eosinofilos, FE&lt;sub&gt;NO&lt;/sub&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="TBpZr83wG0xMWME2ufNr-93" value="&lt;div&gt;Sin control despues de escalon 5&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Agregaremos Biologicos segun el fenotipo de asma del paciente&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Determinaremos alergenos, IgE, eosinofilos, FE&lt;sub&gt;NO&lt;/sub&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;fontStyle=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="279" y="8820" width="511" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="TBpZr83wG0xMWME2ufNr-94" value="&lt;div&gt;&lt;b&gt;Alergeno T2&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;IgE ↑&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Alergias postivas&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TBpZr83wG0xMWME2ufNr-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TBpZr83wG0xMWME2ufNr-94" target="TBpZr83wG0xMWME2ufNr-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TBpZr83wG0xMWME2ufNr-94" value="&lt;div&gt;&lt;b&gt;Alergeno T2&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;IgE ↑&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Alergias postivas&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="329" y="8880" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TBpZr83wG0xMWME2ufNr-95" value="&lt;div&gt;&lt;b&gt;Eosinofilico T2&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Eosinofilos &amp;gt; 300&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;FENO ↑&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TBpZr83wG0xMWME2ufNr-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TBpZr83wG0xMWME2ufNr-95" target="TBpZr83wG0xMWME2ufNr-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TBpZr83wG0xMWME2ufNr-95" value="&lt;div&gt;&lt;b&gt;Eosinofilico T2&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Eosinofilos &amp;gt; 300&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;FE&lt;sub&gt;NO&lt;/sub&gt; ↑&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="488" y="8880" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TBpZr83wG0xMWME2ufNr-96" value="&lt;div&gt;&lt;b&gt;No T2&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Todas las pruebas negativas&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TBpZr83wG0xMWME2ufNr-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TBpZr83wG0xMWME2ufNr-96" target="TBpZr83wG0xMWME2ufNr-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TBpZr83wG0xMWME2ufNr-96" value="&lt;div&gt;&lt;b&gt;No T2&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Todas las pruebas negativas&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="647" y="8880" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TBpZr83wG0xMWME2ufNr-97" value="Omalizumab" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="349" y="9010" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TBpZr83wG0xMWME2ufNr-99" value="Mepolizumab" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="508" y="9010" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TBpZr83wG0xMWME2ufNr-101" value="Azitromicina" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="667" y="9010" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
