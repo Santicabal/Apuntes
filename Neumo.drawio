@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T18:56:47.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="XyJpW-hj7hmIMUwbWUn9" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T19:44:30.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_PGl1AlTKp23F38zzoQb" version="21.6.8" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
     <mxGraphModel dx="796" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1831,11 +1831,96 @@
         <mxCell id="5XOH6gMSl76IsOg97sCN-78" value="USG Miembros inferiores" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="452.5" y="10350" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5XOH6gMSl76IsOg97sCN-81" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="292.5" y="10510" width="80" height="80" as="geometry" />
+        <mxCell id="5XOH6gMSl76IsOg97sCN-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5XOH6gMSl76IsOg97sCN-81" target="5XOH6gMSl76IsOg97sCN-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5XOH6gMSl76IsOg97sCN-81" value="Tx" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="10490" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5XOH6gMSl76IsOg97sCN-83" value="Descartar TEP" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="133.75" y="10490" width="77.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XOH6gMSl76IsOg97sCN-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5XOH6gMSl76IsOg97sCN-88" target="5XOH6gMSl76IsOg97sCN-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5XOH6gMSl76IsOg97sCN-104" value="Si hay contraindicaciones?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5XOH6gMSl76IsOg97sCN-103">
+          <mxGeometry x="-0.3775" y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XOH6gMSl76IsOg97sCN-88" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="188.75" y="10610" width="287.5" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="5XOH6gMSl76IsOg97sCN-89" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="5XOH6gMSl76IsOg97sCN-88">
+          <mxGeometry width="287.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5XOH6gMSl76IsOg97sCN-90" value="Riesgo Alto&lt;br&gt;(&amp;gt;15%)" style="connectable=0;recursiveResize=0;strokeColor=#56517e;fillColor=#d0cee2;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="5XOH6gMSl76IsOg97sCN-89">
+          <mxGeometry width="95" height="40" as="geometry">
+            <mxRectangle width="95" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XOH6gMSl76IsOg97sCN-91" value="Riesgo medio&lt;br&gt;(3-15%)" style="connectable=0;recursiveResize=0;strokeColor=#b46504;fillColor=#fad7ac;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="5XOH6gMSl76IsOg97sCN-89">
+          <mxGeometry x="95" width="96" height="40" as="geometry">
+            <mxRectangle width="96" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XOH6gMSl76IsOg97sCN-92" value="Riesgo bajo&lt;br&gt;(&amp;lt;1%)" style="connectable=0;recursiveResize=0;strokeColor=#36393d;fillColor=#cce5ff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="5XOH6gMSl76IsOg97sCN-89">
+          <mxGeometry x="191" width="97" height="40" as="geometry">
+            <mxRectangle width="97" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XOH6gMSl76IsOg97sCN-93" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="5XOH6gMSl76IsOg97sCN-88">
+          <mxGeometry y="40" width="287.5" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="5XOH6gMSl76IsOg97sCN-94" value="Hipotension&lt;br&gt;Shock" style="connectable=0;recursiveResize=0;strokeColor=#56517e;fillColor=#d0cee2;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="5XOH6gMSl76IsOg97sCN-93">
+          <mxGeometry width="95" height="56" as="geometry">
+            <mxRectangle width="95" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XOH6gMSl76IsOg97sCN-95" value="PA normal&lt;br&gt;Disfunsion VD&lt;br&gt;Daño miocardico" style="connectable=0;recursiveResize=0;strokeColor=#b46504;fillColor=#fad7ac;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="5XOH6gMSl76IsOg97sCN-93">
+          <mxGeometry x="95" width="96" height="56" as="geometry">
+            <mxRectangle width="96" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XOH6gMSl76IsOg97sCN-96" value="Normal" style="connectable=0;recursiveResize=0;strokeColor=#36393d;fillColor=#cce5ff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="5XOH6gMSl76IsOg97sCN-93">
+          <mxGeometry x="191" width="97" height="56" as="geometry">
+            <mxRectangle width="97" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XOH6gMSl76IsOg97sCN-97" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="5XOH6gMSl76IsOg97sCN-88">
+          <mxGeometry y="96" width="287.5" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="5XOH6gMSl76IsOg97sCN-98" value="Fibrinolisis y&lt;br&gt;Anticoagulacion" style="connectable=0;recursiveResize=0;strokeColor=#56517e;fillColor=#d0cee2;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="5XOH6gMSl76IsOg97sCN-97">
+          <mxGeometry width="95" height="57" as="geometry">
+            <mxRectangle width="95" height="57" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XOH6gMSl76IsOg97sCN-99" value="Anticoagulacion" style="connectable=0;recursiveResize=0;strokeColor=#b46504;fillColor=#fad7ac;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="5XOH6gMSl76IsOg97sCN-97">
+          <mxGeometry x="95" width="96" height="57" as="geometry">
+            <mxRectangle width="96" height="57" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XOH6gMSl76IsOg97sCN-100" value="Anticoagulacion" style="connectable=0;recursiveResize=0;strokeColor=#36393d;fillColor=#cce5ff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="5XOH6gMSl76IsOg97sCN-97">
+          <mxGeometry x="191" width="97" height="57" as="geometry">
+            <mxRectangle width="97" height="57" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XOH6gMSl76IsOg97sCN-102" value="De fibrinolisis: Embolectomia&lt;br&gt;Anticoagulantes: Filtro de vena Cava (solo pacientes estables)" style="whiteSpace=wrap;html=1;fillColor=none;shadow=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="251.75" y="10830" width="161.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5XOH6gMSl76IsOg97sCN-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5XOH6gMSl76IsOg97sCN-105" target="5XOH6gMSl76IsOg97sCN-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5XOH6gMSl76IsOg97sCN-108" value="Por cuanto &lt;br&gt;tiempo?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5XOH6gMSl76IsOg97sCN-107">
+          <mxGeometry x="-0.425" y="-6" relative="1" as="geometry">
+            <mxPoint x="10" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XOH6gMSl76IsOg97sCN-105" value="Anticoagulacion:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Heparina → ACO al 2do dia→ INR 2.5 suspender heparina&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="483" y="10610" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XOH6gMSl76IsOg97sCN-106" value="FR reversible: 6 meses&lt;br&gt;Irreversible: indefinida&lt;br&gt;Sin FR: 1 año" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="10730" width="128" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
