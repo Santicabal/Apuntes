@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T21:00:04.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="VlFPutfjolT5DP73X5CJ" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T21:18:51.455Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="gblQnyvjyG3uhKgoiN9o" version="21.6.8" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
     <mxGraphModel dx="677" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1937,6 +1937,9 @@
         </mxCell>
         <mxCell id="5XOH6gMSl76IsOg97sCN-106" value="FR reversible: 6 meses&lt;br&gt;Irreversible: indefinida&lt;br&gt;Sin FR: 1 año" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="372" y="10704" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XOH6gMSl76IsOg97sCN-112" value="Las heparinas son de eleccion pero tambien se pueden usar rivaroxaban y apixaban en episodio agudo" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="10600" width="140" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
