@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T16:44:56.037Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="TUCqAya6ZR4Fj9V-wDmJ" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T16:48:00.565Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="--GCr4blgTrdjdMqev2G" version="21.6.8" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
     <mxGraphModel dx="796" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1379,7 +1379,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-2" value="&lt;div&gt;Clinca&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;Espirometria&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="274.62" y="7990" width="80" height="80" as="geometry" />
+          <mxGeometry x="409.5" y="8000" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TBpZr83wG0xMWME2ufNr-3" target="TBpZr83wG0xMWME2ufNr-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1428,16 +1428,16 @@
         <mxCell id="TBpZr83wG0xMWME2ufNr-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TBpZr83wG0xMWME2ufNr-16" target="TBpZr83wG0xMWME2ufNr-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="315.12" y="8180" />
-              <mxPoint x="240.12" y="8180" />
+              <mxPoint x="450" y="8190" />
+              <mxPoint x="375" y="8190" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TBpZr83wG0xMWME2ufNr-16" target="TBpZr83wG0xMWME2ufNr-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="315.12" y="8180" />
-              <mxPoint x="410.12" y="8180" />
+              <mxPoint x="450" y="8190" />
+              <mxPoint x="545" y="8190" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1447,58 +1447,58 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-16" value="FEV1 &amp;gt; 12% post broncodilatador" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="254.62" y="8094" width="120" height="60" as="geometry" />
+          <mxGeometry x="389.5" y="8104" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-18" value="Dx" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="129" y="8094" width="60" height="60" as="geometry" />
+          <mxGeometry x="263.88" y="8104" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TBpZr83wG0xMWME2ufNr-20" target="TBpZr83wG0xMWME2ufNr-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-20" value="FEV1 / FVC &amp;gt; 70%" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="180.37" y="8206" width="120" height="30" as="geometry" />
+          <mxGeometry x="315.25" y="8216" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TBpZr83wG0xMWME2ufNr-22" target="TBpZr83wG0xMWME2ufNr-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-22" value="FEV1 / FVC &amp;lt; 70%" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="350.12" y="8206" width="120" height="30" as="geometry" />
+          <mxGeometry x="485" y="8216" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TBpZr83wG0xMWME2ufNr-24" target="TBpZr83wG0xMWME2ufNr-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-24" value="Variabilidad PEF" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="180.37" y="8260" width="120" height="30" as="geometry" />
+          <mxGeometry x="315.25" y="8270" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TBpZr83wG0xMWME2ufNr-26" target="TBpZr83wG0xMWME2ufNr-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-26" value="FE&lt;sub&gt;NO&lt;/sub&gt; &amp;gt; 40" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="350.12" y="8260" width="120" height="30" as="geometry" />
+          <mxGeometry x="485" y="8270" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TBpZr83wG0xMWME2ufNr-28" target="TBpZr83wG0xMWME2ufNr-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-28" value="FE&lt;sub&gt;NO&lt;/sub&gt; &amp;gt; 40" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="179.87" y="8340" width="120" height="30" as="geometry" />
+          <mxGeometry x="314.75" y="8350" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-30" value="Test Meticolina" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="179.87" y="8420" width="120" height="30" as="geometry" />
+          <mxGeometry x="314.75" y="8430" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-32" value="Repetir espiroetria 2-3 semanas despues de Tx con esteroides" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="350.12" y="8340" width="120" height="60" as="geometry" />
+          <mxGeometry x="485" y="8350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-34" value="Neg" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="234.62" y="8298" width="50" height="30" as="geometry" />
+          <mxGeometry x="369.5" y="8308" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-35" value="Neg" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="245.87" y="8380" width="50" height="30" as="geometry" />
+          <mxGeometry x="380.75" y="8390" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-83" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="115" y="8632" width="725" height="168" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-36" value="Neg" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="425.12" y="8308" width="50" height="30" as="geometry" />
+          <mxGeometry x="560" y="8318" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-75" value="ICS + Formoterol" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="137.5" y="8648" width="80" height="80" as="geometry" />
@@ -1638,7 +1638,7 @@
         <mxCell id="5XOH6gMSl76IsOg97sCN-13" value="Prednisona &lt;br&gt;5-7 dias" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="522" y="9190" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5XOH6gMSl76IsOg97sCN-21" value="Intubar" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5XOH6gMSl76IsOg97sCN-21" value="Intubar" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;strokeWidth=2;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="485" y="9570" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5XOH6gMSl76IsOg97sCN-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5XOH6gMSl76IsOg97sCN-4" target="5XOH6gMSl76IsOg97sCN-8">
@@ -1661,6 +1661,9 @@
         </mxCell>
         <mxCell id="5XOH6gMSl76IsOg97sCN-33" value="Lo normal es alcalosis&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;e hipocapnia&lt;br&gt;Eso significa que si hay hipercapnia es porque esta hipoventilando y se esta agotando de respirar&lt;br&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="605" y="9528.5" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5XOH6gMSl76IsOg97sCN-34" value="Para desescalar 2-3 meses de buen control" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="130" y="9010" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
