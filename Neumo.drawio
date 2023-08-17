@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T13:00:40.493Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="Q-pgDVMDeYC3LkkeXU86" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T12:46:50.285Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="RhNUpE87j2l1rNtG8wWN" version="21.6.6" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
     <mxGraphModel dx="1230" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1494,8 +1494,38 @@
         <mxCell id="TBpZr83wG0xMWME2ufNr-35" value="Neg" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="245.87" y="8380" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TBpZr83wG0xMWME2ufNr-83" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="115" y="8532" width="725" height="106" as="geometry" />
+        </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-36" value="Neg" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="425.12" y="8308" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TBpZr83wG0xMWME2ufNr-75" value="ICS + Formoterol" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="137.5" y="8548" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TBpZr83wG0xMWME2ufNr-78" value="Se usa como base de mantenimiento y para rescate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="119" y="8680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TBpZr83wG0xMWME2ufNr-79" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Step 1-2:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Dosis baja solo de rescate&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="260.12" y="8557" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TBpZr83wG0xMWME2ufNr-80" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Step 3:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Dosis baja de mantenimiento&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="8557" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TBpZr83wG0xMWME2ufNr-81" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Step 4:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Dosis Media de mantenimieinto&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="8557" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TBpZr83wG0xMWME2ufNr-82" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Step 5:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;Dosis media/alta + Tiotropio&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="8557" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TBpZr83wG0xMWME2ufNr-84" value="&lt;div&gt;Sintomas &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;lt; 4 días por semana&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="271" y="8480" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TBpZr83wG0xMWME2ufNr-85" value="Despierta con disnea 1 por semana" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="416" y="8480" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TBpZr83wG0xMWME2ufNr-86" value="Ademas baja funcion pulmonar" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="560" y="8480" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
