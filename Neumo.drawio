@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T13:04:06.810Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="UpmMaApjiSbwqhj0Im7V" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T14:09:24.319Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="GOi4e1d1aubp9v9toGib" version="21.6.6" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
     <mxGraphModel dx="1230" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1378,43 +1378,43 @@
         <mxCell id="TBpZr83wG0xMWME2ufNr-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TBpZr83wG0xMWME2ufNr-2" target="TBpZr83wG0xMWME2ufNr-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TBpZr83wG0xMWME2ufNr-2" value="&lt;div&gt;Clinca&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;Espirometria&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="TBpZr83wG0xMWME2ufNr-2" value="&lt;div&gt;Clinca&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;Espirometria&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="274.62" y="7990" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TBpZr83wG0xMWME2ufNr-3" target="TBpZr83wG0xMWME2ufNr-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TBpZr83wG0xMWME2ufNr-3" value="Tiene muchos factores asociados a su aparicion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TBpZr83wG0xMWME2ufNr-3" value="Tiene muchos factores asociados a su aparicion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="127" y="7780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TBpZr83wG0xMWME2ufNr-4" target="TBpZr83wG0xMWME2ufNr-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TBpZr83wG0xMWME2ufNr-4" value="Genetica, cesareas, sin lactancia materna, acaros, cigarros" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TBpZr83wG0xMWME2ufNr-4" value="Genetica, cesareas, sin lactancia materna, acaros, cigarros" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="280" y="7780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TBpZr83wG0xMWME2ufNr-6" target="TBpZr83wG0xMWME2ufNr-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TBpZr83wG0xMWME2ufNr-6" value="Animales e infecciones podrian ser protectores" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TBpZr83wG0xMWME2ufNr-6" value="Animales e infecciones podrian ser protectores" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="431" y="7780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TBpZr83wG0xMWME2ufNr-8" value="&lt;div&gt;Causas en adultos son ocupacionales:&lt;/div&gt;&lt;div&gt;Veterinarios, panadero, pintores, peluqueros, soldador&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="TBpZr83wG0xMWME2ufNr-8" value="&lt;div&gt;Causas en adultos son ocupacionales:&lt;/div&gt;&lt;div&gt;Veterinarios, panadero, pintores, peluqueros, soldador&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="582" y="7765" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TBpZr83wG0xMWME2ufNr-11" value="&lt;div&gt;Causas de exacerbaciones:&lt;/div&gt;&lt;div&gt;Aire frio y seco, o muy humedo y caliente (mas raro), tormentas, infecciones, alergenos, cigarros, ejercicio, contaminacion, arena &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="TBpZr83wG0xMWME2ufNr-11" value="&lt;div&gt;Causas de exacerbaciones:&lt;/div&gt;&lt;div&gt;Aire frio y seco, o muy humedo y caliente (mas raro), tormentas, infecciones, alergenos, cigarros, ejercicio, contaminacion, arena &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="127" y="7870" width="163" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="TBpZr83wG0xMWME2ufNr-12" value="&lt;div&gt;Niños H&amp;gt;M&lt;/div&gt;&lt;div&gt;Adultos M&amp;gt;H&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="TBpZr83wG0xMWME2ufNr-12" value="&lt;div&gt;Niños H&amp;gt;M&lt;/div&gt;&lt;div&gt;Adultos M&amp;gt;H&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="321" y="7880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TBpZr83wG0xMWME2ufNr-13" target="TBpZr83wG0xMWME2ufNr-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TBpZr83wG0xMWME2ufNr-13" value="&lt;div&gt;Triada de Sampter:&lt;/div&gt;&lt;div&gt;Asma, AINE y polipos nasales&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TBpZr83wG0xMWME2ufNr-13" value="&lt;div&gt;Triada de Sampter:&lt;/div&gt;&lt;div&gt;Asma, AINE y polipos nasales&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="470" y="7880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TBpZr83wG0xMWME2ufNr-14" value="Deben evitar AINES pero pueden usar Celecoxib y paracetamol" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TBpZr83wG0xMWME2ufNr-14" value="Deben evitar AINES pero pueden usar Celecoxib y paracetamol" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="618.5" y="7880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TBpZr83wG0xMWME2ufNr-16" target="TBpZr83wG0xMWME2ufNr-18">
@@ -1446,46 +1446,46 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TBpZr83wG0xMWME2ufNr-16" value="FEV1 &amp;gt; 12% post broncodilatador" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="TBpZr83wG0xMWME2ufNr-16" value="FEV1 &amp;gt; 12% post broncodilatador" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="254.62" y="8094" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TBpZr83wG0xMWME2ufNr-18" value="Dx" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="TBpZr83wG0xMWME2ufNr-18" value="Dx" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="129" y="8094" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TBpZr83wG0xMWME2ufNr-20" target="TBpZr83wG0xMWME2ufNr-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TBpZr83wG0xMWME2ufNr-20" value="FEV1 / FVC &amp;gt; 70%" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="TBpZr83wG0xMWME2ufNr-20" value="FEV1 / FVC &amp;gt; 70%" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="180.37" y="8206" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TBpZr83wG0xMWME2ufNr-22" target="TBpZr83wG0xMWME2ufNr-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TBpZr83wG0xMWME2ufNr-22" value="FEV1 / FVC &amp;lt; 70%" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="TBpZr83wG0xMWME2ufNr-22" value="FEV1 / FVC &amp;lt; 70%" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="350.12" y="8206" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TBpZr83wG0xMWME2ufNr-24" target="TBpZr83wG0xMWME2ufNr-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TBpZr83wG0xMWME2ufNr-24" value="Variabilidad PEF" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="TBpZr83wG0xMWME2ufNr-24" value="Variabilidad PEF" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="180.37" y="8260" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TBpZr83wG0xMWME2ufNr-26" target="TBpZr83wG0xMWME2ufNr-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TBpZr83wG0xMWME2ufNr-26" value="FE&lt;sub&gt;NO&lt;/sub&gt; &amp;gt; 40" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="TBpZr83wG0xMWME2ufNr-26" value="FE&lt;sub&gt;NO&lt;/sub&gt; &amp;gt; 40" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="350.12" y="8260" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TBpZr83wG0xMWME2ufNr-28" target="TBpZr83wG0xMWME2ufNr-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TBpZr83wG0xMWME2ufNr-28" value="FE&lt;sub&gt;NO&lt;/sub&gt; &amp;gt; 40" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="TBpZr83wG0xMWME2ufNr-28" value="FE&lt;sub&gt;NO&lt;/sub&gt; &amp;gt; 40" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="179.87" y="8340" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TBpZr83wG0xMWME2ufNr-30" value="Test Meticolina" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="TBpZr83wG0xMWME2ufNr-30" value="Test Meticolina" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="179.87" y="8420" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TBpZr83wG0xMWME2ufNr-32" value="Repetir espiroetria 2-3 semanas despues de Tx con esteroides" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="TBpZr83wG0xMWME2ufNr-32" value="Repetir espiroetria 2-3 semanas despues de Tx con esteroides" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="350.12" y="8340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-34" value="Neg" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -1525,8 +1525,8 @@
         <mxCell id="TBpZr83wG0xMWME2ufNr-81" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Step 4:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Dosis Media de mantenimieinto&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="8657" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TBpZr83wG0xMWME2ufNr-82" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Step 5:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;Dosis media/alta + Tiotropio&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="695" y="8657" width="120" height="60" as="geometry" />
+        <mxCell id="TBpZr83wG0xMWME2ufNr-82" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Step 5:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;Dosis media/alta + Tiotropio&lt;/div&gt;&lt;div&gt;Ir agregando:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Montelukast&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Teofilina&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Azitromicina&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="695" y="8657" width="120" height="123" as="geometry" />
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-84" value="&lt;div&gt;Sintomas &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;lt; 4 días por semana&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="270.12" y="8728" width="100" height="50" as="geometry" />
@@ -1565,6 +1565,18 @@
         </mxCell>
         <mxCell id="TBpZr83wG0xMWME2ufNr-92" value="&lt;div&gt;Usar ICS es lo mejor porque baja riesgo de exacerbaciones y NUNCA se supende.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;El salbutamol solo ya no es lo recomendable tiene asociado mas crisis y mortalidad&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="120" y="8820" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TBpZr83wG0xMWME2ufNr-93" value="&lt;div&gt;Sin control despues de escalon 5&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Agregaremos Biologicos segun el fenotipo de asma del paciente&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Determinaremos alergenos, IgE, eosinofilos, FE&lt;sub&gt;NO&lt;/sub&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="279" y="8820" width="511" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TBpZr83wG0xMWME2ufNr-94" value="&lt;div&gt;&lt;b&gt;Alergeno T2&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;IgE ↑&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Alergias postivas&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="8880" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TBpZr83wG0xMWME2ufNr-95" value="&lt;div&gt;&lt;b&gt;Eosinofilico T2&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Eosinofilos &amp;gt; 300&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;FENO ↑&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="488" y="8880" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TBpZr83wG0xMWME2ufNr-96" value="&lt;div&gt;&lt;b&gt;No T2&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Todas las pruebas negativas&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="647" y="8880" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
