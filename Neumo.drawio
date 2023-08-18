@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T12:16:13.566Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="W1MCn_FwqB1I4TyqWc44" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-18T19:10:05.432Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9BHNEJy5WfVQoxmZqRRR" version="21.6.8" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
-    <mxGraphModel dx="1230" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="718" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1900,10 +1900,10 @@
         <mxCell id="5XOH6gMSl76IsOg97sCN-112" value="&lt;div align=&quot;left&quot;&gt;Las heparinas son de eleccion pero tambien se pueden usar rivaroxaban y apixaban en episodio agudo&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Px inestable: Heparina NF&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Px estable: HBPM #1&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;o Anti Xa &lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="210" y="10761" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-2" value="&lt;div style=&quot;font-size: 16px;&quot; align=&quot;center&quot;&gt;&lt;font size=&quot;1&quot; color=&quot;#6A00FF&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Volumenes&lt;/b&gt;&lt;/font&gt;:&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;CPT&lt;/b&gt; (Capacidad Pulmonar total)&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Volumen de aire dentro del pulmon en la posicion de maxima inspiraion&lt;/li&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Define si es restrictivo&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;b&gt;Volumen Residual&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Lo que queda de aire despues de espiracion&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;strokeColor=#d79b00;fontSize=16;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-2" value="&lt;div style=&quot;font-size: 16px;&quot; align=&quot;center&quot;&gt;&lt;font size=&quot;1&quot; color=&quot;#6A00FF&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Volumenes&lt;/b&gt;&lt;/font&gt;:&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;CPT&lt;/b&gt; (Capacidad Pulmonar total)&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Volumen de aire dentro del pulmon en la posicion de maxima inspiraion&lt;/li&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Define si es restrictivo&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;b&gt;Volumen Residual&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Lo que queda de aire despues de espiracion&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;strokeColor=#d79b00;fontSize=16;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="114.5" y="65" width="300.5" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ezj0QTRh-Mkcldrl9jyf-5" target="Ezj0QTRh-Mkcldrl9jyf-6">
+        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ezj0QTRh-Mkcldrl9jyf-5" target="Ezj0QTRh-Mkcldrl9jyf-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="220" y="456" />
@@ -1911,7 +1911,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ezj0QTRh-Mkcldrl9jyf-5" target="Ezj0QTRh-Mkcldrl9jyf-8">
+        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ezj0QTRh-Mkcldrl9jyf-5" target="Ezj0QTRh-Mkcldrl9jyf-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="220" y="456" />
@@ -1919,13 +1919,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-5" value="CPT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-5" value="CPT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="90" y="441" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-6" value="Obstruccion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-6" value="Obstruccion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="246" y="395" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Ezj0QTRh-Mkcldrl9jyf-10">
+        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="Ezj0QTRh-Mkcldrl9jyf-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="377.0000000000002" y="495.9999999999998" as="sourcePoint" />
             <Array as="points">
@@ -1934,7 +1934,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ezj0QTRh-Mkcldrl9jyf-8" target="Ezj0QTRh-Mkcldrl9jyf-12">
+        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Ezj0QTRh-Mkcldrl9jyf-8" target="Ezj0QTRh-Mkcldrl9jyf-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="377.0000000000002" y="495.9999999999998" as="sourcePoint" />
             <Array as="points">
@@ -1943,44 +1943,56 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-8" value="Restrictivo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-8" value="Restrictivo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
           <mxGeometry x="246" y="481" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ezj0QTRh-Mkcldrl9jyf-10" target="Ezj0QTRh-Mkcldrl9jyf-19">
+        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ezj0QTRh-Mkcldrl9jyf-10" target="Ezj0QTRh-Mkcldrl9jyf-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-10" value="Parenquimatoso" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-10" value="Parenquimatoso" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="449" y="441" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ezj0QTRh-Mkcldrl9jyf-12" target="Ezj0QTRh-Mkcldrl9jyf-20">
+        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ezj0QTRh-Mkcldrl9jyf-12" target="Ezj0QTRh-Mkcldrl9jyf-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-12" value="Extra parenquimatoso" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-12" value="Extra parenquimatoso" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="445" y="513" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-14" value="&lt;div style=&quot;font-size: 16px;&quot; align=&quot;center&quot;&gt;&lt;font size=&quot;1&quot; color=&quot;#6A00FF&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Flujos&lt;/b&gt;&lt;/font&gt;:&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;CVF&lt;/b&gt; (Capacidad vital forzada)&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Volumen de aire sacado despues de espirar con fuerza&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;FEV&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt; (VEMS)&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Volumen sacado el primer segundo&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;b&gt;FEV&lt;sub&gt;1&lt;/sub&gt;/CVF&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Define si es patron obstructivo cuando es menor a 0.7&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;strokeColor=#b85450;fontSize=16;fillColor=#f8cecc;" vertex="1" parent="1">
+        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-14" value="&lt;div style=&quot;font-size: 16px;&quot; align=&quot;center&quot;&gt;&lt;font size=&quot;1&quot; color=&quot;#6A00FF&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Flujos&lt;/b&gt;&lt;/font&gt;:&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;CVF&lt;/b&gt; (Capacidad vital forzada)&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Volumen de aire sacado despues de espirar con fuerza&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;FEV&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt; (VEMS)&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Volumen sacado el primer segundo&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;b&gt;FEV&lt;sub&gt;1&lt;/sub&gt;/CVF&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Define si es patron obstructivo cuando es menor a 0.7&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;strokeColor=#b85450;fontSize=16;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="469.5" y="65" width="300.5" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-15" value="⬆️" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-15" value="⬆️" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="190" y="383" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-16" value="⬇️" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-16" value="⬇️" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="188" y="494" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-17" value="Vol Res ↓" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-17" value="Vol Res ↓" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="345" y="528" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-18" value="Vol Res ↑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-18" value="Vol Res ↑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="352" y="430" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-19" value="Fibrosis pulmonar, sarcoidosis, enf intersticiales." style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-19" value="Fibrosis pulmonar, sarcoidosis, enf intersticiales." style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="603" y="425" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-20" value="Obesidad, miastenia gravis, Guillian Barre, Espondilitis Anquilosante" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-20" value="Obesidad, miastenia gravis, Guillian Barre, Espondilitis Anquilosante" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="604" y="498" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-23" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-23" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="730" y="10940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-1" value="Enfermedades Intersticiales&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="11000" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-4" value="Enfermedades que causan fibrosis y clinica similar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="122" y="11080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-5" value="Hay que sqaber identificarlas por la Rx y por la clinica y el diferencial entre si" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="11080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="462" y="11080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
