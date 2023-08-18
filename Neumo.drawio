@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T10:45:41.507Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="nczWx-hu5dxNSKBjIvoX" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-18T10:49:53.546Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="MHXbIET5KgQabaKpU-_t" version="21.6.6" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
-    <mxGraphModel dx="1514" dy="974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1230" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="sU-v4qAwtsRLPM2VlvNM-1" value="Pruebas funcionales" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="40" y="15" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sU-v4qAwtsRLPM2VlvNM-12" value="Por problemas musculares&lt;br&gt;No tiene furza para meter&lt;br&gt;ni sacar aire" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="sU-v4qAwtsRLPM2VlvNM-12" value="Por problemas musculares&lt;br&gt;No tiene fuerza para meter&lt;br&gt;ni sacar aire" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="582" y="558" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sU-v4qAwtsRLPM2VlvNM-20" value="Espirometria obstructiva" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;direction=north;container=0;verticalAlign=top;" parent="1" vertex="1">
@@ -1225,7 +1225,7 @@
         <mxCell id="o2XStDFjQmmAr5IW1lQV-42" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;CAT&amp;lt;20 →LAMA&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 9px;&quot;&gt;CAT&amp;gt;20→LAMA + LABA&lt;br&gt;&lt;b style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;Esosinofilia &lt;/b&gt;→ LABA + &lt;b style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;esteroide&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=9;fillColor=none;strokeColor=none;fontStyle=0;align=left;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="292" y="7042" width="138" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o2XStDFjQmmAr5IW1lQV-44" value="SABA: Salbutamol, Terbutalina&lt;br&gt;LABA: Salmeterol, Formeterol&lt;br&gt;SAMA: Ipatropio&lt;br&gt;LAMA: Tiotropio, Umeclidinio" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="o2XStDFjQmmAr5IW1lQV-44" value="SABA: Salbutamol, Terbutalina&lt;br&gt;LABA: Salmeterol, Formoterol&lt;br&gt;SAMA: Ipatropio&lt;br&gt;LAMA: Tiotropio, Umeclidinio" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="162" y="7354" width="171" height="70" as="geometry" />
         </mxCell>
         <mxCell id="o2XStDFjQmmAr5IW1lQV-52" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;" parent="1" source="o2XStDFjQmmAr5IW1lQV-46" target="o2XStDFjQmmAr5IW1lQV-51" edge="1">
@@ -1564,13 +1564,13 @@
         <mxCell id="5XOH6gMSl76IsOg97sCN-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5XOH6gMSl76IsOg97sCN-3" target="5XOH6gMSl76IsOg97sCN-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5XOH6gMSl76IsOg97sCN-3" value="Grave&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Usa musculos accesorios&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;FR &amp;gt;30,&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Sat&amp;lt;90%&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;PEF &amp;lt;50%&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacingLeft=-20;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="5XOH6gMSl76IsOg97sCN-3" value="Grave&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Usa musculos accesorios&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;FR &amp;gt;30,&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Sat&amp;lt;90%&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;PEF &amp;lt;50%&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacingLeft=-20;fillColor=#ffcc99;strokeColor=#36393d;spacingTop=10;" parent="1" vertex="1">
           <mxGeometry x="161.25" y="9485.5" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5XOH6gMSl76IsOg97sCN-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5XOH6gMSl76IsOg97sCN-8" target="5XOH6gMSl76IsOg97sCN-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5XOH6gMSl76IsOg97sCN-4" value="&lt;ul&gt;&lt;li&gt;Somnolenia,&amp;nbsp;&lt;/li&gt;&lt;li&gt;Sin ruidos resp&amp;nbsp;&lt;/li&gt;&lt;li&gt;Acidosis&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Hipercapnia&lt;/li&gt;&lt;li&gt;Mov paradojico toraco abdominal&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingLeft=-20;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;spacingTop=-9;" parent="1" vertex="1">
+        <mxCell id="5XOH6gMSl76IsOg97sCN-4" value="&lt;ul&gt;&lt;li&gt;Somnolenia,&amp;nbsp;&lt;/li&gt;&lt;li&gt;Sin ruidos resp&amp;nbsp;&lt;/li&gt;&lt;li&gt;Acidosis&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Hipercapnia&lt;/li&gt;&lt;li&gt;Mov paradojico toraco abdominal&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingLeft=-20;fillColor=#f0a30a;strokeColor=#000000;fontColor=#000000;spacingTop=-9;" parent="1" vertex="1">
           <mxGeometry x="165.25" y="9715.5" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5XOH6gMSl76IsOg97sCN-5" value="Consulta" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
@@ -1606,7 +1606,7 @@
             <mxPoint x="555" y="9771" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5XOH6gMSl76IsOg97sCN-8" value="UCI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="5XOH6gMSl76IsOg97sCN-8" value="UCI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#000000;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="351" y="9758" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="5XOH6gMSl76IsOg97sCN-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5XOH6gMSl76IsOg97sCN-29" target="5XOH6gMSl76IsOg97sCN-2" edge="1">
@@ -1978,6 +1978,9 @@
         </mxCell>
         <mxCell id="Ezj0QTRh-Mkcldrl9jyf-20" value="Obesidad, miastenia gravis, Guillian Barre, Espondilitis Anquilosante" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="604" y="498" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ezj0QTRh-Mkcldrl9jyf-23" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="10940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
