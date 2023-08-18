@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T19:10:05.432Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9BHNEJy5WfVQoxmZqRRR" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-18T21:34:34.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="OiwPqpdX7zWCX6SAZeoT" version="21.6.8" type="github">
   <diagram name="Page-1" id="M_UDVAVCjI6NykcnFUn3">
-    <mxGraphModel dx="718" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="1508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1986,13 +1986,193 @@
           <mxGeometry x="37.5" y="11000" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RKo8JOnJP_9wSlTlenXe-4" value="Enfermedades que causan fibrosis y clinica similar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="122" y="11080" width="120" height="60" as="geometry" />
+          <mxGeometry x="65" y="11160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RKo8JOnJP_9wSlTlenXe-5" value="Hay que sqaber identificarlas por la Rx y por la clinica y el diferencial entre si" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="11080" width="120" height="60" as="geometry" />
+          <mxGeometry x="213" y="11070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RKo8JOnJP_9wSlTlenXe-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="462" y="11080" width="120" height="60" as="geometry" />
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RKo8JOnJP_9wSlTlenXe-6" target="RKo8JOnJP_9wSlTlenXe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-6" value="Disnea de esfuerzo, tos seca, crepitantes, acropaquias" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="11150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RKo8JOnJP_9wSlTlenXe-7" target="RKo8JOnJP_9wSlTlenXe-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RKo8JOnJP_9wSlTlenXe-7" target="RKo8JOnJP_9wSlTlenXe-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RKo8JOnJP_9wSlTlenXe-7" target="RKo8JOnJP_9wSlTlenXe-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-7" value="Historia Clinica" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="11240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RKo8JOnJP_9wSlTlenXe-9" target="RKo8JOnJP_9wSlTlenXe-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RKo8JOnJP_9wSlTlenXe-9" target="RKo8JOnJP_9wSlTlenXe-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-9" value="Exposicion" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="11330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RKo8JOnJP_9wSlTlenXe-11" target="RKo8JOnJP_9wSlTlenXe-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-11" value="Polvos organicos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="23" y="11420" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RKo8JOnJP_9wSlTlenXe-21" target="RKo8JOnJP_9wSlTlenXe-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-13" value="Bronquilitis Alergena" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="22.5" y="11486" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-17" value="Lavado" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="32.5" y="11656" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-19" value="Linfocitosis Mastocitosis&lt;br&gt;CD4/CD8 bajo" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="22.5" y="11726" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-20" value="Se usan el lavado bronquio alveolar, las imagenes y el CD4/CD8 que normal es 1.5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="62.5" y="11070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-21" value="Ganjero&lt;br&gt;Azucar&lt;br&gt;Corcho&lt;br&gt;Cuidador de aves&lt;br&gt;Algodon" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="22.5" y="11526" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-23" value="Fibrosis campos superiores" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7" y="11796" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-26" value="Asbestos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="11420" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RKo8JOnJP_9wSlTlenXe-32" target="RKo8JOnJP_9wSlTlenXe-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-30" value="Lavado" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="182.5" y="11566" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-31" value="Neutrofilos&lt;br&gt;Cuerpos ferruginosos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="172.5" y="11636" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-32" value="En mineros&lt;br&gt;albañiles&lt;br&gt;Cerrerias" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="173" y="11486" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-33" value="Fibrosis campos Inferiroes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150.5" y="11706" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-35" value="Enfermedad previa" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="324.5" y="11333" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RKo8JOnJP_9wSlTlenXe-37" target="RKo8JOnJP_9wSlTlenXe-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-37" value="AR" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="275.5" y="11423" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-38" value="Derrame pleural con FR +, Glu ↓" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="275.5" y="11499" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RKo8JOnJP_9wSlTlenXe-41" target="RKo8JOnJP_9wSlTlenXe-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-41" value="Fibrosis Pulmonar&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="497" y="11450" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-42" value="Derrame pleural con Glu N" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="382.5" y="11513" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-43" value="Sin antecedentes" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="518.5" y="11350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RKo8JOnJP_9wSlTlenXe-45" target="RKo8JOnJP_9wSlTlenXe-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-45" value="Lupus" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="382.5" y="11433" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RKo8JOnJP_9wSlTlenXe-47" target="RKo8JOnJP_9wSlTlenXe-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-47" value="En &amp;gt;50 años&lt;br&gt;Dx cuando excluyes todo" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="497" y="11530" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-49" value="Fibrosis campos Inferiroes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="531.5" y="11666" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RKo8JOnJP_9wSlTlenXe-51" target="RKo8JOnJP_9wSlTlenXe-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-51" value="Good Pasteur" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="614" y="11451" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RKo8JOnJP_9wSlTlenXe-53" target="RKo8JOnJP_9wSlTlenXe-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-53" value="Hemorragia alveolar&lt;br&gt;Anticuerpos anti membrana basal" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="613.5" y="11529" width="80" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RKo8JOnJP_9wSlTlenXe-58" target="RKo8JOnJP_9wSlTlenXe-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-58" value="Sarcoidosis" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="736.5" y="11451" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RKo8JOnJP_9wSlTlenXe-59" target="RKo8JOnJP_9wSlTlenXe-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-59" value="Mujer negra con eritema nodoso" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="736.5" y="11523" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-61" value="Adenopatias hiliares bilaterales" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="736.5" y="11598" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-63" value="Lavado" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="746.5" y="11663" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-64" value="CD4/CD8 Alto" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="736.5" y="11733" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-65" value="Biopsia" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="746.5" y="11792" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RKo8JOnJP_9wSlTlenXe-66" target="RKo8JOnJP_9wSlTlenXe-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-66" value="Granulomas no necrotizantes" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="736.5" y="11862" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-67" value="Esteroides" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="736.5" y="11962" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-69" value="Histiocitosis X" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="854.5" y="11453" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-70" value="Lavado" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="864.5" y="11576" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-71" value="CD1&lt;br&gt;Cuerpos de Birberck" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="854.5" y="11646" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-72" value="Tabaquismo" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="854.5" y="11523" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-73" value="Unicas restrictivas con patron obstructivo CPT ↑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="934.5" y="11726" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RKo8JOnJP_9wSlTlenXe-74" target="RKo8JOnJP_9wSlTlenXe-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-74" value="Linfangioleio miomatosis" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="976.5" y="11451" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-75" value="Quilotorax" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="976.5" y="11571" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKo8JOnJP_9wSlTlenXe-77" value="Fibrosis campos superiores" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="916.5" y="11990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
