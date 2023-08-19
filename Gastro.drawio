@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T22:49:13.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="tBSm8Ur7c7tnBCUurRF1" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T22:54:22.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="USNxTKRSi0ZypwXZT-Pl" version="21.6.8" type="github">
   <diagram name="Page-1" id="vxQiwhmBXQwjBZL9es7v">
     <mxGraphModel dx="729" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="oNGUDVq2gTV8FD3QDTzs-13" value="Caso clinico:&lt;br&gt;ERGE: Pirosis Px joven&lt;br&gt;Cancer: Viejo, anema, etc" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
           <mxGeometry x="235" y="426" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oNGUDVq2gTV8FD3QDTzs-15" value="Espasmo esofagico difuso" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-15" value="Espasmo esofagico difuso / Esofagitis Eosinofilica" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="410" y="325" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oNGUDVq2gTV8FD3QDTzs-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oNGUDVq2gTV8FD3QDTzs-17" target="oNGUDVq2gTV8FD3QDTzs-19">
@@ -307,7 +307,7 @@
         <mxCell id="oNGUDVq2gTV8FD3QDTzs-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oNGUDVq2gTV8FD3QDTzs-113" target="oNGUDVq2gTV8FD3QDTzs-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oNGUDVq2gTV8FD3QDTzs-113" value="No diliuirlos y no neutralizarlos!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-113" value="No diluirlos y no neutralizarlos!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="252" y="1880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oNGUDVq2gTV8FD3QDTzs-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oNGUDVq2gTV8FD3QDTzs-115" target="oNGUDVq2gTV8FD3QDTzs-118">
@@ -390,6 +390,9 @@
         </mxCell>
         <mxCell id="oNGUDVq2gTV8FD3QDTzs-139" value="Endoscopia se hace para pronostico.&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Si hay ulceras profundas 90% estenosis y si hay necrosis o perforacion la mortalidad es alta" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="70" y="2060" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-140" value="Espasmo: Dolor y acalasia&lt;br&gt;Eosinofilica: Joven, alergias e impactaciones" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="404.5" y="426" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
