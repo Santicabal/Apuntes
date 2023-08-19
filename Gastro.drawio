@@ -1,9 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T15:11:56.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.8" etag="GNOWJrFh3hK72pb5XLRe" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T16:13:31.091Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="zCXl0w616rGqqpih6KSv" version="21.6.8" type="github">
   <diagram name="Page-1" id="vxQiwhmBXQwjBZL9es7v">
-    <mxGraphModel>
+    <mxGraphModel dx="858" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-1" value="Disfagia" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-2" value="Mecanica" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#36393d;fillColor=#cce5ff;verticalAlign=top;fontStyle=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="70" y="120" width="320" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-3" value="Neuromuscular" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#36393d;fillColor=#ffff88;verticalAlign=top;fontStyle=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="390" y="120" width="320" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oNGUDVq2gTV8FD3QDTzs-5" target="oNGUDVq2gTV8FD3QDTzs-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-5" value="Intermitente" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="90" y="235" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oNGUDVq2gTV8FD3QDTzs-6" target="oNGUDVq2gTV8FD3QDTzs-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-6" value="Progresiva" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="250" y="235" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oNGUDVq2gTV8FD3QDTzs-7" target="oNGUDVq2gTV8FD3QDTzs-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-7" value="Intermitente" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="410" y="235" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oNGUDVq2gTV8FD3QDTzs-8" target="oNGUDVq2gTV8FD3QDTzs-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-8" value="Continua" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="570" y="235" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-9" value="Anillos esofagicos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="90" y="325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oNGUDVq2gTV8FD3QDTzs-11" target="oNGUDVq2gTV8FD3QDTzs-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-11" value="ERGE / Cancer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="250" y="325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-13" value="Caso clinico:&lt;br&gt;ERGE: Pirosis Px joven&lt;br&gt;Cancer: Viejo, anema, etc" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="235" y="426" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-15" value="Espasmo esofagico difuso" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="410" y="325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oNGUDVq2gTV8FD3QDTzs-17" target="oNGUDVq2gTV8FD3QDTzs-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-17" value="Esclerodermia / Acalasoa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="570" y="325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-19" value="Esclerodermia: Pirosis&lt;br&gt;&amp;nbsp;Acalasia" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="560" y="426" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-21" value="Al principio solidos luego a liquidos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="170" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-22" value="Desde el principio ni liquidos ni solidos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="490" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
