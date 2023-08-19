@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T22:19:54.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="fQNUfby97saxYuKOdF20" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T22:24:08.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="0Ag1fUNVPzEuhOvHVOUd" version="21.6.8" type="github">
   <diagram name="Page-1" id="vxQiwhmBXQwjBZL9es7v">
     <mxGraphModel dx="729" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
         <mxCell id="oNGUDVq2gTV8FD3QDTzs-26" value="La manometria se igual por cualquier causa por eso hay que hacer endoscopia siempre" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="240" y="600" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oNGUDVq2gTV8FD3QDTzs-28" value="Como leer la manometria.&lt;br&gt;Debe haber una muesca cuando inicia la deglusion.&lt;br&gt;Inmediaamente te fijas abajo a ver si el esfinter inferior esta relajado como deberia.&lt;br&gt;Ahora el cuerpo esofagico, debe irse contrallendo de arriba abajo progresivamente (Diagonal)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-28" value="&lt;b&gt;Como leer la manometria.&lt;br&gt;&lt;/b&gt;Debe haber una muesca cuando inicia la deglusion.&lt;br&gt;Inmediaamente te fijas abajo a ver si el esfinter inferior esta relajado como deberia.&lt;br&gt;Ahora el cuerpo esofagico, debe irse contrallendo de arriba abajo progresivamente (Diagonal)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="600" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="oNGUDVq2gTV8FD3QDTzs-30" value="Ausencia de relajacio de esfinter esofagico inferiror (EEI).&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tipo 1: Ausencia de peristalsis del cuerpo esofagico (azul)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tipo 2: Todo el esofago esta todo el tiempo contraido levemente.(verde)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tipo 3: Todo el esofago se contrae MUY intebso al mismo tiempo.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=none;" vertex="1" parent="1">
@@ -294,6 +294,41 @@
         </mxCell>
         <mxCell id="oNGUDVq2gTV8FD3QDTzs-100" value="Ablasion endoscopica" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="745" y="1593" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-110" value="Esofagitis por causticos" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1800" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oNGUDVq2gTV8FD3QDTzs-112" target="oNGUDVq2gTV8FD3QDTzs-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-112" value="Caustico es tanto acidos como bases" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oNGUDVq2gTV8FD3QDTzs-113" target="oNGUDVq2gTV8FD3QDTzs-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-113" value="No diliuirlos y no neutralizarlos!" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oNGUDVq2gTV8FD3QDTzs-115" target="oNGUDVq2gTV8FD3QDTzs-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-120" value="No hay&lt;br&gt;perforacion" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oNGUDVq2gTV8FD3QDTzs-119">
+          <mxGeometry x="-0.275" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-115" value="Rx Torax y EF de glotis" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1870" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-117" value="Para ver si se perforo el esofago buscando neumomediastino o si hay edema de glotis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="1880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-118" value="Endoscopia" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="2030" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-121" value="Endoscopia esta contrandicada en una perforacion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="1970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
