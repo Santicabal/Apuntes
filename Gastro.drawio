@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T19:36:11.403Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="FR-7Ok0AVMrX0xbWywXV" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T20:16:07.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="UeUBnhg4_JpTIxU_FwRs" version="21.6.8" type="github">
   <diagram name="Page-1" id="vxQiwhmBXQwjBZL9es7v">
     <mxGraphModel dx="858" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -74,19 +74,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oNGUDVq2gTV8FD3QDTzs-25" value="Puede ser primaria o secundaria a tumor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="600" width="130" height="60" as="geometry" />
+          <mxGeometry x="70" y="600" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oNGUDVq2gTV8FD3QDTzs-26" value="La manometria se igual por cualquier causa por eso hay que hacer endoscopia siempre" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="600" width="130" height="60" as="geometry" />
+          <mxGeometry x="240" y="600" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oNGUDVq2gTV8FD3QDTzs-28" value="Como leer la manometria.&lt;br&gt;Debe haber una muesca cuando inicia la deglusion.&lt;br&gt;Inmediaamente te fijas abajo a ver si el esfinter inferior esta relajado como deberia.&lt;br&gt;Ahora el cuerpo esofagico, debe irse contrallendo de arriba abajo progresivamente (Diagonal)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="440" y="600" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="oNGUDVq2gTV8FD3QDTzs-30" value="Ausencia de relajacio de esfinter esofagico inferiror.&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tipo 1: Ausencia de peristalsis del cuerpo esofagico&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tipo 2: Todo el esofago esta todo el tiempo contraido levemente.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tipo 3: Todo el esofago se contrae MUY intebso al mismo tiempo.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-30" value="Ausencia de relajacio de esfinter esofagico inferiror.&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tipo 1: Ausencia de peristalsis del cuerpo esofagico (azul)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tipo 2: Todo el esofago esta todo el tiempo contraido levemente.(verde)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tipo 3: Todo el esofago se contrae MUY intebso al mismo tiempo.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="440" y="780" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="oNGUDVq2gTV8FD3QDTzs-31" value="Tratamiento" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="70" y="710" width="340" height="240" as="geometry" />
+          <mxGeometry x="70" y="690" width="340" height="240" as="geometry" />
         </mxCell>
         <mxCell id="oNGUDVq2gTV8FD3QDTzs-32" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="oNGUDVq2gTV8FD3QDTzs-31">
           <mxGeometry y="30" width="340" height="105" as="geometry" />
@@ -137,7 +137,7 @@
           <mxGeometry x="235" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oNGUDVq2gTV8FD3QDTzs-52" value="El tratamiento es el mismo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="980" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="980" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
