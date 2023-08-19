@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T16:13:31.091Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="zCXl0w616rGqqpih6KSv" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T17:58:21.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="J41y8AZ4XdE2H9jM4IQO" version="21.6.8" type="github">
   <diagram name="Page-1" id="vxQiwhmBXQwjBZL9es7v">
     <mxGraphModel dx="858" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -55,10 +55,10 @@
         <mxCell id="oNGUDVq2gTV8FD3QDTzs-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oNGUDVq2gTV8FD3QDTzs-17" target="oNGUDVq2gTV8FD3QDTzs-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oNGUDVq2gTV8FD3QDTzs-17" value="Esclerodermia / Acalasoa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-17" value="Esclerodermia / Acalasia" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="570" y="325" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oNGUDVq2gTV8FD3QDTzs-19" value="Esclerodermia: Pirosis&lt;br&gt;&amp;nbsp;Acalasia" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-19" value="Esclerodermia: Pirosis&lt;br&gt;&amp;nbsp;Acalasia: ↓ peso" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
           <mxGeometry x="560" y="426" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oNGUDVq2gTV8FD3QDTzs-21" value="Al principio solidos luego a liquidos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
@@ -66,6 +66,21 @@
         </mxCell>
         <mxCell id="oNGUDVq2gTV8FD3QDTzs-22" value="Desde el principio ni liquidos ni solidos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
           <mxGeometry x="490" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-24" value="Acalasia" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="550" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oNGUDVq2gTV8FD3QDTzs-25" target="oNGUDVq2gTV8FD3QDTzs-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-25" value="Puede ser primaria o secundaria a tumor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-26" value="La manometria se igual por cualquier causa por eso hay que hacer endoscopia siempre" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="600" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oNGUDVq2gTV8FD3QDTzs-28" value="Como leer la manometria.&lt;br&gt;Debe haber una muesca cuando inicia la deglusion.&lt;br&gt;Inmediaamente te fijas abajo a ver si el esfinter inferior esta relajado como deberia.&lt;br&gt;Ahora el cuerpo esofagico, debe irse contrallendo de arriba abajo progresivamente (Diagonal)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="440" y="600" width="200" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
