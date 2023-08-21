@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T22:21:32.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="gL0pfLtl1Socmd6jw031" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-21T22:39:48.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="1DSw5eRt2n9uJj3WxsoQ" version="21.6.8" type="github">
   <diagram name="Page-1" id="vxQiwhmBXQwjBZL9es7v">
     <mxGraphModel dx="980" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -714,20 +714,20 @@
         <mxCell id="BQPg9lVMQ7bvCDqDimIQ-51" value="Malabsorcion" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="37" y="4130" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-53" value="Diarrea&lt;br&gt;Deficit de nutriente&lt;br&gt;↓ Peso" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-53" value="Diarrea&lt;br&gt;Deficit de nutriente&lt;br&gt;↓ Peso" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="34" y="4200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-54" value="Se identifica con esteatorrea. 7g de grsas en heces de 24h" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-54" value="Se identifica con esteatorrea. 7g de grsas en heces de 24h" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="204" y="4200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-55" value="Puede ser:&lt;br&gt;Enteropatia&lt;br&gt;Sobre crecimiento bacteriano" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-55" value="Puede ser:&lt;br&gt;Enteropatia&lt;br&gt;Sobre crecimiento bacteriano" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="382.75" y="4200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BQPg9lVMQ7bvCDqDimIQ-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BQPg9lVMQ7bvCDqDimIQ-56" target="BQPg9lVMQ7bvCDqDimIQ-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-56" value="Test de Kramer (Esteatorrea)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="42.75" y="4310" width="80" height="80" as="geometry" />
+        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-56" value="Test de Kramer (Esteatorrea)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="4310" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BQPg9lVMQ7bvCDqDimIQ-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BQPg9lVMQ7bvCDqDimIQ-57" target="BQPg9lVMQ7bvCDqDimIQ-59">
           <mxGeometry relative="1" as="geometry" />
@@ -735,28 +735,28 @@
         <mxCell id="BQPg9lVMQ7bvCDqDimIQ-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BQPg9lVMQ7bvCDqDimIQ-57" target="BQPg9lVMQ7bvCDqDimIQ-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-57" value="D-Xilosa" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-57" value="D-Xilosa" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="202.75" y="4310" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BQPg9lVMQ7bvCDqDimIQ-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BQPg9lVMQ7bvCDqDimIQ-59" target="BQPg9lVMQ7bvCDqDimIQ-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-59" value="Normal" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-59" value="Normal" style="whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="342.75" y="4320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BQPg9lVMQ7bvCDqDimIQ-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BQPg9lVMQ7bvCDqDimIQ-61" target="BQPg9lVMQ7bvCDqDimIQ-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-61" value="Patologica" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-61" value="Patologica" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="182.75" y="4480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BQPg9lVMQ7bvCDqDimIQ-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BQPg9lVMQ7bvCDqDimIQ-63" target="BQPg9lVMQ7bvCDqDimIQ-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-63" value="No hay Enteropatia ni SCB" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-63" value="No hay Enteropatia ni SCB" style="whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="514" y="4320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-65" value="Buscar fallo exocrino de pancreas" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-65" value="Insuficiencia pancreatica exocrina" style="whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="690" y="4320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BQPg9lVMQ7bvCDqDimIQ-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BQPg9lVMQ7bvCDqDimIQ-67" target="BQPg9lVMQ7bvCDqDimIQ-69">
@@ -764,7 +764,7 @@
         </mxCell>
         <mxCell id="BQPg9lVMQ7bvCDqDimIQ-73" value="Normal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BQPg9lVMQ7bvCDqDimIQ-70">
           <mxGeometry x="0.3962" y="12" relative="1" as="geometry">
-            <mxPoint x="-10" y="6" as="offset" />
+            <mxPoint x="-10" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BQPg9lVMQ7bvCDqDimIQ-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BQPg9lVMQ7bvCDqDimIQ-67" target="BQPg9lVMQ7bvCDqDimIQ-71">
@@ -775,14 +775,26 @@
             <mxPoint x="4" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-67" value="Test aliento &lt;br&gt;D-Xilosa y lactulosa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="402.75" y="4470" width="80" height="80" as="geometry" />
+        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-67" value="Test aliento &lt;br&gt;D-Xilosa y lactulosa" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="355" y="4470" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-69" value="Enteropatia" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="589.5" y="4410" width="120" height="60" as="geometry" />
+        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BQPg9lVMQ7bvCDqDimIQ-69" target="BQPg9lVMQ7bvCDqDimIQ-77">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-71" value="SCB" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="589.5" y="4540" width="120" height="60" as="geometry" />
+        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-69" value="Enteropatia" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="541.75" y="4410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BQPg9lVMQ7bvCDqDimIQ-71" target="BQPg9lVMQ7bvCDqDimIQ-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-71" value="SCB" style="whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="541.75" y="4540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-75" value="Confirmar con cultivo dudoenal" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="702.25" y="4530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BQPg9lVMQ7bvCDqDimIQ-77" value="Diferencial con biopsia intestinal" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="702.25" y="4400" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
