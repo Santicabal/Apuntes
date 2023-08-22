@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T15:59:27.872Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="Q9G-0i6CgbKSpnCG3ICu" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T16:17:15.710Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="710hjzjVdvXm_Qpce0fY" version="21.6.8" type="github">
   <diagram name="Page-1" id="vxQiwhmBXQwjBZL9es7v">
     <mxGraphModel dx="937" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -846,22 +846,25 @@
         <mxCell id="KsWmpHAjvHewxdbELdJH-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KsWmpHAjvHewxdbELdJH-16" target="KsWmpHAjvHewxdbELdJH-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="KsWmpHAjvHewxdbELdJH-16" target="KsWmpHAjvHewxdbELdJH-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KsWmpHAjvHewxdbELdJH-16" value="Hay deficit de absorcion de hierro y calcio" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="120" y="4850" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="4860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KsWmpHAjvHewxdbELdJH-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KsWmpHAjvHewxdbELdJH-17" target="KsWmpHAjvHewxdbELdJH-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KsWmpHAjvHewxdbELdJH-17" value="Asociado a Sx Down, dermatitis herpetiforme y ↓IgA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="280" y="4850" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="4860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KsWmpHAjvHewxdbELdJH-18" value="Como tienen ↓IgA, debo medirla cuando pida pruba de anticuerpos para saber si puede tener falso negativo" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="440" y="4850" width="170" height="60" as="geometry" />
+          <mxGeometry x="600" y="4860" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KsWmpHAjvHewxdbELdJH-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KsWmpHAjvHewxdbELdJH-20" target="KsWmpHAjvHewxdbELdJH-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KsWmpHAjvHewxdbELdJH-24" value="&lt;div&gt;Confirmar&lt;/div&gt;&lt;div&gt;Dx&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KsWmpHAjvHewxdbELdJH-23">
+        <mxCell id="KsWmpHAjvHewxdbELdJH-24" value="&lt;div&gt;Siempre&lt;br&gt;&lt;/div&gt;&lt;div&gt;Confirmar&lt;/div&gt;&lt;div&gt;Dx&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="KsWmpHAjvHewxdbELdJH-23">
           <mxGeometry x="-0.0857" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -921,7 +924,7 @@
         <mxCell id="KsWmpHAjvHewxdbELdJH-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KsWmpHAjvHewxdbELdJH-41" target="KsWmpHAjvHewxdbELdJH-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KsWmpHAjvHewxdbELdJH-41" value="Anticuerpos" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="KsWmpHAjvHewxdbELdJH-41" value="&lt;div&gt;Anticuerpos Trans&lt;/div&gt;&lt;div&gt;glutaminasa&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="462.5" y="4950" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KsWmpHAjvHewxdbELdJH-44" value="Mal control se asocia a linfoma intestinal T (No es malt)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
@@ -948,11 +951,14 @@
         <mxCell id="KsWmpHAjvHewxdbELdJH-52" value="Cultivo de aspirado yeyunal" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="542.5" y="5600" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KsWmpHAjvHewxdbELdJH-54" value="Tetraiclinas" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="KsWmpHAjvHewxdbELdJH-54" value="Rifaximina o Tetraiclinas" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="542.5" y="5720" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KsWmpHAjvHewxdbELdJH-56" value="Es frecuetne encontrar ↓B12" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="645" y="5555" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-57" value="Asintomatica 80% si no, astenia, dolor, meteorismo, anemia" style="whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="120" y="4860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
