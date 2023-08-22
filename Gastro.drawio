@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T15:41:04.496Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="stbMw7YFL6qyz0_6gwXf" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T15:59:27.872Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="Q9G-0i6CgbKSpnCG3ICu" version="21.6.8" type="github">
   <diagram name="Page-1" id="vxQiwhmBXQwjBZL9es7v">
     <mxGraphModel dx="937" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KsWmpHAjvHewxdbELdJH-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="77" y="5480" width="430" height="320" as="geometry" />
+        </mxCell>
         <mxCell id="qXAimA_6PrYC_-zk_ydz-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="110" y="2745" width="720" height="400" as="geometry" />
         </mxCell>
@@ -923,6 +926,33 @@
         </mxCell>
         <mxCell id="KsWmpHAjvHewxdbELdJH-44" value="Mal control se asocia a linfoma intestinal T (No es malt)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="602.5" y="4960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-47" value="Sobrecrecimiento Bacteriano" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="5390" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-48" value="Factores de Riesgo" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;fontStyle=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="5510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-49" value="&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Anatomico (Causan estasis)&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/li&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Estenosis&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Asas ciegas&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Cirugias previas&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Funcionales&lt;/li&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Hipocloridia&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Gastrectomisados&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Aperistalsis &lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/li&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Esleroderma&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;DM&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Inmunologico&lt;/li&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Deficit IgA&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontSize=16;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="5490" width="305" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KsWmpHAjvHewxdbELdJH-51" target="KsWmpHAjvHewxdbELdJH-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-51" value="D-Xilosa ↑orina + test aliento xilosa o lactulosa" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="542.5" y="5480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KsWmpHAjvHewxdbELdJH-52" target="KsWmpHAjvHewxdbELdJH-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-52" value="Cultivo de aspirado yeyunal" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="542.5" y="5600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-54" value="Tetraiclinas" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="542.5" y="5720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-56" value="Es frecuetne encontrar ↓B12" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="5555" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
