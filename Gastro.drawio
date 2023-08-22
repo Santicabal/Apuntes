@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T17:02:42.623Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="7l30lqDcb0QHBZyEAAVl" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T21:44:56.457Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="5tT366owILrwIDEv9jrJ" version="21.6.8" type="github">
   <diagram name="Page-1" id="vxQiwhmBXQwjBZL9es7v">
     <mxGraphModel dx="895" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KsWmpHAjvHewxdbELdJH-95" value="Diagnostico" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;fontStyle=1;fontSize=14;fillColor=#FFFF99;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="6420" width="530.5" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="KsWmpHAjvHewxdbELdJH-73" value="Complicaciones" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;fontStyle=1;fontSize=14;fillColor=#bac8d3;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="109.5" y="6340" width="530.5" height="80" as="geometry" />
         </mxCell>
@@ -976,7 +979,7 @@
           <mxGeometry x="40" y="5880" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KsWmpHAjvHewxdbELdJH-60" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
-          <mxGeometry x="410" y="6030" width="10" height="390" as="geometry" />
+          <mxGeometry x="410" y="6030" width="10" height="470" as="geometry" />
         </mxCell>
         <mxCell id="KsWmpHAjvHewxdbELdJH-61" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="200" y="6080" width="430" height="10" as="geometry" />
@@ -1010,6 +1013,60 @@
         </mxCell>
         <mxCell id="KsWmpHAjvHewxdbELdJH-75" value="&lt;div&gt;Displasia&lt;/div&gt;&lt;div&gt;Cancer Colon&lt;br&gt;&lt;/div&gt;&lt;div&gt;Megacolon&lt;/div&gt;&lt;div&gt;Perforacion intestinal&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="468.75" y="6350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-76" value="CUCI es mas comun. Debutan a 15-35 años" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="5950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-77" value="Cursa con brotes. Hay dolor, diarrea, fiebre" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="239.38" y="5950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-78" value="Brotes" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#432D57;fontSize=16;fillColor=#76608a;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="135" y="6530" width="230" height="209" as="geometry" />
+        </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-79" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="KsWmpHAjvHewxdbELdJH-78">
+          <mxGeometry y="30" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-80" value="Leve" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="KsWmpHAjvHewxdbELdJH-79">
+          <mxGeometry width="100" height="60" as="geometry">
+            <mxRectangle width="100" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-81" value="&lt;div&gt;Sin fiebre&lt;/div&gt;&lt;div&gt;Sin anemia&lt;/div&gt;&lt;div&gt;&amp;lt; 5 deposiciones&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#cce5ff;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="KsWmpHAjvHewxdbELdJH-79">
+          <mxGeometry x="100" width="130" height="60" as="geometry">
+            <mxRectangle width="130" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-83" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="KsWmpHAjvHewxdbELdJH-78">
+          <mxGeometry y="90" width="230" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-84" value="Moderado" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#ffff88;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="KsWmpHAjvHewxdbELdJH-83">
+          <mxGeometry width="100" height="58" as="geometry">
+            <mxRectangle width="100" height="58" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-85" value="&lt;div&gt;Febricula&lt;/div&gt;&lt;div&gt;Hb 8-12&lt;/div&gt;&lt;div&gt;5-10 deposiciones&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#ffff88;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="KsWmpHAjvHewxdbELdJH-83">
+          <mxGeometry x="100" width="130" height="58" as="geometry">
+            <mxRectangle width="130" height="58" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-91" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="KsWmpHAjvHewxdbELdJH-78">
+          <mxGeometry y="148" width="230" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-92" value="Grave" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#ffcccc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="KsWmpHAjvHewxdbELdJH-91">
+          <mxGeometry width="100" height="61" as="geometry">
+            <mxRectangle width="100" height="61" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-93" value="&lt;div&gt;Fiebre&lt;/div&gt;&lt;div&gt;Hb &amp;lt;8&lt;/div&gt;&lt;div&gt;&amp;gt;10 deposiciones&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#ffcccc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="KsWmpHAjvHewxdbELdJH-91">
+          <mxGeometry x="100" width="130" height="61" as="geometry">
+            <mxRectangle width="130" height="61" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-97" value="&lt;div&gt;ASCA +&lt;/div&gt;&lt;div&gt;Biopsia por endoscopia y complementar con transito intestinal.&lt;/div&gt;&lt;div&gt;TAC cuando complicaciones&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="6430" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-99" value="&lt;div&gt;ANCA +&lt;/div&gt;&lt;div&gt;Biopsia por Endoscopia &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="474" y="6430" width="136" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
