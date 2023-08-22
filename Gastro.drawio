@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T16:54:57.216Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="TuN-yDvoctWgfgspw2PT" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T17:02:42.623Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="7l30lqDcb0QHBZyEAAVl" version="21.6.8" type="github">
   <diagram name="Page-1" id="vxQiwhmBXQwjBZL9es7v">
-    <mxGraphModel dx="937" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="895" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KsWmpHAjvHewxdbELdJH-73" value="Comlicaciones" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
-          <mxGeometry x="109.5" y="6340" width="510" height="80" as="geometry" />
+        <mxCell id="KsWmpHAjvHewxdbELdJH-73" value="Complicaciones" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;fontStyle=1;fontSize=14;fillColor=#bac8d3;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="109.5" y="6340" width="530.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KsWmpHAjvHewxdbELdJH-70" value="Histologia" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
-          <mxGeometry x="110" y="6260" width="510" height="80" as="geometry" />
+        <mxCell id="KsWmpHAjvHewxdbELdJH-70" value="Histologia" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;fontStyle=1;fontSize=14;fillColor=#fad9d5;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="6260" width="530" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KsWmpHAjvHewxdbELdJH-64" value="Organos" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
-          <mxGeometry x="110" y="6100" width="510" height="80" as="geometry" />
+        <mxCell id="KsWmpHAjvHewxdbELdJH-64" value="Organos" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;fontStyle=1;fontSize=14;fillColor=#fad7ac;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="6100" width="530" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KsWmpHAjvHewxdbELdJH-65" value="Evolucion" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
-          <mxGeometry x="110" y="6180" width="510" height="80" as="geometry" />
+        <mxCell id="KsWmpHAjvHewxdbELdJH-65" value="Evolucion" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;fontStyle=1;fontSize=14;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="6180" width="530" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KsWmpHAjvHewxdbELdJH-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="77" y="5480" width="430" height="320" as="geometry" />
@@ -975,38 +975,41 @@
         <mxCell id="KsWmpHAjvHewxdbELdJH-59" value="Enfermedad Inflamatoria Intestinal" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="40" y="5880" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KsWmpHAjvHewxdbELdJH-60" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="KsWmpHAjvHewxdbELdJH-60" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="410" y="6030" width="10" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="KsWmpHAjvHewxdbELdJH-61" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="KsWmpHAjvHewxdbELdJH-61" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="200" y="6080" width="430" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="KsWmpHAjvHewxdbELdJH-62" value="Crohn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="249" y="6020" width="120" height="60" as="geometry" />
+        <mxCell id="KsWmpHAjvHewxdbELdJH-62" value="Crohn" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="251.5" y="6040" width="120" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="KsWmpHAjvHewxdbELdJH-63" value="CUCI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="468.75" y="6020" width="120" height="60" as="geometry" />
+        <mxCell id="KsWmpHAjvHewxdbELdJH-63" value="CUCI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="471.25" y="6040" width="120" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="KsWmpHAjvHewxdbELdJH-66" value="&lt;div&gt;Boca hasta Ano&lt;/div&gt;&lt;div&gt;Mas frecuente Ileon&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="KsWmpHAjvHewxdbELdJH-66" value="&lt;div&gt;Boca hasta Ano&lt;/div&gt;&lt;div&gt;Mas frecuente Ileon&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="251.5" y="6110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KsWmpHAjvHewxdbELdJH-67" value="Solo Colon" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="469.38" y="6110" width="120" height="60" as="geometry" />
+        <mxCell id="KsWmpHAjvHewxdbELdJH-67" value="Solo Colon" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="468.75" y="6110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KsWmpHAjvHewxdbELdJH-68" value="Parcheada / Discontinua" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KsWmpHAjvHewxdbELdJH-68" value="Parcheada / Discontinua" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;align=left;" vertex="1" parent="1">
           <mxGeometry x="251.5" y="6190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KsWmpHAjvHewxdbELdJH-69" value="&lt;div&gt;Continua y ascendente&lt;/div&gt;&lt;div&gt;Empieza en recto y termina en el ciego&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="KsWmpHAjvHewxdbELdJH-69" value="&lt;div&gt;Continua y ascendente&lt;/div&gt;&lt;div&gt;Empieza en recto y termina en el ciego&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="468.75" y="6190" width="131.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KsWmpHAjvHewxdbELdJH-71" value="&lt;div&gt;Atraviesa todas las capas hasta invade organos vecinos.&lt;/div&gt;Hay granulomas 50%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KsWmpHAjvHewxdbELdJH-71" value="&lt;div&gt;Atraviesa todas las capas hasta invade organos vecinos.&lt;/div&gt;Hay granulomas 50%" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;align=left;" vertex="1" parent="1">
           <mxGeometry x="252.5" y="6270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KsWmpHAjvHewxdbELdJH-72" value="&lt;div&gt;Solo la mucosa&lt;/div&gt;&lt;div&gt;Hay criptitis &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;(Neutrofilos en el fondo de las criptas)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="KsWmpHAjvHewxdbELdJH-72" value="&lt;div&gt;Solo la mucosa&lt;/div&gt;&lt;div&gt;Hay criptitis &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;(Neutrofilos en el fondo de las criptas)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="469.38" y="6270" width="130.62" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KsWmpHAjvHewxdbELdJH-74" value="&lt;div&gt;Estenosis&lt;/div&gt;&lt;div&gt;Fistulas&lt;/div&gt;&lt;div&gt;Abscesos&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="KsWmpHAjvHewxdbELdJH-74" value="&lt;div&gt;Estenosis&lt;/div&gt;&lt;div&gt;Fistulas&lt;/div&gt;&lt;div&gt;Abscesos&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="255" y="6350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KsWmpHAjvHewxdbELdJH-75" value="&lt;div&gt;Displasia&lt;/div&gt;&lt;div&gt;Cancer Colon&lt;br&gt;&lt;/div&gt;&lt;div&gt;Megacolon&lt;/div&gt;&lt;div&gt;Perforacion intestinal&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="468.75" y="6350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
