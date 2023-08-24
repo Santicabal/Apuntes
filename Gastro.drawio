@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T10:07:00.477Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="hTn5lj6i7xkyF1gq2LFa" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T10:46:41.124Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="Efh_kwaKj7Vmb8O2IAHj" version="21.6.8" type="github">
   <diagram name="Page-1" id="vxQiwhmBXQwjBZL9es7v">
     <mxGraphModel dx="1093" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -1312,6 +1312,108 @@
           <mxGeometry x="160" width="100" height="58" as="geometry">
             <mxRectangle width="100" height="58" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-32" value="Screening de Cancer" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#000000;fontSize=16;fontStyle=1;fillColor=#e3c800;fontColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="607" y="6040" width="232" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-33" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="PecvGdgGfepSRyu9vmJJ-32">
+          <mxGeometry y="30" width="232" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-34" value="Biopsia por endoscopia 4 tomas&amp;nbsp;&amp;nbsp; cada 10cm" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b46504;overflow=hidden;fillColor=#fad7ac;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=15;rowspan=1;colspan=3;align=left;" vertex="1" parent="PecvGdgGfepSRyu9vmJJ-33">
+          <mxGeometry width="232" height="40" as="geometry">
+            <mxRectangle width="77" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-35" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" visible="0" parent="PecvGdgGfepSRyu9vmJJ-33">
+          <mxGeometry x="77" width="78" height="40" as="geometry">
+            <mxRectangle width="78" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-36" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" visible="0" parent="PecvGdgGfepSRyu9vmJJ-33">
+          <mxGeometry x="155" width="77" height="40" as="geometry">
+            <mxRectangle width="77" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-37" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="PecvGdgGfepSRyu9vmJJ-32">
+          <mxGeometry y="70" width="232" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-38" value="A los 8 años del diagnostico" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b46504;overflow=hidden;fillColor=#fad7ac;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=15;rowspan=1;colspan=3;align=left;" vertex="1" parent="PecvGdgGfepSRyu9vmJJ-37">
+          <mxGeometry width="232" height="40" as="geometry">
+            <mxRectangle width="77" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-39" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" visible="0" parent="PecvGdgGfepSRyu9vmJJ-37">
+          <mxGeometry x="77" width="78" height="40" as="geometry">
+            <mxRectangle width="78" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-40" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" visible="0" parent="PecvGdgGfepSRyu9vmJJ-37">
+          <mxGeometry x="155" width="77" height="40" as="geometry">
+            <mxRectangle width="77" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-41" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="PecvGdgGfepSRyu9vmJJ-32">
+          <mxGeometry y="110" width="232" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-42" value="Al mismo tiempo que Dx de colangitis esclerosante" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b46504;overflow=hidden;fillColor=#fad7ac;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=15;rowspan=1;colspan=3;align=left;" vertex="1" parent="PecvGdgGfepSRyu9vmJJ-41">
+          <mxGeometry width="232" height="40" as="geometry">
+            <mxRectangle width="77" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-43" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" visible="0" parent="PecvGdgGfepSRyu9vmJJ-41">
+          <mxGeometry x="77" width="78" height="40" as="geometry">
+            <mxRectangle width="78" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-44" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" visible="0" parent="PecvGdgGfepSRyu9vmJJ-41">
+          <mxGeometry x="155" width="77" height="40" as="geometry">
+            <mxRectangle width="77" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-45" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="PecvGdgGfepSRyu9vmJJ-32">
+          <mxGeometry y="150" width="232" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-46" value="Si solo proctitis no necesita screening" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b46504;overflow=hidden;fillColor=#fad7ac;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=15;rowspan=1;colspan=3;align=left;" vertex="1" parent="PecvGdgGfepSRyu9vmJJ-45">
+          <mxGeometry width="232" height="40" as="geometry">
+            <mxRectangle width="77" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-47" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" visible="0" parent="PecvGdgGfepSRyu9vmJJ-45">
+          <mxGeometry x="77" width="78" height="40" as="geometry">
+            <mxRectangle width="78" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-48" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" visible="0" parent="PecvGdgGfepSRyu9vmJJ-45">
+          <mxGeometry x="155" width="77" height="40" as="geometry">
+            <mxRectangle width="77" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-49" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="PecvGdgGfepSRyu9vmJJ-32">
+          <mxGeometry y="190" width="232" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-50" value="Si encuentras displasia de alto grado →Cx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b46504;overflow=hidden;fillColor=#fad7ac;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=15;rowspan=1;colspan=3;align=left;" vertex="1" parent="PecvGdgGfepSRyu9vmJJ-49">
+          <mxGeometry width="232" height="40" as="geometry">
+            <mxRectangle width="77" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-51" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" visible="0" parent="PecvGdgGfepSRyu9vmJJ-49">
+          <mxGeometry x="77" width="78" height="40" as="geometry">
+            <mxRectangle width="78" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-52" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" visible="0" parent="PecvGdgGfepSRyu9vmJJ-49">
+          <mxGeometry x="155" width="77" height="40" as="geometry">
+            <mxRectangle width="77" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PecvGdgGfepSRyu9vmJJ-53" target="PecvGdgGfepSRyu9vmJJ-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-53" value="Las 2 pueden hacer &lt;b&gt;Colangitis Esclerosante primaria&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="405" y="5950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-54" value="&lt;div&gt;Hay ↑Bilirrubina, ↑FA, en la CPRE se ve cuentas de rosario&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="560.63" y="5950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
