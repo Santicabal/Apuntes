@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T10:46:41.124Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="Efh_kwaKj7Vmb8O2IAHj" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T14:13:51.478Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="G45LzBUeXUXhWqKUE7mC" version="21.6.8" type="github">
   <diagram name="Page-1" id="vxQiwhmBXQwjBZL9es7v">
-    <mxGraphModel dx="1093" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1414,6 +1414,29 @@
         </mxCell>
         <mxCell id="PecvGdgGfepSRyu9vmJJ-54" value="&lt;div&gt;Hay ↑Bilirrubina, ↑FA, en la CPRE se ve cuentas de rosario&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="560.63" y="5950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-56" value="Hepatits" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="35" y="7540" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-57" value="&lt;div&gt;ALT &amp;gt; AST casi siempre. Excepto en:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Alcoholismo&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Cancer Hepatico&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Colestasis del embarazo&lt;br&gt;&lt;/div&gt;&lt;div&gt;↓&lt;br&gt;&lt;/div&gt;&lt;div&gt;(AST&amp;gt;ALT)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80.5" y="7600" width="169.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PecvGdgGfepSRyu9vmJJ-58" target="PecvGdgGfepSRyu9vmJJ-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="7630" />
+              <mxPoint x="440" y="7630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-58" value="&lt;div&gt;Indicadores de colestasis:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;FA, GGT, Bilirrubina Directa&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="7600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-59" value="&lt;div&gt;FA&lt;/div&gt;&lt;div&gt;Se produce en higado, construccion de hueso e intestino. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Causas de elevacion:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Colestasis&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Daño hepatico&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Hiperpara&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Paget&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Cancer blasticos de hueso&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Malabsorcion&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Isquemia intestinal&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="450" y="7600" width="167.5" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PecvGdgGfepSRyu9vmJJ-61" value="GGT se eleva por cualquier hepatopatia pero solo del higado. Alcohol causa #1" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="282.75" y="7670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
