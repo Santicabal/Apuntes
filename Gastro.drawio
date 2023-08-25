@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T22:44:26.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="z7dwKhOoZ-gw_kzgGoe1" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-25T22:54:08.580Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="guOoFbLiBJvvua1wdetJ" version="21.6.9" type="github">
   <diagram name="Page-1" id="vxQiwhmBXQwjBZL9es7v">
     <mxGraphModel dx="661" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -1439,52 +1439,52 @@
           <mxGeometry x="274.75" y="7610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1G_fTsSzo_nCpoW9xovo-1" value="Hepatitis Virales" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#000000;fontSize=16;fillColor=#6a00ff;fontColor=#ffffff;swimlaneLine=1;perimeterSpacing=0;strokeWidth=1;swimlaneFillColor=#000000;shadow=0;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="79.5" y="7810" width="560.5" height="250" as="geometry" />
+          <mxGeometry x="79.5" y="7810" width="560.5" height="260" as="geometry" />
         </mxCell>
         <mxCell id="1G_fTsSzo_nCpoW9xovo-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="1G_fTsSzo_nCpoW9xovo-1" vertex="1">
-          <mxGeometry y="30" width="560.5" height="29" as="geometry" />
+          <mxGeometry y="30" width="560.5" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="1G_fTsSzo_nCpoW9xovo-3" value="A y E" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b46504;overflow=hidden;fillColor=#fad7ac;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=0;" parent="1G_fTsSzo_nCpoW9xovo-2" vertex="1">
-          <mxGeometry width="140" height="29" as="geometry">
-            <mxRectangle width="140" height="29" as="alternateBounds" />
+        <mxCell id="1G_fTsSzo_nCpoW9xovo-3" value="A y E" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b46504;overflow=hidden;fillColor=#fad7ac;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=1;" parent="1G_fTsSzo_nCpoW9xovo-2" vertex="1">
+          <mxGeometry width="140" height="31" as="geometry">
+            <mxRectangle width="140" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1G_fTsSzo_nCpoW9xovo-4" value="B" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b46504;overflow=hidden;fillColor=#fad7ac;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=1;" parent="1G_fTsSzo_nCpoW9xovo-2" vertex="1">
-          <mxGeometry x="140" width="140" height="29" as="geometry">
-            <mxRectangle width="140" height="29" as="alternateBounds" />
+          <mxGeometry x="140" width="140" height="31" as="geometry">
+            <mxRectangle width="140" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1G_fTsSzo_nCpoW9xovo-5" value="C" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b46504;overflow=hidden;fillColor=#fad7ac;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=1;" parent="1G_fTsSzo_nCpoW9xovo-2" vertex="1">
-          <mxGeometry x="280" width="140" height="29" as="geometry">
-            <mxRectangle width="140" height="29" as="alternateBounds" />
+          <mxGeometry x="280" width="140" height="31" as="geometry">
+            <mxRectangle width="140" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1G_fTsSzo_nCpoW9xovo-14" value="D" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b46504;overflow=hidden;fillColor=#fad7ac;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=1;" parent="1G_fTsSzo_nCpoW9xovo-2" vertex="1">
-          <mxGeometry x="420" width="141" height="29" as="geometry">
-            <mxRectangle width="141" height="29" as="alternateBounds" />
+          <mxGeometry x="420" width="141" height="31" as="geometry">
+            <mxRectangle width="141" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1G_fTsSzo_nCpoW9xovo-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="1G_fTsSzo_nCpoW9xovo-1" vertex="1">
-          <mxGeometry y="59" width="560.5" height="191" as="geometry" />
+          <mxGeometry y="61" width="560.5" height="199" as="geometry" />
         </mxCell>
-        <mxCell id="1G_fTsSzo_nCpoW9xovo-7" value="Oral&lt;br style=&quot;font-size: 12px;&quot;&gt;ARN&lt;br style=&quot;font-size: 12px;&quot;&gt;No cronifican&lt;br style=&quot;font-size: 12px;&quot;&gt;Fulminante 0.1%&lt;br style=&quot;font-size: 12px;&quot;&gt;A: Diarrea&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div&gt;E: En embarazadas fulminante 20%&lt;/div&gt;&lt;div&gt;Dx: IgM Anti-VHA/E&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b46504;overflow=hidden;fillColor=#fad7ac;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;strokeWidth=1;" parent="1G_fTsSzo_nCpoW9xovo-6" vertex="1">
-          <mxGeometry width="140" height="191" as="geometry">
-            <mxRectangle width="140" height="191" as="alternateBounds" />
+        <mxCell id="1G_fTsSzo_nCpoW9xovo-7" value="Oral&lt;br style=&quot;font-size: 12px;&quot;&gt;ARN&lt;br style=&quot;font-size: 12px;&quot;&gt;No cronifican&lt;br style=&quot;font-size: 12px;&quot;&gt;Fulminante 0.1%&lt;br style=&quot;font-size: 12px;&quot;&gt;A: Diarrea&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div&gt;E: En embarazadas fulminante 20%&lt;/div&gt;&lt;div&gt;Dx: IgM Anti-VHA/E&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b46504;overflow=hidden;fillColor=#fad7ac;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;strokeWidth=1;verticalAlign=top;" parent="1G_fTsSzo_nCpoW9xovo-6" vertex="1">
+          <mxGeometry width="140" height="199" as="geometry">
+            <mxRectangle width="140" height="199" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1G_fTsSzo_nCpoW9xovo-8" value="Sexual, canal de parto, Paraenteral&lt;br&gt;ADN&lt;br&gt;Puede cronificar (10%)&lt;br&gt;No se Tx en agudo&lt;br&gt;Indicaciones de Tx:&lt;br&gt;- Cronica +&lt;br&gt;- Replicativa +&lt;br&gt;- Daño hepatico&lt;br&gt;Tx: Tenofovir o Entecavir.&lt;br&gt;Objetivo: AgHBs (-) o ADN (-) / AgHBe (-)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b46504;overflow=hidden;fillColor=#fad7ac;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;strokeWidth=1;" parent="1G_fTsSzo_nCpoW9xovo-6" vertex="1">
-          <mxGeometry x="140" width="140" height="191" as="geometry">
-            <mxRectangle width="140" height="191" as="alternateBounds" />
+        <mxCell id="1G_fTsSzo_nCpoW9xovo-8" value="Sexual, canal de parto, Paraenteral&lt;br&gt;ADN&lt;br&gt;Puede cronificar (10%)&lt;br&gt;No se Tx en agudo&lt;br&gt;Indicaciones de Tx:&lt;br&gt;- Cronica +&lt;br&gt;- Replicativa +&lt;br&gt;- Daño hepatico&lt;br&gt;Tx: Tenofovir o Entecavir.&lt;br&gt;Objetivo: AgHBs (-) o ADN (-) / AgHBe (-)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b46504;overflow=hidden;fillColor=#fad7ac;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;strokeWidth=1;verticalAlign=top;" parent="1G_fTsSzo_nCpoW9xovo-6" vertex="1">
+          <mxGeometry x="140" width="140" height="199" as="geometry">
+            <mxRectangle width="140" height="199" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1G_fTsSzo_nCpoW9xovo-9" value="Paraenteral, Sexual(3%) &lt;br&gt;RNA&lt;br&gt;Dx: Anti-HC (+) y ARN (+)&lt;br&gt;Cronifica 80%&lt;br&gt;35% Cirrosis&lt;br&gt;Es curable en 97%&lt;br&gt;Tx: 3 tipos de medicinas&lt;br&gt;Inh de proteasa, NS5A y NS5B.&amp;nbsp;&lt;br&gt;Cualquier mezcla sirve. Nunca monoterapia.&lt;br&gt;Inh Proteasa esta contra-indicado en Child-pugh C" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b46504;overflow=hidden;fillColor=#fad7ac;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;strokeWidth=1;" parent="1G_fTsSzo_nCpoW9xovo-6" vertex="1">
-          <mxGeometry x="280" width="140" height="191" as="geometry">
-            <mxRectangle width="140" height="191" as="alternateBounds" />
+        <mxCell id="1G_fTsSzo_nCpoW9xovo-9" value="Paraenteral, Sexual(3%) &lt;br&gt;RNA&lt;br&gt;Dx: Anti-HC (+) y ARN (+)&lt;br&gt;Cronifica 80%&lt;br&gt;35% Cirrosis&lt;br&gt;Es curable en 97%&lt;br&gt;Tx: 3 tipos de medicinas&lt;br&gt;Inh de proteasa, NS5A y NS5B.&amp;nbsp;&lt;br&gt;Cualquier mezcla sirve. Nunca monoterapia.&lt;br&gt;Inh Proteasa esta contra-indicado en Child-pugh C" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b46504;overflow=hidden;fillColor=#fad7ac;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;strokeWidth=1;verticalAlign=top;" parent="1G_fTsSzo_nCpoW9xovo-6" vertex="1">
+          <mxGeometry x="280" width="140" height="199" as="geometry">
+            <mxRectangle width="140" height="199" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1G_fTsSzo_nCpoW9xovo-15" value="No puede infectar solo. Necesita previa infeccion por Hep B.&lt;br&gt;Aumenta Riesgo de cronicidad&lt;br&gt;Tx: Interferon" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b46504;overflow=hidden;fillColor=#fad7ac;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;strokeWidth=1;" parent="1G_fTsSzo_nCpoW9xovo-6" vertex="1">
-          <mxGeometry x="420" width="141" height="191" as="geometry">
-            <mxRectangle width="141" height="191" as="alternateBounds" />
+        <mxCell id="1G_fTsSzo_nCpoW9xovo-15" value="No puede infectar solo. Necesita previa infeccion por Hep B.&lt;br&gt;Aumenta Riesgo de cronicidad&lt;br&gt;Tx: Interferon" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b46504;overflow=hidden;fillColor=#fad7ac;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;strokeWidth=1;verticalAlign=top;" parent="1G_fTsSzo_nCpoW9xovo-6" vertex="1">
+          <mxGeometry x="420" width="141" height="199" as="geometry">
+            <mxRectangle width="141" height="199" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1G_fTsSzo_nCpoW9xovo-17" value="Clinica de hepatitis viral" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
