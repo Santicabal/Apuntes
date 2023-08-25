@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T19:51:31.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="FXveumZWdghagcvt2Mb_" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-25T22:28:38.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="A_GYS3qNXRoZAPr_VVEH" version="21.6.9" type="github">
   <diagram name="Page-1" id="vxQiwhmBXQwjBZL9es7v">
     <mxGraphModel dx="661" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -1439,52 +1439,52 @@
           <mxGeometry x="274.75" y="7610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1G_fTsSzo_nCpoW9xovo-1" value="Hepatitis Virales" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="79.5" y="7810" width="530.5" height="250" as="geometry" />
+          <mxGeometry x="79.5" y="7810" width="560.5" height="250" as="geometry" />
         </mxCell>
         <mxCell id="1G_fTsSzo_nCpoW9xovo-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="1G_fTsSzo_nCpoW9xovo-1" vertex="1">
-          <mxGeometry y="30" width="530.5" height="29" as="geometry" />
+          <mxGeometry y="30" width="560.5" height="29" as="geometry" />
         </mxCell>
         <mxCell id="1G_fTsSzo_nCpoW9xovo-3" value="A y E" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="1G_fTsSzo_nCpoW9xovo-2" vertex="1">
-          <mxGeometry width="133" height="29" as="geometry">
-            <mxRectangle width="133" height="29" as="alternateBounds" />
+          <mxGeometry width="140" height="29" as="geometry">
+            <mxRectangle width="140" height="29" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1G_fTsSzo_nCpoW9xovo-4" value="B" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="1G_fTsSzo_nCpoW9xovo-2" vertex="1">
-          <mxGeometry x="133" width="132" height="29" as="geometry">
-            <mxRectangle width="132" height="29" as="alternateBounds" />
+          <mxGeometry x="140" width="140" height="29" as="geometry">
+            <mxRectangle width="140" height="29" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1G_fTsSzo_nCpoW9xovo-5" value="C" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="1G_fTsSzo_nCpoW9xovo-2" vertex="1">
-          <mxGeometry x="265" width="133" height="29" as="geometry">
-            <mxRectangle width="133" height="29" as="alternateBounds" />
+          <mxGeometry x="280" width="140" height="29" as="geometry">
+            <mxRectangle width="140" height="29" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1G_fTsSzo_nCpoW9xovo-14" value="D" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="1G_fTsSzo_nCpoW9xovo-2" vertex="1">
-          <mxGeometry x="398" width="133" height="29" as="geometry">
-            <mxRectangle width="133" height="29" as="alternateBounds" />
+          <mxGeometry x="420" width="141" height="29" as="geometry">
+            <mxRectangle width="141" height="29" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1G_fTsSzo_nCpoW9xovo-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="1G_fTsSzo_nCpoW9xovo-1" vertex="1">
-          <mxGeometry y="59" width="530.5" height="191" as="geometry" />
+          <mxGeometry y="59" width="560.5" height="191" as="geometry" />
         </mxCell>
         <mxCell id="1G_fTsSzo_nCpoW9xovo-7" value="Oral&lt;br style=&quot;font-size: 12px;&quot;&gt;ARN&lt;br style=&quot;font-size: 12px;&quot;&gt;No cronifican&lt;br style=&quot;font-size: 12px;&quot;&gt;Fulminante 0.1%&lt;br style=&quot;font-size: 12px;&quot;&gt;A: Diarrea&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div&gt;E: En embarazadas fulminante 20%&lt;/div&gt;&lt;div&gt;Dx: IgM Anti-VHA/E&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" parent="1G_fTsSzo_nCpoW9xovo-6" vertex="1">
-          <mxGeometry width="133" height="191" as="geometry">
-            <mxRectangle width="133" height="191" as="alternateBounds" />
+          <mxGeometry width="140" height="191" as="geometry">
+            <mxRectangle width="140" height="191" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1G_fTsSzo_nCpoW9xovo-8" value="Sexual, canal de parto, Paraenteral&lt;br&gt;ADN&lt;br&gt;Puede cronificar (10%)&lt;br&gt;No se Tx en agudo&lt;br&gt;Indicaciones de Tx:&lt;br&gt;- Cronica +&lt;br&gt;- Replicativa +&lt;br&gt;- Daño hepatico&lt;br&gt;Tx: Tenofovir o Entecavir.&lt;br&gt;Objetivo: AgHBs (-) o ADN (-) / AgHBe (-)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" parent="1G_fTsSzo_nCpoW9xovo-6" vertex="1">
-          <mxGeometry x="133" width="132" height="191" as="geometry">
-            <mxRectangle width="132" height="191" as="alternateBounds" />
+          <mxGeometry x="140" width="140" height="191" as="geometry">
+            <mxRectangle width="140" height="191" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1G_fTsSzo_nCpoW9xovo-9" value="Paraenteral, Sexual(3%) &lt;br&gt;RNA&lt;br&gt;Dx: Anti-HC (+) y ARN (+)&lt;br&gt;Cronifica 80%&lt;br&gt;35% Cirrosis&lt;br&gt;Es curable y erradicable" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" parent="1G_fTsSzo_nCpoW9xovo-6" vertex="1">
-          <mxGeometry x="265" width="133" height="191" as="geometry">
-            <mxRectangle width="133" height="191" as="alternateBounds" />
+        <mxCell id="1G_fTsSzo_nCpoW9xovo-9" value="Paraenteral, Sexual(3%) &lt;br&gt;RNA&lt;br&gt;Dx: Anti-HC (+) y ARN (+)&lt;br&gt;Cronifica 80%&lt;br&gt;35% Cirrosis&lt;br&gt;Es curable en 97%&lt;br&gt;Tx: 3 tipos de medicinas&lt;br&gt;Inh de proteasa, NS5A y NS5B.&amp;nbsp;&lt;br&gt;Cualquier mezcla sirve. Nunca monoterapia.&lt;br&gt;Inh Proteasa esta contra-indicado en Child-pugh C" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" parent="1G_fTsSzo_nCpoW9xovo-6" vertex="1">
+          <mxGeometry x="280" width="140" height="191" as="geometry">
+            <mxRectangle width="140" height="191" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1G_fTsSzo_nCpoW9xovo-15" value="No puede infectar solo. Necesita previa infeccion por Hep B.&lt;br&gt;Aumenta Riesgo de cronicidad&lt;br&gt;Tx: Interferon" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" parent="1G_fTsSzo_nCpoW9xovo-6" vertex="1">
-          <mxGeometry x="398" width="133" height="191" as="geometry">
-            <mxRectangle width="133" height="191" as="alternateBounds" />
+          <mxGeometry x="420" width="141" height="191" as="geometry">
+            <mxRectangle width="141" height="191" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1G_fTsSzo_nCpoW9xovo-17" value="Clinica de hepatitis viral" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1500,22 +1500,22 @@
           <mxGeometry x="431.38" y="7730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1G_fTsSzo_nCpoW9xovo-22" value="Hep B puede cronificar, depende de la madurez del sistema inmune. Mientras mas inmaduro como bebes mas cronifica" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="635" y="7810" width="140" height="100" as="geometry" />
+          <mxGeometry x="695.5" y="7810" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="swcZ4j7gWnpfYE5BXLS6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.378;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="lXIOBGTR9gmfR0bj_Lq_-1" target="1G_fTsSzo_nCpoW9xovo-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lXIOBGTR9gmfR0bj_Lq_-1" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;AgHBs:&lt;/b&gt;&lt;/font&gt; Antigeno de superficie. Es el que se eleva primero en la infeccion y el que te inyectyan en la vacuna. Ser positivo = infeccion. &amp;gt; 6 meses = Cronico&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;AgHBc:&lt;/b&gt;&lt;/font&gt; Antigeno core. Solo esta en el nucleo de hepatocitos. No esta en sangre por eso no lo mides.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;AgHBe:&lt;/b&gt;&lt;/font&gt; Antigeno early. Indica replicacion viral, es igual que ADN. Hay virus que no lo expresan Precore&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;ADN:&lt;/b&gt;&lt;/font&gt; Todos lo expresan asi que asi diferencias de una cepa normal de una Precore&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Anti-HBs&lt;/b&gt;&lt;/font&gt;: Solo se desarrolla cuando ya estas curado o con la vacuna. Positvo = curado o vacunado.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Anti-HBs (+) = AgHBs (-)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Anti-HBc&lt;/font&gt;: &lt;/b&gt;Como AgHBc no esta en la vacuna la unica forma de tener este anticuerpo es tener el virus. C de Contacto. Puede ser IgM o IgG, puede coexistir con la infeccion o permanecer despues de curacion.&lt;/div&gt;&lt;div&gt;Por lo tanto si hay AgHBs (+) e IgM = infeccion aguda. AgHBs (+) e IgG = Infeccion cronica.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;arcSize=5;" parent="1" vertex="1">
-          <mxGeometry x="132.5" y="8110" width="295" height="350" as="geometry" />
+          <mxGeometry x="144.5" y="8100" width="295" height="350" as="geometry" />
         </mxCell>
         <mxCell id="TZU-6hS-5rhW8xn6E3U3-1" value="Precore = AgHBe (-) con ADN (+)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="551.38" y="8110" width="120" height="60" as="geometry" />
+          <mxGeometry x="455" y="8120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="swcZ4j7gWnpfYE5BXLS6-1" value="Mutante de escape: Es inmune a la vacuna por eso hay AgHBs y Anti-HBs +" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="551.38" y="8180" width="120" height="60" as="geometry" />
+          <mxGeometry x="455" y="8190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="swcZ4j7gWnpfYE5BXLS6-3" value="El hepatocarcinoma que de la Hep B es por el virus mientras que en Hep C es por cirrosis&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="640" y="7940" width="140" height="90" as="geometry" />
+          <mxGeometry x="695.5" y="7940" width="140" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
