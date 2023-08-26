@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-26T11:12:24.910Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="XJsTBzhHUfUdC3A4-PSL" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-26T12:24:38.153Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="c4YkLNHcGKUcKexLpS01" version="21.6.8" type="github">
   <diagram name="Page-1" id="vxQiwhmBXQwjBZL9es7v">
-    <mxGraphModel dx="1514" dy="974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1406" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1909,6 +1909,100 @@
         </mxCell>
         <mxCell id="_KsYA-5Mh6iM4h8RIF6n-109" value="Es una ¨torniquete¨ solo se pone en el inter de ir a quirofano" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="35" y="9543" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_KsYA-5Mh6iM4h8RIF6n-111" target="_KsYA-5Mh6iM4h8RIF6n-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-111" value="Ascitis" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="44.5" y="9700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_KsYA-5Mh6iM4h8RIF6n-112" target="_KsYA-5Mh6iM4h8RIF6n-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-112" value="&lt;div&gt;Paracentesis&lt;/div&gt;diagnostica" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="9690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_KsYA-5Mh6iM4h8RIF6n-114" target="_KsYA-5Mh6iM4h8RIF6n-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="485.5" y="9730" />
+              <mxPoint x="485.5" y="9670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_KsYA-5Mh6iM4h8RIF6n-114" target="_KsYA-5Mh6iM4h8RIF6n-118">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="485.5" y="9730" />
+              <mxPoint x="485.5" y="9780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-114" value="Albumina serica - Albumna de ascitis" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="9700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-116" value="Otras causas" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="534.5" y="9640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_KsYA-5Mh6iM4h8RIF6n-118" target="_KsYA-5Mh6iM4h8RIF6n-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-118" value="Hipertension Portal" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="534.5" y="9748" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_KsYA-5Mh6iM4h8RIF6n-120" target="_KsYA-5Mh6iM4h8RIF6n-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-126" value="&lt;div&gt;Sin control&lt;/div&gt;a dosis Max" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_KsYA-5Mh6iM4h8RIF6n-125">
+          <mxGeometry x="-0.2333" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-120" value="&lt;div&gt;Espiro&lt;/div&gt;&lt;div&gt;+ Furo&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="554.5" y="9838" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-122" value="&amp;lt; 1.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445.5" y="9640" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-123" value="&amp;gt; 1.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="453.5" y="9790" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_KsYA-5Mh6iM4h8RIF6n-124" target="_KsYA-5Mh6iM4h8RIF6n-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_KsYA-5Mh6iM4h8RIF6n-124" target="_KsYA-5Mh6iM4h8RIF6n-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-133" value="&lt;div&gt;No&lt;/div&gt;&lt;div&gt;Candidato&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_KsYA-5Mh6iM4h8RIF6n-131">
+          <mxGeometry x="0.1415" y="1" relative="1" as="geometry">
+            <mxPoint x="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_KsYA-5Mh6iM4h8RIF6n-124" target="_KsYA-5Mh6iM4h8RIF6n-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-137" value="&lt;div&gt;Encefalopatia&lt;/div&gt;&lt;div&gt;Ins Cardiaca&lt;/div&gt;&lt;div&gt;Child-Pugh C&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_KsYA-5Mh6iM4h8RIF6n-136">
+          <mxGeometry x="-0.1339" y="-2" relative="1" as="geometry">
+            <mxPoint x="-29" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-124" value="Ascitis Refractaria" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;strokeWidth=2;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="535.5" y="9978" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-127" value="La dosis maxima es 400/160. " style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="415.5" y="9850" width="115.63" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-128" value="Trasplante" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="555.5" y="10108" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-130" value="TIPS" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="355.5" y="9968" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-134" value="&lt;div&gt;&lt;b&gt;No candidatos:&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Edad &amp;gt; 65&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Tumor no hepatico&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Enf Psiquiatrica&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Adicciones&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Comorbilidades&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="421.25" y="10048" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_KsYA-5Mh6iM4h8RIF6n-135" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;Paracentesis&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;evacuadora&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;periodica&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontSize=9;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="750" y="9968" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
