@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T20:17:06.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="-btHmO5CBvjb-iRrT94j" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-28T20:28:27.032Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="p7tRySLRLkOOiR09DAmP" version="21.6.9" type="github">
   <diagram name="Página-1" id="UciEay0KyTCCJJWclvXi">
     <mxGraphModel dx="762" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -227,13 +227,16 @@
           <mxGeometry x="564.18" y="811.8200000000002" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-46" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="605" y="593" width="20" height="147" as="geometry" />
+          <mxGeometry x="574" y="593" width="20" height="147" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-47" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="710" y="600" width="20" height="270" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-48" value="Sx Nefrotico" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="617" y="632" width="110" height="30" as="geometry" />
+          <mxGeometry x="586" y="632" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-49" value="Proteinuria &amp;gt;3g&lt;br&gt;Hiperlipidemia&lt;br&gt;Trombosis&lt;br&gt;PA y FG normales" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="589" y="669.68" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
