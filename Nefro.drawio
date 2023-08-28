@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T16:27:53.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="WGrq5GlWW-M0zDThV2wX" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-28T16:51:54.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="uXAY8JTTVy-xvJS1qJm3" version="21.6.9" type="github">
   <diagram name="Página-1" id="UciEay0KyTCCJJWclvXi">
-    <mxGraphModel dx="686" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="807" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,7 @@
           <mxGeometry x="470" y="126.63" width="110" height="36.25" as="geometry" />
         </mxCell>
         <mxCell id="AWjtqCZnB2S0BVq7457--19" value="" style="shape=corner;whiteSpace=wrap;html=1;dx=20;dy=20;direction=north;fillColor=#FF3333;fontColor=#000000;strokeColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="440" y="114.75" width="20" height="60" as="geometry" />
+          <mxGeometry x="442" y="126" width="10" height="44.75" as="geometry" />
         </mxCell>
         <mxCell id="AWjtqCZnB2S0BVq7457--20" value="&lt;div&gt;Celulas Yuxtaglomerulares:&lt;/div&gt;&lt;div&gt;Secretan Renina&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="470" y="210" width="110" height="40" as="geometry" />
@@ -111,6 +111,59 @@
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-4" value="Macula Densa: La parte del tubulo distal en contacto con glomerulo" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="700" y="372" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-5" value="Generalidades" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="41.95" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lvf93lARUG0P3jfMm5ZK-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-6" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="250" y="283.88" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-8" value="Aqui se hace el filtrado&lt;br&gt;Aprox 20% del volumen plasmatico" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-9" value="La funciones de estas 3 partes es evitar el paso de proteinas" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="336.5" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-10" value="Al haber daño aqui causa &lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;proteinuria&lt;/span&gt;, tambien filtra menos por eso &lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;oliguria &lt;/span&gt;y &lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;azoemia&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-14" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lvf93lARUG0P3jfMm5ZK-11" target="Lvf93lARUG0P3jfMm5ZK-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.019;entryY=0.54;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Lvf93lARUG0P3jfMm5ZK-11" target="Lvf93lARUG0P3jfMm5ZK-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=7.69;fillColor=#FF3333;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="248" y="644" width="51.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=7.69;fillColor=#6666FF;fontColor=#ffffff;strokeColor=none;aspect=fixed;fillStyle=dots;" vertex="1" parent="1">
+          <mxGeometry x="240" y="636" width="67" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=14.81;fillColor=#FF3333;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="371.5" y="596" width="51.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=7.69;fillColor=#6666FF;fontColor=#ffffff;strokeColor=none;aspect=fixed;fillStyle=dots;" vertex="1" parent="1">
+          <mxGeometry x="363" y="587.5" width="67" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=7.69;fillColor=#FF3333;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="369" y="689" width="51.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=19.34;fillColor=#6666FF;fontColor=#ffffff;strokeColor=none;aspect=fixed;fillStyle=dots;" vertex="1" parent="1">
+          <mxGeometry x="349" y="667" width="93" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-19" value="Prolifera endotelio &lt;br&gt;(Capilar)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="341" y="551" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-20" value="Prolifera Epitelio&lt;br&gt;(Podocitos)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="337" y="756" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-21" value="Sx Nefritico" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="218.5" y="709" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
