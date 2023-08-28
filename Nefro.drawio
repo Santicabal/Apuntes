@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T17:35:15.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="4InW0JzrOKbgwnB4goH6" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-28T18:16:09.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="yWtAaTLCD3UETekdzHqP" version="21.6.9" type="github">
   <diagram name="Página-1" id="UciEay0KyTCCJJWclvXi">
-    <mxGraphModel dx="473" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="915" dy="997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,13 +130,14 @@
           <mxGeometry x="195" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-9" value="Oliguria&lt;br&gt;Hipertension&lt;br&gt;Hematuria&lt;br&gt;Edema" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220.31" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="76.05000000000001" y="659.8399999999999" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-10" value="Al haber daño aqui causa &lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;proteinuria&lt;/span&gt;, tambien filtra menos por eso &lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;oliguria &lt;/span&gt;y &lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;azoemia&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="195" y="551" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lvf93lARUG0P3jfMm5ZK-14" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lvf93lARUG0P3jfMm5ZK-11">
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-14" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="680" as="sourcePoint" />
             <mxPoint x="371.5" y="631.008097165992" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -146,10 +147,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=7.69;fillColor=#FF3333;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
-          <mxGeometry x="248" y="644" width="51.5" height="50" as="geometry" />
+          <mxGeometry x="220.5" y="689.68" width="51.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lvf93lARUG0P3jfMm5ZK-12" target="Lvf93lARUG0P3jfMm5ZK-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;dx=7.69;fillColor=#6666FF;fontColor=#ffffff;strokeColor=none;aspect=fixed;fillStyle=dots;startAngle=0.9075697555976807;endAngle=0.43382149838084605;arcWidth=0.5;" vertex="1" parent="1">
-          <mxGeometry x="250" y="631" width="67" height="67" as="geometry" />
+          <mxGeometry x="222.5" y="676.68" width="67" height="67" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=7.69;fillColor=#FF3333;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
           <mxGeometry x="373" y="812" width="51.5" height="50" as="geometry" />
@@ -157,23 +161,23 @@
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;dx=19.34;fillColor=#6666FF;fontColor=#ffffff;strokeColor=none;aspect=fixed;fillStyle=dots;startAngle=0.8701785983640878;endAngle=0.3435835209054995;arcWidth=0.5;" vertex="1" parent="1">
           <mxGeometry x="357" y="789" width="93" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="Lvf93lARUG0P3jfMm5ZK-19" value="Prolifera endotelio &lt;br&gt;(Capilar)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="341" y="551" width="120" height="40" as="geometry" />
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-19" value="Prolifera endotelio &lt;br&gt;(Capilar)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="465" y="587" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lvf93lARUG0P3jfMm5ZK-20" value="Prolifera Epitelio&lt;br&gt;(Podocitos)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="343.75" y="900" width="110" height="40" as="geometry" />
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-20" value="Prolifera Epitelio&lt;br&gt;(Podocitos)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="465" y="810" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-21" value="Sx Nefritico" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="218.5" y="733" width="110" height="30" as="geometry" />
+          <mxGeometry x="71" y="629.8399999999999" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Lvf93lARUG0P3jfMm5ZK-22" value="La funciones de estas 3 partes es evitar el paso de proteinas" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="346.5" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-22" value="Hay 3 sitios donde puede haber lesion.&lt;br&gt;Endotelio, Epitelio, Mesangio" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="733.16" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-23" value="" style="shape=switch;whiteSpace=wrap;html=1;rotation=5;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="236" y="640" width="11.52" height="32" as="geometry" />
+          <mxGeometry x="208.5" y="685.68" width="11.52" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-24" value="" style="shape=switch;whiteSpace=wrap;html=1;rotation=-45;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="248" y="679" width="11.52" height="32" as="geometry" />
+          <mxGeometry x="220.5" y="724.68" width="11.52" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-25" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=16.59;fillColor=#FF3333;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
           <mxGeometry x="398" y="600" width="51.5" height="50" as="geometry" />
@@ -194,25 +198,28 @@
           <mxGeometry x="377.48" y="850" width="11.52" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-31" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=7.69;fillColor=#FF3333;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
-          <mxGeometry x="398" y="709" width="51.5" height="50" as="geometry" />
+          <mxGeometry x="398" y="691" width="51.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;dx=7.69;fillColor=#6666FF;fontColor=#ffffff;strokeColor=none;aspect=fixed;fillStyle=dots;startAngle=0.9075697555976807;endAngle=0.43382149838084605;arcWidth=0.5;" vertex="1" parent="1">
-          <mxGeometry x="400" y="696" width="67" height="67" as="geometry" />
+          <mxGeometry x="400" y="678" width="67" height="67" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-33" value="" style="shape=switch;whiteSpace=wrap;html=1;rotation=5;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="385.29" y="713.71" width="17.52" height="48.67" as="geometry" />
+          <mxGeometry x="385.29" y="695.71" width="17.52" height="48.67" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-34" value="" style="shape=switch;whiteSpace=wrap;html=1;rotation=80;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="403.96" y="734.93" width="19.26" height="53.5" as="geometry" />
+          <mxGeometry x="403.96" y="716.93" width="19.26" height="53.5" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-35" value="" style="shape=switch;whiteSpace=wrap;html=1;rotation=25;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="396.36" y="690.86" width="14.04" height="39" as="geometry" />
+          <mxGeometry x="396.36" y="672.86" width="14.04" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-36" value="" style="shape=switch;whiteSpace=wrap;html=1;rotation=5;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="369.29" y="703.71" width="17.52" height="48.67" as="geometry" />
+          <mxGeometry x="369.29" y="685.71" width="17.52" height="48.67" as="geometry" />
         </mxCell>
-        <mxCell id="Lvf93lARUG0P3jfMm5ZK-38" value="Prolifera Mesangio" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="475" y="708.71" width="120" height="30" as="geometry" />
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-38" value="Prolifera &lt;br&gt;Mesangio" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="480" y="689.6800000000001" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-40" value="La barrera de filtrado son endotelio, membrana basal y epitelio. &lt;br&gt;El mesangio no es parte.&lt;br&gt;Su funcion es evitar el pase de proteinas" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="338.75" y="480" width="151.25" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
