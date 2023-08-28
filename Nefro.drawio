@@ -1,9 +1,96 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T12:39:52.360Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" version="21.6.8" etag="LOCgD7YCtq5eEbtnWNem" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-28T13:09:59.468Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="qvKhImmJSy4445CEzbNM" version="21.6.8" type="github">
   <diagram name="Página-1" id="UciEay0KyTCCJJWclvXi">
-    <mxGraphModel>
+    <mxGraphModel dx="984" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AWjtqCZnB2S0BVq7457--28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="430" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0.14479171208028277;endAngle=0.8627813740139013;arcWidth=0.5;direction=north;fillColor=#FF3333;fontColor=#000000;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="180" y="210" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--6" value="" style="shape=corner;whiteSpace=wrap;html=1;dx=20;dy=20;fillColor=#FF3333;fontColor=#000000;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="163" y="279" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--8" value="" style="shape=corner;whiteSpace=wrap;html=1;dx=20;dy=20;direction=north;fillColor=#FF3333;fontColor=#000000;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="165" y="130" width="50.05" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--9" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#e3c800;fillStyle=dots;sketch=1;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="233.75" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--10" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="163" y="340" width="20" height="73.75" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--11" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="165" y="101" width="20" height="73.75" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--12" value="Aferente" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="127.75" y="420" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--13" value="Eferente" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="130" y="70" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0.4189422054097226;endAngle=0.1;arcWidth=0.47;rotation=-180;strokeWidth=12;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="156" y="168" width="160" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0.4189422054097226;endAngle=0.10070510482623556;arcWidth=0.35;rotation=-180;strokeWidth=9;fillColor=#FFFFFF;fontColor=#ffffff;strokeColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="173" y="172.5" width="132" height="176.25" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.wave2;dy=0.3;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="161.5" y="300" width="22.5" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--18" value="A las arteriolas se les llama Endotelio" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="126.63" width="110" height="36.25" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--19" value="" style="shape=corner;whiteSpace=wrap;html=1;dx=20;dy=20;direction=north;fillColor=#FF3333;fontColor=#000000;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="440" y="114.75" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--20" value="&lt;div&gt;Celulas Yuxtaglomerulares:&lt;/div&gt;&lt;div&gt;Secretan Renina&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="210" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.wave2;dy=0.3;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="430" y="210" width="31.25" height="36.25" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--22" value="&lt;div&gt;Celulas Mesangiales:&lt;/div&gt;Dan soporte de estructura" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="290.37" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--23" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#e3c800;fillStyle=dots;sketch=1;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="410" y="289.37" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--24" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0.4189422054097226;endAngle=0.1;arcWidth=0.47;rotation=-180;strokeWidth=8;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="120.38" width="30" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--25" value="Membrana Basal: hace la capsula de Bowman" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="117.88" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--26" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0.4189422054097226;endAngle=0.10070510482623556;arcWidth=0.35;rotation=-180;strokeWidth=8;fillColor=#FFFFFF;fontColor=#ffffff;strokeColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="660" y="214.38" width="30" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--27" value="Podocitos, se les llama epitelio" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--29" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0.4189422054097226;endAngle=0.10070510482623556;arcWidth=0.35;rotation=-180;strokeWidth=8;fillColor=#FFFFFF;fontColor=#ffffff;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="660" y="300.62" width="30" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--30" value="Espacio de Bowman: es donde esta el liquido del filtrado glomerular" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="288.12" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--31" value="" style="shape=corner;whiteSpace=wrap;html=1;dx=20;dy=20;direction=north;rotation=90;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="321.31" y="225.31" width="20" height="70.62" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--32" value="" style="shape=corner;whiteSpace=wrap;html=1;dx=20;dy=20;direction=north;rotation=90;strokeColor=#6666FF;fillColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="335.66" y="208.34" width="11.31" height="70.62" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--33" value="" style="shape=corner;whiteSpace=wrap;html=1;dx=20;dy=20;direction=north;rotation=90;strokeColor=#6666FF;fillColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="335.66" y="242.34" width="11.31" height="70.62" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--34" value="" style="shape=corner;whiteSpace=wrap;html=1;dx=20;dy=20;direction=north;rotation=90;strokeColor=#000000;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="343.08" y="204.11" width="6.28" height="58.83" as="geometry" />
+        </mxCell>
+        <mxCell id="AWjtqCZnB2S0BVq7457--35" value="" style="shape=corner;whiteSpace=wrap;html=1;dx=20;dy=20;direction=north;rotation=90;strokeColor=#000000;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="339.31" y="250" width="6.28" height="70.62" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
