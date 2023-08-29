@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T00:08:17.457Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="VbevoAJquxNVcRqfD2_t" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T13:52:47.596Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="5Z4MIUjGUowZj82NA58g" version="21.6.8" type="github">
   <diagram name="Página-1" id="UciEay0KyTCCJJWclvXi">
-    <mxGraphModel dx="984" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1312" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-94" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="122" y="1070" width="618" height="370" as="geometry" />
+        </mxCell>
         <mxCell id="AWjtqCZnB2S0BVq7457--28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="400" y="80" width="430" height="380" as="geometry" />
         </mxCell>
@@ -126,7 +129,7 @@
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-8" value="Aqui se hace el filtrado&lt;br&gt;Aprox 20% del volumen plasmatico" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="259.18" y="377" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lvf93lARUG0P3jfMm5ZK-9" value="Oliguria&lt;br&gt;Hipertension&lt;br&gt;Hematuria&lt;br&gt;Edema" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-9" value="&lt;div&gt;↓ FG&lt;br&gt;&lt;/div&gt;&lt;div&gt;Oliguria&lt;/div&gt;Hipertension&lt;br&gt;Hematuria&lt;br&gt;Edema" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="582.5" y="679.68" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-10" value="Al haber daño aqui causa &lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;proteinuria&lt;/span&gt;, tambien filtra menos por eso &lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;oliguria &lt;/span&gt;y &lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;azoemia&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeColor=none;" parent="1" vertex="1">
@@ -387,6 +390,45 @@
         </mxCell>
         <mxCell id="DSEmsYrMpSkFKCC7dDvK-76" value="" style="shape=xor;whiteSpace=wrap;html=1;fillColor=#6666FF;strokeColor=#6666FF;rotation=15;" vertex="1" parent="1">
           <mxGeometry x="409.68" y="728.68" width="7" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-80" value="Que son esas lesiones?" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="166.46" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-81" value="&lt;div&gt;Depositos de:&lt;br&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;Inmunocomplejos&lt;/li&gt;&lt;li&gt;Anticuerpos&lt;/li&gt;&lt;li&gt;C3&lt;/li&gt;&lt;li&gt;Otros depositos no inmunes&lt;/li&gt;&lt;li&gt;Daño sin ningun deposito&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="141" y="1160" width="188.05" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-82" value="Donde se deposita cada cosa?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="451.05" y="1090" width="158" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-84" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.cone2;dx=0.5;dy=0.9;direction=south;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="405.05" y="1160" width="304" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-85" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.cone2;dx=0.5;dy=0.98;direction=south;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="478.05" y="1180" width="230" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-86" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.cone2;dx=0.5;dy=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="579.05" y="1220" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-87" value="Mesangio" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400.3" y="1260" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-88" value="&lt;div&gt;Subendotelio&lt;/div&gt;&lt;div&gt;(Capilar)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="484.55" y="1255" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-89" value="&lt;div&gt;Subepitelio&lt;/div&gt;&lt;div&gt;(Podocitos)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="579.05" y="1255" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-90" value="Grandes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="397.05" y="1209" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-91" value="Medianos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="487.05" y="1230" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-92" value="Pequeños" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="571.05" y="1238" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-93" value="&lt;div&gt;Grandes: Por enfermedades crónicas&lt;/div&gt;&lt;div&gt;Medianas: Subagudas&lt;/div&gt;&lt;div&gt;Pequeñas: Agudas&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="141.95" y="1310" width="208.71" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
