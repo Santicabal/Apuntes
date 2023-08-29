@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T00:01:44.950Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="7BO7NHfUVNXrG60MIc3h" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T00:08:17.457Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="VbevoAJquxNVcRqfD2_t" version="21.6.8" type="github">
   <diagram name="Página-1" id="UciEay0KyTCCJJWclvXi">
-    <mxGraphModel dx="1406" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="984" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,7 +127,7 @@
           <mxGeometry x="259.18" y="377" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-9" value="Oliguria&lt;br&gt;Hipertension&lt;br&gt;Hematuria&lt;br&gt;Edema" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="634.5" y="679.68" width="90" height="60" as="geometry" />
+          <mxGeometry x="582.5" y="679.68" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-10" value="Al haber daño aqui causa &lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;proteinuria&lt;/span&gt;, tambien filtra menos por eso &lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;oliguria &lt;/span&gt;y &lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;azoemia&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="178.91" y="570" width="120" height="60" as="geometry" />
@@ -145,9 +145,9 @@
           <mxGeometry x="442" y="701.6800000000001" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-21" value="Sx Nefritico" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="631.5" y="641.6800000000001" width="110" height="30" as="geometry" />
+          <mxGeometry x="579.5" y="641.6800000000001" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Lvf93lARUG0P3jfMm5ZK-22" value="Hay 3 sitios donde puede haber lesion.&lt;br&gt;&lt;div&gt;1. Irritacion Endotelio o Epitelio, &lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Mesangial&lt;/div&gt;&lt;div&gt;3. Rotura de barrera de filtrado&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="Lvf93lARUG0P3jfMm5ZK-22" value="Hay 3 sitios donde puede haber lesion.&lt;br&gt;&lt;div&gt;1. Irritación Endotelio o Epitelio, &lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Mesangial&lt;/div&gt;&lt;div&gt;3. Rotura de barrera de filtrado&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="180" y="490" width="189.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-23" value="" style="shape=switch;whiteSpace=wrap;html=1;rotation=5;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;aspect=fixed;" parent="1" vertex="1">
@@ -199,16 +199,16 @@
           <mxGeometry x="565" y="812.8500000000001" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-47" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="611.5" y="599.64" width="20" height="150" as="geometry" />
+          <mxGeometry x="559.5" y="599.64" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-48" value="Sx Nefrotico" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="590" y="921.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-49" value="Proteinuria &amp;gt;3g&lt;br&gt;Hiperlipidemia&lt;br&gt;Trombosis&lt;br&gt;Edema&lt;br&gt;PA y FG normales" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="600" y="956.93" width="100" height="60" as="geometry" />
+          <mxGeometry x="595" y="956.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lvf93lARUG0P3jfMm5ZK-50" value="El sindrome nefritico suele ser por un daño mas grave. Al tener un FG tan bajo por la severidad las proteinas que circulan no son suficientes para llegar al rango nefrotico." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="670" y="778.0699999999999" width="150" height="121.86" as="geometry" />
+          <mxGeometry x="689.5" y="634.75" width="150" height="121.86" as="geometry" />
         </mxCell>
         <mxCell id="DSEmsYrMpSkFKCC7dDvK-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=7.69;fillColor=#FF3333;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
           <mxGeometry x="354.182573344971" y="921.5" width="51.5" height="50" as="geometry" />
@@ -291,8 +291,14 @@
         <mxCell id="DSEmsYrMpSkFKCC7dDvK-43" value="" style="shape=xor;whiteSpace=wrap;html=1;fillColor=#6666FF;strokeColor=#6666FF;rotation=-45;" vertex="1" parent="1">
           <mxGeometry x="396" y="918.5" width="7" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="DSEmsYrMpSkFKCC7dDvK-44" value="&lt;div&gt;Rotura de Barrera&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="437" y="921.5000000000002" width="130" height="30" as="geometry" />
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="569" y="936.5000000000002" as="targetPoint" />
+            <mxPoint x="521" y="936.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-44" value="&lt;div&gt;Rotura de &lt;br&gt;&lt;/div&gt;&lt;div&gt;Barrera&lt;br&gt;&lt;/div&gt;" style="html=1;align=left;verticalAlign=middle;resizable=0;autosize=1;strokeColor=none;fillColor=none;fontStyle=1;rounded=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="443" y="916.5000000000002" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DSEmsYrMpSkFKCC7dDvK-52" value="" style="shape=xor;whiteSpace=wrap;html=1;fillColor=#6666FF;strokeColor=#6666FF;rotation=35;" vertex="1" parent="1">
           <mxGeometry x="223.91" y="786.07" width="7" height="12" as="geometry" />
@@ -349,8 +355,38 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DSEmsYrMpSkFKCC7dDvK-57" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-57" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Normal&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="165.59" y="732.0699999999999" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-67" value="" style="shape=xor;whiteSpace=wrap;html=1;fillColor=#6666FF;strokeColor=#6666FF;rotation=-40;" vertex="1" parent="1">
+          <mxGeometry x="401" y="695" width="7" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-68" value="" style="shape=xor;whiteSpace=wrap;html=1;fillColor=#6666FF;strokeColor=#6666FF;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="381.18" y="685" width="7" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-69" value="" style="shape=xor;whiteSpace=wrap;html=1;fillColor=#6666FF;strokeColor=#6666FF;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="405.68" y="701.68" width="7" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-70" value="" style="shape=xor;whiteSpace=wrap;html=1;fillColor=#6666FF;strokeColor=#6666FF;rotation=-55;" vertex="1" parent="1">
+          <mxGeometry x="392" y="689.5" width="7" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-71" value="" style="shape=xor;whiteSpace=wrap;html=1;fillColor=#6666FF;strokeColor=#6666FF;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="403" y="730" width="7" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-72" value="" style="shape=xor;whiteSpace=wrap;html=1;fillColor=#6666FF;strokeColor=#6666FF;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="409" y="711" width="7" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-73" value="" style="shape=xor;whiteSpace=wrap;html=1;fillColor=#6666FF;strokeColor=#6666FF;rotation=15;" vertex="1" parent="1">
+          <mxGeometry x="406.68" y="721.68" width="7" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-74" value="" style="shape=xor;whiteSpace=wrap;html=1;fillColor=#6666FF;strokeColor=#6666FF;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="406" y="737" width="7" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-75" value="" style="shape=xor;whiteSpace=wrap;html=1;fillColor=#6666FF;strokeColor=#6666FF;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="412" y="718" width="7" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="DSEmsYrMpSkFKCC7dDvK-76" value="" style="shape=xor;whiteSpace=wrap;html=1;fillColor=#6666FF;strokeColor=#6666FF;rotation=15;" vertex="1" parent="1">
+          <mxGeometry x="409.68" y="728.68" width="7" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
