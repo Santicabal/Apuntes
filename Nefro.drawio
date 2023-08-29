@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T17:24:18.551Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Hlscokc11kUuzWUc3603" version="21.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T17:25:54.290Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="yf63Aj9_sXZQ2kPmdzPj" version="21.7.0" type="github">
   <diagram name="Página-1" id="UciEay0KyTCCJJWclvXi">
     <mxGraphModel dx="489" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -437,16 +437,28 @@
           <mxGeometry x="40" y="1600" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ToWGVyDfmb9UX27wkTPa-4" value="Nefropatia por IgA&lt;br&gt;(Berger)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=center;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="83.45" y="1800" width="287.91" height="280" as="geometry" />
+          <mxGeometry x="79.31" y="1920" width="287.91" height="280" as="geometry" />
         </mxCell>
         <mxCell id="ToWGVyDfmb9UX27wkTPa-5" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;La mas comun.&lt;br&gt;H&amp;gt;M&lt;br&gt;Inmunocomplejos grandes → Mesangial&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Adolecentes y adultos jovenes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Causa:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Durante un proceso infeccioso (No despues como la post estreptococica)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cirrosis&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=top;gradientColor=none;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="93.36" y="1840" width="238" height="70" as="geometry" />
+          <mxGeometry x="89.22" y="1960" width="238" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ToWGVyDfmb9UX27wkTPa-6" value="Biopsia (No se requiere)&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Proliferacion mesangial difusa&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;IFD: IgA+++ y C3 +&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="123.36" y="1990" width="198" height="60" as="geometry" />
+          <mxGeometry x="119.22" y="2110" width="198" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ToWGVyDfmb9UX27wkTPa-9" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ToWGVyDfmb9UX27wkTPa-7" target="ToWGVyDfmb9UX27wkTPa-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ToWGVyDfmb9UX27wkTPa-7" value="&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Inmunocomplejos&lt;/li&gt;&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;IgA&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Postestreptococica&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Membranosa&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Mesangiocapilar&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;C3&lt;/li&gt;&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;C3&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Depositos densos&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Otros depositos no inmunes&lt;/li&gt;&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;DM&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Amiloidosis&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Daño sin ningun deposito&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/li&gt;&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Cambios minimos&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="405.05" y="1650" width="234.95" height="220" as="geometry" />
+          <mxGeometry x="40" y="1660" width="234.95" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ToWGVyDfmb9UX27wkTPa-11" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ToWGVyDfmb9UX27wkTPa-8" target="ToWGVyDfmb9UX27wkTPa-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ToWGVyDfmb9UX27wkTPa-8" value="Cualquiera con proteinura" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="341.25499999999994" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ToWGVyDfmb9UX27wkTPa-10" value="IECA / ARA" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="529.0549999999998" y="1730" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
