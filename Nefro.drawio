@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T18:43:28.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="IxQDKtkMeqncgfKE_2gL" version="21.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T20:30:54.260Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="8ZZUWdA0jC62bq5iUI57" version="21.7.0" type="github">
   <diagram name="Página-1" id="UciEay0KyTCCJJWclvXi">
-    <mxGraphModel dx="402" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="859" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -300,6 +300,17 @@
             <mxPoint x="521" y="936.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ToWGVyDfmb9UX27wkTPa-18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="689.5" y="937.56" as="sourcePoint" />
+            <mxPoint x="759" y="937.2565065502183" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ToWGVyDfmb9UX27wkTPa-19" value="Muy&lt;br style=&quot;font-size: 10px;&quot;&gt;Grande" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="ToWGVyDfmb9UX27wkTPa-18">
+          <mxGeometry x="-0.0323" y="2" relative="1" as="geometry">
+            <mxPoint x="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DSEmsYrMpSkFKCC7dDvK-44" value="&lt;div&gt;Rotura de &lt;br&gt;&lt;/div&gt;&lt;div&gt;Barrera&lt;br&gt;&lt;/div&gt;" style="html=1;align=left;verticalAlign=middle;resizable=0;autosize=1;strokeColor=none;fillColor=none;fontStyle=1;rounded=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="443" y="916.5000000000002" width="80" height="40" as="geometry" />
         </mxCell>
@@ -401,7 +412,7 @@
           <mxGeometry x="451.05" y="1090" width="158" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSEmsYrMpSkFKCC7dDvK-84" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.cone2;dx=0.5;dy=0.9;direction=south;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="405.05" y="1160" width="304" height="230" as="geometry" />
+          <mxGeometry x="390" y="1155" width="319.05" height="240" as="geometry" />
         </mxCell>
         <mxCell id="DSEmsYrMpSkFKCC7dDvK-85" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.cone2;dx=0.5;dy=0.98;direction=south;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="478.05" y="1180" width="230" height="190" as="geometry" />
@@ -410,7 +421,7 @@
           <mxGeometry x="579.05" y="1220" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="DSEmsYrMpSkFKCC7dDvK-87" value="Mesangio" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="400.3" y="1260" width="80" height="30" as="geometry" />
+          <mxGeometry x="395.3" y="1260" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DSEmsYrMpSkFKCC7dDvK-88" value="&lt;div&gt;Subendotelio&lt;/div&gt;&lt;div&gt;(Capilar)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="484.55" y="1255" width="90" height="40" as="geometry" />
@@ -419,7 +430,7 @@
           <mxGeometry x="579.05" y="1255" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DSEmsYrMpSkFKCC7dDvK-90" value="Grandes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="397.05" y="1209" width="90" height="30" as="geometry" />
+          <mxGeometry x="388.05" y="1209" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DSEmsYrMpSkFKCC7dDvK-91" value="Medianos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="487.05" y="1230" width="90" height="30" as="geometry" />
@@ -468,6 +479,12 @@
         </mxCell>
         <mxCell id="ToWGVyDfmb9UX27wkTPa-14" value="Biopsia&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Proliferacion endocapilar, ↑PMN&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;IFD: IgG y C3 + en cielo estrellado&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Jorobas o &quot;Humps&quot; de C3 en la MB&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="440" y="2100" width="228.09" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ToWGVyDfmb9UX27wkTPa-17" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Semiluna&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;resizable=0;autosize=1;strokeColor=none;fillColor=none;fontStyle=1;rounded=1;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="749.5" y="921.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ToWGVyDfmb9UX27wkTPa-24" value="Pasa fibrinogeno&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;que causa mucha&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;proliferacion de los&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;podocitos, y se agrupan&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;dando forma de&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;semiluna&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;fillColor=none;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="735" y="958" width="104.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
