@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T11:30:50.019Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="2vnXmqb-rmHcwtoj9T4z" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-30T11:31:55.368Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="QIEVex8dWBU5zkQL5I6X" version="21.6.8" type="github">
   <diagram name="Página-1" id="UciEay0KyTCCJJWclvXi">
-    <mxGraphModel dx="820" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="937" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -516,7 +516,7 @@
         <mxCell id="WVBS2uof1Y8yE630rWAd-7" value="Nefrotico" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="339.25499999999994" y="1628" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WVBS2uof1Y8yE630rWAd-8" value="Estatinas + hipotensores" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+        <mxCell id="WVBS2uof1Y8yE630rWAd-8" value="Estatinas " style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="527.0549999999998" y="1618" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WVBS2uof1Y8yE630rWAd-9" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;Esteroides&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;+ RTX / CP&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;verticalAlign=middle;rounded=1;fontStyle=0;" vertex="1" parent="1">
@@ -524,6 +524,9 @@
         </mxCell>
         <mxCell id="WVBS2uof1Y8yE630rWAd-15" value="&lt;div&gt;NUNCA solo esteroides&lt;br&gt;&lt;/div&gt;&lt;div&gt;RTX: Rituximab&lt;/div&gt;&lt;div&gt;CP: Ciclofosfamida&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="270.68" y="2400" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WVBS2uof1Y8yE630rWAd-16" value="Controlar HAS" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="610.0049999999999" y="1618" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
