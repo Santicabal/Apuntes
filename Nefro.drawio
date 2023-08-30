@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T20:30:54.260Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="8ZZUWdA0jC62bq5iUI57" version="21.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-30T11:22:59.550Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="jYgX50ooaV_mVwo5m0Eb" version="21.6.8" type="github">
   <diagram name="Página-1" id="UciEay0KyTCCJJWclvXi">
-    <mxGraphModel dx="859" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="820" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -300,13 +300,13 @@
             <mxPoint x="521" y="936.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ToWGVyDfmb9UX27wkTPa-18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+        <mxCell id="ToWGVyDfmb9UX27wkTPa-18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="689.5" y="937.56" as="sourcePoint" />
             <mxPoint x="759" y="937.2565065502183" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ToWGVyDfmb9UX27wkTPa-19" value="Muy&lt;br style=&quot;font-size: 10px;&quot;&gt;Grande" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="ToWGVyDfmb9UX27wkTPa-18">
+        <mxCell id="ToWGVyDfmb9UX27wkTPa-19" value="Muy&lt;br style=&quot;font-size: 10px;&quot;&gt;Grande" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="ToWGVyDfmb9UX27wkTPa-18" vertex="1" connectable="0">
           <mxGeometry x="-0.0323" y="2" relative="1" as="geometry">
             <mxPoint x="-4" as="offset" />
           </mxGeometry>
@@ -441,50 +441,89 @@
         <mxCell id="DSEmsYrMpSkFKCC7dDvK-93" value="&lt;div&gt;Grandes: Por enfermedades crónicas&lt;/div&gt;&lt;div&gt;Medianas: Subagudas&lt;/div&gt;&lt;div&gt;Pequeñas: Agudas&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="141.95" y="1310" width="208.71" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ToWGVyDfmb9UX27wkTPa-1" value="Un inmunocomplejo es un anticuerpo pegado al antigeno que ataca" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="ToWGVyDfmb9UX27wkTPa-1" value="Un inmunocomplejo es un anticuerpo pegado al antigeno que ataca" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="555" y="1350" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ToWGVyDfmb9UX27wkTPa-2" value="Glomerulonefritis" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1600" width="100" height="40" as="geometry" />
+        <mxCell id="ToWGVyDfmb9UX27wkTPa-2" value="Glomerulonefritis" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontColor=#FF3333;" parent="1" vertex="1">
+          <mxGeometry x="38" y="1470" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ToWGVyDfmb9UX27wkTPa-4" value="Nefropatia por IgA&lt;br&gt;(Berger)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=center;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="79.31" y="1920" width="287.91" height="280" as="geometry" />
+        <mxCell id="ToWGVyDfmb9UX27wkTPa-4" value="Nefropatia por IgA&lt;br&gt;(Berger)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=center;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="77.31" y="1790" width="287.91" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="ToWGVyDfmb9UX27wkTPa-5" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;La mas comun.&lt;br style=&quot;font-size: 12px;&quot;&gt;H&amp;gt;M&lt;br style=&quot;font-size: 12px;&quot;&gt;Inmunocomplejos grandes → Mesangial&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;Adolecentes y adultos jovenes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;Causa:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;Durante un proceso infeccioso (No despues como la post estreptococica)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;Cirrosis&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;Biopsia solo cuando no mejora&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;gradientColor=none;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="89.22" y="1960" width="238" height="70" as="geometry" />
+        <mxCell id="ToWGVyDfmb9UX27wkTPa-5" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;La mas comun.&lt;br style=&quot;font-size: 12px;&quot;&gt;H&amp;gt;M&lt;br style=&quot;font-size: 12px;&quot;&gt;Inmunocomplejos grandes → Mesangial&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;Adolecentes y adultos jovenes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;Causa:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;Durante un proceso infeccioso (No despues como la post estreptococica)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;Cirrosis&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;Biopsia solo cuando no mejora&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;gradientColor=none;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="87.22" y="1830" width="238" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ToWGVyDfmb9UX27wkTPa-6" value="Biopsia&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Proliferacion mesangial difusa&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;IFD: IgA+++ y C3 +&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="119.22" y="2110" width="198" height="60" as="geometry" />
+        <mxCell id="ToWGVyDfmb9UX27wkTPa-6" value="Biopsia&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Proliferacion mesangial difusa&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;IFD: IgA+++ y C3 +&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="117.22" y="1980" width="198" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ToWGVyDfmb9UX27wkTPa-9" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ToWGVyDfmb9UX27wkTPa-7" target="ToWGVyDfmb9UX27wkTPa-8">
+        <mxCell id="ToWGVyDfmb9UX27wkTPa-9" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" target="ToWGVyDfmb9UX27wkTPa-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="272.95000000000005" y="1578" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ToWGVyDfmb9UX27wkTPa-7" value="&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Inmunocomplejos&lt;/li&gt;&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;IgA&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Postestreptococica&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Membranosa&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Mesangiocapilar&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;C3&lt;/li&gt;&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;C3&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Depositos densos&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Otros depositos no inmunes&lt;/li&gt;&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;DM&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Amiloidosis&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Daño sin ningun deposito&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/li&gt;&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Cambios minimos&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;strokeColor=none;fillColor=none;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="38" y="1530" width="234.95" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ToWGVyDfmb9UX27wkTPa-11" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="ToWGVyDfmb9UX27wkTPa-8" target="ToWGVyDfmb9UX27wkTPa-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ToWGVyDfmb9UX27wkTPa-7" value="&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Inmunocomplejos&lt;/li&gt;&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;IgA&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Postestreptococica&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Membranosa&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Mesangiocapilar&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;C3&lt;/li&gt;&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;C3&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Depositos densos&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Otros depositos no inmunes&lt;/li&gt;&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;DM&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Amiloidosis&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Daño sin ningun deposito&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/li&gt;&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Cambios minimos&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1660" width="234.95" height="220" as="geometry" />
+        <mxCell id="ToWGVyDfmb9UX27wkTPa-8" value="Cualquiera con proteinura" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="339.25499999999994" y="1548" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ToWGVyDfmb9UX27wkTPa-11" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ToWGVyDfmb9UX27wkTPa-8" target="ToWGVyDfmb9UX27wkTPa-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ToWGVyDfmb9UX27wkTPa-10" value="IECA / ARA" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="527.0549999999998" y="1538" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ToWGVyDfmb9UX27wkTPa-8" value="Cualquiera con proteinura" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="341.25499999999994" y="1740" width="120" height="60" as="geometry" />
+        <mxCell id="ToWGVyDfmb9UX27wkTPa-12" value="Post estreptococica" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=center;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="406" y="1790" width="287.91" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="ToWGVyDfmb9UX27wkTPa-10" value="IECA / ARA" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="529.0549999999998" y="1730" width="80" height="80" as="geometry" />
+        <mxCell id="ToWGVyDfmb9UX27wkTPa-13" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;La mas comun de niños.&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;H&amp;gt;M 5-12 años&lt;br&gt;&lt;/span&gt;Posterior a faringitis (1-3 sem) o Impetigo (3-6 sem)&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;Inmunocomplejos pequeños, medianos y grandes→ Sx nefritico. No es nefrotico porque no es persitente y no alcanza a dañar prolongadamente la barrera, ademas hay ↓FG&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;↓ Complemeto C3&lt;br&gt;Biopsia solo cuando no mejora&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;gradientColor=none;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="412.91" y="1830" width="282.09" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ToWGVyDfmb9UX27wkTPa-12" value="Post estreptococica" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=center;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="408" y="1920" width="287.91" height="280" as="geometry" />
+        <mxCell id="ToWGVyDfmb9UX27wkTPa-14" value="Biopsia&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Proliferacion endocapilar, ↑PMN&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;IFD: IgG y C3 + en cielo estrellado&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Jorobas o &quot;Humps&quot; de C3 en la MB&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="438" y="1970" width="228.09" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ToWGVyDfmb9UX27wkTPa-13" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;La mas comun de niños.&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;H&amp;gt;M 5-12 años&lt;br&gt;&lt;/span&gt;Posterior a faringitis (1-3 sem) o Impetigo (3-6 sem)&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;Inmunocomplejos pequeños, medianos y grandes→ Sx nefritico. No es nefrotico porque no es persitente y no alcanza a dañar prolongadamente la barrera, ademas hay ↓FG&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;↓ Complemeto C3&lt;br&gt;Biopsia solo cuando no mejora&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;gradientColor=none;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="414.91" y="1960" width="282.09" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="ToWGVyDfmb9UX27wkTPa-14" value="Biopsia&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Proliferacion endocapilar, ↑PMN&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;IFD: IgG y C3 + en cielo estrellado&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Jorobas o &quot;Humps&quot; de C3 en la MB&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="440" y="2100" width="228.09" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ToWGVyDfmb9UX27wkTPa-17" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Semiluna&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;resizable=0;autosize=1;strokeColor=none;fillColor=none;fontStyle=1;rounded=1;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="ToWGVyDfmb9UX27wkTPa-17" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Semiluna&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;resizable=0;autosize=1;strokeColor=none;fillColor=none;fontStyle=1;rounded=1;whiteSpace=wrap;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="749.5" y="921.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ToWGVyDfmb9UX27wkTPa-24" value="Pasa fibrinogeno&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;que causa mucha&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;proliferacion de los&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;podocitos, y se agrupan&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;dando forma de&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;semiluna&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;fillColor=none;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="ToWGVyDfmb9UX27wkTPa-24" value="Pasa fibrinogeno&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;que causa mucha&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;proliferacion de los&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;podocitos, y se agrupan&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;dando forma de&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;semiluna&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;fillColor=none;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="735" y="958" width="104.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WVBS2uof1Y8yE630rWAd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WVBS2uof1Y8yE630rWAd-1" target="WVBS2uof1Y8yE630rWAd-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVBS2uof1Y8yE630rWAd-11" value="&lt;div&gt;Mal control&lt;br&gt;&lt;/div&gt;&lt;div&gt;a 6 meses&lt;/div&gt;&lt;div&gt;de IECA&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WVBS2uof1Y8yE630rWAd-10">
+          <mxGeometry x="-0.32" relative="1" as="geometry">
+            <mxPoint y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WVBS2uof1Y8yE630rWAd-1" value="Membranosa" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=center;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="74.95999999999998" y="2110" width="287.91" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="WVBS2uof1Y8yE630rWAd-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;La que mas cuasa Sx nefrotico.&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/font&gt;&lt;div&gt;Autoinmune 70% o secundaria a canceres, Hep B, captopril, AINEs, Infliximab&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;Inmunocomplejos pequeños → Subepitelio →Llegan linfocitos, los atacan→Rompen barrera→ Sx nefrotico.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;Anticuerpos Anti PLA2R. C3 Normal siempre&lt;br&gt; &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Biopsia siempre que hay Nefrotico sin causa conocidaa&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;gradientColor=none;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="81.87" y="2150" width="282.09" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WVBS2uof1Y8yE630rWAd-3" value="Biopsia&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Se ven ¨Spikes¨ de MB que despues llega a encerrar los IC&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;IFD: IgG +++ y C3 + &lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="106.95999999999998" y="2290" width="228.09" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WVBS2uof1Y8yE630rWAd-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="WVBS2uof1Y8yE630rWAd-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="272.95000000000005" y="1658" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WVBS2uof1Y8yE630rWAd-6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="WVBS2uof1Y8yE630rWAd-7" target="WVBS2uof1Y8yE630rWAd-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVBS2uof1Y8yE630rWAd-7" value="Nefrotico" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="339.25499999999994" y="1628" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WVBS2uof1Y8yE630rWAd-8" value="Estatinas + hipotensores" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="527.0549999999998" y="1618" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WVBS2uof1Y8yE630rWAd-9" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;Esteroides&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;+ RTX / CP&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;verticalAlign=middle;rounded=1;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="178.915" y="2470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WVBS2uof1Y8yE630rWAd-15" value="&lt;div&gt;NUNCA solo esteroides&lt;br&gt;&lt;/div&gt;&lt;div&gt;RTX: Rituximab&lt;/div&gt;&lt;div&gt;CP: Ciclofosfamida&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="270.68" y="2400" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
