@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T04:50:51.510Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/116.0.5845.146 Mobile/15E148 Safari/604.1" etag="oE1FiUrtF7rKvUBtlNMb" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T09:52:15.137Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/116.0.5845.146 Mobile/15E148 Safari/604.1" etag="MeOIRpR8Gs69j1qV0M7r" version="21.7.2" type="github">
   <diagram name="Página-1" id="UciEay0KyTCCJJWclvXi">
-    <mxGraphModel dx="230" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="225" dy="344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -559,20 +559,34 @@
         <mxCell id="WVBS2uof1Y8yE630rWAd-28" value="&lt;div&gt;Biopsia &lt;br&gt;&lt;/div&gt;&lt;div&gt;MB con doble contorno, hay semilunas&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="438" y="2390" width="228.09" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kNH3072HvASbXSS5h0gq-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kNH3072HvASbXSS5h0gq-1" target="kNH3072HvASbXSS5h0gq-4">
+        <mxCell id="kNH3072HvASbXSS5h0gq-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="kNH3072HvASbXSS5h0gq-1" target="kNH3072HvASbXSS5h0gq-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kNH3072HvASbXSS5h0gq-1" value="Cambios minimos" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=center;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="kNH3072HvASbXSS5h0gq-1" value="Cambios minimos" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=center;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="400.5" y="2600" width="287.91" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="kNH3072HvASbXSS5h0gq-2" value="&lt;div&gt;Sx nefrotico del niño&lt;/div&gt;&lt;div&gt;Secundario a alergias, AINEs, linfomas&lt;/div&gt;&lt;div&gt;No hay inmunocomolejos, el daño se hace en los podicitos, en la MB entre cada pie.&lt;/div&gt;&lt;div&gt;Responden bien a tx y remiten 90%&lt;/div&gt;&lt;div&gt;Biopsia solo si falla tx esteroideo&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;gradientColor=none;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="kNH3072HvASbXSS5h0gq-2" value="&lt;div&gt;Sx nefrotico del niño&lt;/div&gt;&lt;div&gt;Secundario a alergias, AINEs, linfomas&lt;/div&gt;&lt;div&gt;No hay inmunocomolejos, el daño se hace en los podicitos, en la MB entre cada pie.&lt;/div&gt;&lt;div&gt;Responden bien a tx y remiten 90%&lt;/div&gt;&lt;div&gt;Biopsia solo si falla tx esteroideo&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;gradientColor=none;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="407.41" y="2640" width="282.09" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="kNH3072HvASbXSS5h0gq-4" value="Esteroides" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;verticalAlign=middle;rounded=1;fontStyle=0;" vertex="1" parent="1">
+        <mxCell id="kNH3072HvASbXSS5h0gq-4" value="Esteroides" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;verticalAlign=middle;rounded=1;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="499.99500000000006" y="2940" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kNH3072HvASbXSS5h0gq-3" value="&lt;div&gt;Biopsia &lt;br&gt;&lt;/div&gt;&lt;div&gt;Casi nada, depositos de grasa llamda nefrosis lipidica y cruces e malta&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fusion de podocelos (confrima Dx)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="kNH3072HvASbXSS5h0gq-3" value="&lt;div&gt;Biopsia &lt;br&gt;&lt;/div&gt;&lt;div&gt;Casi nada, depositos de grasa llamda nefrosis lipidica y cruces e malta&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fusion de podocelos (confrima Dx)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="432.5" y="2780" width="228.09" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0e6NMtfhNZ3w1_lKOEcc-1" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" source="0e6NMtfhNZ3w1_lKOEcc-2" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="205.2" y="3021" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0e6NMtfhNZ3w1_lKOEcc-2" value="Focal segmentaria" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=center;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="64.69999999999999" y="2680" width="287.91" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="0e6NMtfhNZ3w1_lKOEcc-3" value="&lt;div&gt;Sx nefrotico&lt;/div&gt;&lt;div&gt;Relacionado a obesidad, vih, covid, o genetica&lt;/div&gt;&lt;div&gt;Albuminuria e hiperfiltracion prolongada &amp;nbsp;causa daño es secciónes del glomerulo que luego fibrosan y dejan cicatrices&amp;nbsp;&lt;/div&gt;&lt;div&gt;Biopsias porque es nefrotico en estudio&lt;/div&gt;&lt;div&gt;Das IECA/ARA&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;gradientColor=none;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="71.61000000000001" y="2720" width="282.09" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0e6NMtfhNZ3w1_lKOEcc-4" value="&lt;div&gt;Biopsia &lt;br&gt;&lt;/div&gt;&lt;div&gt;Fibrosis en algunas partes del glomérulo mientras otras estan normales, espacio bowman afectado&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="96.69999999999999" y="2860" width="228.09" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
