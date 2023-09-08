@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-08T03:42:11.811Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/116.0.5845.146 Mobile/15E148 Safari/604.1" etag="scajZjBtg2xQt0PqCr-z" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-08T03:56:20.298Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/116.0.5845.146 Mobile/15E148 Safari/604.1" etag="NhTujgxdow31LO7omlGp" version="21.7.2" type="github">
   <diagram name="Página-1" id="UciEay0KyTCCJJWclvXi">
-    <mxGraphModel dx="308" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="757" dy="302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -582,6 +582,21 @@
         </mxCell>
         <mxCell id="0e6NMtfhNZ3w1_lKOEcc-4" value="&lt;div&gt;Biopsia &lt;br&gt;&lt;/div&gt;&lt;div&gt;Fibrosis en algunas partes del glomérulo mientras otras estan normales, espacio bowman afectado&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="96.69999999999999" y="2860" width="228.09" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ckpRcaMWtlazty_8QJPv-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ckpRcaMWtlazty_8QJPv-1" target="ckpRcaMWtlazty_8QJPv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ckpRcaMWtlazty_8QJPv-1" value="Clasificación&amp;nbsp;&lt;br&gt;Hay una que se usa mi ho para las GN que hacen semilunas, porque hacen IRA rapidamente" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="87.22" y="3000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ckpRcaMWtlazty_8QJPv-6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ckpRcaMWtlazty_8QJPv-2" target="ckpRcaMWtlazty_8QJPv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ckpRcaMWtlazty_8QJPv-2" value="Tipo 1: Good-Pasteur (anti MB)&lt;br&gt;Tipo 2: por inmunocomplejos circulantes&lt;br&gt;IgA, Post estrep, LES, mesanguicapilar, crioglobulinas&lt;br&gt;Tipo &amp;nbsp;3: ANCA, PTT" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="325.75" y="3000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ckpRcaMWtlazty_8QJPv-5" value="Good pasteur tiene inmunodluorencensxia lineal" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="325.75" y="3180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
