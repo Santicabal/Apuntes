@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-08T04:48:19.837Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/116.0.5845.146 Mobile/15E148 Safari/604.1" etag="BhRLfILp6oVeH0_eXP9X" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-08T04:53:25.016Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/116.0.5845.146 Mobile/15E148 Safari/604.1" etag="_NU2EhDx5ymH3VRoe0Ms" version="21.7.2" type="github">
   <diagram name="Página-1" id="UciEay0KyTCCJJWclvXi">
-    <mxGraphModel dx="703" dy="218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="426" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -622,13 +622,13 @@
         <mxCell id="ckpRcaMWtlazty_8QJPv-21" value="Diabetica" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=center;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="91" y="3730" width="585.5" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="ckpRcaMWtlazty_8QJPv-22" value="&lt;div&gt;Solo el 30% de diabeticos los prensenta, puede ser debido a predisposición genetica&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;gradientColor=none;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="ckpRcaMWtlazty_8QJPv-22" value="&lt;div&gt;Solo el 30% de diabeticos los prensenta, puede ser debido a predisposición genetica.&lt;/div&gt;&lt;div&gt;En estadio 3 ya usas IECA/ARA&amp;nbsp;&lt;/div&gt;&lt;div&gt;Si tienes solo una muestra de Microalbuminuria REPITES la prueba no das tx para saber si es ocscional o persistente.&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;gradientColor=none;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="97.91000000000008" y="3770" width="282.09" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ckpRcaMWtlazty_8QJPv-23" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" source="ckpRcaMWtlazty_8QJPv-24" target="ckpRcaMWtlazty_8QJPv-25" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ckpRcaMWtlazty_8QJPv-24" value="&lt;div&gt;Biopsia&lt;/div&gt;&lt;div&gt;Depositos de todo, IgM, IgG, IgA, C3, C4. &amp;nbsp;Al tener 3 Ig + 2 completos se hace patrón Full house&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="ckpRcaMWtlazty_8QJPv-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="122.59" y="3910" width="228.09" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ckpRcaMWtlazty_8QJPv-25" value="&lt;div&gt;Estadios&lt;/div&gt;&lt;div&gt;1. Aumento FG&lt;/div&gt;&lt;div&gt;2. Microalbuminuria ocacional&lt;/div&gt;&lt;div&gt;3. Microalbuminuria persistente&lt;/div&gt;&lt;div&gt;4. Macroalbuminuria (&amp;gt;300mg)&lt;/div&gt;&lt;div&gt;5. Ins renal grave&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
