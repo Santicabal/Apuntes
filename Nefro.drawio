@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-08T07:04:30.007Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/116.0.5845.146 Mobile/15E148 Safari/604.1" etag="FKez9XYzlC2b0mTU9ajG" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-08T07:10:29.268Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/116.0.5845.146 Mobile/15E148 Safari/604.1" etag="WCdwvn0nVCBYANNDxjHD" version="21.7.2" type="github">
   <diagram name="Página-1" id="UciEay0KyTCCJJWclvXi">
-    <mxGraphModel dx="533" dy="1075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="532" dy="206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -628,8 +628,8 @@
         <mxCell id="ckpRcaMWtlazty_8QJPv-23" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="ckpRcaMWtlazty_8QJPv-24" target="ckpRcaMWtlazty_8QJPv-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ckpRcaMWtlazty_8QJPv-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="122.59" y="3910" width="228.09" height="80" as="geometry" />
+        <mxCell id="ckpRcaMWtlazty_8QJPv-24" value="Biopsia&lt;br&gt;Solo cuando no se cumple alguna de las características&lt;br&gt;Se glomerulo esclerosis difusa&lt;br&gt;Celulas armani ebstein" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="128.57" y="3890" width="228.09" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ckpRcaMWtlazty_8QJPv-25" value="&lt;div&gt;Estadios&lt;/div&gt;&lt;div&gt;1. Aumento FG&lt;/div&gt;&lt;div&gt;2. Microalbuminuria ocacional&lt;/div&gt;&lt;div&gt;3. Microalbuminuria persistente&lt;/div&gt;&lt;div&gt;4. Macroalbuminuria (&amp;gt;300mg)&lt;/div&gt;&lt;div&gt;5. Ins renal grave&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="403" y="3780" width="228.09" height="170" as="geometry" />
