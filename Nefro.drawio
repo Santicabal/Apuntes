@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-08T07:10:29.268Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/116.0.5845.146 Mobile/15E148 Safari/604.1" etag="WCdwvn0nVCBYANNDxjHD" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-16T07:35:02.383Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0" etag="tb6tJcX5Hx-WhPMIL9Zd" version="21.7.5" type="github">
   <diagram name="Página-1" id="UciEay0KyTCCJJWclvXi">
-    <mxGraphModel dx="532" dy="206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1093" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -563,16 +563,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kNH3072HvASbXSS5h0gq-1" value="Cambios minimos" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=center;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="400.5" y="2600" width="287.91" height="280" as="geometry" />
+          <mxGeometry x="403.86" y="2680" width="287.91" height="280" as="geometry" />
         </mxCell>
         <mxCell id="kNH3072HvASbXSS5h0gq-2" value="&lt;div&gt;Sx nefrotico del niño&lt;/div&gt;&lt;div&gt;Secundario a alergias, AINEs, linfomas&lt;/div&gt;&lt;div&gt;No hay inmunocomolejos, el daño se hace en los podicitos, en la MB entre cada pie.&lt;/div&gt;&lt;div&gt;Responden bien a tx y remiten 90%&lt;/div&gt;&lt;div&gt;Biopsia solo si falla tx esteroideo&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;gradientColor=none;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="407.41" y="2640" width="282.09" height="70" as="geometry" />
+          <mxGeometry x="410.77000000000004" y="2720" width="282.09" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kNH3072HvASbXSS5h0gq-4" value="Esteroides" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;verticalAlign=middle;rounded=1;fontStyle=0;" parent="1" vertex="1">
-          <mxGeometry x="499.99500000000006" y="2940" width="80" height="80" as="geometry" />
+          <mxGeometry x="503.3550000000001" y="3020" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kNH3072HvASbXSS5h0gq-3" value="&lt;div&gt;Biopsia &lt;br&gt;&lt;/div&gt;&lt;div&gt;Casi nada, depositos de grasa llamda nefrosis lipidica y cruces e malta&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fusion de podocelos (confrima Dx)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="432.5" y="2780" width="228.09" height="80" as="geometry" />
+          <mxGeometry x="435.86" y="2860" width="228.09" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0e6NMtfhNZ3w1_lKOEcc-2" value="Focal segmentaria" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=center;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="64.69999999999999" y="2680" width="287.91" height="280" as="geometry" />
@@ -586,17 +586,11 @@
         <mxCell id="ckpRcaMWtlazty_8QJPv-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="ckpRcaMWtlazty_8QJPv-1" target="ckpRcaMWtlazty_8QJPv-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ckpRcaMWtlazty_8QJPv-1" value="Clasificación&amp;nbsp;&lt;br&gt;Hay una que se usa mi ho para las GN que hacen semilunas, porque hacen IRA rapidamente" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="87.22" y="3000" width="120" height="60" as="geometry" />
+        <mxCell id="ckpRcaMWtlazty_8QJPv-1" value="Clasificación&amp;nbsp;&lt;br&gt;&lt;div align=&quot;left&quot;&gt;Hay una que se us para las GN que hacen semilunas, porque hacen IRA rapidamente&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="85.59" y="3120" width="184.5" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ckpRcaMWtlazty_8QJPv-6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="ckpRcaMWtlazty_8QJPv-2" target="ckpRcaMWtlazty_8QJPv-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ckpRcaMWtlazty_8QJPv-2" value="Tipo 1: Good-Pasteur (anti MB)&lt;br&gt;Tipo 2: por inmunocomplejos circulantes&lt;br&gt;IgA, Post estrep, LES, mesanguicapilar, crioglobulinas&lt;br&gt;Tipo &amp;nbsp;3: ANCA, PTT" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="325.75" y="3000" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ckpRcaMWtlazty_8QJPv-5" value="Good pasteur tiene inmunodluorencensxia lineal" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="325.75" y="3180" width="120" height="60" as="geometry" />
+        <mxCell id="ckpRcaMWtlazty_8QJPv-2" value="Tipo 1: Good-Pasteur (anti MB)&lt;br&gt;Tipo 2: Por inmunocomplejos circulantes&lt;br&gt;IgA, Post estrep, LES, mesanguicapilar, crioglobulinas&lt;br&gt;Tipo &amp;nbsp;3: ANCA, PTT" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;verticalAlign=top;align=left;" parent="1" vertex="1">
+          <mxGeometry x="324.68" y="3110" width="295.32" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ckpRcaMWtlazty_8QJPv-20" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="ckpRcaMWtlazty_8QJPv-12" target="ckpRcaMWtlazty_8QJPv-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -607,35 +601,35 @@
         <mxCell id="ckpRcaMWtlazty_8QJPv-13" value="&lt;div&gt;Biopsia cuando en un lupus hay baja del FG, proteinuria 500mg, sedimento en orina de cilindros o hematuria.&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;gradientColor=none;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="101.41000000000008" y="3400" width="282.09" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ckpRcaMWtlazty_8QJPv-18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="ckpRcaMWtlazty_8QJPv-14" target="ckpRcaMWtlazty_8QJPv-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ckpRcaMWtlazty_8QJPv-14" value="&lt;div&gt;Biopsia&lt;/div&gt;&lt;div&gt;Depositos de todo, IgM, IgG, IgA, C3, C4. &amp;nbsp;Al tener 3 Ig + 2 completos se hace patrón Full house&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="126.09" y="3540" width="228.09" height="80" as="geometry" />
+          <mxGeometry x="128.27" y="3470" width="228.09" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ckpRcaMWtlazty_8QJPv-17" value="&lt;div&gt;Estadios&lt;/div&gt;&lt;div&gt;1. Cambios minimos lupicos (depositos en mesangio)&lt;/div&gt;&lt;div&gt;2. &amp;nbsp;Proliferacion mesnagial parece IgA pero con todo tipo de Ig y C3 bajo&lt;/div&gt;&lt;div&gt;3. Depositos en las 3 capas &amp;lt; 50% de glomerulos&lt;/div&gt;&lt;div&gt;4. &amp;gt; 50%&amp;nbsp;&lt;/div&gt;&lt;div&gt;1 y 2 en px controlados, 2 la mas comun. 3 y 4 en brotes&lt;/div&gt;&lt;div&gt;5. Alternativa a la 2 con deposito subeoitelial, parece membranosa con todo y spikes pero C3 bajo&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="405.14" y="3410" width="228.09" height="170" as="geometry" />
+        <mxCell id="ckpRcaMWtlazty_8QJPv-17" value="&lt;div&gt;Estadios&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. Cambios minimos lupicos (depositos en mesangio)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. &amp;nbsp;Proliferacion mesnagial parece IgA pero con todo tipo de Ig y C3 bajo&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. Depositos en las 3 capas &amp;lt; 50% de glomerulos&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;4. &amp;gt; 50%&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="405.14" y="3400" width="264.86" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ckpRcaMWtlazty_8QJPv-19" value="Esteroides&lt;br style=&quot;font-size: 13px;&quot;&gt;+ CP" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;verticalAlign=middle;rounded=1;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="749.5" y="3455" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ckpRcaMWtlazty_8QJPv-21" value="Diabetica" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=center;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="91" y="3730" width="585.5" height="270" as="geometry" />
+          <mxGeometry x="91" y="3764" width="585.5" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="ckpRcaMWtlazty_8QJPv-22" value="&lt;div&gt;Solo el 30% de diabeticos los prensenta, puede ser debido a predisposición genetica.&lt;/div&gt;&lt;div&gt;En estadio 3 ya usas IECA/ARA&lt;/div&gt;&lt;div&gt;Como saber si es por DM u otra GN?&lt;/div&gt;&lt;div&gt;Tiene que tener todas:&lt;/div&gt;&lt;div&gt;8 años con DM&lt;/div&gt;&lt;div&gt;Progresiva&lt;/div&gt;&lt;div&gt;Sin hematuria macroscopica&lt;/div&gt;&lt;div&gt;C3 normal&lt;/div&gt;&lt;div&gt;Otra microangiopatia (retina, nervios, etc)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;gradientColor=none;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="97.95000000000009" y="3770" width="282.09" height="70" as="geometry" />
+        <mxCell id="ckpRcaMWtlazty_8QJPv-22" value="&lt;div&gt;Solo el 30% de diabeticos los prensenta, puede ser debido a predisposición genetica.&lt;/div&gt;&lt;div&gt;En estadio 3 ya usas IECA/ARA&lt;/div&gt;&lt;div&gt;&lt;b&gt;¿Cómo saber si es por DM u otra GN?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Tiene que tener todas:&lt;/div&gt;&lt;ul&gt;&lt;li&gt;8 años con DM&lt;/li&gt;&lt;li&gt;Progresiva&lt;/li&gt;&lt;li&gt;Sin hematuria macroscopica&lt;/li&gt;&lt;li&gt;C3 normal&lt;/li&gt;&lt;li&gt;Otra microangiopatia (retina, nervios, etc)&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;gradientColor=none;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="97.95000000000009" y="3804" width="282.09" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ckpRcaMWtlazty_8QJPv-23" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="ckpRcaMWtlazty_8QJPv-24" target="ckpRcaMWtlazty_8QJPv-25" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ckpRcaMWtlazty_8QJPv-24" value="Biopsia&lt;br&gt;&lt;div align=&quot;left&quot;&gt;Solo cuando no se cumple alguna de las características de glomerulo-esclerosis difusa&lt;br&gt;Celulas armani ebstein&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="425" y="3924" width="228.09" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ckpRcaMWtlazty_8QJPv-24" value="Biopsia&lt;br&gt;Solo cuando no se cumple alguna de las características&lt;br&gt;Se glomerulo esclerosis difusa&lt;br&gt;Celulas armani ebstein" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="128.57" y="3890" width="228.09" height="80" as="geometry" />
+        <mxCell id="ckpRcaMWtlazty_8QJPv-25" value="&lt;div&gt;Estadios&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. Aumento FG&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. Microalbuminuria ocacional&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. Microalbuminuria persistente&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;4. Macroalbuminuria (&amp;gt;300mg)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;5. Ins renal grave&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="415.51" y="3804" width="228.09" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="ckpRcaMWtlazty_8QJPv-25" value="&lt;div&gt;Estadios&lt;/div&gt;&lt;div&gt;1. Aumento FG&lt;/div&gt;&lt;div&gt;2. Microalbuminuria ocacional&lt;/div&gt;&lt;div&gt;3. Microalbuminuria persistente&lt;/div&gt;&lt;div&gt;4. Macroalbuminuria (&amp;gt;300mg)&lt;/div&gt;&lt;div&gt;5. Ins renal grave&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="403" y="3780" width="228.09" height="170" as="geometry" />
+        <mxCell id="kSZl4srPHr1cKyQjsRtY-1" value="Good pasteur tiene inmunodluorencensia lineal" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="3140" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sIQe1J0uB0stKfZrpF0d-2" value="Si tienes solo una muestra de Microalbuminuria REPITES la prueba no das tx para saber si es ocscional o persistente." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="5.300000000000011" y="4060" width="860" height="30" as="geometry" />
+        <mxCell id="kSZl4srPHr1cKyQjsRtY-2" value="&lt;div align=&quot;left&quot;&gt;1 y 2 en px controlados, 2 la mas comun. 3 y 4 en brotes&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;5. Alternativa a la 2 con deposito subeoitelial, parece membranosa con todo y spikes pero C3 bajo&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="296.24" y="3640" width="212.52" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kSZl4srPHr1cKyQjsRtY-4" value="Si tienes solo una muestra de Microalbuminuria REPITES la prueba no das tx para saber si es ocacional o persistente." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="680" y="3820" width="140" height="116" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
